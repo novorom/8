@@ -71,13 +71,11 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
   const filteredProducts = useMemo(() => {
     let result = products.length > 0 ? [...products] : [...initialProducts]
 
-    // Filter out invalid products (missing name, price, or sku)
+    // Filter out invalid products (missing name or sku)
     result = result.filter(
       (p) =>
         p.name &&
         p.name.trim() &&
-        p.price_retail &&
-        p.price_retail > 0 &&
         p.sku &&
         p.sku.trim()
     )
