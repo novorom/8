@@ -41,6 +41,7 @@ export interface Product {
   weight_box?: number
   unit?: string
   price_retail: number
+  price_official?: number | null
   currency?: string
   stock_yanino?: number
   stock_factory?: number
