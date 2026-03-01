@@ -15,6 +15,7 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
 
   const totalStock = (product.stock_yanino || 0) + (product.stock_factory || 0)
   const hasDiscount = product.price_official && product.price_official > product.price_retail
+  const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка"].includes(product.product_type) ? "₽/шт" : "₽/м²"
 
   return (
     <Link
@@ -86,7 +87,7 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
         </h3>
         <div className="flex items-baseline gap-2 mt-1">
           <span className="text-lg font-bold text-foreground">
-            {product.price_retail > 0 ? `${product.price_retail.toLocaleString("ru-RU")} ₽/м²` : "Цена по запросу"}
+            {product.price_retail > 0 ? `${product.price_retail.toLocaleString("ru-RU")} ${priceUnit}` : "Цена по запросу"}
           </span>
           {hasDiscount && (
             <span className="text-sm text-muted-foreground line-through">
