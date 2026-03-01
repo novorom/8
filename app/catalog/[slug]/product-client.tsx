@@ -15,6 +15,8 @@ import {
   MapPin,
 } from "lucide-react"
 import { ProductGallery } from "@/components/product-gallery"
+import { ProductSpecIcons } from "@/components/product-spec-icons"
+import { InteriorPhotos } from "@/components/interior-photos"
 import { ProductCard } from "@/components/product-card"
 import { useCart } from "@/lib/cart-context"
 import { useProducts } from "@/lib/products-context"
@@ -55,7 +57,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
     image: product.images || [],
     description:
       product.description ||
-      `${product.name} -- купить в Санкт-Петербурге со склада Янино. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
+      `${product.name} — купить в Санкт-Петербурге со склада Янино. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
     brand: { "@type": "Brand", name: product.brand },
     sku: product.sku,
     category: product.product_type,
@@ -79,6 +81,14 @@ export function ProductPageClient({ slug }: { slug: string }) {
         unitCode: "DAY",
       },
     },
+    additionalProperty: [
+      product.format && { "@type": "PropertyValue", name: "Формат", value: product.format },
+      product.surface && { "@type": "PropertyValue", name: "Поверхность", value: product.surface },
+      product.rectified && { "@type": "PropertyValue", name: "Ректификат", value: "Да" },
+      product.frost_resistant && { "@type": "PropertyValue", name: "Морозостойкость", value: "Да" },
+      product.wear_class && { "@type": "PropertyValue", name: "Класс износостойкости", value: product.wear_class },
+      product.slip_class && { "@type": "PropertyValue", name: "Класс антискольжения", value: product.slip_class },
+    ].filter(Boolean),
     ...(product.rating && product.rating > 0
       ? {
           aggregateRating: {
@@ -118,11 +128,16 @@ export function ProductPageClient({ slug }: { slug: string }) {
     { label: "Цвет", value: product.color },
     { label: "Материал", value: product.material_type },
     { label: "Назначение", value: product.application },
-    { label: "Толщина", value: product.thickness },
+    { label: "Толщина", value: product.thickness ? `${product.thickness} мм` : undefined },
     ...(product.pieces_per_box ? [{ label: "Штук в коробке", value: String(product.pieces_per_box) }] : []),
-    ...(product.sqm_per_box ? [{ label: "М\u00B2 в коробке", value: String(product.sqm_per_box) }] : []),
+    ...(product.sqm_per_box ? [{ label: "М² в коробке", value: String(product.sqm_per_box) }] : []),
+    { label: "Ректификат", value: product.rectified ? "Да" : undefined },
+    { label: "Морозостойкость", value: product.frost_resistant ? "Да" : undefined },
+    { label: "Класс износостойкости", value: product.wear_class || undefined },
+    { label: "Класс антискольжения", value: product.slip_class || undefined },
+    { label: "Водопоглощение", value: product.water_abs || undefined },
     { label: "Страна", value: product.country },
-  ].filter((spec) => spec.value && spec.value !== "undefined")
+  ].filter((spec) => spec.value && spec.value !== "undefined" && spec.value !== "null")
 
   return (
     <div className="bg-muted/30 min-h-screen">
@@ -157,7 +172,11 @@ export function ProductPageClient({ slug }: { slug: string }) {
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
           {/* Gallery */}
           <div className="lg:w-1/2">
-            <ProductGallery images={product.images || []} name={product.name} />
+            <ProductGallery
+              images={product.images || []}
+              videoUrl={product.video_url}
+              name={product.name}
+            />
           </div>
 
           {/* Product info */}
@@ -174,9 +193,14 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   Хит продаж
                 </span>
               )}
-              {product.is_discount && (
-                <span className="px-2.5 py-0.5 rounded-md bg-destructive text-destructive-foreground text-xs font-medium">
-                  Скидка
+              {product.rectified && (
+                <span className="px-2.5 py-0.5 rounded-md bg-blue-50 text-blue-700 text-xs font-medium border border-blue-200">
+                  Ректификат
+                </span>
+              )}
+              {product.frost_resistant && (
+                <span className="px-2.5 py-0.5 rounded-md bg-cyan-50 text-cyan-700 text-xs font-medium border border-cyan-200">
+                  Морозостойкий
                 </span>
               )}
             </div>
@@ -280,6 +304,16 @@ export function ProductPageClient({ slug }: { slug: string }) {
               </button>
             </div>
 
+            {/* ── ИКОНКИ ХАРАКТЕРИСТИК ── */}
+            <ProductSpecIcons
+              surface={product.surface}
+              rectified={product.rectified}
+              frostResistant={product.frost_resistant}
+              wearClass={product.wear_class}
+              slipClass={product.slip_class}
+              waterAbs={product.water_abs}
+            />
+
             {/* Quick info */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-2">
               {[
@@ -300,6 +334,15 @@ export function ProductPageClient({ slug }: { slug: string }) {
             </div>
           </div>
         </div>
+
+        {/* ── ИНТЕРЬЕРНЫЕ ФОТО ── */}
+        {product.interior_images && product.interior_images.length > 0 && (
+          <InteriorPhotos
+            images={product.interior_images}
+            productName={product.name}
+            collectionName={product.collection}
+          />
+        )}
 
         {/* Tabs */}
         <div className="mt-12 lg:mt-16">
@@ -342,9 +385,9 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   <p className="text-sm text-muted-foreground leading-relaxed">
                     {`${product.name} из коллекции ${product.collection} доступна к заказу в нашем магазине в Санкт-Петербурге. `}
                     {totalStock > 0
-                      ? `В наличии на складе Янино${(product.stock_yanino ?? 0) > 0 ? ` -- ${product.stock_yanino} м²` : ""}. Самовывоз бесплатно, доставка по СПб и ЛО от 1 рабочего дня. `
+                      ? `В наличии на складе Янино${(product.stock_yanino ?? 0) > 0 ? ` — ${product.stock_yanino} м²` : ""}. Самовывоз бесплатно, доставка по СПб и ЛО от 1 рабочего дня. `
                       : "Доступно под заказ с завода Cersanit. "}
-                    {"Бесплатный расчёт необходимого количества плитки. Оплата наличным и безналичным расчётом. Для юридических лиц -- работа по счёту с НДС."}
+                    {"Бесплатный расчёт необходимого количества плитки. Оплата наличным и безналичным расчётом. Для юридических лиц — работа по счёту с НДС."}
                   </p>
                 </div>
               </div>
@@ -392,7 +435,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                 <div>
                   <h3 className="text-lg font-semibold text-foreground mb-3">Оплата</h3>
                   <p className="text-sm text-foreground/80 leading-relaxed">
-                    Наличный и безналичный расчёт. Для юридических лиц -- оплата по счёту с НДС.
+                    Наличный и безналичный расчёт. Для юридических лиц — оплата по счёту с НДС.
                     Возможна оплата картой при получении на складе.
                   </p>
                 </div>
