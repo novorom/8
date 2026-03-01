@@ -26,6 +26,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "mozaika-spb",
     "dostavka-plitki-spb",
     "magazin-plitki-spb",
+    "plitka-pod-derevo-spb",
+    "plitka-pod-mramor-spb",
+    "plitka-pod-beton-spb",
+    "plitka-pod-kamen-spb",
   ].map((slug) => ({
     url: `${SITE_URL}/${slug}`,
     lastModified: now,
