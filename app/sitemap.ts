@@ -8,49 +8,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
-    {
-      url: SITE_URL,
-      lastModified: now,
-      changeFrequency: "daily",
-      priority: 1.0,
-    },
-    {
-      url: `${SITE_URL}/catalog`,
-      lastModified: now,
-      changeFrequency: "daily", // было "hourly" — поисковики игнорируют hourly
-      priority: 0.9,
-    },
-    {
-      url: `${SITE_URL}/collections`,
-      lastModified: now,
-      changeFrequency: "weekly",
-      priority: 0.8,
-    },
-    {
-      url: `${SITE_URL}/delivery`,
-      lastModified: now,
-      changeFrequency: "monthly",
-      priority: 0.7,
-    },
-    {
-      url: `${SITE_URL}/reviews`, // было пропущено
-      lastModified: now,
-      changeFrequency: "monthly",
-      priority: 0.7,
-    },
-    {
-      url: `${SITE_URL}/about`,
-      lastModified: now,
-      changeFrequency: "monthly",
-      priority: 0.7, // было 0.6
-    },
-    {
-      url: `${SITE_URL}/contacts`,
-      lastModified: now,
-      changeFrequency: "monthly",
-      priority: 0.7, // было 0.6
-    },
-    // /cart удалён — корзина не должна индексироваться
+    { url: SITE_URL, lastModified: now, changeFrequency: "daily", priority: 1.0 },
+    { url: `${SITE_URL}/catalog`, lastModified: now, changeFrequency: "daily", priority: 0.9 },
+    { url: `${SITE_URL}/collections`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/delivery`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/reviews`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/about`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/contacts`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
   ]
 
   // SEO landing pages
@@ -69,23 +33,59 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  // Product pages
+  // Collection pages
+  const collectionSlugs = [
+    ...new Set(
+      products
+        .filter((p) => p.collection && p.collection.trim())
+        .map((p) =>
+          p.collection!
+            .toLowerCase()
+            .replace(/\s+/g, "-")
+            .replace(/[^a-zа-яё0-9-]/gi, "")
+        )
+    ),
+  ]
+  const collectionPages: MetadataRoute.Sitemap = collectionSlugs.map((slug) => ({
+    url: `${SITE_URL}/collections/${slug}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.8,
+  }))
+
+  // Product pages — с image sitemap (все фото + интерьерные для Google/Яндекс Images)
   const productPages: MetadataRoute.Sitemap = products
     .filter((p) => p.slug)
-    .map((product) => ({
-      url: `${SITE_URL}/catalog/${product.slug}`,
-      lastModified: now,
-      changeFrequency: "weekly" as const,
-      priority: 0.7,
-      // Image sitemap — нужен для индексации фото в Яндекс.Картинках и Google Images
-      images: product.main_image
-        ? [
-            product.main_image.startsWith("http")
-              ? product.main_image
-              : `${SITE_URL}${product.main_image}`,
-          ]
-        : undefined,
-    }))
+    .map((product) => {
+      const allImages: string[] = []
 
-  return [...staticPages, ...seoPages, ...productPages]
+      // Основные фото товара
+      if (product.images) {
+        for (const img of product.images) {
+          const urls = img.includes(";") ? img.split(";").map((s) => s.trim()).filter(Boolean) : [img]
+          for (const url of urls) {
+            if (url.startsWith("http") && !allImages.includes(url)) allImages.push(url)
+          }
+        }
+      } else if (product.main_image) {
+        allImages.push(product.main_image)
+      }
+
+      // Интерьерные фото
+      if (product.interior_images) {
+        for (const url of product.interior_images) {
+          if (url.startsWith("http") && !allImages.includes(url)) allImages.push(url)
+        }
+      }
+
+      return {
+        url: `${SITE_URL}/catalog/${product.slug}`,
+        lastModified: now,
+        changeFrequency: "weekly" as const,
+        priority: 0.7,
+        images: allImages.length > 0 ? allImages : undefined,
+      }
+    })
+
+  return [...staticPages, ...seoPages, ...collectionPages, ...productPages]
 }
