@@ -46,7 +46,7 @@ class Product extends Model
     // === МЕТОДЫ ДЛЯ SEO ===
     public function getCanonicalUrl(): string
     {
-        return route('catalog.show', $this->slug);
+        return route('product.show', $this->sku);
     }
 
     public function getSchemaOrgData(): array
@@ -67,8 +67,8 @@ class Product extends Model
                 'priceCurrency' => 'RUB',
                 'price' => $this->price_retail,
                 'itemCondition' => 'https://schema.org/NewCondition',
-                'availability' => ($this->stock_yanino + $this->stock_factory) > 0 
-                    ? 'https://schema.org/InStock' 
+                'availability' => ($this->stock_yanino + $this->stock_factory) > 0
+                    ? 'https://schema.org/InStock'
                     : 'https://schema.org/OutOfStock',
             ]
         ];
