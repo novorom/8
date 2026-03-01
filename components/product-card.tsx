@@ -86,7 +86,7 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
         </h3>
         <div className="flex items-baseline gap-2 mt-1">
           <span className="text-lg font-bold text-foreground">
-            {product.price_retail.toLocaleString("ru-RU")} {"₽/м²"}
+            {product.price_retail > 0 ? `${product.price_retail.toLocaleString("ru-RU")} ₽/м²` : "Цена по запросу"}
           </span>
           {hasDiscount && (
             <span className="text-sm text-muted-foreground line-through">
