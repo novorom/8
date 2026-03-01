@@ -46,6 +46,7 @@ export interface Product {
   stock_yanino?: number
   stock_factory?: number
   main_image?: string
+  collection_image?: string
   images?: string[]
   interior_images?: string[]
   video_url?: string | null
@@ -54,6 +55,7 @@ export interface Product {
   description?: string
   is_new?: boolean
   is_bestseller?: boolean
+  is_discount?: boolean
   rating?: number
   reviews_count?: number
 }
