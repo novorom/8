@@ -103,8 +103,8 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
   const collectionsWithMeta = collections.map((c) => {
     const collProducts = products.filter((p) => p.collection === c.name)
     const types = [...new Set(collProducts.map((p) => p.product_type))]
-    const colors = [...new Set(collProducts.map((p) => p.color))]
-    const surfaces = [...new Set(collProducts.map((p) => p.surface))]
+    const colors = [...new Set(collProducts.map((p) => p.color).filter((c): c is string => !!c))]
+    const surfaces = [...new Set(collProducts.map((p) => p.surface).filter((s): s is string => !!s))]
     const isNew = collProducts.some((p) => p.is_new)
     const isBestseller = collProducts.some((p) => p.is_bestseller)
     return { ...c, types, colors, surfaces, isNew, isBestseller, realCount: collProducts.length }
