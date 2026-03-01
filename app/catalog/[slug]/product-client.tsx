@@ -49,6 +49,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
 
   const totalStock = (product.stock_yanino ?? 0) + (product.stock_factory ?? 0)
   const hasDiscount = product.price_official && product.price_official > product.price_retail
+  const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка"].includes(product.product_type) ? "₽/шт" : "₽/м²"
 
   const productJsonLd = {
     "@context": "https://schema.org",
@@ -219,7 +220,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
             {/* Price */}
             <div className="flex items-baseline gap-3">
               <span className="text-3xl font-bold text-foreground">
-                {product.price_retail.toLocaleString("ru-RU")} {"₽/м²"}
+                {product.price_retail.toLocaleString("ru-RU")} {priceUnit}
               </span>
               {hasDiscount && (
                 <span className="text-lg text-muted-foreground line-through">
