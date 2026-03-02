@@ -5,6 +5,45 @@ const HomeContent = dynamic(() => import("@/components/home-content").then(mod =
   loading: () => <div className="min-h-screen bg-background" />
 })
 
+const localBusinessJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://cersanit-spb.ru",
+  name: "Дом Плитки CERSANIT — официальный дилер в Санкт-Петербурге",
+  description: "Официальный дилер Cersanit в СПб. Керамическая плитка и керамогранит в наличии на складе. Более 750 позиций.",
+  url: "https://cersanit-spb.ru",
+  telephone: "+79052050900",
+  email: "info@cersanit-spb.ru",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "п. Янино-1",
+    addressLocality: "Санкт-Петербург",
+    addressRegion: "Ленинградская область",
+    postalCode: "188679",
+    addressCountry: "RU",
+  },
+  geo: {
+    "@type": "GeoCoordinates",
+    latitude: 59.9765,
+    longitude: 30.6132,
+  },
+  openingHoursSpecification: [
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      opens: "10:00",
+      closes: "16:45",
+    },
+  ],
+  priceRange: "₽₽",
+  currenciesAccepted: "RUB",
+  paymentAccepted: "Cash, Credit Card, Bank Transfer",
+  hasMap: "https://yandex.ru/maps/-/CDeFRsEL",
+  sameAs: [
+    "https://www.avito.ru/user/cersanit-spb",
+  ],
+}
+
 const homeFaqJsonLd = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -55,6 +94,10 @@ const homeFaqJsonLd = {
 export default function HomePage() {
   return (
     <div className="flex flex-col">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessJsonLd) }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(homeFaqJsonLd) }}
