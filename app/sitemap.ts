@@ -30,6 +30,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "plitka-pod-mramor-spb",
     "plitka-pod-beton-spb",
     "plitka-pod-kamen-spb",
+    "plitka-dlya-kuhni-spb",
+    "plitka-dlya-prihozhej-spb",
+    "plitka-dlya-balkona-spb",
+    "keramogranit-60x120-spb",
+    "keramogranit-60x60-spb",
+    "plitka-30x60-spb",
+    "blog",
   ].map((slug) => ({
     url: `${SITE_URL}/${slug}`,
     lastModified: now,
