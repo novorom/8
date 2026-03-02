@@ -418,7 +418,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   <h3 className="text-lg font-semibold text-foreground mb-3">Доставка</h3>
                   <div className="flex flex-col gap-3">
                     {[
-                      { title: "Самовывоз со склада", desc: "Бесплатно. Склад в п. Янино-1 (Ленинградская обл.)", time: "Сегодня" },
+                      { title: "Самовывоз со склада", desc: "Бесплатно. Склад в п. Янино-1 (Ленинградская обл.)", time: "Следующий рабочий день" },
                       { title: "Доставка по СПб и ЛО", desc: "Стоимость зависит от объёма заказа", time: "1-2 рабочих дня" },
                       { title: "Доставка по России", desc: "Транспортной компанией (СДЭК, Деловые линии)", time: "3-7 рабочих дней" },
                     ].map((item) => (
@@ -437,7 +437,6 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   <h3 className="text-lg font-semibold text-foreground mb-3">Оплата</h3>
                   <p className="text-sm text-foreground/80 leading-relaxed">
                     Наличный и безналичный расчёт. Для юридических лиц — оплата по счёту с НДС.
-                    Возможна оплата картой при получении на складе.
                   </p>
                 </div>
               </div>
