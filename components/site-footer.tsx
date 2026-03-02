@@ -18,6 +18,7 @@ const footerLinks = {
     { label: "Доставка", href: "/delivery" },
     { label: "Контакты", href: "/contacts" },
     { label: "Коллекции", href: "/collections" },
+    { label: "Блог", href: "/blog" },
   ],
   help: [
     { label: "Каталог", href: "/catalog" },
@@ -26,6 +27,16 @@ const footerLinks = {
     { label: "Керамогранит СПб", href: "/keramogranit-spb" },
     { label: "Плитка для ванной СПб", href: "/plitka-dlya-vannoj-spb" },
     { label: "Мозаика СПб", href: "/mozaika-spb" },
+    { label: "Плитка под дерево СПб", href: "/plitka-pod-derevo-spb" },
+    { label: "Плитка под мрамор СПб", href: "/plitka-pod-mramor-spb" },
+    { label: "Плитка под бетон СПб", href: "/plitka-pod-beton-spb" },
+    { label: "Плитка под камень СПб", href: "/plitka-pod-kamen-spb" },
+    { label: "Плитка для кухни СПб", href: "/plitka-dlya-kuhni-spb" },
+    { label: "Плитка для прихожей СПб", href: "/plitka-dlya-prihozhej-spb" },
+    { label: "Плитка для балкона СПб", href: "/plitka-dlya-balkona-spb" },
+    { label: "Керамогранит 60x120 СПб", href: "/keramogranit-60x120-spb" },
+    { label: "Керамогранит 60x60 СПб", href: "/keramogranit-60x60-spb" },
+    { label: "Плитка 30x60 СПб", href: "/plitka-30x60-spb" },
   ],
 }
 
