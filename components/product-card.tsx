@@ -10,12 +10,17 @@ interface ProductCardProps {
   priority?: boolean
 }
 
+const PCS_TYPES = ["Мозаика", "Ступень", "Плинтус", "Вставка"]
+
 export function ProductCard({ product, priority = false }: ProductCardProps) {
   const [isFavorite, setIsFavorite] = useState(false)
 
-  const totalStock = (product.stock_yanino || 0) + (product.stock_factory || 0)
+  const yanino = product.stock_yanino ?? 0
+  const factory = product.stock_factory ?? 0
+  const totalStock = yanino + factory
   const hasDiscount = product.price_official && product.price_official > product.price_retail
-  const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка"].includes(product.product_type) ? "₽/шт" : "₽/м²"
+  const priceUnit = PCS_TYPES.includes(product.product_type) ? "₽/шт" : "₽/м²"
+  const stockUnit = PCS_TYPES.includes(product.product_type) ? "шт" : "м²"
 
   return (
     <Link
@@ -68,13 +73,23 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
         </button>
 
         {/* Stock indicator */}
-        {totalStock > 0 && (
-          <div className="absolute bottom-2.5 left-2.5">
-            <span className="px-2 py-0.5 rounded-md bg-green-500/90 text-background text-[11px] font-medium backdrop-blur-sm">
-              В наличии
+        <div className="absolute bottom-2.5 left-2.5 flex flex-col gap-1">
+          {yanino > 0 && (
+            <span className="px-2 py-0.5 rounded-md bg-green-600/90 text-white text-[11px] font-medium backdrop-blur-sm">
+              Янино: {yanino} {stockUnit}
             </span>
-          </div>
-        )}
+          )}
+          {factory > 0 && (
+            <span className="px-2 py-0.5 rounded-md bg-blue-600/90 text-white text-[11px] font-medium backdrop-blur-sm">
+              Завод: {factory} {stockUnit}
+            </span>
+          )}
+          {totalStock === 0 && (
+            <span className="px-2 py-0.5 rounded-md bg-amber-500/90 text-white text-[11px] font-medium backdrop-blur-sm">
+              Под заказ
+            </span>
+          )}
+        </div>
       </div>
 
       {/* Info */}
