@@ -164,7 +164,7 @@ export default function CartPage() {
                 <div className="flex justify-between text-sm">
                   <span className="text-foreground/60">Доставка:</span>
                   <span className="font-medium text-foreground">
-                    {total > 10000 ? 'Бесплатно' : '500 ₽'}
+                    По договорённости
                   </span>
                 </div>
               </div>
@@ -172,7 +172,7 @@ export default function CartPage() {
               <div className="flex justify-between mb-6">
                 <span className="font-semibold text-foreground">Итого:</span>
                 <span className="text-xl font-bold text-primary">
-                  {(total + (total > 10000 ? 0 : 500)).toLocaleString('ru-RU')} ₽
+                  {total.toLocaleString('ru-RU')} ₽
                 </span>
               </div>
 
