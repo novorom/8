@@ -37,10 +37,9 @@ const sections = [
     title: "Инструкции по укладке",
     desc: "Официальные инструкции Cersanit для профессионалов и самостоятельной укладки.",
     items: [
-      { name: "Инструкция по укладке керамогранита Cersanit", format: "PDF", url: "https://cersanit-sale.ru/download/gfx/opoczno/ru/cersanitdeklaracjecertyfikaty/52/51/standart_organizacii_stena_i_ii_sort_20.05.16.pdf", ext: true },
+      { name: "Инструкция по укладке керамогранита Cersanit", format: "DOCX", url: "https://cersanit.ru/upload/iblock/afe/d1jnh2kcdeivp8tovez24p22wbisauc9/Instruktsiya-po-ukladke-plitki.docx", ext: true },
       { name: "Инструкция по укладке керамической мозаики на сетке", format: "PDF", url: "/blog/kak-ukladyvat-mozaiku", ext: false },
       { name: "Рекомендации по затирке швов", format: "Статья", url: "/blog/rekomendatsii-po-zatirke", ext: false },
-      { name: "Лист изменений к стандарту (стена, 1 и 2 сорт)", format: "PDF", url: "https://cersanit.ru/download/gfx/opoczno/ru/cersanitdeklaracjecertyfikaty/52/53/list_izmeneniy_k_standartu_organizacii_fkz_stena_i_ii_sort.pdf", ext: true },
     ],
   },
   {
@@ -51,7 +50,6 @@ const sections = [
       { name: "Онлайн-каталог нашего склада — все товары в наличии", format: "Онлайн", url: "/catalog", ext: false, highlight: true },
       { name: "Каталог коллекций Cersanit с описаниями", format: "Онлайн", url: "/collections", ext: false },
       { name: "Каталог Cersanit 2024–2025 (PDF)", format: "PDF", url: "https://cersanit.ru/upload/iblock/66f/s1vcj280vz582d3zfif1takjhbrwaa35/Cersanit_2d_2024_2025_light.pdf", ext: true },
-      { name: "Все коллекции на сайте производителя cersanit.ru", format: "Ссылка", url: "https://cersanit.ru/plitka/", ext: true },
     ],
   },
 ]
