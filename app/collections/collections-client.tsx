@@ -324,7 +324,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
                 {filtered.map((collection) => (
                   <Link
                     key={collection.id}
-                    href={`/catalog?collection=${collection.slug}`}
+                    href={`/collections/${collection.slug}`}
                     className="group flex flex-col rounded-xl border border-border overflow-hidden bg-card hover:shadow-lg transition-all duration-300"
                   >
                     <div className="relative aspect-[4/3] overflow-hidden bg-muted">
