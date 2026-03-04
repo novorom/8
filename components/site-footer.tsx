@@ -19,6 +19,7 @@ const footerLinks = {
     { label: "Контакты", href: "/contacts" },
     { label: "Коллекции", href: "/collections" },
     { label: "Блог", href: "/blog" },
+    { label: "Вопросы и ответы", href: "/faq" },
     { label: "Документы и сертификаты", href: "/downloads" },
   ],
   help: [
