@@ -10,7 +10,6 @@ export const metadata: Metadata = {
 }
 
 export default function CollectionsPage() {
-  // Серверная сборка коллекций — Яндексбот видит реальный контент без JS
   const allCollectionNames = [
     ...new Set(
       products
@@ -22,12 +21,24 @@ export default function CollectionsPage() {
   const initialCollections = allCollectionNames
     .map((collName) => {
       const collectionProducts = products.filter((p) => p.collection === collName)
-      const firstProduct = collectionProducts[0]
+      
+      // Собираем все интерьерные фото коллекции
+      const allInteriorImages = collectionProducts
+        .flatMap((p) => (p.interior_images as string[] | undefined) || [])
+        .filter(Boolean)
+
+      // Берём первую интерьерку, или collection_image, или main_image
+      const image =
+        allInteriorImages[0] ||
+        collectionProducts[0]?.collection_image ||
+        collectionProducts[0]?.main_image ||
+        ""
+
       return {
         id: collName,
         name: collName,
         slug: collName.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, ""),
-        image: firstProduct?.interior_images?.[0] || firstProduct?.collection_image || firstProduct?.main_image || "",
+        image,
         product_count: collectionProducts.length,
         types: [
           ...new Set(collectionProducts.map((p) => p.product_type).filter(Boolean)),
