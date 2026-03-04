@@ -19,6 +19,7 @@ const footerLinks = {
     { label: "Контакты", href: "/contacts" },
     { label: "Коллекции", href: "/collections" },
     { label: "Блог", href: "/blog" },
+    { label: "Документы и сертификаты", href: "/downloads" },
   ],
   help: [
     { label: "Каталог", href: "/catalog" },
@@ -37,6 +38,8 @@ const footerLinks = {
     { label: "Керамогранит 60x120 СПб", href: "/keramogranit-60x120-spb" },
     { label: "Керамогранит 60x60 СПб", href: "/keramogranit-60x60-spb" },
     { label: "Плитка 30x60 СПб", href: "/plitka-30x60-spb" },
+    { label: "Керамогранит под дерево СПб", href: "/keramogranit-pod-derevo-spb" },
+    { label: "Керамогранит под мрамор СПб", href: "/keramogranit-pod-mramor-spb" },
   ],
 }
 
