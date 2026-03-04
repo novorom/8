@@ -56,14 +56,14 @@ export const categories: Category[] = [
 ]
 
 export const collections: Collection[] = [
-  { id: 1, name: "Calacatta", slug: "calacatta", image: "https://pvi.cersanit.ru/upload/uf/1e0/Calacatta_Large_1_2.jpg", product_count: 5 },
+  { id: 1, name: "Calacatta", slug: "calacatta", image: "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg", product_count: 5 },
   { id: 2, name: "Wood Concept Natural", slug: "wood-concept-natural", image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg", product_count: 6 },
   { id: 3, name: "Wood Concept Prime", slug: "wood-concept-prime", image: "https://pvi.cersanit.ru/upload/uf/8e6/Interior_WP4T523_1.jpg", product_count: 3 },
   { id: 4, name: "Wood Concept Rustic", slug: "wood-concept-rustic", image: "https://pvi.cersanit.ru/upload/uf/581/Interior_WR4T013_1.jpg", product_count: 1 },
   { id: 5, name: "Lofthouse", slug: "lofthouse", image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg", product_count: 6 },
   { id: 6, name: "Woodhouse", slug: "woodhouse", image: "https://pvi.cersanit.ru/upload/uf/f0c/INT_Woodhouse_WS4O112_3_1.jpg", product_count: 5 },
   { id: 7, name: "Royal Stone", slug: "royal-stone", image: "https://pvi.cersanit.ru/upload/uf/cb8/INT_Royal_stone_2_1.jpg", product_count: 3 },
-  { id: 8, name: "Deco", slug: "deco", image: "https://pvi.cersanit.ru/upload/uf/3a2/Deco_Large_1_2.jpg", product_count: 2 },
+  { id: 8, name: "Deco", slug: "deco", image: "https://pvi.cersanit.ru/upload/uf/b22/DEL232.jpg", product_count: 2 },
   { id: 9, name: "Effecta", slug: "effecta", image: "https://pvi.cersanit.ru/upload/uf/8b9/INT_Effecta_2_1.jpg", product_count: 2 },
   { id: 10, name: "Galaxy", slug: "galaxy", image: "https://pvi.cersanit.ru/upload/uf/279/Int_Galaxy_012_1_1.jpg", product_count: 2 },
   { id: 11, name: "Infinity", slug: "infinity", image: "https://pvi.cersanit.ru/upload/uf/672/INT_Infinity_092_1_1.jpg", product_count: 2 },
