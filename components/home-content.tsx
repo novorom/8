@@ -187,7 +187,7 @@ export function HomeContent() {
             {collections.map((collection) => (
               <Link
                 key={collection.id}
-                href={`/catalog?collection=${collection.slug}`}
+                href={`/collections/${collection.slug}`}
                 className="group snap-start shrink-0 w-56 lg:w-64 flex flex-col rounded-xl border border-border overflow-hidden bg-card hover:shadow-lg transition-all duration-300"
               >
                 <div className="relative aspect-square overflow-hidden">
