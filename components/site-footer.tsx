@@ -41,10 +41,8 @@ const footerLinks = {
     { label: "Плитка 30x60 СПб", href: "/plitka-30x60-spb" },
     { label: "Керамогранит под дерево СПб", href: "/keramogranit-pod-derevo-spb" },
     { label: "Керамогранит под мрамор СПб", href: "/keramogranit-pod-mramor-spb" },
-    { label: "Керамическая плитка СПб", href: "/keramicheskaya-plitka-spb" },
     { label: "Магазин плитки СПб", href: "/magazin-plitki-spb" },
     { label: "Доставка плитки СПб", href: "/dostavka-plitki-spb" },
-    { label: "Плитка в Санкт-Петербурге", href: "/spb" },
   ],
 }
 
