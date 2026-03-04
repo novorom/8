@@ -6,6 +6,13 @@ import { ChevronDown, ChevronRight, SlidersHorizontal, X } from "lucide-react"
 import { filterOptions } from "@/lib/filter-options"
 import { useProducts } from "@/lib/products-context"
 
+// Переопределённые главные изображения для конкретных коллекций
+const COLLECTION_IMAGE_OVERRIDES: Record<string, string> = {
+  "CALACATTA": "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg",
+  "NORTHWOOD": "https://pvi.cersanit.ru/upload/uf/a08/INT_Northwood_012_2_2.jpg",
+  "DECO": "https://pvi.cersanit.ru/upload/uf/b22/DEL232.jpg",
+}
+
 /* ---------- Filter sidebar section ---------- */
 function FilterSection({
   title,
@@ -95,7 +102,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
       id: collName,
       name: collName,
       slug: collName.toLowerCase().replace(/\s+/g, "-"),
-      image: collectionProducts.flatMap(p => (p.interior_images as string[] | undefined) || []).filter(Boolean)[0] || firstProduct?.collection_image || firstProduct?.main_image || "",
+      image: COLLECTION_IMAGE_OVERRIDES[collName.toUpperCase()] || collectionProducts.flatMap(p => (p.interior_images as string[] | undefined) || []).filter(Boolean)[0] || firstProduct?.collection_image || firstProduct?.main_image || "",
       product_count: collectionProducts.length,
     }
   })
