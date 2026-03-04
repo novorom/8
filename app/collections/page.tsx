@@ -27,7 +27,7 @@ export default function CollectionsPage() {
         id: collName,
         name: collName,
         slug: collName.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, ""),
-        image: firstProduct?.collection_image || firstProduct?.main_image || "",
+        image: firstProduct?.interior_images?.[0] || firstProduct?.collection_image || firstProduct?.main_image || "",
         product_count: collectionProducts.length,
         types: [
           ...new Set(collectionProducts.map((p) => p.product_type).filter(Boolean)),
