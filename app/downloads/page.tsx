@@ -14,10 +14,14 @@ const sections = [
     title: "Сертификаты качества",
     desc: "Вся продукция Cersanit имеет требуемые законодательством РФ гигиенические сертификаты и знаки соответствия.",
     items: [
-      { name: "Сертификат соответствия — Керамогранит ФКЗ", format: "PDF", url: "https://cersanit.ru/download/", ext: true },
-      { name: "Сертификат соответствия — Настенная керамическая плитка", format: "PDF", url: "https://cersanit.ru/download/", ext: true },
-      { name: "Сертификат соответствия — Санфаянс", format: "PDF", url: "https://cersanit.ru/download/", ext: true },
-      { name: "Знак соответствия «Рекомендовано союзом аллергологов Польши»", format: "PDF", url: "https://cersanit.ru/download/", ext: true },
+      { name: "Политика по охране окружающей среды", format: "PDF", url: "https://cersanit.ru/upload/iblock/fc5/ymfqf50ug6xc08fipph8kfvb6arciwzi/Politika-po-okhrane-okruzhayushchey-sredy.pdf", ext: true },
+      { name: "Политика по охране труда", format: "PDF", url: "https://cersanit.ru/upload/iblock/4a5/w50cl4imlfbfok0o7fuds6ljtt3e9uqb/Politika-po-okhrane-truda.pdf", ext: true },
+      { name: "Пожарный сертификат — Керамогранит ККЗ", format: "PDF", url: "https://cersanit.ru/upload/iblock/55d/u9g550uwsv8mh7zvoelj95l867bqud4i/Pozh.sert.-Keramogranit-KKZ.pdf", ext: true },
+      { name: "Пожарный сертификат — Керамогранит ФКЗ", format: "PDF", url: "https://cersanit.ru/upload/iblock/9db/cu9o51a6ah2rrxzl79rsdyavt1o9pyks/Pozh.sert.-Keramogranit-FKZ.pdf", ext: true },
+      { name: "Пожарный сертификат — Облицовка ФКЗ", format: "PDF", url: "https://cersanit.ru/upload/iblock/949/mvj32awpbq52j6dfox9bb0f0qtm5ok98/Pozh.sert.-Oblitsovka-FKZ.pdf", ext: true },
+      { name: "Сертификат соответствия — Керамогранит ККЗ 2023", format: "PDF", url: "https://cersanit.ru/upload/iblock/1be/h7dkgc1otu66a3rhcmni5w4l8ojjgapi/Sertifikat-Keramogranit-KKZ-2023.pdf", ext: true },
+      { name: "Сертификат соответствия — Керамогранит ФКЗ 2023", format: "PDF", url: "https://cersanit.ru/upload/iblock/7b6/ip785bdtrkkuba3xllnwoxfmsetdb3t2/Sertifikat-Keramogranit-FKZ-2023.pdf", ext: true },
+      { name: "Сертификат соответствия — Облицовка ФКЗ", format: "PDF", url: "https://cersanit.ru/upload/iblock/14c/bk292o6u61veafwimquebqyrwow24x2v/Sertifikat-Oblitsovka-FKZ.pdf", ext: true },
     ],
   },
   {
@@ -25,9 +29,7 @@ const sections = [
     title: "Программы для 3D-визуализации",
     desc: "Создайте дизайн своей ванной или кухни с плиткой Cersanit до начала ремонта — бесплатно.",
     items: [
-      { name: "Ceramic 3D Web — программа для создания 3D-интерьеров с плиткой Cersanit", format: "Бесплатно", url: "https://cersanit.ru/download/", ext: true, highlight: true },
-      { name: "База Cad Decor 3D — керамика и мебель Cersanit (для Cad Decor 1.9/2.0)", format: "ZIP", url: "https://cersanit.ru/download/", ext: true },
-      { name: "База Cad Decor 2D — керамическая плитка Cersanit (2015)", format: "ZIP", url: "https://cersanit.ru/download/", ext: true },
+      { name: "Ceramic 3D Web — программа для создания 3D-интерьеров с плиткой Cersanit", format: "EXE", url: "https://cersanit.ru/upload/files/ceramic3d_SetupRus.exe", ext: true, highlight: true },
     ],
   },
   {
@@ -35,10 +37,10 @@ const sections = [
     title: "Инструкции по укладке",
     desc: "Официальные инструкции Cersanit для профессионалов и самостоятельной укладки.",
     items: [
-      { name: "Инструкция по укладке керамогранита Cersanit", format: "PDF", url: "https://cersanit.ru/download/", ext: true },
+      { name: "Инструкция по укладке керамогранита Cersanit", format: "PDF", url: "https://cersanit-sale.ru/download/gfx/opoczno/ru/cersanitdeklaracjecertyfikaty/52/51/standart_organizacii_stena_i_ii_sort_20.05.16.pdf", ext: true },
       { name: "Инструкция по укладке керамической мозаики на сетке", format: "PDF", url: "/blog/kak-ukladyvat-mozaiku", ext: false },
       { name: "Рекомендации по затирке швов", format: "Статья", url: "/blog/rekomendatsii-po-zatirke", ext: false },
-      { name: "Лист изменений к стандарту (стена, 1 и 2 сорт)", format: "PDF", url: "https://cersanit.ru/download/", ext: true },
+      { name: "Лист изменений к стандарту (стена, 1 и 2 сорт)", format: "PDF", url: "https://cersanit.ru/download/gfx/opoczno/ru/cersanitdeklaracjecertyfikaty/52/53/list_izmeneniy_k_standartu_organizacii_fkz_stena_i_ii_sort.pdf", ext: true },
     ],
   },
   {
@@ -48,7 +50,8 @@ const sections = [
     items: [
       { name: "Онлайн-каталог нашего склада — все товары в наличии", format: "Онлайн", url: "/catalog", ext: false, highlight: true },
       { name: "Каталог коллекций Cersanit с описаниями", format: "Онлайн", url: "/collections", ext: false },
-      { name: "Полный каталог на сайте производителя cersanit.ru", format: "Ссылка", url: "https://cersanit.ru/plitka/", ext: true },
+      { name: "Каталог Cersanit 2024–2025 (PDF)", format: "PDF", url: "https://cersanit.ru/upload/iblock/66f/s1vcj280vz582d3zfif1takjhbrwaa35/Cersanit_2d_2024_2025_light.pdf", ext: true },
+      { name: "Все коллекции на сайте производителя cersanit.ru", format: "Ссылка", url: "https://cersanit.ru/plitka/", ext: true },
     ],
   },
 ]
