@@ -37,8 +37,8 @@ const sections = [
     title: "Инструкции по укладке",
     desc: "Официальные инструкции Cersanit для профессионалов и самостоятельной укладки.",
     items: [
-      { name: "Инструкция по укладке керамогранита Cersanit", format: "DOCX", url: "https://cersanit.ru/upload/iblock/afe/d1jnh2kcdeivp8tovez24p22wbisauc9/Instruktsiya-po-ukladke-plitki.docx", ext: true },
-      { name: "Инструкция по укладке керамической мозаики на сетке", format: "PDF", url: "/blog/kak-ukladyvat-mozaiku", ext: false },
+      { name: "Инструкция по укладке керамогранита Cersanit", format: "Статья", url: "/blog/kak-ukladyvat-plitku", ext: false },
+      { name: "Инструкция по укладке керамической мозаики на сетке", format: "Статья", url: "/blog/kak-ukladyvat-mozaiku", ext: false },
       { name: "Рекомендации по затирке швов", format: "Статья", url: "/blog/rekomendatsii-po-zatirke", ext: false },
     ],
   },
