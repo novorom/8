@@ -95,6 +95,13 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
 
   const collectionProducts = getCollectionProducts(collectionName)
   const seo = getCollectionSeo(collectionName)
+  // Собираем все интерьерные фото коллекции
+  const interiorImages = [
+    ...new Set(
+      collectionProducts.flatMap((p) => (p.interior_images as string[] | undefined) || []).filter(Boolean)
+    )
+  ]
+  const heroImage = interiorImages[0] || collectionProducts[0]?.collection_image || collectionProducts[0]?.main_image || null
   const prices = collectionProducts.map(p => p.price_retail).filter(Boolean)
   const priceFrom = prices.length ? Math.min(...prices) : null
   const priceTo = prices.length ? Math.max(...prices) : null
@@ -157,25 +164,33 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
         </div>
       </div>
 
-      {/* Hero */}
-      <div className="py-10 lg:py-14 bg-primary text-primary-foreground">
-        <div className="mx-auto max-w-7xl px-4">
-          <h1 className="text-3xl lg:text-4xl font-bold text-balance">
+      {/* Hero with interior image */}
+      <div className="relative min-h-[320px] lg:min-h-[420px] flex items-end bg-primary overflow-hidden">
+        {heroImage && (
+          <img
+            src={heroImage}
+            alt={`Интерьер с плиткой ${collectionName}`}
+            className="absolute inset-0 w-full h-full object-cover"
+          />
+        )}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent" />
+        <div className="relative mx-auto max-w-7xl px-4 py-10 lg:py-14 w-full">
+          <h1 className="text-3xl lg:text-4xl font-bold text-white text-balance drop-shadow">
             {seo?.title
               ? seo.title.replace(" купить в СПб", "").replace(" купить в Санкт-Петербурге", "")
               : `Коллекция ${collectionName} Cersanit`}
           </h1>
-          <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-primary-foreground/80 text-sm">
+          <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-white/80 text-sm">
             <span>{collectionProducts.length} позиций в наличии</span>
             {priceFrom && <span>от {priceFrom.toLocaleString("ru-RU")} ₽/м²</span>}
             {formats.length > 0 && <span>Формат: {formats.join(", ")} см</span>}
             {seo?.design && <span>Дизайн: {seo.design}</span>}
           </div>
           <div className="mt-6 flex flex-wrap gap-3">
-            <Link href="#products" className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
+            <Link href="#products" className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white text-foreground font-medium text-sm hover:bg-white/90 transition-colors">
               Смотреть товары <ChevronRight className="h-4 w-4" />
             </Link>
-            <a href={`tel:${PHONE_RAW}`} className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl border border-primary-foreground/30 text-primary-foreground font-medium text-sm hover:bg-primary-foreground/10 transition-colors">
+            <a href={`tel:${PHONE_RAW}`} className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl border border-white/40 text-white font-medium text-sm hover:bg-white/10 transition-colors">
               <Phone className="h-4 w-4" /> Задать вопрос
             </a>
           </div>
@@ -258,13 +273,29 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
               {relatedCollections.map(name => {
                 const slug = name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "")
-                const count = products.filter(p => p.collection === name).length
-                const img = products.find(p => p.collection === name)?.main_image
+                const relatedProducts = products.filter(p => p.collection === name)
+                const count = relatedProducts.length
+                const relatedInterior = relatedProducts
+                  .flatMap(p => (p.interior_images as string[] | undefined) || [])
+                  .filter(Boolean)[0] ||
+                  relatedProducts[0]?.collection_image ||
+                  relatedProducts[0]?.main_image
                 return (
                   <Link key={name} href={`/collections/${slug}`}
-                    className="group border border-border rounded-xl p-4 hover:border-primary/50 hover:shadow-sm transition-all text-center">
-                    <div className="font-medium text-foreground group-hover:text-primary transition-colors text-sm">{name}</div>
-                    <div className="text-xs text-muted-foreground mt-1">{count} позиций</div>
+                    className="group rounded-xl overflow-hidden border border-border hover:border-primary/50 hover:shadow-md transition-all">
+                    <div className="relative aspect-[4/3] bg-muted overflow-hidden">
+                      {relatedInterior && (
+                        <img
+                          src={relatedInterior}
+                          alt={`Коллекция ${name}`}
+                          className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        />
+                      )}
+                    </div>
+                    <div className="p-3">
+                      <div className="font-medium text-foreground group-hover:text-primary transition-colors text-sm">{name}</div>
+                      <div className="text-xs text-muted-foreground mt-0.5">{count} позиций</div>
+                    </div>
                   </Link>
                 )
               })}
