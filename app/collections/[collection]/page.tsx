@@ -5,6 +5,13 @@ import { products } from "@/lib/products-data"
 import { ProductCard } from "@/components/product-card"
 import { getCollectionSeo } from "@/lib/collection-seo"
 
+// Переопределённые главные изображения для конкретных коллекций
+const COLLECTION_IMAGE_OVERRIDES: Record<string, string> = {
+  "CALACATTA": "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg",
+  "NORTHWOOD": "https://pvi.cersanit.ru/upload/uf/a08/INT_Northwood_012_2_2.jpg",
+  "DECO": "https://pvi.cersanit.ru/upload/uf/b22/DEL232.jpg",
+}
+
 const SITE_URL = "https://cersanit-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
@@ -101,7 +108,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       collectionProducts.flatMap((p) => (p.interior_images as string[] | undefined) || []).filter(Boolean)
     )
   ]
-  const heroImage = interiorImages[0] || collectionProducts[0]?.collection_image || collectionProducts[0]?.main_image || null
+  const heroImage = COLLECTION_IMAGE_OVERRIDES[collectionName.toUpperCase()] || interiorImages[0] || collectionProducts[0]?.collection_image || collectionProducts[0]?.main_image || null
   const prices = collectionProducts.map(p => p.price_retail).filter(Boolean)
   const priceFrom = prices.length ? Math.min(...prices) : null
   const priceTo = prices.length ? Math.max(...prices) : null
@@ -275,7 +282,8 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
                 const slug = name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "")
                 const relatedProducts = products.filter(p => p.collection === name)
                 const count = relatedProducts.length
-                const relatedInterior = relatedProducts
+                const relatedInterior = COLLECTION_IMAGE_OVERRIDES[name.toUpperCase()] ||
+                  relatedProducts
                   .flatMap(p => (p.interior_images as string[] | undefined) || [])
                   .filter(Boolean)[0] ||
                   relatedProducts[0]?.collection_image ||
