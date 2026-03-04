@@ -44,6 +44,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "keramogranit-pod-derevo-spb",
     "keramogranit-pod-mramor-spb",
     "downloads",
+    "faq",
     "blog/kak-vybrat-plitku-dlya-vannoj",
     "blog/skolko-plitki-nuzhno-kupit",
     "blog/keramogranit-ili-laminat",
