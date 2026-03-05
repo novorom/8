@@ -51,7 +51,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
 
   const totalStock = (product.stock_yanino ?? 0) + (product.stock_factory ?? 0)
   const hasDiscount = product.price_official && product.price_official > product.price_retail
-  const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка"].includes(product.product_type) ? "₽/шт" : "₽/м²"
+  const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type) ? "₽/шт" : "₽/м²"
 
   const productJsonLd = {
     "@context": "https://schema.org",
@@ -168,7 +168,6 @@ export function ProductPageClient({ slug }: { slug: string }) {
   ].filter((spec) => spec.value && spec.value !== "undefined" && spec.value !== "null")
 
   return (
-    <>
     <div className="bg-muted/30 min-h-screen">
       <script
         type="application/ld+json"
@@ -500,6 +499,5 @@ export function ProductPageClient({ slug }: { slug: string }) {
         productPrice={product.price_retail}
         productSku={product.sku || product.id}
       />
-    </>
   )
 }
