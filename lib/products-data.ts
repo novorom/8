@@ -6783,7 +6783,7 @@ export const products: Product[] = [
     brand: "Cersanit",
     collection: "Blend",
     style: "Современный",
-    product_type: "Плитка",
+    product_type: "Панно",
     format: "60x60",
     format_collection: "30x60",
     color: "многоцветный",
