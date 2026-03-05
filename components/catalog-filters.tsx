@@ -22,12 +22,16 @@ interface CatalogFiltersProps {
   activeFilters: Record<string, string[]>
   onFilterChange: (key: string, value: string) => void
   onClearAll: () => void
+  priceRange: [number, number]
+  onPriceRangeChange: (range: [number, number]) => void
 }
 
 export function CatalogFilters({
   activeFilters,
   onFilterChange,
   onClearAll,
+  priceRange,
+  onPriceRangeChange,
 }: CatalogFiltersProps) {
   const [openSections, setOpenSections] = useState<string[]>(["product_types", "colors"])
 
@@ -55,6 +59,42 @@ export function CatalogFilters({
       </div>
 
       {/* Filter Sections */}
+      {/* Price range */}
+      <div className="pb-4 mb-4 border-b border-border">
+        <div className="flex items-center justify-between mb-3">
+          <span className="text-sm font-medium text-foreground">Цена</span>
+          <span className="text-xs text-muted-foreground">
+            {priceRange[0].toLocaleString("ru-RU")} — {priceRange[1].toLocaleString("ru-RU")} ₽
+          </span>
+        </div>
+        <div className="px-1 space-y-2">
+          <input
+            type="range"
+            min={400}
+            max={9500}
+            step={100}
+            value={priceRange[0]}
+            onChange={(e) => {
+              const val = Number(e.target.value)
+              if (val < priceRange[1]) onPriceRangeChange([val, priceRange[1]])
+            }}
+            className="w-full h-1.5 accent-primary cursor-pointer"
+          />
+          <input
+            type="range"
+            min={400}
+            max={9500}
+            step={100}
+            value={priceRange[1]}
+            onChange={(e) => {
+              const val = Number(e.target.value)
+              if (val > priceRange[0]) onPriceRangeChange([priceRange[0], val])
+            }}
+            className="w-full h-1.5 accent-primary cursor-pointer"
+          />
+        </div>
+      </div>
+
       {filterSections.map((section) => (
         <div key={section.key} className="pb-4 mb-4 border-b border-border last:border-0">
           <button
