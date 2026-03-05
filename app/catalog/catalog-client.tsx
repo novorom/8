@@ -38,6 +38,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
   }, [productType, collectionSlug])
 
   const [activeFilters, setActiveFilters] = useState<Record<string, string[]>>(initialFilters)
+  const [priceRange, setPriceRange] = useState<[number, number]>([400, 9500])
 
   useEffect(() => {
     const filters: Record<string, string[]> = {}
@@ -121,6 +122,11 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
       })
     })
 
+    // Price filter
+    result = result.filter(
+      (p) => p.price_retail >= priceRange[0] && p.price_retail <= priceRange[1]
+    )
+
     switch (sort) {
       case "price_asc":
         result.sort((a, b) => a.price_retail - b.price_retail)
@@ -140,7 +146,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
     }
 
     return result
-  }, [searchQuery, activeFilters, sort, products, initialProducts])
+  }, [searchQuery, activeFilters, sort, products, initialProducts, priceRange])
 
   const totalActiveFilters = Object.values(activeFilters).flat().length
 
@@ -251,6 +257,8 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
                 activeFilters={activeFilters}
                 onFilterChange={handleFilterChange}
                 onClearAll={handleClearAll}
+                priceRange={priceRange}
+                onPriceRangeChange={setPriceRange}
               />
             </div>
           </div>
@@ -292,6 +300,8 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
           activeFilters={activeFilters}
           onFilterChange={handleFilterChange}
           onClearAll={handleClearAll}
+          priceRange={priceRange}
+          onPriceRangeChange={setPriceRange}
         />
       </MobileFilterDrawer>
     </div>
