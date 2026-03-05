@@ -10,7 +10,7 @@ interface ProductCardProps {
   priority?: boolean
 }
 
-const PCS_TYPES = ["Мозаика", "Ступень", "Плинтус", "Вставка"]
+const PCS_TYPES = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"]
 
 export function ProductCard({ product, priority = false }: ProductCardProps) {
   const [isFavorite, setIsFavorite] = useState(false)
