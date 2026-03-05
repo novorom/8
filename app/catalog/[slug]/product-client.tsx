@@ -20,6 +20,7 @@ import { InteriorPhotos } from "@/components/interior-photos"
 import { ProductCard } from "@/components/product-card"
 import { useCart } from "@/lib/cart-context"
 import { useProducts } from "@/lib/products-context"
+import { QuickBuyModal } from "@/components/quick-buy-modal"
 
 type TabId = "description" | "specs" | "delivery"
 
@@ -28,6 +29,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
   const { addItem } = useCart()
   const { products } = useProducts()
   const product = products.find((p) => p.slug === slug) || products[0]
+  const [isQuickBuyOpen, setIsQuickBuyOpen] = useState(false)
   const [activeTab, setActiveTab] = useState<TabId>("description")
   const [quantity, setQuantity] = useState(1)
   const [isFavorite, setIsFavorite] = useState(false)
@@ -330,6 +332,14 @@ export function ProductPageClient({ slug }: { slug: string }) {
               </button>
             </div>
 
+            {/* Купить в 1 клик */}
+            <button
+              onClick={() => setIsQuickBuyOpen(true)}
+              className="w-full h-11 rounded-xl border-2 border-primary text-primary font-medium text-sm hover:bg-primary/5 transition-colors"
+            >
+              Купить в 1 клик
+            </button>
+
             {/* ── ИКОНКИ ХАРАКТЕРИСТИК ── */}
             <ProductSpecIcons
               surface={product.surface}
@@ -482,5 +492,12 @@ export function ProductPageClient({ slug }: { slug: string }) {
         )}
       </div>
     </div>
+      <QuickBuyModal
+        isOpen={isQuickBuyOpen}
+        onClose={() => setIsQuickBuyOpen(false)}
+        productName={product.name}
+        productPrice={product.price_retail}
+        productSku={product.sku || product.id}
+      />
   )
 }
