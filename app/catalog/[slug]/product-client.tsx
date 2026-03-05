@@ -168,6 +168,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
   ].filter((spec) => spec.value && spec.value !== "undefined" && spec.value !== "null")
 
   return (
+    <>
     <div className="bg-muted/30 min-h-screen">
       <script
         type="application/ld+json"
@@ -499,5 +500,6 @@ export function ProductPageClient({ slug }: { slug: string }) {
         productPrice={product.price_retail}
         productSku={product.sku || product.id}
       />
+    </>
   )
 }
