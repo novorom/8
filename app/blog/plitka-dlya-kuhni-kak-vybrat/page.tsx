@@ -5,10 +5,10 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://cersanit-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Плитка для кухни: как выбрать для пола и фартука | Дом Плитки СПб",
-  description: "Как выбрать плитку для кухонного пола и фартука: материал, цвет, скользкость, жаростойкость. Лучшие коллекции Cersanit для кухни. Примеры и цены.",
-  alternates: { canonical: `${SITE_URL}/blog/plitka-dlya-kuhni-kak-vybrat` },
-  openGraph: { title: "Плитка для кухни: как выбрать", url: `${SITE_URL}/blog/plitka-dlya-kuhni-kak-vybrat`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "article" },
+  title: "Керамогранит под дерево или ламинат — что лучше для пола? | Дом Плитки СПб",
+  description: "Сравниваем керамогранит под дерево и ламинат: срок службы, влагостойкость, цена, уход. Что выбрать для ванной, кухни, гостиной в 2025 году.",
+  alternates: { canonical: `${SITE_URL}/blog/keramogranit-ili-laminat` },
+  openGraph: { title: "Керамогранит под дерево или ламинат — что лучше?", url: `${SITE_URL}/blog/keramogranit-ili-laminat`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "article" },
 }
 
 export default function Article() {
@@ -16,11 +16,11 @@ export default function Article() {
     <div className="min-h-screen bg-background">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "Article",
-        headline: "Плитка для кухни: как выбрать для пола и фартука",
-        description: "Полный гид по выбору плитки для кухни.",
+        headline: "Керамогранит под дерево или ламинат — что лучше для пола?",
+        description: "Детальное сравнение керамогранита и ламината по 8 параметрам.",
         publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: SITE_URL },
-        mainEntityOfPage: `${SITE_URL}/blog/plitka-dlya-kuhni-kak-vybrat`,
-        datePublished: "2025-03-05",
+        mainEntityOfPage: `${SITE_URL}/blog/keramogranit-ili-laminat`,
+        datePublished: "2025-02-20",
         author: { "@type": "Organization", name: "Дом Плитки CERSANIT" },
       })}} />
 
@@ -31,86 +31,100 @@ export default function Article() {
             <ChevronRight className="h-3.5 w-3.5" />
             <Link href="/blog" className="hover:text-primary">Блог</Link>
             <ChevronRight className="h-3.5 w-3.5" />
-            <span className="text-foreground font-medium">Плитка для кухни</span>
+            <span className="text-foreground font-medium">Керамогранит или ламинат</span>
           </nav>
         </div>
       </div>
 
       <article className="mx-auto max-w-3xl px-4 py-12 lg:py-16">
         <header className="mb-10">
-          <div className="text-sm text-muted-foreground mb-3">8 минут чтения · Советы по выбору</div>
-          <h1 className="text-3xl lg:text-4xl font-bold text-foreground leading-tight mb-4">Плитка для кухни: пол и фартук</h1>
-          <p className="text-lg text-muted-foreground leading-relaxed">Кухня — самое эксплуатируемое место в доме. Разбираем требования к плитке и лучшие варианты из каталога Cersanit.</p>
+          <div className="text-sm text-muted-foreground mb-3">7 минут чтения · Сравнение материалов</div>
+          <h1 className="text-3xl lg:text-4xl font-bold text-foreground leading-tight mb-4">Керамогранит под дерево или ламинат: что выбрать?</h1>
+          <p className="text-lg text-muted-foreground leading-relaxed">Честное сравнение двух популярных напольных покрытий по цене, сроку службы, уходу и применению.</p>
         </header>
 
         <div className="flex flex-col gap-8 text-foreground/80">
+
           <section>
-            <h2 className="text-2xl font-bold text-foreground mb-4">Требования к плитке для кухни</h2>
+            <h2 className="text-2xl font-bold text-foreground mb-4">Быстрое сравнение</h2>
+            <div className="overflow-x-auto">
+              <table className="w-full text-sm border-collapse">
+                <thead>
+                  <tr className="bg-muted">
+                    <th className="text-left p-3 border border-border font-medium">Параметр</th>
+                    <th className="text-left p-3 border border-border font-medium text-primary">Керамогранит</th>
+                    <th className="text-left p-3 border border-border font-medium">Ламинат</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {[
+                    ["Срок службы", "30–50 лет", "7–15 лет"],
+                    ["Влагостойкость", "Полная — не боится воды", "Средняя — разбухает"],
+                    ["Уход", "Простой — любые средства", "Нельзя лить воду"],
+                    ["Цена материала", "От 850 ₽/м²", "От 600 ₽/м²"],
+                    ["Укладка", "Требует плиточника", "Можно самому"],
+                    ["Тёплый пол", "Идеально совместим", "Ограниченно"],
+                    ["Ремонт", "Трудно заменить 1 плитку", "Легко заменить доску"],
+                    ["Балкон/улица", "Подходит (морозостойкий)", "Не подходит"],
+                  ].map(([p, k, l]) => (
+                    <tr key={p} className="hover:bg-muted/50">
+                      <td className="p-3 border border-border font-medium text-foreground">{p}</td>
+                      <td className="p-3 border border-border text-primary">{k}</td>
+                      <td className="p-3 border border-border">{l}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+
+          <section>
+            <h2 className="text-2xl font-bold text-foreground mb-4">Где керамогранит выигрывает однозначно</h2>
             <ul className="flex flex-col gap-3 ml-4">
-              <li>• <strong>Влагостойкость</strong> — на кухне постоянно влага от мойки, готовки. Все плитки Cersanit влагостойкие.</li>
-              <li>• <strong>Жиростойкость</strong> — поверхность должна легко отмываться от жира. Матовые и полуполированные поверхности лучше скрывают пятна.</li>
-              <li>• <strong>Механическая прочность пола</strong> — PEI 4–5 для зон с высокой нагрузкой. Керамогранит подходит идеально.</li>
-              <li>• <strong>Нескользкий пол</strong> — класс скользкости R9 минимум. Рядом с мойкой — R10.</li>
-              <li>• <strong>Термостойкость фартука</strong> — плитка за плитой должна выдерживать тепло. Керамическая плитка и керамогранит — без проблем.</li>
+              <li>• <strong>Ванная и санузел</strong> — ламинат здесь нельзя категорически. Постоянная влага разрушает его за 2–3 года.</li>
+              <li>• <strong>Кухня</strong> — разлитая вода, жирные брызги, частая уборка с водой. Керамогранит переносит это без следов.</li>
+              <li>• <strong>Прихожая</strong> — грязь с улицы, снег, лужи от обуви. Керамогранит легко моется, не деформируется.</li>
+              <li>• <strong>Балкон и лоджия</strong> — только керамогранит. Ламинат разрушится от первых же перепадов температуры.</li>
+              <li>• <strong>Тёплый пол</strong> — керамогранит идеально передаёт тепло. Ламинат — только специальные серии, и греть можно до 27°C.</li>
             </ul>
           </section>
 
           <section>
-            <h2 className="text-2xl font-bold text-foreground mb-4">Пол на кухне: что выбрать</h2>
-            <p className="leading-relaxed mb-3">Лучший выбор — <strong>матовый керамогранит</strong>. Не скользит, скрывает следы, легко моется, долго служит.</p>
-            <p className="leading-relaxed mb-3">Популярные варианты из каталога Cersanit:</p>
-            <ul className="flex flex-col gap-2 ml-4">
-              <li>• <strong>Lofthouse 29,7×59,8 см</strong> — серый камень, матовый, рельеф. Скрывает все следы. Отличный выбор для современной кухни.</li>
-              <li>• <strong>Wood Concept 21,8×89,8 см</strong> — керамогранит под паркет. Тёплый вид, нескользкий, легко моется.</li>
-              <li>• <strong>Colorwood 18×60 см</strong> — яркие оттенки под дерево, хорошо в скандинавских интерьерах.</li>
-              <li>• <strong>Soft Concrete 60×120 см</strong> — для больших открытых кухонь. Серый бетон, минимализм.</li>
+            <h2 className="text-2xl font-bold text-foreground mb-4">Где ламинат имеет преимущества</h2>
+            <ul className="flex flex-col gap-3 ml-4">
+              <li>• <strong>Спальня</strong> — ламинат теплее под ногами, тише при ходьбе, проще уложить самостоятельно.</li>
+              <li>• <strong>Небольшой бюджет и срочный ремонт</strong> — ламинат дешевле по укладке, можно обойтись без плиточника.</li>
+              <li>• <strong>Аренда и временное жильё</strong> — короткий горизонт использования, нет смысла переплачивать.</li>
             </ul>
           </section>
 
           <section>
-            <h2 className="text-2xl font-bold text-foreground mb-4">Фартук: главная декоративная зона</h2>
-            <p className="leading-relaxed mb-3">Фартук — от столешницы до нижнего края навесных шкафов, обычно 60–70 см. Иногда до потолка — для более цельного вида.</p>
-            <p className="leading-relaxed mb-3"><strong>Что хорошо работает на фартуке:</strong></p>
-            <ul className="flex flex-col gap-2 ml-4">
-              <li>• Плитка под мрамор (Calacatta) — вечная классика, легко протирается</li>
-              <li>• Плитка под бетон (Lofthouse) — трендовый лофт-стиль</li>
-              <li>• Мозаика — создаёт акцент, визуально интересно</li>
-              <li>• Длинная плитка 30×60 вертикально — визуально поднимает потолок</li>
-            </ul>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-bold text-foreground mb-4">Сочетание пола и фартука</h2>
-            <div className="flex flex-col gap-4">
-              {[
-                { style: "Современная кухня в серых тонах", floor: "Soft Concrete 60×120 или Lofthouse 30×60", apron: "Lofthouse 30×60 или Deep Calacatta 60×120" },
-                { style: "Светлая скандинавская кухня", floor: "Wood Concept Natural 22×90", apron: "Calacatta 30×60 или белая плитка вертикально" },
-                { style: "Классическая белая кухня", floor: "Silvia белый 60×60", apron: "Calacatta 30×60 с вставками мозаики" },
-                { style: "Яркая кухня-гостиная", floor: "Керамогранит под дерево 60×120", apron: "Мозаика Royal Stone как акцент" },
-              ].map(item => (
-                <div key={item.style} className="border border-border rounded-xl p-4">
-                  <div className="font-semibold text-foreground mb-2">{item.style}</div>
-                  <div className="text-sm text-muted-foreground">Пол: {item.floor}</div>
-                  <div className="text-sm text-muted-foreground">Фартук: {item.apron}</div>
-                </div>
-              ))}
+            <h2 className="text-2xl font-bold text-foreground mb-4">Экономика: что дешевле за 20 лет?</h2>
+            <p className="leading-relaxed mb-3">Ламинат стоит дешевле при покупке, но за 20 лет его придётся заменить 1–2 раза. Керамогранит вы укладываете один раз и забываете.</p>
+            <div className="bg-muted/50 rounded-xl p-5">
+              <p className="font-medium text-foreground mb-3">Пример для 50 м² за 20 лет:</p>
+              <ul className="flex flex-col gap-2 text-sm">
+                <li>• Ламинат: 600 ₽/м² × 50 м² × 2 замены + укладка = ~130 000 ₽</li>
+                <li>• Керамогранит: 1 200 ₽/м² × 50 м² + укладка = ~90 000 ₽</li>
+              </ul>
+              <p className="text-sm text-muted-foreground mt-3">Керамогранит выгоднее уже в 10-летней перспективе.</p>
             </div>
           </section>
 
           <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6 text-center">
-            <p className="font-semibold text-foreground mb-2">Подберём плитку для вашей кухни</p>
-            <p className="text-muted-foreground text-sm mb-4">Скажите стиль и размеры — предложим 2–3 варианта с расчётом</p>
-            <a href="tel:+79052050900" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors">
-              +7 (905) 205-09-00
-            </a>
+            <p className="font-semibold text-foreground mb-2">Подберём керамогранит под дерево под ваш бюджет</p>
+            <p className="text-muted-foreground text-sm mb-4">48 позиций в наличии — от 1098 до 1610 ₽/м²</p>
+            <Link href="/keramogranit-pod-derevo-spb" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors">
+              Смотреть каталог →
+            </Link>
           </div>
 
           <div className="border-t border-border pt-6">
             <p className="text-sm font-medium text-foreground mb-3">Читайте также:</p>
             <div className="flex flex-col gap-2">
-              <Link href="/plitka-dlya-kuhni-spb" className="text-primary hover:underline text-sm">→ Каталог плитки для кухни</Link>
-              <Link href="/blog/formaty-plitki" className="text-primary hover:underline text-sm">→ Какой формат плитки выбрать</Link>
-              <Link href="/blog/skolko-plitki-nuzhno-kupit" className="text-primary hover:underline text-sm">→ Расчёт количества плитки</Link>
+              <Link href="/blog/kak-vybrat-plitku-dlya-vannoj" className="text-primary hover:underline text-sm">→ Как выбрать плитку для ванной</Link>
+              <Link href="/keramogranit-pod-derevo-spb" className="text-primary hover:underline text-sm">→ Керамогранит под дерево — каталог</Link>
+              <Link href="/plitka-pod-derevo-spb" className="text-primary hover:underline text-sm">→ Плитка под дерево в СПб</Link>
             </div>
           </div>
         </div>
@@ -119,9 +133,9 @@ export default function Article() {
               <div className="mt-10 p-5 rounded-xl bg-muted/50 border border-border">
                 <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
                 <div className="flex flex-col gap-2">
-                  {<Link key="/catalog/plitka-deco-chernyy-30x60" href="/catalog/plitka-deco-chernyy-30x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Плитка Deco черный рельеф 30x60</span><span className="text-primary font-medium ml-3">750 ₽/м²</span></Link>
-                  <Link key="/catalog/plitka-blend-mnogotsvetnyy-30x60" href="/catalog/plitka-blend-mnogotsvetnyy-30x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Плитка Blend многоцветный 30x60</span><span className="text-primary font-medium ml-3">940 ₽/м²</span></Link>
-                  <Link key="/catalog/keramogranit-lofthouse-svetlo-seryy-30x60" href="/catalog/keramogranit-lofthouse-svetlo-seryy-30x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Lofthouse 30x60</span><span className="text-primary font-medium ml-3">1017 ₽/м²</span></Link>}
+                  <Link key="/catalog/keramogranit-wood-concept-natural-bezhevyy-22x90" href="/catalog/keramogranit-wood-concept-natural-bezhevyy-22x90" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Wood Concept Natural 22x90</span><span className="text-primary font-medium ml-3">1610 ₽/м²</span></Link>
+                  <Link key="/catalog/keramogranit-northwood-bezhevyy-18x60" href="/catalog/keramogranit-northwood-bezhevyy-18x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Northwood бежевый 18x60</span><span className="text-primary font-medium ml-3">1098 ₽/м²</span></Link>
+                  <Link key="/catalog/keramogranit-soft-concrete-svetlo-seryy-60x120" href="/catalog/keramogranit-soft-concrete-svetlo-seryy-60x120" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Soft Concrete 60x120</span><span className="text-primary font-medium ml-3">2213 ₽/м²</span></Link>
                 </div>
                 <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог →</Link>
               </div>
