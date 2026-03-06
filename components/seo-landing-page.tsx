@@ -145,6 +145,75 @@ export function SeoLandingPage({ data }: { data: SeoPageData }) {
         </div>
       </section>
 
+      {/* Популярные товары */}
+      {data.featuredProducts && data.featuredProducts.length > 0 && (
+        <section className="py-12 lg:py-16">
+          <div className="mx-auto max-w-7xl px-4">
+            <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
+              Популярные товары
+            </h2>
+            <p className="text-muted-foreground mb-8">Актуальные позиции со склада Янино</p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {data.featuredProducts.map((p) => (
+                <Link
+                  key={p.slug}
+                  href={`/catalog/${p.slug}`}
+                  className="group flex flex-col bg-card rounded-xl border border-border p-4 hover:shadow-md hover:border-primary/30 transition-all"
+                >
+                  <span className="text-sm text-muted-foreground mb-1 line-clamp-2 group-hover:text-foreground transition-colors">
+                    {p.name}
+                  </span>
+                  <span className="mt-auto pt-3 text-lg font-bold text-foreground">
+                    {p.price.toLocaleString("ru-RU")} ₽/{p.unit || "м²"}
+                  </span>
+                  <span className="text-xs text-primary mt-1 group-hover:underline">
+                    Смотреть →
+                  </span>
+                </Link>
+              ))}
+            </div>
+            <div className="mt-6">
+              <Link
+                href={data.catalogLink}
+                className="inline-flex items-center gap-2 text-sm text-primary hover:underline font-medium"
+              >
+                Весь каталог →
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Статьи по теме */}
+      {data.blogLinks && data.blogLinks.length > 0 && (
+        <section className="py-12 lg:py-16 bg-muted/30">
+          <div className="mx-auto max-w-7xl px-4">
+            <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">
+              Полезные статьи
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {data.blogLinks.map((article) => (
+                <Link
+                  key={article.href}
+                  href={article.href}
+                  className="group flex flex-col bg-card rounded-xl border border-border p-5 hover:shadow-md hover:border-primary/30 transition-all"
+                >
+                  <span className="text-base font-semibold text-foreground group-hover:text-primary transition-colors mb-2 line-clamp-2">
+                    {article.title}
+                  </span>
+                  <span className="text-sm text-muted-foreground line-clamp-3 leading-relaxed">
+                    {article.desc}
+                  </span>
+                  <span className="mt-4 text-xs text-primary font-medium group-hover:underline">
+                    Читать статью →
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* FAQ */}
       <section className="py-12 lg:py-16 bg-muted/30">
         <div className="mx-auto max-w-7xl px-4">
