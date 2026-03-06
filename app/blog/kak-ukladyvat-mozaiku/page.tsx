@@ -74,7 +74,18 @@ export default function HowToLayMosaic() {
             <Link href="/mozaika-spb" className="flex items-center gap-2 text-primary hover:underline"><ChevronRight className="h-4 w-4" />Купить мозаику Cersanit в СПб</Link>
           </div>
         </div>
-      </article>
+      
+              {/* Товары по теме */}
+              <div className="mt-10 p-5 rounded-xl bg-muted/50 border border-border">
+                <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
+                <div className="flex flex-col gap-2">
+                  {<Link key="/catalog/mozaika-lofthouse-seryy-28x25" href="/catalog/mozaika-lofthouse-seryy-28x25" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Мозаика Lofthouse серый 28x25</span><span className="text-primary font-medium ml-3">1680 ₽/м²</span></Link>
+                  <Link key="/catalog/mozaika-royal-stone-mnogotsvetnyy-30x30" href="/catalog/mozaika-royal-stone-mnogotsvetnyy-30x30" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Мозаика Royal Stone 30x30</span><span className="text-primary font-medium ml-3">1820 ₽/м²</span></Link>
+                  <Link key="/catalog/mozaika-woodhouse-korichnevyy-30x30" href="/catalog/mozaika-woodhouse-korichnevyy-30x30" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Мозаика Woodhouse коричневый 30x30</span><span className="text-primary font-medium ml-3">626 ₽/м²</span></Link>}
+                </div>
+                <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог →</Link>
+              </div>
+              </article>
     </div>
   )
 }
