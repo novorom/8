@@ -25,6 +25,11 @@ const faq = [
   { question: "Как быстро доставите в СПб?", answer: "Доставка по СПб и ЛО — 1-2 рабочих дня. Самовывоз из Янино бесплатный в день оплаты. Пн-Пт 10:00-16:45." },
 ]
 
+const BLOG_ARTICLES_PLITKA_DLYA_KUHNI_SPB = [
+            { href: "/blog/plitka-dlya-kuhni-kak-vybrat", title: "Плитка для кухни: как выбрать фартук и пол", desc: "Требования к износостойкости, простоте ухода и сочетанию с интерьером." },
+            { href: "/blog/kak-ukladyvat-plitku", title: "Как правильно укладывать плитку", desc: "Пошаговая инструкция — подготовка, клей, укладка, затирка." },
+            { href: "/blog/rekomendatsii-po-zatirke", title: "Рекомендации по затирке швов", desc: "Какую затирку выбрать и как наносить. Секреты идеальных швов." },
+          ]
 export default function PlitkaKuhnya() {
   const items = products.filter(p => p.slug && p.collection && COLLECTIONS.includes(p.collection)).sort((a,b) => b.price_retail - a.price_retail)
   return (
@@ -40,6 +45,20 @@ export default function PlitkaKuhnya() {
         <div><h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">Купить плитку для кухни в СПб</h2><p className="text-foreground/80 leading-relaxed">Склад в Янино-1 (15-20 мин от КАД). Самовывоз бесплатный. Доставка по СПб и ЛО от 1-2 рабочих дней. Бесплатный расчёт количества плитки.</p></div>
       </div></section>
       <section className="py-12 lg:py-16"><div className="mx-auto max-w-7xl px-4"><h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Частые вопросы</h2><div className="max-w-3xl flex flex-col gap-4">{faq.map((item,i) => (<details key={i} className="group rounded-xl border border-border bg-card overflow-hidden"><summary className="flex items-center justify-between cursor-pointer px-6 py-4 text-foreground font-medium hover:bg-muted/50 transition-colors"><span className="pr-4">{item.question}</span><ChevronRight className="h-4 w-4 text-muted-foreground shrink-0 transition-transform group-open:rotate-90" /></summary><div className="px-6 pb-4"><p className="text-foreground/80 leading-relaxed">{item.answer}</p></div></details>))}</div></div></section>
+            <section className="py-12 lg:py-16 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {BLOG_ARTICLES_PLITKA_DLYA_KUHNI_SPB.map((a) => (
+              <Link key={a.href} href={a.href} className="group flex flex-col bg-card rounded-xl border border-border p-5 hover:shadow-md hover:border-primary/30 transition-all">
+                <span className="text-base font-semibold text-foreground group-hover:text-primary transition-colors mb-2">{a.title}</span>
+                <span className="text-sm text-muted-foreground leading-relaxed">{a.desc}</span>
+                <span className="mt-4 text-xs text-primary font-medium group-hover:underline">Читать →</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
       <section className="py-12 lg:py-16 bg-primary text-primary-foreground"><div className="mx-auto max-w-7xl px-4 text-center"><h2 className="text-2xl lg:text-3xl font-bold mb-4">Подберём плитку для вашей кухни</h2><p className="text-primary-foreground/70 mb-8 max-w-lg mx-auto">Бесплатная консультация и расчёт количества.</p><div className="flex flex-wrap items-center justify-center gap-3"><a href={`tel:${PHONE_RAW}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors"><Phone className="h-4 w-4" /> Позвонить</a><Link href="/catalog" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-primary-foreground/30 text-primary-foreground font-medium text-sm hover:bg-primary-foreground/10 transition-colors">Весь каталог <ChevronRight className="h-4 w-4" /></Link></div></div></section>
     </div>
   )
