@@ -31,6 +31,8 @@ export interface SeoPageData {
   }[]
   catalogLink: string
   catalogLinkLabel: string
+  featuredProducts?: Array<{ slug: string; name: string; price: number; unit?: string }>
+  blogLinks?: Array<{ href: string; title: string; desc: string }>
 }
 
 export const seoPages: Record<string, SeoPageData> = {
@@ -186,6 +188,17 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?product_type=Керамогранит",
     catalogLinkLabel: "Смотреть керамогранит",
+    featuredProducts: [
+      { slug: "keramogranit-northwood-bezhevyy-18x60", name: "Керамогранит Northwood бежевый 18x60", price: 1098 },
+      { slug: "keramogranit-wood-concept-natural-bezhevyy-22x90", name: "Керамогранит Wood Concept Natural бежевый 22x90", price: 1610 },
+      { slug: "keramogranit-wood-concept-natural-pesochnyy-22x90", name: "Керамогранит Wood Concept Natural песочный 22x90", price: 1610 },
+      { slug: "keramogranit-wood-concept-natural-korichnevyy-22x90", name: "Керамогранит Wood Concept Natural коричневый 22x90", price: 1610 },
+    ],
+    blogLinks: [
+      { href: "/blog/keramogranit-ili-laminat", title: "Керамогранит или ламинат: что лучше для пола", desc: "Сравниваем по долговечности, уходу и цене. Что выбрать для квартиры в СПб." },
+      { href: "/blog/kak-ukladyvat-plitku", title: "Как правильно укладывать плитку", desc: "Пошаговая инструкция по укладке керамической плитки и керамогранита своими руками." },
+      { href: "/blog/formaty-plitki", title: "Форматы плитки: какой размер выбрать", desc: "Разбираем популярные форматы 30x60, 60x60, 60x120 — чем отличаются и для каких помещений подходят." },
+    ],
   },
 
   "plitka-dlya-vannoj-spb": {
@@ -234,6 +247,17 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Смотреть плитку для ванной",
+    featuredProducts: [
+      { slug: "plitka-calacatta-belyy-30x60", name: "Плитка Calacatta белый 30x60", price: 780 },
+      { slug: "plitka-calacatta-belyy-30x60-glyantsevaya", name: "Плитка Calacatta белый рельеф 30x60", price: 795 },
+      { slug: "keramogranit-northwood-bezhevyy-18x60", name: "Керамогранит Northwood бежевый 18x60", price: 1098 },
+      { slug: "plitka-deco-chernyy-30x60", name: "Плитка Deco черный рельеф 30x60", price: 750 },
+    ],
+    blogLinks: [
+      { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку для ванной", desc: "Советы по выбору размера, цвета и фактуры плитки для ванной комнаты." },
+      { href: "/blog/kak-ukladyvat-plitku", title: "Как правильно укладывать плитку", desc: "Пошаговая инструкция по укладке плитки своими руками. Подготовка, клей, затирка." },
+      { href: "/blog/rekomendatsii-po-zatirke", title: "Рекомендации по затирке швов", desc: "Какую затирку выбрать и как наносить. Секреты идеальных швов." },
+    ],
   },
 
   "mozaika-spb": {
@@ -277,6 +301,10 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?product_type=Мозаика",
     catalogLinkLabel: "Смотреть мозаику",
+    blogLinks: [
+      { href: "/blog/kak-ukladyvat-mozaiku", title: "Как укладывать мозаику", desc: "Технология укладки мозаики на сетке. Клей, затирка, особенности работы с мозаичной плиткой." },
+      { href: "/blog/rekomendatsii-po-zatirke", title: "Рекомендации по затирке швов", desc: "Как правильно затирать мозаику — советы мастеров." },
+    ],
   },
 
   "dostavka-plitki-spb": {
