@@ -140,7 +140,18 @@ export default function Article() {
             </div>
           </div>
         </div>
-      </article>
+      
+              {/* Товары по теме */}
+              <div className="mt-10 p-5 rounded-xl bg-muted/50 border border-border">
+                <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
+                <div className="flex flex-col gap-2">
+                  {<Link key="/catalog/plitka-calacatta-belyy-30x60" href="/catalog/plitka-calacatta-belyy-30x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Плитка Calacatta белый 30x60</span><span className="text-primary font-medium ml-3">780 ₽/м²</span></Link>
+                  <Link key="/catalog/keramogranit-northwood-bezhevyy-18x60" href="/catalog/keramogranit-northwood-bezhevyy-18x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Northwood 18x60</span><span className="text-primary font-medium ml-3">1098 ₽/м²</span></Link>
+                  <Link key="/catalog/plitka-deco-chernyy-30x60" href="/catalog/plitka-deco-chernyy-30x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Плитка Deco черный 30x60</span><span className="text-primary font-medium ml-3">750 ₽/м²</span></Link>}
+                </div>
+                <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог →</Link>
+              </div>
+              </article>
     </div>
   )
 }
