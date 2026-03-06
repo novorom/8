@@ -51,6 +51,11 @@ const faq = [
   },
 ]
 
+const BLOG_ARTICLES_PLITKA_POD_MRAMOR_SPB = [
+            { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Плитка под мрамор для ванной", desc: "Как выбрать и уложить плитку под мрамор." },
+            { href: "/blog/trendy-plitki-2025", title: "Тренды 2025: мрамор Calacatta", desc: "Calacatta — самый популярный тренд этого года." },
+            { href: "/blog/formaty-plitki", title: "Форматы плитки под мрамор", desc: "Большой формат 60x120 для максимального эффекта мрамора." },
+          ]
 export default function PlitkaПодМрамор() {
   const marbleProducts = products
     .filter((p) => p.slug && p.collection && MARBLE_COLLECTIONS.includes(p.collection))
@@ -180,6 +185,20 @@ export default function PlitkaПодМрамор() {
       </section>
 
       {/* CTA */}
+            <section className="py-12 lg:py-16 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {BLOG_ARTICLES_PLITKA_POD_MRAMOR_SPB.map((a) => (
+              <Link key={a.href} href={a.href} className="group flex flex-col bg-card rounded-xl border border-border p-5 hover:shadow-md hover:border-primary/30 transition-all">
+                <span className="text-base font-semibold text-foreground group-hover:text-primary transition-colors mb-2">{a.title}</span>
+                <span className="text-sm text-muted-foreground leading-relaxed">{a.desc}</span>
+                <span className="mt-4 text-xs text-primary font-medium group-hover:underline">Читать →</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
       <section className="py-12 lg:py-16 bg-primary text-primary-foreground">
         <div className="mx-auto max-w-7xl px-4 text-center">
           <h2 className="text-2xl lg:text-3xl font-bold mb-4">Подберём плитку под ваш проект</h2>
