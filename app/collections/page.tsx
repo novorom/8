@@ -7,6 +7,14 @@ export const metadata: Metadata = {
   description:
     "Все коллекции Cersanit в наличии на складе в Янино. Керамическая плитка, керамогранит, мозаика. Купить с доставкой по СПб и ЛО.",
   alternates: { canonical: "/collections" },
+  openGraph: {
+    title: "Коллекции плитки Cersanit — все серии в наличии в СПб",
+    description: "Calacatta, Northwood, Lofthouse, Soft Concrete и другие коллекции Cersanit на складе в Янино. Доставка по СПб от 1 дня.",
+    url: "https://cersanit-spb.ru/collections",
+    siteName: "Дом Плитки CERSANIT",
+    locale: "ru_RU",
+    type: "website",
+  },
 }
 
 export default function CollectionsPage() {
