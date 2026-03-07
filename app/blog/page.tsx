@@ -32,6 +32,7 @@ const articles = [
   { href: "/blog/kak-uhazhivat-za-keramogranitom", title: "Как ухаживать за керамогранитом", desc: "Правила ежедневного и генерального ухода за керамогранитом Cersanit. Чем мыть, что нельзя использовать, как убрать известковый налёт.", date: "2025-03-20", time: "4 мин" },
   { href: "/blog/skolko-plitki-nuzhno-kupit", title: "Сколько плитки нужно купить: расчёт с запасом", desc: "Как рассчитать количество плитки для ванной или кухни. Формула расчёта, процент на подрезку, рекомендации по запасу.", date: "2025-03-25", time: "4 мин" },
   { href: "/blog/kak-vybrat-plitku-dlya-prihozhej", title: "Как выбрать плитку для прихожей: советы дизайнеров", desc: "Читайте на нашем сайте.", date: "2026-03-07", time: "5 мин" },
+  { href: "/blog/keramogranit-dlya-balkona-i-terraisy", title: "Керамогранит для балкона и террасы: морозостойкий и нескользкий", desc: "Читайте на нашем сайте.", date: "2026-03-07", time: "5 мин" },
 ]
 
 export default function BlogIndex() {

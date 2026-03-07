@@ -53,6 +53,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "blog/kak-uhazhivat-za-keramogranitom",
     "blog/kak-rezat-keramogranit",
     "blog/trendy-plitki-2025",
+    "blog/keramogranit-dlya-balkona-i-terraisy",
     "blog/kak-vybrat-plitku-dlya-prihozhej",
   ].map((slug) => ({
     url: `${SITE_URL}/${slug}`,
