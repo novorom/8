@@ -5,10 +5,10 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://cersanit-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Керамогранит под дерево или ламинат — что лучше для пола? | Дом Плитки СПб",
-  description: "Сравниваем керамогранит под дерево и ламинат: срок службы, влагостойкость, цена, уход. Что выбрать для ванной, кухни, гостиной в 2025 году.",
-  alternates: { canonical: `${SITE_URL}/blog/keramogranit-ili-laminat` },
-  openGraph: { title: "Керамогранит под дерево или ламинат — что лучше?", url: `${SITE_URL}/blog/keramogranit-ili-laminat`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "article" },
+  title: "Форматы плитки: как выбрать размер для комнаты | Дом Плитки СПб",
+  description: "30x60, 60x60, 60x120 — чем отличаются форматы и как размер плитки влияет на восприятие пространства. Советы по выбору формата для ванной, кухни и гостиной от официального дилера Cersanit.",
+  alternates: { canonical: `${SITE_URL}/blog/formaty-plitki` },
+  openGraph: { title: "Форматы плитки: как выбрать размер для комнаты", url: `${SITE_URL}/blog/formaty-plitki`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "article" },
 }
 
 export default function Article() {
