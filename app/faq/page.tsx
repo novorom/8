@@ -10,6 +10,14 @@ export const metadata: Metadata = {
   title: "Вопросы и ответы о плитке Cersanit | Дом Плитки СПб",
   description: "Ответы на частые вопросы о плитке и керамограните Cersanit: доставка, оплата, возврат, расчёт количества, укладка. Официальный дилер в Санкт-Петербурге.",
   alternates: { canonical: `${SITE_URL}/faq` },
+  openGraph: {
+    title: "Вопросы и ответы о плитке Cersanit | Дом Плитки СПб",
+    description: "Ответы на частые вопросы: доставка, оплата, возврат, расчёт количества плитки. Официальный дилер Cersanit в Санкт-Петербурге.",
+    url: `${SITE_URL}/faq`,
+    siteName: "Дом Плитки CERSANIT",
+    locale: "ru_RU",
+    type: "website",
+  },
 }
 
 const faqs = [
