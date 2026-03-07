@@ -1,0 +1,1614 @@
+{
+  "blog": [
+    {
+      "slug": "kak-vybrat-plitku-dlya-prihozhej",
+      "title": "Как выбрать плитку для прихожей: советы дизайнеров",
+      "keywords": "плитка для прихожей, керамогранит прихожая, плитка коридор СПб",
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-deco-chernyy-30x60",
+          "name": "Плитка Deco черный 30x60",
+          "price": "750"
+        }
+      ],
+      "used": true,
+      "related_landings": [
+        "/plitka-dlya-prihozhej-spb",
+        "/plitka-seraya-spb",
+        "/keramogranit-matovyy-spb"
+      ]
+    },
+    {
+      "slug": "keramogranit-dlya-balkona-i-terraisy",
+      "title": "Керамогранит для балкона и террасы: морозостойкий и нескользкий",
+      "keywords": "керамогранит балкон, плитка терраса, морозостойкая плитка СПб",
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        }
+      ],
+      "used": true,
+      "related_landings": [
+        "/plitka-dlya-balkona-spb",
+        "/keramogranit-matovyy-spb",
+        "/keramogranit-spb"
+      ]
+    },
+    {
+      "slug": "plitka-pod-mramor-v-interere",
+      "title": "Плитка под мрамор в интерьере: как создать роскошь без бюджета",
+      "keywords": "плитка под мрамор, керамогранит мрамор СПб, Calacatta купить",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-royal-stone-belyy-42x42",
+          "name": "Керамогранит Royal Stone белый 42x42",
+          "price": "1122"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/plitka-pod-mramor-spb",
+        "/keramogranit-pod-mramor-spb",
+        "/plitka-belaya-spb"
+      ]
+    },
+    {
+      "slug": "kak-sozdat-dizajn-vannoj-v-stile-loft",
+      "title": "Дизайн ванной в стиле лофт: плитка под бетон и кирпич",
+      "keywords": "ванная лофт плитка, плитка под бетон ванная, Lofthouse СПб",
+      "products": [
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-deco-chernyy-30x60",
+          "name": "Плитка Deco черный 30x60",
+          "price": "750"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/plitka-pod-beton-spb",
+        "/plitka-seraya-spb",
+        "/plitka-dlya-vannoj-spb"
+      ]
+    },
+    {
+      "slug": "morozostojkaya-plitka-dlya-ulicy",
+      "title": "Морозостойкая плитка для улицы: что выбрать в Санкт-Петербурге",
+      "keywords": "морозостойкая плитка, уличная плитка СПб, керамогранит улица",
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/plitka-dlya-balkona-spb",
+        "/keramogranit-pod-derevo-spb",
+        "/keramogranit-60x60-spb"
+      ]
+    },
+    {
+      "slug": "kak-vybrat-zatirku-po-cvetu",
+      "title": "Как выбрать цвет затирки: советы по подбору к плитке",
+      "keywords": "цвет затирки плитка, затирка швов, выбор затирки СПб",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-woodhouse-korichnevyy-30x30",
+          "name": "Мозаика Woodhouse коричневый 30x30",
+          "price": "626"
+        },
+        {
+          "slug": "plitka-deco-chernyy-30x60",
+          "name": "Плитка Deco черный 30x60",
+          "price": "750"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-dlya-doma-chastnogo",
+      "title": "Плитка для частного дома: что выбрать для каждой комнаты",
+      "keywords": "плитка частный дом СПб, керамогранит дом, плитка пол стены",
+      "products": [
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "kak-ukladyvat-keramogranit-elochkoy",
+      "title": "Укладка керамогранита ёлочкой и диагональю: пошаговая инструкция",
+      "keywords": "укладка ёлочкой керамогранит, диагональная укладка плитки, укладка плитки СПб",
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "kak-vybrat-keramogranit-dlya-pola",
+      "title": "Как выбрать керамогранит для пола: полный гид покупателя 2026",
+      "keywords": "керамогранит для пола, выбор керамогранита, купить керамогранит СПб",
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/keramogranit-matovyy-spb",
+        "/keramogranit-60x60-spb"
+      ]
+    },
+    {
+      "slug": "mozaika-v-vannoj-dizajn-idei",
+      "title": "Мозаика в ванной: идеи дизайна и советы по укладке",
+      "keywords": "мозаика ванная комната, мозаика для ванной СПб, дизайн мозаика",
+      "products": [
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "mozaika-woodhouse-korichnevyy-30x30",
+          "name": "Мозаика Woodhouse коричневый 30x30",
+          "price": "626"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-v-stile-skandinavskogo-dizajna",
+      "title": "Плитка в скандинавском стиле: светлая, матовая, минималистичная",
+      "keywords": "плитка скандинавский стиль, светлая плитка ванная, минимализм плитка СПб",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "kak-rasschitat-kolichestvo-kleya-dlya-plitki",
+      "title": "Как рассчитать количество клея для плитки и керамогранита",
+      "keywords": "расчёт клея плитка, сколько клея на плитку, плиточный клей СПб",
+      "products": [
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-na-kuhne-fartuk-idei",
+      "title": "Плитка на кухне: 10 идей для фартука в 2026 году",
+      "keywords": "плитка фартук кухня, кухонный фартук плитка, плитка кухня СПб",
+      "products": [
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "plitka-deco-chernyy-30x60",
+          "name": "Плитка Deco черный 30x60",
+          "price": "750"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "krupnoformatnaya-plitka-60x120-preimushchestva",
+      "title": "Крупноформатная плитка 60x120: преимущества и особенности укладки",
+      "keywords": "плитка 60x120, крупный формат плитка, керамогранит 60x120 СПб",
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "kak-ukhozhat-za-mozoaika",
+      "title": "Как ухаживать за мозаикой в ванной: советы по чистке",
+      "keywords": "уход мозаика, чистка мозаики ванная, мозаика швы уход",
+      "products": [
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "mozaika-woodhouse-korichnevyy-30x30",
+          "name": "Мозаика Woodhouse коричневый 30x30",
+          "price": "626"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-dlya-malenkoj-vannoj",
+      "title": "Плитка для маленькой ванной: как визуально увеличить пространство",
+      "keywords": "плитка маленькая ванная, плитка увеличить пространство, маленькая ванная дизайн",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "keramogranit-pod-parket-v-interere",
+      "title": "Керамогранит под паркет: натуральный вид без забот об уходе",
+      "keywords": "керамогранит под паркет, плитка под дерево пол, Wood Concept СПб",
+      "products": [
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "mozaika-woodhouse-korichnevyy-30x30",
+          "name": "Мозаика Woodhouse коричневый 30x30",
+          "price": "626"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "chto-takoe-rektifikat-i-zachem-on-nuzhen",
+      "title": "Что такое ректификат в плитке и зачем он нужен",
+      "keywords": "ректификат плитка, ректифицированная плитка, ректификат керамогранит",
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "kak-vybrat-plitku-dlya-doma-s-detmi",
+      "title": "Плитка в доме с детьми: нескользкая, прочная, практичная",
+      "keywords": "нескользкая плитка, плитка дети, безопасная плитка пол СПб",
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "skolko-stoit-ukladka-plitki-v-spb",
+      "title": "Сколько стоит укладка плитки в Санкт-Петербурге в 2026 году",
+      "keywords": "стоимость укладки плитки СПб, цена укладки керамогранита, плиточник СПб",
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "keramicheskaya-plitka-ili-keramogranit-razlichiya",
+      "title": "Керамическая плитка или керамогранит: в чём разница",
+      "keywords": "плитка или керамогранит отличия, что лучше плитка керамогранит, выбор",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "kak-oformit-sovmeshhenny-sanuzl",
+      "title": "Как оформить совмещённый санузел плиткой: идеи и советы",
+      "keywords": "плитка совмещённый санузел, дизайн санузел плитка, санузел СПб",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-v-spalne-na-pole",
+      "title": "Плитка в спальне вместо ламината: плюсы и минусы",
+      "keywords": "плитка спальня, керамогранит спальня пол, плитка вместо ламината",
+      "products": [
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "gde-kupit-plitku-v-spb-nedorogo",
+      "title": "Где купить плитку в Санкт-Петербурге недорого: советы покупателю",
+      "keywords": "купить плитку СПб недорого, магазин плитки СПб, плитка со склада СПб",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "mozaika-woodhouse-korichnevyy-30x30",
+          "name": "Мозаика Woodhouse коричневый 30x30",
+          "price": "626"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-cersanit-otzyvy-pokupatelej",
+      "title": "Плитка Cersanit: отзывы покупателей и опыт использования",
+      "keywords": "Cersanit отзывы, плитка Cersanit качество, керамогранит Cersanit СПб",
+      "products": [
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/katalog"
+      ]
+    },
+    {
+      "slug": "plitka-dlya-vannoy-bez-dizajnera",
+      "title": "Плитка для ванной без дизайнера: как не ошибиться с выбором",
+      "keywords": "плитка ванная без дизайнера, выбор плитки ванная, плитка ванная советы",
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false,
+      "related_landings": [
+        "/plitka-dlya-vannoj-spb",
+        "/plitka-nastennaya-spb",
+        "/plitka-dlya-dushi-spb"
+      ]
+    },
+    {
+      "slug": "plitka-pod-kamen-v-interere",
+      "title": "Плитка под камень в интерьере: природный стиль без природного камня",
+      "keywords": "плитка под камень, керамогранит под камень СПб, натуральный камень имитация",
+      "related_landings": [
+        "/plitka-pod-kamen-spb",
+        "/keramogranit-matovyy-spb",
+        "/plitka-seraya-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-pamir-seryy-60x60",
+          "name": "Керамогранит Pamir серый 60x60",
+          "price": "1680"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-bejzevaya-v-interere",
+      "title": "Бежевая плитка в интерьере: тепло и уют в каждой комнате",
+      "keywords": "бежевая плитка СПб, керамогранит бежевый, плитка теплых оттенков",
+      "related_landings": [
+        "/keramogranit-pod-derevo-spb",
+        "/plitka-pod-kamen-spb",
+        "/keramogranit-matovyy-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-cameo-svetlo-bezhevyy-60x60",
+          "name": "Керамогранит Cameo светло-бежевый 60x60",
+          "price": "1450"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kak-vybrat-format-plitki-dlya-komnaty",
+      "title": "Как выбрать формат плитки для комнаты: полное руководство",
+      "keywords": "формат плитки, размер плитки для ванной, какой формат выбрать",
+      "related_landings": [
+        "/keramogranit-60x120-spb",
+        "/keramogranit-60x60-spb",
+        "/keramogranit-45x90-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-balkona-bez-otopleniya",
+      "title": "Плитка для балкона без отопления: морозостойкость и надёжность",
+      "keywords": "плитка для балкона, морозостойкая плитка балкон СПб, керамогранит балкон",
+      "related_landings": [
+        "/plitka-dlya-balkona-spb",
+        "/keramogranit-matovyy-spb",
+        "/keramogranit-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kak-sdelat-accent-stenu-iz-plitki",
+      "title": "Акцентная стена из плитки: как выделить зону без ремонта всей комнаты",
+      "keywords": "акцентная стена плитка, плитка акцент СПб, декоративная стена плитка",
+      "related_landings": [
+        "/plitka-nastennaya-spb",
+        "/mozaika-spb",
+        "/plitka-pod-mramor-spb"
+      ],
+      "products": [
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-v-tualete-malaya-ploshhad",
+      "title": "Плитка в туалете: как оформить маленькое пространство стильно",
+      "keywords": "плитка для туалета, плитка в санузел СПб, маленький туалет плитка",
+      "related_landings": [
+        "/plitka-dlya-vannoj-spb",
+        "/plitka-nastennaya-spb",
+        "/plitka-belaya-spb"
+      ],
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "antiskolzyashhaya-plitka-dlya-doma",
+      "title": "Нескользкая плитка для дома: безопасность на полу в ванной и прихожей",
+      "keywords": "нескользкая плитка, антискользящий керамогранит СПб, плитка R10 R11",
+      "related_landings": [
+        "/plitka-dlya-dushi-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/keramogranit-matovyy-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kak-ukladyvat-plitku-diagonalyu",
+      "title": "Укладка плитки по диагонали: эффект и нюансы монтажа",
+      "keywords": "укладка плитки диагональ, плитка по диагонали СПб, диагональная раскладка",
+      "related_landings": [
+        "/keramogranit-60x60-spb",
+        "/keramogranit-matovyy-spb",
+        "/plitka-dlya-prihozhej-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-cersanit-preimushhestva",
+      "title": "Почему Cersanit: преимущества плитки польского производителя",
+      "keywords": "Cersanit плитка, Cersanit качество, плитка Церсанит СПб отзывы",
+      "related_landings": [
+        "/keramogranit-spb",
+        "/magazin-plitki-spb",
+        "/plitka-yanino-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "temnyj-keramogranit-v-interere",
+      "title": "Тёмный керамогранит в интерьере: смелые решения для современного дома",
+      "keywords": "тёмная плитка, чёрный керамогранит СПб, антрацит плитка интерьер",
+      "related_landings": [
+        "/plitka-seraya-spb",
+        "/keramogranit-matovyy-spb",
+        "/plitka-pod-beton-spb"
+      ],
+      "products": [
+        {
+          "slug": "plitka-deco-chernyy-30x60",
+          "name": "Плитка Deco черный 30x60",
+          "price": "750"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-bassejnov-i-saun",
+      "title": "Плитка для бассейна и сауны: что выбрать в Санкт-Петербурге",
+      "keywords": "плитка для бассейна, мозаика для сауны СПб, влагостойкая плитка",
+      "related_landings": [
+        "/mozaika-spb",
+        "/plitka-dlya-dushi-spb",
+        "/keramogranit-matovyy-spb"
+      ],
+      "products": [
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kak-vybrat-plitku-pod-stil-interera",
+      "title": "Плитка под стиль интерьера: современный, классика, лофт, скандинавский",
+      "keywords": "плитка для стиля интерьера, современная плитка СПб, классическая плитка",
+      "related_landings": [
+        "/plitka-pod-mramor-spb",
+        "/plitka-pod-beton-spb",
+        "/keramogranit-pod-derevo-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "skolko-vremeni-zanimaet-ukladka-plitki",
+      "title": "Сколько времени занимает укладка плитки: сроки и нормы",
+      "keywords": "сроки укладки плитки, сколько кладут плитку в день, укладка плитки СПб",
+      "related_landings": [
+        "/plitka-dlya-vannoj-spb",
+        "/keramogranit-spb",
+        "/plitka-yanino-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "teplovoj-rasshireniya-plitki-shhvy",
+      "title": "Зачем нужны швы при укладке плитки: деформационные и затирочные",
+      "keywords": "швы плитки, зазор при укладке плитки, деформационный шов плитка",
+      "related_landings": [
+        "/keramogranit-spb",
+        "/keramogranit-matovyy-spb",
+        "/magazin-plitki-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-v-gostinoj-na-pol",
+      "title": "Плитка в гостиной на пол: как не пожалеть о выборе",
+      "keywords": "плитка в гостиной, керамогранит гостиная СПб, пол в зале плитка",
+      "related_landings": [
+        "/keramogranit-60x120-spb",
+        "/plitka-pod-mramor-spb",
+        "/keramogranit-matovyy-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "gde-kupit-plitku-optom-v-spb",
+      "title": "Где купить плитку оптом в Санкт-Петербурге: советы и цены",
+      "keywords": "плитка оптом СПб, купить плитку оптом Петербург, оптовая плитка Янино",
+      "related_landings": [
+        "/plitka-yanino-spb",
+        "/magazin-plitki-spb",
+        "/dostavka-plitki-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-mozaika-dlya-kuhonnogo-fartuka",
+      "title": "Мозаика для кухонного фартука: красиво, практично и оригинально",
+      "keywords": "мозаика фартук кухня, мозаика для кухни СПб, кухонный фартук мозаика",
+      "related_landings": [
+        "/mozaika-spb",
+        "/plitka-nastennaya-spb",
+        "/plitka-dlya-kuhni-spb"
+      ],
+      "products": [
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "polirovannyj-keramogranit-plyusy-minusy",
+      "title": "Полированный керамогранит: плюсы, минусы и где применять",
+      "keywords": "полированный керамогранит, глянцевая плитка СПб, полированный пол плитка",
+      "related_landings": [
+        "/keramogranit-spb",
+        "/keramogranit-matovyy-spb",
+        "/keramogranit-60x60-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-royal-stone-belyy-42x42",
+          "name": "Керамогранит Royal Stone белый 42x42",
+          "price": "1122"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kak-podgotovit-osnovaniya-dlya-plitki",
+      "title": "Как подготовить основание под плитку: пол и стены",
+      "keywords": "подготовка основания плитка, стяжка под плитку, грунтовка под плитку",
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/magazin-plitki-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-kryltsa-i-vhoda",
+      "title": "Плитка для крыльца и входной группы: надёжность в любую погоду",
+      "keywords": "плитка для крыльца, плитка вход в дом СПб, уличная плитка крыльцо",
+      "related_landings": [
+        "/plitka-dlya-balkona-spb",
+        "/keramogranit-matovyy-spb",
+        "/plitka-yanino-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-derevyannogo-doma",
+      "title": "Плитка в деревянном доме: особенности укладки и выбора",
+      "keywords": "плитка в деревянном доме, укладка плитки деревянный пол, плитка дача СПб",
+      "related_landings": [
+        "/keramogranit-pod-derevo-spb",
+        "/keramogranit-matovyy-spb",
+        "/plitka-dlya-balkona-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kombinirovaniye-plitki-v-odnom-pomeshhenii",
+      "title": "Комбинирование плитки в одной комнате: как сочетать цвета и фактуры",
+      "keywords": "комбинирование плитки, сочетание плитки в ванной, два вида плитки",
+      "related_landings": [
+        "/plitka-dlya-vannoj-spb",
+        "/mozaika-spb",
+        "/plitka-nastennaya-spb"
+      ],
+      "products": [
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "rektifikaciya-chto-eto-i-zachem",
+      "title": "Ректификация плитки: что это такое и почему важно при выборе",
+      "keywords": "ректификат плитка, ректифицированная плитка СПб, что такое ректификация",
+      "related_landings": [
+        "/keramogranit-60x120-spb",
+        "/keramogranit-matovyy-spb",
+        "/keramogranit-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "vodopogloshhenie-plitki-chto-znachit",
+      "title": "Водопоглощение плитки: что означает этот показатель и как выбрать",
+      "keywords": "водопоглощение плитки, керамогранит водостойкость, плитка для влажных помещений",
+      "related_landings": [
+        "/plitka-dlya-vannoj-spb",
+        "/plitka-dlya-dushi-spb",
+        "/keramogranit-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-v-novostrojke-sovety",
+      "title": "Плитка в новостройке: советы по выбору с учётом усадки дома",
+      "keywords": "плитка в новостройке, усадка дома плитка, выбор плитки новостройка СПб",
+      "related_landings": [
+        "/keramogranit-spb",
+        "/plitka-dlya-vannoj-spb",
+        "/plitka-yanino-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-northwood-bezhevyy-18x60",
+          "name": "Керамогранит Northwood бежевый 18x60",
+          "price": "1098"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "trendy-plitki-2026",
+      "title": "Тренды плитки 2026: что будет популярно в интерьере",
+      "keywords": "тренды плитки 2026, модная плитка 2026, новинки керамогранита",
+      "related_landings": [
+        "/keramogranit-pod-mramor-spb",
+        "/plitka-pod-beton-spb",
+        "/keramogranit-60x120-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "keramogranit-wood-concept-natural-bezhevyy-22x90",
+          "name": "Керамогранит Wood Concept Natural 22x90",
+          "price": "1610"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-rabochej-zony-kuhni",
+      "title": "Плитка для рабочей зоны кухни: практичность и стиль фартука",
+      "keywords": "плитка кухня фартук, фартук из плитки СПб, настенная плитка кухня",
+      "related_landings": [
+        "/plitka-dlya-kuhni-spb",
+        "/plitka-nastennaya-spb",
+        "/mozaika-spb"
+      ],
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "plitka-deco-chernyy-30x60",
+          "name": "Плитка Deco черный 30x60",
+          "price": "750"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "kak-ulozhit-plitku-v-ugolke-dushi",
+      "title": "Как уложить плитку в угловой душевой: советы мастера",
+      "keywords": "плитка угловой душ, укладка плитки душевая кабина, угол в душе плитка",
+      "related_landings": [
+        "/plitka-dlya-dushi-spb",
+        "/mozaika-spb",
+        "/plitka-dlya-vannoj-spb"
+      ],
+      "products": [
+        {
+          "slug": "mozaika-lofthouse-seryy-28x25",
+          "name": "Мозаика Lofthouse серый 28x25",
+          "price": "1680"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "keramogranit-dlya-teplyh-polov",
+      "title": "Керамогранит для тёплого пола: что выбрать и как уложить",
+      "keywords": "керамогранит тёплый пол, плитка под тёплый пол СПб, какая плитка для тёплого пола",
+      "related_landings": [
+        "/keramogranit-matovyy-spb",
+        "/keramogranit-60x60-spb",
+        "/keramogranit-spb"
+      ],
+      "products": [
+        {
+          "slug": "keramogranit-blend-seryy-60x60",
+          "name": "Керамогранит Blend серый 60x60",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        },
+        {
+          "slug": "keramogranit-soft-concrete-svetlo-seryy-60x120",
+          "name": "Керамогранит Soft Concrete 60x120",
+          "price": "2213"
+        }
+      ],
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-vannoy-5-kv-m",
+      "title": "Плитка для ванной 5 кв.м: подбираем дизайн для небольшого пространства",
+      "keywords": "плитка маленькая ванная, дизайн ванной 5 кв м плитка, маленькая ванная СПб",
+      "related_landings": [
+        "/plitka-dlya-vannoj-spb",
+        "/plitka-nastennaya-spb",
+        "/plitka-belaya-spb"
+      ],
+      "products": [
+        {
+          "slug": "plitka-calacatta-belyy-30x60",
+          "name": "Плитка Calacatta белый 30x60",
+          "price": "780"
+        },
+        {
+          "slug": "mozaika-royal-stone-mnogotsvetnyy-30x30",
+          "name": "Мозаика Royal Stone 30x30",
+          "price": "1820"
+        },
+        {
+          "slug": "keramogranit-tiffany-belyy-42x42",
+          "name": "Керамогранит Tiffany белый 42x42",
+          "price": "1370"
+        }
+      ],
+      "used": false
+    }
+  ],
+  "landings": [
+    {
+      "slug": "plitka-seraya-spb",
+      "title": "Серая плитка Cersanit в СПб",
+      "used": false
+    },
+    {
+      "slug": "plitka-belaya-spb",
+      "title": "Белая плитка Cersanit в СПб",
+      "used": false
+    },
+    {
+      "slug": "keramogranit-matovyy-spb",
+      "title": "Матовый керамогранит Cersanit в СПб",
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-dushi-spb",
+      "title": "Плитка для душевой кабины в СПб",
+      "used": false
+    },
+    {
+      "slug": "plitka-nastennaya-spb",
+      "title": "Настенная плитка Cersanit в СПб",
+      "used": false
+    },
+    {
+      "slug": "keramogranit-20x120-spb",
+      "title": "Керамогранит 20x120 Cersanit в СПб",
+      "used": false
+    },
+    {
+      "slug": "plitka-dlya-ofisa-spb",
+      "title": "Плитка для офиса и коммерческих помещений в СПб",
+      "used": false
+    },
+    {
+      "slug": "plitka-yanino-spb",
+      "title": "Плитка Cersanit со склада Янино СПб",
+      "used": false
+    }
+  ]
+}
