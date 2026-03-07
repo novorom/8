@@ -10,6 +10,14 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/reviews",
   },
+  openGraph: {
+    title: "Отзывы покупателей | Дом Плитки CERSANIT в СПб",
+    description: "Реальные отзывы о магазине плитки Cersanit в Санкт-Петербурге. Более 15 лет на рынке, склад в Янино.",
+    url: "https://cersanit-spb.ru/reviews",
+    siteName: "Дом Плитки CERSANIT",
+    locale: "ru_RU",
+    type: "website",
+  },
 }
 
 export default function ReviewsPage() {
