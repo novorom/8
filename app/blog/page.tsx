@@ -8,6 +8,14 @@ export const metadata: Metadata = {
   title: "Блог о плитке и керамограните Cersanit | Дом Плитки СПб",
   description: "Инструкции по укладке плитки и мозаики, советы по затирке швов, сертификаты качества Cersanit. Полезные статьи от официального дилера в Санкт-Петербурге.",
   alternates: { canonical: `${SITE_URL}/blog` },
+  openGraph: {
+    title: "Блог о плитке и керамограните Cersanit | Дом Плитки СПб",
+    description: "Инструкции по укладке, советы по уходу, сертификаты качества — полезные материалы от официального дилера Cersanit в Санкт-Петербурге.",
+    url: `${SITE_URL}/blog`,
+    siteName: "Дом Плитки CERSANIT",
+    locale: "ru_RU",
+    type: "website",
+  },
 }
 
 const articles = [
