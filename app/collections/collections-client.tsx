@@ -6,6 +6,13 @@ import { ChevronDown, ChevronRight, SlidersHorizontal, X } from "lucide-react"
 import { filterOptions } from "@/lib/filter-options"
 import { useProducts } from "@/lib/products-context"
 
+// Прокси-CDN: бесплатный сервис, конвертирует в WebP, сжимает, кэширует
+function optimizeImage(url: string, width = 600): string {
+  if (!url || url.startsWith("/")) return url
+  const clean = url.replace(/^https?:\/\//, "")
+  return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
+}
+
 // Переопределённые главные изображения для конкретных коллекций
 const COLLECTION_IMAGE_OVERRIDES: Record<string, string> = {
   "CALACATTA": "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg",
@@ -337,7 +344,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
                     <div className="relative aspect-[4/3] overflow-hidden bg-muted">
                       {collection.image && (
                         <img
-                          src={collection.image}
+                          src={optimizeImage(collection.image, 600)}
                           alt={`Коллекция ${collection.name}`}
                           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                         />
