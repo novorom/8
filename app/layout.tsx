@@ -171,6 +171,11 @@ export default function RootLayout({
             __html: JSON.stringify(webSiteJsonLd),
           }}
         />
+        {/* Preconnect to image CDN */}
+        <link rel="preconnect" href="https://images.weserv.nl" />
+        <link rel="preconnect" href="https://pvi.cersanit.ru" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://images.weserv.nl" />
+        <link rel="dns-prefetch" href="https://pvi.cersanit.ru" />
       </head>
       <body className={`${inter.className} antialiased`}>
         <ProductsProvider>
