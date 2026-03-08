@@ -3,6 +3,14 @@
 import { useState } from "react"
 import { ChevronLeft, ChevronRight, X, ZoomIn } from "lucide-react"
 
+// Прокси-CDN: WebP, кэш, в 3-5 раз легче
+function optimizeImage(url: string | undefined | null, width = 800): string {
+  if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  const clean = url.replace("https://", "").replace("http://", "")
+  return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
+}
+
+
 interface InteriorPhotosProps {
   images: string[]
   productName: string
@@ -39,7 +47,7 @@ export function InteriorPhotos({ images, productName, collectionName }: Interior
             aria-label={`Интерьер ${i + 1}`}
           >
             <img
-              src={url}
+              src={optimizeImage(url, 600)}
               alt={`${productName} в интерьере — фото ${i + 1}`}
               className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
               loading="lazy"
@@ -62,7 +70,7 @@ export function InteriorPhotos({ images, productName, collectionName }: Interior
             onClick={(e) => e.stopPropagation()}
           >
             <img
-              src={shown[lightbox]}
+              src={optimizeImage(shown[lightbox], 1200)}
               alt={`${productName} в интерьере — фото ${lightbox + 1}`}
               className="w-full h-full object-contain max-h-[80vh] rounded-xl"
             />
