@@ -12,6 +12,14 @@ interface ProductCardProps {
 
 const PCS_TYPES = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"]
 
+// Прокси-CDN: бесплатный сервис, конвертирует в WebP, сжимает, кэширует
+function optimizeImage(url: string, width = 400): string {
+  if (!url || url.startsWith("/")) return url
+  // Убираем https:// для weserv.nl
+  const clean = url.replace(/^https?:\/\//, "")
+  return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=75&il`
+}
+
 export function ProductCard({ product, priority = false }: ProductCardProps) {
   const [isFavorite, setIsFavorite] = useState(false)
   const [imgError, setImgError] = useState(false)
@@ -23,9 +31,8 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
   const priceUnit = PCS_TYPES.includes(product.product_type) ? "₽/шт" : "₽/м²"
   const stockUnit = PCS_TYPES.includes(product.product_type) ? "шт" : "м²"
 
-  const imgSrc = imgError
-    ? "/placeholder.jpg"
-    : product.main_image || (product.images && product.images[0]) || "/placeholder.jpg"
+  const rawSrc = product.main_image || (product.images && product.images[0]) || "/placeholder.jpg"
+  const imgSrc = imgError ? "/placeholder.jpg" : optimizeImage(rawSrc, 400)
 
   return (
     <Link
