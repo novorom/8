@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import Link from "next/link"
 import {
@@ -46,6 +46,11 @@ export function ProductPageClient({ slug }: { slug: string }) {
   const product = products.find((p) => p.slug === slug) || products[0]
   const [isQuickBuyOpen, setIsQuickBuyOpen] = useState(false)
   const [activeTab, setActiveTab] = useState<TabId>("description")
+
+  // Сброс скролла при смене товара
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "instant" })
+  }, [slug])
   const [quantity, setQuantity] = useState(1)
   const [isFavorite, setIsFavorite] = useState(false)
 
