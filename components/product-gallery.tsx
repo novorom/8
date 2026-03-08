@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { ChevronLeft, ChevronRight, Play } from "lucide-react"
 
 interface ProductGalleryProps {
@@ -32,6 +32,21 @@ export function ProductGallery({ images = [], videoUrl, name }: ProductGalleryPr
 
   const prev = () => { setShowVideo(false); setActiveIndex((activeIndex - 1 + total) % total) }
   const next = () => { setShowVideo(false); setActiveIndex((activeIndex + 1) % total) }
+
+  // Preload первой картинки — браузер начнёт загрузку сразу
+  useEffect(() => {
+    if (galleryImages[0] && galleryImages[0].startsWith("http")) {
+      const clean = galleryImages[0].replace("https://", "").replace("http://", "")
+      const preloadUrl = `https://images.weserv.nl/?url=${clean}&w=900&output=webp&q=80&il`
+      const link = document.createElement("link")
+      link.rel = "preload"
+      link.as = "image"
+      link.href = preloadUrl
+      document.head.appendChild(link)
+      return () => { document.head.removeChild(link) }
+    }
+  }, [galleryImages[0]])
+
 
   return (
     <div className="flex flex-col gap-3">
