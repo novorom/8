@@ -5,6 +5,13 @@ import { products } from "@/lib/products-data"
 import { ProductCard } from "@/components/product-card"
 import { getCollectionSeo } from "@/lib/collection-seo"
 
+// Прокси-CDN: бесплатный, конвертирует в WebP и кэширует
+function optimizeImage(url: string | undefined | null, width = 800): string {
+  if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  const clean = url.replace("https://", "").replace("http://", "")
+  return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
+}
+
 // Переопределённые главные изображения для конкретных коллекций
 const COLLECTION_IMAGE_OVERRIDES: Record<string, string> = {
   "CALACATTA": "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg",
@@ -175,7 +182,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       <div className="relative min-h-[320px] lg:min-h-[420px] flex items-end bg-primary overflow-hidden">
         {heroImage && (
           <img
-            src={heroImage}
+            src={optimizeImage(heroImage, 1200)}
             alt={`Интерьер с плиткой ${collectionName}`}
             className="absolute inset-0 w-full h-full object-cover"
           />
@@ -294,7 +301,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
                     <div className="relative aspect-[4/3] bg-muted overflow-hidden">
                       {relatedInterior && (
                         <img
-                          src={relatedInterior}
+                          src={optimizeImage(relatedInterior, 600)}
                           alt={`Коллекция ${name}`}
                           className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
                         />
