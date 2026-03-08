@@ -54,7 +54,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "blog/kak-rezat-keramogranit",
     "blog/trendy-plitki-2025",
     "blog/keramogranit-dlya-balkona-i-terraisy",
-    "blog/kak-vybrat-plitku-dlya-prihozhej",
     "blog/plitka-pod-mramor-v-interere",
     "plitka-seraya-spb",
     "plitka-belaya-spb",
