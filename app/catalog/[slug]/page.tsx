@@ -53,5 +53,21 @@ export default async function ProductPage({
   params: Promise<{ slug: string }>
 }) {
   const { slug } = await params
-  return <ProductPageClient slug={slug} />
+  const product = products.find((p) => p.slug === slug)
+
+  // Preload главного фото через weserv — браузер качает картинку
+  // одновременно с JS, не дожидаясь гидрации клиентского компонента
+  const rawImage = product?.main_image || (product?.images && product.images[0])
+  const preloadUrl = rawImage
+    ? `https://images.weserv.nl/?url=${rawImage.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`
+    : null
+
+  return (
+    <>
+      {preloadUrl && (
+        <link rel="preload" as="image" href={preloadUrl} fetchPriority="high" />
+      )}
+      <ProductPageClient slug={slug} />
+    </>
+  )
 }
