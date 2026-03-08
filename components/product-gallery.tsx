@@ -3,6 +3,14 @@
 import { useState } from "react"
 import { ChevronLeft, ChevronRight, Play } from "lucide-react"
 
+// Прокси-CDN: WebP, кэш, в 3-5 раз легче
+function optimizeImage(url: string | undefined | null, width = 800): string {
+  if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  const clean = url.replace("https://", "").replace("http://", "")
+  return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
+}
+
+
 interface ProductGalleryProps {
   images?: string[]
   videoUrl?: string | null
@@ -69,7 +77,7 @@ export function ProductGallery({ images = [], videoUrl, name }: ProductGalleryPr
           )
         ) : (
           <img
-            src={galleryImages[activeIndex]}
+            src={optimizeImage(galleryImages[activeIndex], 900)}
             alt={`${name} — фото ${activeIndex + 1}`}
             className="w-full h-full object-contain p-4"
             loading={activeIndex === 0 ? "eager" : "lazy"}
@@ -119,7 +127,7 @@ export function ProductGallery({ images = [], videoUrl, name }: ProductGalleryPr
               aria-label={`Фото ${i + 1}`}
             >
               <img
-                src={img}
+                src={optimizeImage(img, 120)}
                 alt={`${name} — миниатюра ${i + 1}`}
                 className="w-full h-full object-contain p-1"
                 loading="lazy"
