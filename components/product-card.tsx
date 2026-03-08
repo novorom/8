@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { Heart } from "lucide-react"
 import type { Product } from "@/lib/products-data"
 
@@ -14,6 +15,7 @@ const PCS_TYPES = ["Мозаика", "Ступень", "Плинтус", "Вст
 
 export function ProductCard({ product, priority = false }: ProductCardProps) {
   const [isFavorite, setIsFavorite] = useState(false)
+  const [imgError, setImgError] = useState(false)
 
   const yanino = product.stock_yanino ?? 0
   const factory = product.stock_factory ?? 0
@@ -22,6 +24,10 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
   const priceUnit = PCS_TYPES.includes(product.product_type) ? "₽/шт" : "₽/м²"
   const stockUnit = PCS_TYPES.includes(product.product_type) ? "шт" : "м²"
 
+  const imgSrc = imgError
+    ? "/placeholder.jpg"
+    : product.main_image || (product.images && product.images[0]) || "/placeholder.jpg"
+
   return (
     <Link
       href={`/catalog/${product.slug || product.id}`}
@@ -29,13 +35,16 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
     >
       {/* Image */}
       <div className="relative aspect-square overflow-hidden bg-white">
-        <img
-          src={product.main_image || (product.images && product.images[0]) || "/placeholder.jpg"}
+        <Image
+          src={imgSrc}
           alt={[product.name, product.color, product.format, "купить СПб"].filter(Boolean).join(" ")}
-          className="w-full h-full object-contain p-3 transition-transform duration-300 group-hover:scale-105"
-          loading="lazy"
-          width={400}
-          height={400}
+          fill
+          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 20vw"
+          className="object-contain p-3 transition-transform duration-300 group-hover:scale-105"
+          loading={priority ? "eager" : "lazy"}
+          priority={priority}
+          onError={() => setImgError(true)}
+          quality={75}
         />
 
         {/* Badges */}
