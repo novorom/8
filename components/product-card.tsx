@@ -2,7 +2,6 @@
 
 import { useState } from "react"
 import Link from "next/link"
-import Image from "next/image"
 import { Heart } from "lucide-react"
 import type { Product } from "@/lib/products-data"
 
@@ -35,16 +34,15 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
     >
       {/* Image */}
       <div className="relative aspect-square overflow-hidden bg-white">
-        <Image
+        <img
           src={imgSrc}
           alt={[product.name, product.color, product.format, "купить СПб"].filter(Boolean).join(" ")}
-          fill
-          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 20vw"
-          className="object-contain p-3 transition-transform duration-300 group-hover:scale-105"
+          className="w-full h-full object-contain p-3 transition-transform duration-300 group-hover:scale-105"
           loading={priority ? "eager" : "lazy"}
-          priority={priority}
+          width={400}
+          height={400}
+          decoding="async"
           onError={() => setImgError(true)}
-          quality={75}
         />
 
         {/* Badges */}
