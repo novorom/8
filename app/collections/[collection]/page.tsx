@@ -147,6 +147,40 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
     })),
   }
 
+  // BreadcrumbList
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Главная", item: SITE_URL },
+      { "@type": "ListItem", position: 2, name: "Коллекции", item: `${SITE_URL}/collections` },
+      { "@type": "ListItem", position: 3, name: collectionName, item: `${SITE_URL}/collections/${collection}` },
+    ],
+  }
+
+  // FAQPage для коллекции
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: `Плитка коллекции ${collectionName} есть в наличии?`,
+        acceptedAnswer: { "@type": "Answer", text: `Да, коллекция ${collectionName} от Cersanit есть в наличии на складе в Янино. Актуальные остатки уточняйте по телефону +7 (905) 205-09-00.` },
+      },
+      {
+        "@type": "Question",
+        name: `Какой формат у плитки ${collectionName}?`,
+        acceptedAnswer: { "@type": "Answer", text: seo?.formats ? `Коллекция ${collectionName} представлена в форматах: ${seo.formats}. Уточнить наличие конкретного формата можно по телефону.` : `Уточните форматы коллекции ${collectionName} у наших менеджеров по телефону +7 (905) 205-09-00.` },
+      },
+      {
+        "@type": "Question",
+        name: `Есть ли доставка плитки ${collectionName} по СПб?`,
+        acceptedAnswer: { "@type": "Answer", text: `Да, доставляем коллекцию ${collectionName} по Санкт-Петербургу и Ленинградской области от 1 рабочего дня. Самовывоз со склада Янино бесплатный.` },
+      },
+    ],
+  }
+
   // Связанные коллекции
   const relatedCollections = seo?.relatedSlugs
     ? [...new Set(
@@ -162,6 +196,8 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
   return (
     <div className="bg-background min-h-screen">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Breadcrumbs */}
       <div className="border-b border-border bg-muted/50">
