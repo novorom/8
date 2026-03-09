@@ -142,6 +142,26 @@ export default function MramorPage() {
           acceptedAnswer: { "@type": "Answer", text: item.a }
         }))
       })}} />
+      {/* Полезные статьи */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              <Link href="/blog/plitka-pod-mramor-v-interere" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Плитка под мрамор в интерьере</p>
+                <p className="text-sm text-muted-foreground">Идеи оформления мрамором.</p>
+              </Link>
+              <Link href="/blog/kak-rezat-keramogranit" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Как резать керамогранит</p>
+                <p className="text-sm text-muted-foreground">Нарезка мраморного керамогранита.</p>
+              </Link>
+              <Link href="/blog/trendy-plitki-2025" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Тренды плитки 2025</p>
+                <p className="text-sm text-muted-foreground">Мрамор в трендах 2025.</p>
+              </Link>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
