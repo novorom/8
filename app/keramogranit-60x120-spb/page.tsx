@@ -65,6 +65,26 @@ export default function FormatPage() {
           </div>
         </div>
       </section>
+      {/* FAQ */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Часто задаваемые вопросы</h2>
+          <div className="flex flex-col gap-4">
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Где купить керамогранит 60x120 в СПб?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Керамогранит 60x120 Cersanit есть в наличии на складе в Янино. Самовывоз бесплатно, доставка по СПб от 1 дня. Звоните: +7 (905) 205-09-00.</p>
+          </div>
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Подходит ли формат 60x120 для пола?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Да, крупный формат 60x120 отлично подходит для пола — визуально увеличивает пространство и имеет меньше швов. Минимальная толщина основания для укладки — 5 см бетонной стяжки.</p>
+          </div>
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Нужно ли резать плитку 60x120?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Как правило, да — без резки не обходится. Для этого формата нужен профессиональный плиткорез или болгарка с алмазным диском. Наши менеджеры помогут рассчитать процент боя и рекомендуемый запас.</p>
+          </div>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
