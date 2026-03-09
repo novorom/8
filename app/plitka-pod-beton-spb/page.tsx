@@ -212,6 +212,26 @@ export default function PlitkaПодБетон() {
           </div>
         </div>
       </section>
+      {/* Полезные статьи */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              <Link href="/blog/trendy-plitki-2025" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Тренды плитки 2025</p>
+                <p className="text-sm text-muted-foreground">Бетон и лофт в интерьере.</p>
+              </Link>
+              <Link href="/blog/kak-ukladyvat-plitku" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Как укладывать плитку</p>
+                <p className="text-sm text-muted-foreground">Укладка бетонной плитки.</p>
+              </Link>
+              <Link href="/blog/formaty-plitki" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Форматы плитки</p>
+                <p className="text-sm text-muted-foreground">Форматы для стиля лофт.</p>
+              </Link>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
