@@ -88,6 +88,11 @@ export default function ContactsPage() {
       url: 'https://www.avito.ru/brands/i1860592?src=sharing',
     },
     {
+      icon: '🛒',
+      name: 'Avito',
+      url: 'https://www.avito.ru/brands/i1860592?src=sharing',
+    },
+    {
       icon: '📱',
       name: 'VK (ВКонтакте)',
       url: 'https://vk.com/tilebox',
