@@ -108,6 +108,25 @@ const localBusinessJsonLd = {
     latitude: "59.9765",
     longitude: "30.6132",
   },
+  department: [
+    {
+      "@type": "LocalBusiness",
+      name: "Дом Плитки CERSANIT — Офис",
+      telephone: "+7-905-205-09-00",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "проспект Энергетиков, 19",
+        addressLocality: "Санкт-Петербург",
+        postalCode: "195197",
+        addressCountry: "RU",
+      },
+      geo: {
+        "@type": "GeoCoordinates",
+        latitude: "59.9553",
+        longitude: "30.4163",
+      },
+    },
+  ],
   openingHoursSpecification: [
     {
       "@type": "OpeningHoursSpecification",
