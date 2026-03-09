@@ -140,6 +140,11 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?product_type=Плитка",
     catalogLinkLabel: "Смотреть керамическую плитку",
+    blogLinks: [
+      { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку", desc: "Советы по выбору керамической плитки." },
+      { href: "/blog/formaty-plitki", title: "Форматы плитки", desc: "Обзор популярных форматов." },
+      { href: "/blog/kak-ukladyvat-plitku", title: "Как укладывать плитку", desc: "Пошаговая инструкция." },
+    ],
   },
 
   "keramogranit-spb": {
@@ -358,6 +363,11 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/delivery",
     catalogLinkLabel: "Подробнее о доставке",
+    blogLinks: [
+      { href: "/blog/skolko-plitki-nuzhno-kupit", title: "Сколько плитки нужно купить", desc: "Расчёт количества с запасом." },
+      { href: "/blog/kak-ukladyvat-plitku", title: "Как укладывать плитку", desc: "Подготовка к укладке после доставки." },
+      { href: "/blog/sertifikaty-kachestva", title: "Сертификаты качества", desc: "Документы на плитку Cersanit." },
+    ],
   },
 
   "magazin-plitki-spb": {
@@ -411,5 +421,10 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог",
+    blogLinks: [
+      { href: "/blog/trendy-plitki-2025", title: "Тренды плитки 2025", desc: "Актуальные коллекции в магазине." },
+      { href: "/blog/formaty-plitki", title: "Форматы плитки", desc: "Какой размер выбрать." },
+      { href: "/blog/sertifikaty-kachestva", title: "Сертификаты качества", desc: "Официальный дилер Cersanit." },
+    ],
   },
 }
