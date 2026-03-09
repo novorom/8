@@ -220,6 +220,8 @@ def validate_tsx(content, slug):
         "export default function": "export default function",
         "Товары из этой статьи": "блок товаров",
         "По теме": "блок перелинковки",
+        "datePublished": "datePublished в schema",
+        "@type": "Article": "Article schema",
     }
     ok = True
     for check, label in required.items():
@@ -260,6 +262,14 @@ def generate_blog_article(topic):
         "export default function Article() {{\n"
         "  return (\n"
         "    <div className=\"min-h-screen bg-background\">\n"
+        "      <script type=\"application/ld+json\" dangerouslySetInnerHTML={{{{ __html: JSON.stringify({{\n"
+        "        \"@context\": \"https://schema.org\", \"@type\": \"Article\",\n"
+        "        headline: \"ЗАГОЛОВОК СТАТЬИ\",\n"
+        "        publisher: {{ \"@type\": \"Organization\", name: \"Дом Плитки CERSANIT\", url: SITE_URL }},\n"
+        "        mainEntityOfPage: `${{SITE_URL}}/blog/{slug}`,\n"
+        "        datePublished: \"{today}\",\n"
+        "        author: {{ \"@type\": \"Organization\", name: \"Дом Плитки CERSANIT\" }},\n"
+        "      }}) }}}} />\n"
         "      <article className=\"mx-auto max-w-4xl px-4 py-10\">\n"
         "        <h1 className=\"text-3xl font-bold mb-6\">ЗАГОЛОВОК</h1>\n"
         "        [СТАТЬЯ: 5 секций h2, каждая 150-200 слов]\n"
@@ -274,7 +284,7 @@ def generate_blog_article(topic):
         "- Закончи файл точно на символе }} \n"
         "- Не используй синтаксис {{<Component>}}\n"
         "- НЕ добавляй теги <img>, <Image>, <figure> — статья без фото\n"
-    ).format(title=title, kw=keywords, slug=slug)
+    ).format(title=title, kw=keywords, slug=slug, today=datetime.now().strftime("%Y-%m-%d"))
 
     log("  Генерирую статью: {}".format(slug))
     content = call_claude(prompt)
@@ -329,7 +339,7 @@ def update_sitemap(slug):
 
 def main():
     log("=" * 50)
-    log("SEO АВТОПИЛОТ v7 — с перелинковкой")
+    log("SEO АВТОПИЛОТ v8 — с перелинковкой")
     log("=" * 50)
 
     if not API_KEY:
