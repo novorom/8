@@ -67,12 +67,12 @@ const socialLinks = [
   },
   {
     name: 'Facebook',
-    url: 'https://www.facebook.com/tilebox/',
+    url: 'https://www.facebook.com/groups/1371104416315103',
     logo: '/images/facebook-logo.svg',
   },
   {
     name: 'Instagram',
-    url: 'https://www.instagram.com/cersanit_spb',
+    url: 'https://www.instagram.com/keraplit/',
     logo: '/images/instagram-logo.png',
   },
   {
@@ -84,6 +84,11 @@ const socialLinks = [
     name: 'Rutube',
     url: 'https://rutube.ru/channel/17530235/',
     logo: '/images/rutube-logo.svg',
+  },
+  {
+    name: 'TikTok',
+    url: 'https://www.tiktok.com/@romrom64123',
+    logo: '/images/tiktok-logo.svg',
   },
 ]
 
