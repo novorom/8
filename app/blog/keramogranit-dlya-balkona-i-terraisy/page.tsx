@@ -13,9 +13,8 @@ export const metadata: Metadata = {
 
 export default function Article() {
   return (
-    <div className="min-h-screen bg-background"
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Керамогранит для балкона и террасы: морозостойкий нескользкий", publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: "https://cersanit-spb.ru" }, mainEntityOfPage: "https://cersanit-spb.ru/blog/keramogranit-dlya-balkona-i-terraisy", datePublished: "2025-03-10", author: { "@type": "Organization", name: "Дом Плитки CERSANIT" } }) }} />
-      >
+    <div className="min-h-screen bg-background">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@type":"Article","headline":"Керамогранит для балкона и террасы: морозостойкий нескользкий","publisher":{"@type":"Organization","name":"Дом Плитки CERSANIT","url":"https://cersanit-spb.ru"},"mainEntityOfPage":"https://cersanit-spb.ru/blog/keramogranit-dlya-balkona-i-terraisy","datePublished":"2025-03-10","author":{"@type":"Organization","name":"Дом Плитки CERSANIT"}}` }} />
       <article className="mx-auto max-w-4xl px-4 py-10">
         <div className="mb-8 flex items-center gap-2 text-sm text-muted-foreground">
           <Link href="/">Главная</Link>
