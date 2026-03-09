@@ -171,7 +171,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       {
         "@type": "Question",
         name: `Какой формат у плитки ${collectionName}?`,
-        acceptedAnswer: { "@type": "Answer", text: seo?.formats ? `Коллекция ${collectionName} представлена в форматах: ${seo.formats}. Уточнить наличие конкретного формата можно по телефону.` : `Уточните форматы коллекции ${collectionName} у наших менеджеров по телефону +7 (905) 205-09-00.` },
+        acceptedAnswer: { "@type": "Answer", text: `Уточните форматы коллекции ${collectionName} у наших менеджеров по телефону +7 (905) 205-09-00 или в Telegram @flyroman.` },
       },
       {
         "@type": "Question",
