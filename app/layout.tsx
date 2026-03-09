@@ -77,8 +77,8 @@ const organizationJsonLd = {
   sameAs: [
     "https://vk.com/tilebox",
     "https://www.avito.ru/brands/i1860592/all/remont_i_stroitelstvo?src=sharing&sellerId=1175db1d93c4ba564bc712e7e695d5b5",
-    "https://www.instagram.com/keraplit/",
-    "https://www.facebook.com/groups/1371104416315103",
+    "https://www.instagram.com/cersanit_spb",
+    "https://www.facebook.com/tilebox/",
     "https://t.me/flyroman",
   ],
 }
