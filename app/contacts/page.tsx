@@ -88,11 +88,6 @@ export default function ContactsPage() {
       url: 'https://www.avito.ru/brands/i1860592?src=sharing',
     },
     {
-      icon: '🛒',
-      name: 'Avito',
-      url: 'https://www.avito.ru/brands/i1860592?src=sharing',
-    },
-    {
       icon: '📱',
       name: 'VK (ВКонтакте)',
       url: 'https://vk.com/tilebox',
@@ -100,12 +95,17 @@ export default function ContactsPage() {
     {
       icon: '👥',
       name: 'Facebook',
-      url: 'https://www.facebook.com/tilebox/',
+      url: 'https://www.facebook.com/groups/1371104416315103',
     },
     {
       icon: '📷',
       name: 'Instagram',
-      url: 'https://www.instagram.com/cersanit_spb',
+      url: 'https://www.instagram.com/keraplit/',
+    },
+    {
+      icon: '📹',
+      name: 'Rutube',
+      url: 'https://rutube.ru/channel/17530235/',
     },
   ]
 
