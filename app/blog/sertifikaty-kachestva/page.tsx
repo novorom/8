@@ -98,7 +98,108 @@ export default function Certificates() {
             <Link href="/catalog" className="flex items-center gap-2 text-primary hover:underline"><ChevronRight className="h-4 w-4" />Каталог плитки Cersanit</Link>
           </div>
         </div>
-        <div className="mt-8 p-5 rounded-xl bg-muted/50 border border-border">
+
+        {/* Скачать сертификаты */}
+        <div className="my-10 rounded-2xl border border-border bg-muted/30 p-6">
+          <div className="flex items-center justify-between mb-5 flex-wrap gap-3">
+            <h2 className="text-xl font-bold text-foreground">Скачать сертификаты Cersanit</h2>
+            <a
+              href="/downloads"
+              className="text-sm text-primary hover:underline font-medium"
+            >
+              Все документы →
+            </a>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <a
+              href="https://cersanit.ru/upload/iblock/fc5/ymfqf50ug6xc08fipph8kfvb6arciwzi/Politika-po-okhrane-okruzhayushchey-sredy.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Политика по охране окружающей среды</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/4a5/w50cl4imlfbfok0o7fuds6ljtt3e9uqb/Politika-po-okhrane-truda.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Политика по охране труда</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/55d/u9g550uwsv8mh7zvoelj95l867bqud4i/Pozh.sert.-Keramogranit-KKZ.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Пожарный сертификат — Керамогранит ККЗ</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/9db/cu9o51a6ah2rrxzl79rsdyavt1o9pyks/Pozh.sert.-Keramogranit-FKZ.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Пожарный сертификат — Керамогранит ФКЗ</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/949/mvj32awpbq52j6dfox9bb0f0qtm5ok98/Pozh.sert.-Oblitsovka-FKZ.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Пожарный сертификат — Облицовка ФКЗ</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/1be/h7dkgc1otu66a3rhcmni5w4l8ojjgapi/Sertifikat-Keramogranit-KKZ-2023.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Сертификат соответствия — Керамогранит ККЗ 2023</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/7b6/ip785bdtrkkuba3xllnwoxfmsetdb3t2/Sertifikat-Keramogranit-FKZ-2023.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Сертификат соответствия — Керамогранит ФКЗ 2023</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/14c/bk292o6u61veafwimquebqyrwow24x2v/Sertifikat-Oblitsovka-FKZ.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Сертификат соответствия — Облицовка ФКЗ</span>
+            </a>
+            <a
+              href="https://cersanit.ru/upload/iblock/66f/s1vcj280vz582d3zfif1takjhbrwaa35/Cersanit_2d_2024_2025_light.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 p-4 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group"
+            >
+              <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-red-100 flex items-center justify-center text-red-600 font-bold text-xs">PDF</div>
+              <span className="text-sm font-medium text-foreground group-hover:text-primary transition-colors leading-snug">Каталог Cersanit 2024–2025 (PDF)</span>
+            </a>
+          </div>
+          <p className="mt-4 text-xs text-muted-foreground">
+            Документы предоставлены официальным производителем Cersanit. Актуальные версии сертификатов всегда доступны на странице 
+            <a href="/downloads" className="text-primary hover:underline">Документы и сертификаты</a>.
+          </p>
+        </div>
+
+                <div className="mt-8 p-5 rounded-xl bg-muted/50 border border-border">
           <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
           <div className="flex flex-col gap-2">
             <Link href="/catalog/plitka-calacatta-belyy-30x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Плитка Calacatta белый 30x60</span><span className="text-primary font-medium ml-3">780 ₽/м²</span></Link>
