@@ -162,6 +162,26 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+      {/* Полезные статьи */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              <Link href="/blog/skolko-plitki-nuzhno-kupit" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Сколько плитки нужно купить</p>
+                <p className="text-sm text-muted-foreground">Расчёт количества с запасом.</p>
+              </Link>
+              <Link href="/blog/sertifikaty-kachestva" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Сертификаты качества</p>
+                <p className="text-sm text-muted-foreground">Официальный дилер со склада.</p>
+              </Link>
+              <Link href="/blog/kak-ukladyvat-plitku" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Как укладывать плитку</p>
+                <p className="text-sm text-muted-foreground">Подготовка к укладке.</p>
+              </Link>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
