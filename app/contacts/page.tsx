@@ -95,17 +95,22 @@ export default function ContactsPage() {
     {
       icon: '👥',
       name: 'Facebook',
-      url: 'https://www.facebook.com/tilebox/',
+      url: 'https://www.facebook.com/groups/1371104416315103',
     },
     {
       icon: '📷',
       name: 'Instagram',
-      url: 'https://www.instagram.com/cersanit_spb',
+      url: 'https://www.instagram.com/keraplit/',
     },
     {
       icon: '📹',
       name: 'Rutube',
       url: 'https://rutube.ru/channel/17530235/',
+    },
+    {
+      icon: '🎵',
+      name: 'TikTok',
+      url: 'https://www.tiktok.com/@romrom64123',
     },
   ]
 
