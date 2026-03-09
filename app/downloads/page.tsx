@@ -12,7 +12,7 @@ const sections = [
   {
     icon: Shield,
     title: "Сертификаты качества",
-    desc: "Вся продукция Cersanit имеет требуемые законодательством РФ гигиенические сертификаты и знаки соответствия.",
+    desc: "Вся продукция Cersanit имеет требуемые законодательством РФ гигиенические сертификаты и знаки соответствия. Подробнее о сертификатах читайте в нашей статье.",
     items: [
       { name: "Политика по охране окружающей среды", format: "PDF", url: "https://cersanit.ru/upload/iblock/fc5/ymfqf50ug6xc08fipph8kfvb6arciwzi/Politika-po-okhrane-okruzhayushchey-sredy.pdf", ext: true },
       { name: "Политика по охране труда", format: "PDF", url: "https://cersanit.ru/upload/iblock/4a5/w50cl4imlfbfok0o7fuds6ljtt3e9uqb/Politika-po-okhrane-truda.pdf", ext: true },
@@ -121,6 +121,19 @@ export default function DownloadsPage() {
             <Link href="/catalog" className="inline-flex items-center justify-center gap-2 border border-border text-foreground px-6 py-3 rounded-xl font-medium hover:bg-muted transition-colors">
               Перейти в каталог
             </Link>
+          </div>
+        </div>
+      </div>
+      {/* Ссылка на статью блога */}
+      <div className="mx-auto max-w-4xl mt-8 mb-4 px-4">
+        <div className="flex items-center gap-4 p-5 rounded-xl border border-border bg-muted/30 hover:border-primary transition-colors">
+          <div className="flex-shrink-0 text-3xl">📖</div>
+          <div>
+            <p className="text-sm text-muted-foreground mb-1">Статья по теме</p>
+            <a href="/blog/sertifikaty-kachestva" className="font-semibold text-foreground hover:text-primary transition-colors">
+              Сертификаты качества Cersanit — что они означают и зачем нужны
+            </a>
+            <p className="text-sm text-muted-foreground mt-1">Узнайте, какие стандарты подтверждают качество плитки Cersanit</p>
           </div>
         </div>
       </div>
