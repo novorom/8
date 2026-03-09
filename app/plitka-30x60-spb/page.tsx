@@ -65,6 +65,26 @@ export default function FormatPage() {
           </div>
         </div>
       </section>
+      {/* FAQ */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Часто задаваемые вопросы</h2>
+          <div className="flex flex-col gap-4">
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Где купить плитку 30x60 в СПб?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Плитка 30x60 Cersanit в наличии на складе в Янино. Самовывоз бесплатно, доставка по Санкт-Петербургу от 1 рабочего дня. Звоните: +7 (905) 205-09-00.</p>
+          </div>
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Куда лучше класть плитку 30x60?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Формат 30x60 универсален: подходит для стен ванной и кухни, коридоров, жилых помещений. При укладке на пол убедитесь, что плитка предназначена для напольного применения (PEI 3 и выше).</p>
+          </div>
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Сколько плитки 30x60 нужно на комнату?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Разделите площадь помещения на 0.18 (площадь одной плитки) и добавьте 10% запаса на порезку и бой. Наши менеджеры сделают расчёт бесплатно по замерам.</p>
+          </div>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
