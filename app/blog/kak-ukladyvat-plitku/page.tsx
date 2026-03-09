@@ -20,6 +20,7 @@ export default function HowToLayTile() {
         description: "Официальная инструкция по укладке керамической плитки и керамогранита.",
         publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: SITE_URL },
         mainEntityOfPage: `${SITE_URL}/blog/kak-ukladyvat-plitku`,
+        datePublished: "2025-01-15",
       })}} />
       <div className="bg-muted/50 border-b border-border"><div className="mx-auto max-w-7xl px-4 py-3"><nav className="flex items-center gap-1.5 text-sm text-muted-foreground"><Link href="/" className="hover:text-primary transition-colors">Главная</Link><ChevronRight className="h-3.5 w-3.5" /><Link href="/blog" className="hover:text-primary transition-colors">Блог</Link><ChevronRight className="h-3.5 w-3.5" /><span className="text-foreground font-medium">Укладка плитки</span></nav></div></div>
       <article className="mx-auto max-w-3xl px-4 py-12 lg:py-16">
