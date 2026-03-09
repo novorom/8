@@ -54,6 +54,34 @@ export default function ReviewsPage() {
         reviewRating: { "@type": "Rating", ratingValue: "5" },
         reviewBody: "Заказывал оптом для ремонта в загородном доме. Всё было в наличии, Роман оперативно ответил на все вопросы в Telegram.",
       },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Светлана М." },
+        datePublished: "2025-03",
+        reviewRating: { "@type": "Rating", ratingValue: "5" },
+        reviewBody: "Покупали керамогранит Wood Concept для спальни. Привезли быстро, упакован хорошо, ни одной сколотой плитки. Менеджер помог рассчитать количество с учётом раскладки. Очень довольны результатом.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Дмитрий Л." },
+        datePublished: "2025-04",
+        reviewRating: { "@type": "Rating", ratingValue: "5" },
+        reviewBody: "Брал плитку Cersanit Lofthouse для прихожей и кухни. Цены ниже чем в строительных гипермаркетах, а качество сертифицированное. Самовывоз из Янино удобный — за 20 минут всё погрузили.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Наталья В." },
+        datePublished: "2025-06",
+        reviewRating: { "@type": "Rating", ratingValue: "5" },
+        reviewBody: "Заказывала плитку под мрамор Calacatta для ванной. Очень красивая коллекция, точно как на фото. Доставка пришла на следующий день. Буду рекомендовать всем знакомым.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Игорь Т." },
+        datePublished: "2025-08",
+        reviewRating: { "@type": "Rating", ratingValue: "4" },
+        reviewBody: "Хорошая компания, официальный дилер Cersanit. Взял керамогранит 60x60 для ремонта офиса. Плитка качественная, укладчики остались довольны. Единственное — склад работает до 16:45, пришлось подстраиваться.",
+      },
     ],
   }
 
