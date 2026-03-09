@@ -1,32 +1,31 @@
 # Дом Плитки CERSANIT — официальный дилер в Санкт-Петербурге
 
 ## О компании
-Дом Плитки CERSANIT — официальный дилер керамической плитки и керамогранита Cersanit в Санкт-Петербурге и Ленинградской области. Работаем с 2011 года (15 лет на рынке).
+Дом Плитки CERSANIT — официальный дилер керамической плитки и керамогранита Cersanit в Санкт-Петербурге и Ленинградской области. Работаем с 2011 года (15 лет на рынке). 193 товара в наличии на складе.
 
 ## Что продаём
 - Керамическая плитка для стен (ванная, кухня, прихожая)
 - Керамогранит для пола и стен (матовый, полированный, рельефный)
 - Мозаика Cersanit на сетке (Lofthouse, Woodhouse, Royal Stone)
 - Ступени, плинтусы, вставки и декоры Cersanit
-- Форматы: 18x60, 20x44, 29x59, 30x60, 42x42, 44x89, 60x60, 60x120 см
+- Форматы: 18x60, 22x90, 28x25, 30x30, 30x60, 42x42, 45x90, 60x60, 60x120 см
 
 ## Популярные коллекции
-- Calacatta — белый мрамор, 298x598 мм
-- Wood Concept Natural / Prime / Rustic — имитация дерева, 218x898 мм
-- Lofthouse / Woodhouse — серый / коричневый бетон, 297x598 мм
-- Deep Calacatta / Soft Concrete — крупный формат 600x1200x5 мм
-- Royal Stone — каменная текстура, 298x598 мм
-- Northwood / Amberwood — дерево 18.5x59.8 см
-- Sevilla / Siena — испанский стиль 420x420 мм
-- Deco — современная геометрия, 298x598 мм
-- Blend / Effecta / Galaxy / Infinity — актуальные коллекции
+- Calacatta / Deep Calacatta — белый мрамор, крупный формат
+- Wood Concept Natural / Prime / Rustic — имитация дерева 218x898 мм
+- Lofthouse / Soft Concrete / Concretehouse — бетон и лофт
+- Northwood / Amberwood / Woodhouse — дерево 18.5x59.8 см
+- Royal Stone / Travertino / Pamir — камень и травертин
+- Silvia / Stilo / Nero / Blend / Polaris / Cambio — современные коллекции
+- Gold Venice — золотистые оттенки
 
 ## Склад и доставка
-- Склад: п. Янино-1, Ленинградская область (15-20 мин от КАД)
-- 200+ позиций в наличии, остатки обновляются еженедельно
+- Основной склад: п. Янино-1, Ленинградская область (15-20 мин от КАД)
+- Офис: проспект Энергетиков, 19, Санкт-Петербург
+- 193 позиции в наличии, остатки обновляются еженедельно
 - Доставка по СПб и ЛО: 1-2 рабочих дня
 - Самовывоз: следующий рабочий день, бесплатно
-- Время работы склада: Пн-Пт 10:00-16:45, шоурум ежедн. 10:00-18:00
+- Время работы: Пн-Пт 10:00-16:45, шоурум ежедн. 10:00-18:00
 
 ## Контакты
 - Телефон: +7 (905) 205-09-00
@@ -35,39 +34,54 @@
 - Сайт: https://cersanit-spb.ru
 
 ## Цены
-- От 850 ₽/м² (керамическая плитка)
+- От 750 ₽/м² (керамическая плитка)
 - От 1098 ₽/м² (керамогранит)
 - Официальные цены, без наценок посредников
 
-## Страницы каталога
+## Страницы каталога по типу
 - Весь каталог: https://cersanit-spb.ru/catalog
 - Все коллекции: https://cersanit-spb.ru/collections
+- Керамогранит: https://cersanit-spb.ru/keramogranit-spb
+- Керамическая плитка: https://cersanit-spb.ru/keramicheskaya-plitka-spb
+- Мозаика: https://cersanit-spb.ru/mozaika-spb
+
+## Страницы по назначению
 - Плитка для ванной: https://cersanit-spb.ru/plitka-dlya-vannoj-spb
 - Плитка для кухни: https://cersanit-spb.ru/plitka-dlya-kuhni-spb
 - Плитка для прихожей: https://cersanit-spb.ru/plitka-dlya-prihozhej-spb
 - Плитка для балкона: https://cersanit-spb.ru/plitka-dlya-balkona-spb
-- Керамогранит: https://cersanit-spb.ru/keramogranit-spb
-- Керамогранит под дерево: https://cersanit-spb.ru/keramogranit-pod-derevo-spb
-- Керамогранит под мрамор: https://cersanit-spb.ru/keramogranit-pod-mramor-spb
-- Керамогранит 60x120: https://cersanit-spb.ru/keramogranit-60x120-spb
-- Керамогranit 60x60: https://cersanit-spb.ru/keramogranit-60x60-spb
-- Плитка 30x60: https://cersanit-spb.ru/plitka-30x60-spb
-- Плитка под дерево: https://cersanit-spb.ru/plitka-pod-derevo-spb
+- Плитка для душа: https://cersanit-spb.ru/plitka-dlya-dushi-spb
+- Плитка для офиса: https://cersanit-spb.ru/plitka-dlya-ofisa-spb
+- Настенная плитка: https://cersanit-spb.ru/plitka-nastennaya-spb
+
+## Страницы по дизайну
 - Плитка под мрамор: https://cersanit-spb.ru/plitka-pod-mramor-spb
+- Плитка под дерево: https://cersanit-spb.ru/plitka-pod-derevo-spb
 - Плитка под бетон: https://cersanit-spb.ru/plitka-pod-beton-spb
 - Плитка под камень: https://cersanit-spb.ru/plitka-pod-kamen-spb
-- Мозаика: https://cersanit-spb.ru/mozaika-spb
-- Керамическая плитка: https://cersanit-spb.ru/keramicheskaya-plitka-spb
-- Магазин плитки: https://cersanit-spb.ru/magazin-plitki-spb
-- Доставка плитки: https://cersanit-spb.ru/dostavka-plitki-spb
+- Серая плитка: https://cersanit-spb.ru/plitka-seraya-spb
+- Белая плитка: https://cersanit-spb.ru/plitka-belaya-spb
+- Матовый керамогранит: https://cersanit-spb.ru/keramogranit-matovyy-spb
+- Керамогранит под дерево: https://cersanit-spb.ru/keramogranit-pod-derevo-spb
+- Керамогранит под мрамор: https://cersanit-spb.ru/keramogranit-pod-mramor-spb
 
-## Блог и полезные материалы
+## Страницы по формату
+- Керамогранит 60x120: https://cersanit-spb.ru/keramogranit-60x120-spb
+- Керамогранит 60x60: https://cersanit-spb.ru/keramogranit-60x60-spb
+- Керамогранит 45x90: https://cersanit-spb.ru/keramogranit-45x90-spb
+- Плитка 30x60: https://cersanit-spb.ru/plitka-30x60-spb
+
+## Локальные страницы
+- Плитка в СПб: https://cersanit-spb.ru/spb
+- Магазин плитки СПб: https://cersanit-spb.ru/magazin-plitki-spb
+- Доставка плитки СПб: https://cersanit-spb.ru/dostavka-plitki-spb
+- Плитка со склада Янино: https://cersanit-spb.ru/plitka-yanino-spb
+
+## Блог
 - Все статьи: https://cersanit-spb.ru/blog
 - Как укладывать плитку: https://cersanit-spb.ru/blog/kak-ukladyvat-plitku
 - Как укладывать мозаику: https://cersanit-spb.ru/blog/kak-ukladyvat-mozaiku
 - Рекомендации по затирке: https://cersanit-spb.ru/blog/rekomendatsii-po-zatirke
-- Сертификаты качества: https://cersanit-spb.ru/blog/sertifikaty-kachestva
-- Тренды плитки 2025: https://cersanit-spb.ru/blog/trendy-plitki-2025
 - Как резать керамогранит: https://cersanit-spb.ru/blog/kak-rezat-keramogranit
 - Форматы плитки: https://cersanit-spb.ru/blog/formaty-plitki
 - Как выбрать плитку для ванной: https://cersanit-spb.ru/blog/kak-vybrat-plitku-dlya-vannoj
@@ -75,6 +89,10 @@
 - Керамогранит или ламинат: https://cersanit-spb.ru/blog/keramogranit-ili-laminat
 - Уход за керамогранитом: https://cersanit-spb.ru/blog/kak-uhazhivat-za-keramogranitom
 - Расчёт количества плитки: https://cersanit-spb.ru/blog/skolko-plitki-nuzhno-kupit
+- Тренды плитки 2025: https://cersanit-spb.ru/blog/trendy-plitki-2025
+- Керамогранит для балкона: https://cersanit-spb.ru/blog/keramogranit-dlya-balkona-i-terraisy
+- Плитка под мрамор в интерьере: https://cersanit-spb.ru/blog/plitka-pod-mramor-v-interere
+- Сертификаты качества: https://cersanit-spb.ru/blog/sertifikaty-kachestva
 
 ## Сервис
 - Вопросы и ответы: https://cersanit-spb.ru/faq
