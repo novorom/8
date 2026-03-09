@@ -67,12 +67,12 @@ const socialLinks = [
   },
   {
     name: 'Facebook',
-    url: 'https://www.facebook.com/groups/1371104416315103',
+    url: 'https://www.facebook.com/tilebox/',
     logo: '/images/facebook-logo.svg',
   },
   {
     name: 'Instagram',
-    url: 'https://www.instagram.com/keraplit/',
+    url: 'https://www.instagram.com/cersanit_spb',
     logo: '/images/instagram-logo.png',
   },
   {
