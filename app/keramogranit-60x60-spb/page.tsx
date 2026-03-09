@@ -65,6 +65,26 @@ export default function FormatPage() {
           </div>
         </div>
       </section>
+      {/* FAQ */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Часто задаваемые вопросы</h2>
+          <div className="flex flex-col gap-4">
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Где купить керамогранит 60x60 в СПб?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Керамогранит 60x60 Cersanit в большом ассортименте на складе в Янино. Самовывоз бесплатно, доставка по СПб и ЛО от 1 дня. Телефон: +7 (905) 205-09-00.</p>
+          </div>
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Можно ли укладывать 60x60 на стену?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Да, формат 60x60 используется как на полу, так и на стенах. Для стен важно выбирать плитку с плоской тыльной стороной и использовать специальный клей с хорошей адгезией.</p>
+          </div>
+          <div className="rounded-xl border border-border bg-card p-5">
+            <h3 className="font-semibold text-foreground mb-2">Какой расход клея для плитки 60x60?</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed">Для формата 60x60 рекомендуется расход плиточного клея 5–7 кг/м² при укладке методом «двойного нанесения» — на основание и на плитку. Это обеспечивает 95–100% контакт.</p>
+          </div>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
