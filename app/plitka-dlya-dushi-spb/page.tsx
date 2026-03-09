@@ -162,6 +162,26 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+      {/* Полезные статьи */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              <Link href="/blog/kak-ukladyvat-plitku" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Как укладывать плитку</p>
+                <p className="text-sm text-muted-foreground">Укладка плитки в душевой.</p>
+              </Link>
+              <Link href="/blog/rekomendatsii-po-zatirke" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Рекомендации по затирке</p>
+                <p className="text-sm text-muted-foreground">Водостойкая затирка для душа.</p>
+              </Link>
+              <Link href="/blog/kak-vybrat-plitku-dlya-vannoj" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Как выбрать плитку для ванной</p>
+                <p className="text-sm text-muted-foreground">Выбор плитки для душа.</p>
+              </Link>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
