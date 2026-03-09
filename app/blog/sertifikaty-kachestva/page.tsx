@@ -40,6 +40,14 @@ const certs = [
 export default function Certificates() {
   return (
     <div className="min-h-screen bg-background">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "Article",
+        headline: "Сертификаты качества и безопасности плитки Cersanit",
+        publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: "https://cersanit-spb.ru" },
+        mainEntityOfPage: `${SITE_URL}/blog/sertifikaty-kachestva`,
+        datePublished: "2025-03-01",
+        author: { "@type": "Organization", name: "Дом Плитки CERSANIT" },
+      }) }} />
       <div className="bg-muted/50 border-b border-border"><div className="mx-auto max-w-7xl px-4 py-3"><nav className="flex items-center gap-1.5 text-sm text-muted-foreground"><Link href="/" className="hover:text-primary transition-colors">Главная</Link><ChevronRight className="h-3.5 w-3.5" /><Link href="/blog" className="hover:text-primary transition-colors">Блог</Link><ChevronRight className="h-3.5 w-3.5" /><span className="text-foreground font-medium">Сертификаты качества</span></nav></div></div>
       <article className="mx-auto max-w-3xl px-4 py-12 lg:py-16">
         <header className="mb-10">
