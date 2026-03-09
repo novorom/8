@@ -60,6 +60,26 @@ export default function PlitkaKuhnya() {
         </div>
       </section>
       <section className="py-12 lg:py-16 bg-primary text-primary-foreground"><div className="mx-auto max-w-7xl px-4 text-center"><h2 className="text-2xl lg:text-3xl font-bold mb-4">Подберём плитку для вашей кухни</h2><p className="text-primary-foreground/70 mb-8 max-w-lg mx-auto">Бесплатная консультация и расчёт количества.</p><div className="flex flex-wrap items-center justify-center gap-3"><a href={`tel:${PHONE_RAW}`} className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors"><Phone className="h-4 w-4" /> Позвонить</a><Link href="/catalog" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-primary-foreground/30 text-primary-foreground font-medium text-sm hover:bg-primary-foreground/10 transition-colors">Весь каталог <ChevronRight className="h-4 w-4" /></Link></div></div></section>
+      {/* Полезные статьи */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              <Link href="/blog/plitka-dlya-kuhni-kak-vybrat" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Плитка для кухни: как выбрать</p>
+                <p className="text-sm text-muted-foreground">Советы по выбору плитки для фартука.</p>
+              </Link>
+              <Link href="/blog/kak-ukladyvat-plitku" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Как укладывать плитку</p>
+                <p className="text-sm text-muted-foreground">Пошаговая инструкция укладки.</p>
+              </Link>
+              <Link href="/blog/formaty-plitki" className="block p-5 rounded-xl border border-border bg-card hover:border-primary hover:shadow-md transition-all group">
+                <p className="font-semibold text-foreground group-hover:text-primary transition-colors mb-1">Форматы плитки</p>
+                <p className="text-sm text-muted-foreground">Какой размер выбрать для кухни.</p>
+              </Link>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
