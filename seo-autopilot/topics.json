@@ -105,7 +105,7 @@
           "price": "750"
         }
       ],
-      "used": false,
+      "used": true,
       "related_landings": [
         "/plitka-pod-beton-spb",
         "/plitka-seraya-spb",

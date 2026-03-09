@@ -33,6 +33,7 @@ const articles = [
   { href: "/blog/skolko-plitki-nuzhno-kupit", title: "Сколько плитки нужно купить: расчёт с запасом", desc: "Как рассчитать количество плитки для ванной или кухни. Формула расчёта, процент на подрезку, рекомендации по запасу.", date: "2025-03-25", time: "4 мин" },
   { href: "/blog/keramogranit-dlya-balkona-i-terraisy", title: "Керамогранит для балкона и террасы: морозостойкий и нескользкий", desc: "Читайте на нашем сайте.", date: "2026-03-07", time: "5 мин" },
   { href: "/blog/plitka-pod-mramor-v-interere", title: "Плитка под мрамор в интерьере: как создать роскошь без бюджета", desc: "Читайте на нашем сайте.", date: "2026-03-07", time: "5 мин" },
+  { href: "/blog/kak-sozdat-dizajn-vannoj-v-stile-loft", title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич", desc: "Читайте на нашем сайте.", date: "2026-03-09", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
