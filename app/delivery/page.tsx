@@ -44,7 +44,7 @@ export default function DeliveryPage() {
                   </div>
                   <div className="space-y-1 text-muted-foreground mt-4">
                     <p className="font-semibold text-foreground text-sm uppercase tracking-wide mb-2">Шоурум:</p>
-                    <p><span className="font-medium text-foreground">Ежедневно:</span> 10:00 — 18:00</p>
+                    <p><span className="font-medium text-foreground">Ежедневно:</span> 10:00 — 17:00</p>
                   </div>
                 </div>
               </div>
