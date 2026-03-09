@@ -67,18 +67,23 @@ const socialLinks = [
   },
   {
     name: 'Facebook',
-    url: 'https://www.facebook.com/tilebox/',
+    url: 'https://www.facebook.com/groups/1371104416315103',
     logo: '/images/facebook-logo.svg',
   },
   {
     name: 'Instagram',
-    url: 'https://www.instagram.com/cersanit_spb',
+    url: 'https://www.instagram.com/keraplit/',
     logo: '/images/instagram-logo.png',
   },
   {
     name: 'YouTube',
     url: 'https://www.youtube.com/@novorom',
     logo: '/images/youtube-logo.svg',
+  },
+  {
+    name: 'Rutube',
+    url: 'https://rutube.ru/channel/17530235/',
+    logo: '/images/rutube-logo.svg',
   },
 ]
 
