@@ -110,16 +110,15 @@ export default function Article() {
         </div>
       
               {/* Товары по теме */}
-              <div className="mt-10 p-5 rounded-xl bg-muted/50 border border-border">
+              <section className="mt-8">
                 <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
-                <div className="flex flex-col gap-2">
-                  <Link key="/catalog/keramogranit-gold-venice-belyy-60x120" href="/catalog/keramogranit-gold-venice-belyy-60x120" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Gold Venice 60x120</span><span className="text-primary font-medium ml-3">2213 ₽/м²</span></Link>
-                  <Link key="/catalog/plitka-calacatta-belyy-30x60-glyantsevaya" href="/catalog/plitka-calacatta-belyy-30x60-glyantsevaya" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Плитка Calacatta рельеф 30x60</span><span className="text-primary font-medium ml-3">795 ₽/м²</span></Link>
-                  <Link key="/catalog/keramogranit-soft-concrete-svetlo-seryy-60x120" href="/catalog/keramogranit-soft-concrete-svetlo-seryy-60x120" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Soft Concrete 60x120</span><span className="text-primary font-medium ml-3">2213 ₽/м²</span></Link>
+                <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+                  <Link href="/catalog/keramogranit-gold-venice-belyy-60x120" className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"><div className="relative aspect-square overflow-hidden bg-muted"><img src="https://images.weserv.nl/?url=https://pvi.cersanit.ru/upload/uf/0da/uefsnr25qfuu5b7khlor2mmc0oorecum/A17121_01.jpg&w=300&output=webp&q=80" alt="Керамогранит Gold Venice 60x120" className="w-full h-full object-cover" loading="lazy" /></div><div className="p-3"><span className="text-xs text-muted-foreground line-clamp-2">Керамогранит Gold Venice 60x120</span><span className="mt-2 block text-base font-bold text-foreground">2213 ₽/м²</span></div></Link>
+                  <Link href="/catalog/plitka-calacatta-belyy-30x60-glyantsevaya" className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"><div className="relative aspect-square overflow-hidden bg-muted"><img src="https://images.weserv.nl/?url=https://pvi.cersanit.ru/upload/uf/c2b/KTL052.jpg&w=300&output=webp&q=80" alt="Плитка Calacatta рельеф 30x60" className="w-full h-full object-cover" loading="lazy" /></div><div className="p-3"><span className="text-xs text-muted-foreground line-clamp-2">Плитка Calacatta рельеф 30x60</span><span className="mt-2 block text-base font-bold text-foreground">795 ₽/м²</span></div></Link>
+                  <Link href="/catalog/keramogranit-soft-concrete-svetlo-seryy-60x120" className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"><div className="relative aspect-square overflow-hidden bg-muted"><img src="https://images.weserv.nl/?url=https://pvi.cersanit.ru/upload/uf/068/gcqu8u24rft50mgxzpbijnh33k074vg0/A17122_01.jpg&w=300&output=webp&q=80" alt="Керамогранит Soft Concrete 60x120" className="w-full h-full object-cover" loading="lazy" /></div><div className="p-3"><span className="text-xs text-muted-foreground line-clamp-2">Керамогранит Soft Concrete 60x120</span><span className="mt-2 block text-base font-bold text-foreground">2213 ₽/м²</span></div></Link>
                 </div>
                 <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог →</Link>
-              </div>
-              </article>
+              </section>              </article>
     </div>
   )
 }

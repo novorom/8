@@ -105,23 +105,30 @@ def fix_site_url(content, slug):
 
 
 def build_products_block(products):
-    cls = "flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"
-    rows = ""
+    cards = ""
     for p in products:
-        rows += '\n              <Link href="/catalog/{}" className="{}">' \
-                '<span className="text-foreground">{}</span>' \
-                '<span className="text-primary font-medium ml-3">{} руб/м2</span>' \
-                '</Link>'.format(p["slug"], cls, p["name"], p["price"])
+        slug = p["slug"]
+        name = p["name"]
+        price = p["price"]
+        img_tag = '<div className="aspect-square bg-muted" />'
+        cards += (
+            '\n                  <Link href="/catalog/{}" '.format(slug) +
+            'className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all">' +
+            img_tag +
+            '<div className="p-3">' +
+            '<span className="text-xs text-muted-foreground line-clamp-2">{}</span>'.format(name) +
+            '<span className="mt-2 block text-base font-bold text-foreground">{} ₽/м²</span>'.format(price) +
+            '</div></Link>'
+        )
     return (
-        '          <div className="mt-8 p-5 rounded-xl bg-muted/50 border border-border">\n'
-        '            <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>\n'
-        '            <div className="flex flex-col gap-2">'
-        + rows +
-        '\n            </div>\n'
-        '            <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог</Link>\n'
-        '          </div>\n'
+        '              <section className="mt-8">\n'
+        '                <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>\n'
+        '                <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">'
+        + cards +
+        '\n                </div>\n'
+        '                <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог →</Link>\n'
+        '              </section>\n'
     )
-
 
 def build_internal_links_block(related_landings):
     """Build internal linking block with related landing pages"""

@@ -95,16 +95,15 @@ export default function Article() {
             Посетите наш магазин на Янино или свяжитесь с нашей командой, чтобы выбрать идеальный керамогранит для вашего проекта. Мы — официальный дилер Cersanit в Санкт-Петербурге, и мы готовы помочь вам найти решение, которое будет идеально сочетать качество, безопасность и красоту.
           </p>
         </div>
-                <div className="mt-8 p-5 rounded-xl bg-muted/50 border border-border">
-            <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
-            <div className="flex flex-col gap-2">
-              <Link href="/catalog/keramogranit-northwood-bezhevyy-18x60" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Northwood бежевый 18x60</span><span className="text-primary font-medium ml-3">1098 руб/м2</span></Link>
-              <Link href="/catalog/keramogranit-wood-concept-natural-bezhevyy-22x90" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Керамогранит Wood Concept Natural 22x90</span><span className="text-primary font-medium ml-3">1610 руб/м2</span></Link>
-              <Link href="/catalog/mozaika-royal-stone-mnogotsvetnyy-30x30" className="flex items-center justify-between px-4 py-2.5 rounded-lg bg-background border border-border hover:border-primary/40 hover:bg-accent transition-all text-sm"><span className="text-foreground">Мозаика Royal Stone 30x30</span><span className="text-primary font-medium ml-3">1820 руб/м2</span></Link>
-            </div>
-            <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог</Link>
-          </div>
-        </article>
+                <section className="mt-8">
+                <h3 className="text-base font-semibold text-foreground mb-4">Товары из этой статьи</h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+                  <Link href="/catalog/keramogranit-northwood-bezhevyy-18x60" className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"><div className="relative aspect-square overflow-hidden bg-muted"><img src="https://images.weserv.nl/?url=https://pvi.cersanit.ru/upload/uf/5b6/C_NW4M012D_1a.jpg&w=300&output=webp&q=80" alt="Керамогранит Northwood бежевый 18x60" className="w-full h-full object-cover" loading="lazy" /></div><div className="p-3"><span className="text-xs text-muted-foreground line-clamp-2">Керамогранит Northwood бежевый 18x60</span><span className="mt-2 block text-base font-bold text-foreground">1098 ₽/м²</span></div></Link>
+                  <Link href="/catalog/keramogranit-wood-concept-natural-bezhevyy-22x90" className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"><div className="relative aspect-square overflow-hidden bg-muted"><img src="https://images.weserv.nl/?url=https://pvi.cersanit.ru/upload/uf/4af/15971_1.jpg&w=300&output=webp&q=80" alt="Керамогранит Wood Concept Natural 22x90" className="w-full h-full object-cover" loading="lazy" /></div><div className="p-3"><span className="text-xs text-muted-foreground line-clamp-2">Керамогранит Wood Concept Natural 22x90</span><span className="mt-2 block text-base font-bold text-foreground">1610 ₽/м²</span></div></Link>
+                  <Link href="/catalog/mozaika-royal-stone-mnogotsvetnyy-30x30" className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"><div className="relative aspect-square overflow-hidden bg-muted"><img src="https://images.weserv.nl/?url=https://pvi.cersanit.ru/upload/uf/084/RS2L451.jpg&w=300&output=webp&q=80" alt="Мозаика Royal Stone 30x30" className="w-full h-full object-cover" loading="lazy" /></div><div className="p-3"><span className="text-xs text-muted-foreground line-clamp-2">Мозаика Royal Stone 30x30</span><span className="mt-2 block text-base font-bold text-foreground">1820 ₽/м²</span></div></Link>
+                </div>
+                <Link href="/catalog" className="mt-4 inline-flex items-center text-sm text-primary hover:underline font-medium">Весь каталог →</Link>
+              </section>        </article>
     </div>
   )
 }
