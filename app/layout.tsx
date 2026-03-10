@@ -8,15 +8,15 @@ import { ProductsProvider } from "@/lib/products-context"
 
 const inter = Inter({ subsets: ["latin", "cyrillic"] })
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: {
-    default: "Купить плитку Cersanit в СПб -- доставка со склада Янино | Дом Плитки",
-    template: "%s | Дом Плитки CERSANIT",
+    default: "Купить плитку в СПб — Kerama Marazzi, Cersanit, Азори | Плитки СПб",
+    template: "%s | Плитки СПб",
   },
   description:
-    "Магазин плитки Cersanit в Санкт-Петербурге. Более 750 наименований керамической плитки, керамогранита и мозаики в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Самовывоз бесплатно.",
+    "Магазин плитки в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Более 2000 позиций на складе в Янино. Доставка по СПб и ЛО от 1 дня.",
   metadataBase: new URL(SITE_URL),
   alternates: { canonical: "/" },
   icons: {
@@ -30,28 +30,17 @@ export const metadata: Metadata = {
     apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   openGraph: {
-    title: "Купить плитку Cersanit в СПб -- доставка со склада Янино",
-    description:
-      "Магазин плитки Cersanit в Санкт-Петербурге. 750+ позиций на складе Янино. Доставка по СПб и ЛО.",
+    title: "Купить плитку в СПб — Kerama Marazzi, Cersanit, Азори",
+    description: "Магазин плитки в Санкт-Петербурге. 2000+ позиций на складе Янино. Все ведущие бренды.",
     url: SITE_URL,
-    siteName: "Дом Плитки CERSANIT",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: { index: true, follow: true },
-  },
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
   other: {
     "geo.region": "RU-SPE",
     "geo.placename": "Санкт-Петербург",
-    ...(process.env.NEXT_PUBLIC_YANDEX_VERIFICATION
-      ? { "yandex-verification": process.env.NEXT_PUBLIC_YANDEX_VERIFICATION }
-      : {}),
-    ...(process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION
-      ? { "google-site-verification": process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION }
-      : {}),
   },
 }
 
@@ -64,9 +53,8 @@ export const viewport: Viewport = {
 const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Дом Плитки CERSANIT",
+  name: "Плитки СПб",
   url: SITE_URL,
-  logo: `${SITE_URL}/images/logo-cersanit.png`,
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+7-905-205-09-00",
@@ -77,12 +65,7 @@ const organizationJsonLd = {
   sameAs: [
     "https://vk.com/tilebox",
     "https://www.avito.ru/brands/i1860592/all/remont_i_stroitelstvo?src=sharing&sellerId=1175db1d93c4ba564bc712e7e695d5b5",
-    "https://www.instagram.com/cersanit_spb",
-    "https://www.facebook.com/tilebox/",
     "https://t.me/flyroman",
-    "https://www.youtube.com/@novorom",
-    "https://rutube.ru/channel/17530235/",
-    "https://www.tiktok.com/@romrom64123",
   ],
 }
 
@@ -90,13 +73,11 @@ const localBusinessJsonLd = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": `${SITE_URL}/#localbusiness`,
-  name: "Дом Плитки CERSANIT",
-  description:
-    "Магазин керамической плитки и керамогранита Cersanit в Санкт-Петербурге. Склад и шоурум в Янино. Более 750 позиций в наличии.",
+  name: "Плитки СПб",
+  description: "Магазин керамической плитки в СПб. Склад в Янино. Kerama Marazzi, Cersanit, Азори и другие бренды.",
   url: SITE_URL,
   telephone: "+7-905-205-09-00",
-  email: "info@cersanit-spb.ru",
-  image: `${SITE_URL}/images/logo-cersanit.png`,
+  email: "info@plitki-spb.ru",
   priceRange: "₽₽",
   address: {
     "@type": "PostalAddress",
@@ -106,30 +87,7 @@ const localBusinessJsonLd = {
     postalCode: "188679",
     addressCountry: "RU",
   },
-  geo: {
-    "@type": "GeoCoordinates",
-    latitude: "59.9765",
-    longitude: "30.6132",
-  },
-  department: [
-    {
-      "@type": "LocalBusiness",
-      name: "Дом Плитки CERSANIT — Офис",
-      telephone: "+7-905-205-09-00",
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: "проспект Энергетиков, 19",
-        addressLocality: "Санкт-Петербург",
-        postalCode: "195197",
-        addressCountry: "RU",
-      },
-      geo: {
-        "@type": "GeoCoordinates",
-        latitude: "59.9553",
-        longitude: "30.4163",
-      },
-    },
-  ],
+  geo: { "@type": "GeoCoordinates", latitude: "59.9765", longitude: "30.6132" },
   openingHoursSpecification: [
     {
       "@type": "OpeningHoursSpecification",
@@ -155,49 +113,24 @@ const localBusinessJsonLd = {
 const webSiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  name: "Дом Плитки CERSANIT",
+  name: "Плитки СПб",
   url: SITE_URL,
   potentialAction: {
     "@type": "SearchAction",
-    target: {
-      "@type": "EntryPoint",
-      urlTemplate: `${SITE_URL}/catalog?search={search_term_string}`,
-    },
+    target: { "@type": "EntryPoint", urlTemplate: `${SITE_URL}/catalog?search={search_term_string}` },
     "query-input": "required name=search_term_string",
   },
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ru">
       <head>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(organizationJsonLd),
-          }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(localBusinessJsonLd),
-          }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(webSiteJsonLd),
-          }}
-        />
-        {/* Preconnect to image CDN */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteJsonLd) }} />
         <link rel="preconnect" href="https://images.weserv.nl" />
-        <link rel="preconnect" href="https://pvi.cersanit.ru" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://images.weserv.nl" />
-        <link rel="dns-prefetch" href="https://pvi.cersanit.ru" />
       </head>
       <body className={`${inter.className} antialiased`}>
         <ProductsProvider>
@@ -207,30 +140,6 @@ export default function RootLayout({
             <SiteFooter />
           </CartProvider>
         </ProductsProvider>
-
-        {/* Яндекс.Метрика */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (function(m,e,t,r,i,k,a){
-                m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-                m[i].l=1*new Date();
-                for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-                k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
-              })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=107050254', 'ym');
-              ym(107050254, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
-            `,
-          }}
-        />
-        <noscript>
-          <div>
-            <img
-              src="https://mc.yandex.ru/watch/107050254"
-              style={{ position: "absolute", left: "-9999px" }}
-              alt=""
-            />
-          </div>
-        </noscript>
       </body>
     </html>
   )

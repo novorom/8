@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next"
 import { products } from "@/lib/products-data"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString()
@@ -91,6 +91,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.85,
   }))
 
+
+  // Brand pages
+  const brandPages: MetadataRoute.Sitemap = [
+    "brands",
+    "brands/kerama-marazzi",
+    "brands/cersanit",
+    "brands/azori",
+    "brands/nefrit-keramika",
+    "brands/ural-granit",
+    "brands/bonaparte",
+    "brands/gracia-keramika",
+    "brands/idalgo",
+  ].map((path) => ({
+    url: `https://plitki-spb.ru/${path}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.8,
+  }))
+
   // Product pages — с image sitemap (все фото + интерьерные для Google/Яндекс Images)
   const productPages: MetadataRoute.Sitemap = products
     .filter((p) => p.slug)
@@ -127,3 +146,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [...staticPages, ...seoPages, ...collectionPages, ...productPages]
 }
+
+// NOTE: brands pages are added automatically via the brands array above
+// Add manually: /brands, /brands/kerama-marazzi, /brands/cersanit, etc.
