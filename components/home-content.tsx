@@ -192,7 +192,7 @@ export function HomeContent() {
               >
                 <div className="relative aspect-square overflow-hidden">
                   <Image
-                    src={collection.image}
+                    src={`https://images.weserv.nl/?url=${collection.image.replace("https://","")}&w=512&output=webp&q=80&il`}
                     alt={collection.name}
                     fill
                     priority={collections.indexOf(collection) < 4}
