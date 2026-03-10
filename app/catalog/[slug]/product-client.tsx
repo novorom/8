@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import Link from "next/link"
 import {
@@ -54,9 +54,24 @@ export function ProductPageClient({ slug }: { slug: string }) {
   const [quantity, setQuantity] = useState(1)
   const [isFavorite, setIsFavorite] = useState(false)
 
-  const relatedProducts = products
-    .filter((p) => p.collection === product.collection && p.id !== product.id)
-    .slice(0, 4)
+  const relatedProducts = useMemo(() => {
+    const same = products.filter(p => p.collection === product.collection && p.id !== product.id)
+    if (same.length >= 4) return same.slice(0, 4)
+    // Расширяем: по формату, цвету, типу
+    const scored = products
+      .filter(p => p.id !== product.id && p.collection !== product.collection)
+      .map(p => {
+        let score = 0
+        if (p.format === product.format) score += 3
+        if (p.color === product.color) score += 2
+        if (p.product_type === product.product_type) score += 1
+        return { p, score }
+      })
+      .filter(({ score }) => score > 0)
+      .sort((a, b) => b.score - a.score)
+      .map(({ p }) => p)
+    return [...same, ...scored].slice(0, 4)
+  }, [products, product])
 
   const handleAddToCart = () => {
     addItem({
