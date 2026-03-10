@@ -184,7 +184,7 @@ export function HomeContent() {
             </Link>
           </div>
           <div className="flex gap-4 lg:gap-6 overflow-x-auto pb-4 -mx-4 px-4 snap-x snap-mandatory scrollbar-hide">
-            {collections.map((collection) => (
+            {TOP_COLLECTIONS.map((collection) => (
               <Link
                 key={collection.id}
                 href={`/collections/${collection.slug}`}
@@ -192,7 +192,7 @@ export function HomeContent() {
               >
                 <div className="relative aspect-square overflow-hidden">
                   <Image
-                    src={(() => { const u = collection.image; const c = u.replace("https://","").replace("http://",""); return `https://images.weserv.nl/?url=${c}&w=512&output=webp&q=80&il` })()} 
+                    src={collection.image}
                     alt={collection.name}
                     fill
                     priority={collections.indexOf(collection) < 4}
