@@ -49,7 +49,7 @@ export function SiteHeader() {
               <Phone className="h-3.5 w-3.5 shrink-0" />
               <span>+7 (905) 205-09-00</span>
             </a>
-            <span className="text-primary-foreground/70 hidden lg:inline">Склад: Пн–Пт 10:00–16:45 | Шоурум: ежедн. 10:00–18:00</span>
+            <span className="text-primary-foreground/70 hidden lg:inline">Склад: Пн–Пт 10:00–16:45 | Шоурум: ежедн. 10:00–17:00</span>
             <span className="text-primary-foreground/70 lg:hidden">Пн–Пт 10:00–16:45</span>
             <a href="https://t.me/flyroman" className="flex items-center gap-1.5 hover:opacity-80 transition-opacity" title="Telegram" aria-label="Telegram @flyroman">
               <Image 

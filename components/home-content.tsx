@@ -195,6 +195,7 @@ export function HomeContent() {
                     src={collection.image}
                     alt={collection.name}
                     fill
+                    priority={collections.indexOf(collection) < 4}
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
                     sizes="256px"
                   />

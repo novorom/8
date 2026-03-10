@@ -1,6 +1,8 @@
 "use client"
 
 import Link from "next/link"
+import { products } from "@/lib/products-data"
+import Image from "next/image"
 import {
   ChevronRight,
   MapPin,
@@ -154,23 +156,34 @@ export function SeoLandingPage({ data }: { data: SeoPageData }) {
             </h2>
             <p className="text-muted-foreground mb-8">Актуальные позиции со склада Янино</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-              {data.featuredProducts.map((p) => (
+              {data.featuredProducts.map((p) => {
+                const prod = products.find((pr: { slug: string; main_image?: string }) => pr.slug === p.slug)
+                const imgSrc = prod?.main_image ? `https://images.weserv.nl/?url=${encodeURIComponent(prod.main_image)}&w=400&output=webp&q=80` : null
+                return (
                 <Link
                   key={p.slug}
                   href={`/catalog/${p.slug}`}
-                  className="group flex flex-col bg-card rounded-xl border border-border p-4 hover:shadow-md hover:border-primary/30 transition-all"
+                  className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-md hover:border-primary/30 transition-all"
                 >
-                  <span className="text-sm text-muted-foreground mb-1 line-clamp-2 group-hover:text-foreground transition-colors">
-                    {p.name}
-                  </span>
-                  <span className="mt-auto pt-3 text-lg font-bold text-foreground">
-                    {p.price.toLocaleString("ru-RU")} ₽/{p.unit || "м²"}
-                  </span>
-                  <span className="text-xs text-primary mt-1 group-hover:underline">
-                    Смотреть →
-                  </span>
+                  {imgSrc && (
+                    <div className="relative aspect-square overflow-hidden bg-muted">
+                      <Image src={imgSrc} alt={p.name} fill className="object-cover transition-transform duration-300 group-hover:scale-105" sizes="256px" />
+                    </div>
+                  )}
+                  <div className="p-4 flex flex-col flex-1">
+                    <span className="text-sm text-muted-foreground mb-1 line-clamp-2 group-hover:text-foreground transition-colors">
+                      {p.name}
+                    </span>
+                    <span className="mt-auto pt-3 text-lg font-bold text-foreground">
+                      {p.price.toLocaleString("ru-RU")} ₽/{p.unit || "м²"}
+                    </span>
+                    <span className="text-xs text-primary mt-1 group-hover:underline">
+                      Смотреть →
+                    </span>
+                  </div>
                 </Link>
-              ))}
+                )
+              })}
             </div>
             <div className="mt-6">
               <Link
