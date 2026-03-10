@@ -3,7 +3,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { ArrowRight, Truck, ShieldCheck, Award, ChevronRight } from "lucide-react"
-import { categories, collections } from "@/lib/mock-data"
+import { categories } from "@/lib/mock-data"
 import { ProductCard } from "@/components/product-card"
 import { useProducts } from "@/lib/products-context"
 
@@ -33,6 +33,21 @@ const homeFaq = [
     answer:
       "Да, работаем с юридическими лицами и строительными компаниями. Предоставляем все документы: сертификаты качества, счета-фактуры, товарные накладные. Оплата по безналичному расчёту с НДС.",
   },
+]
+
+const TOP_COLLECTIONS = [
+  { id: 1, name: "Calacatta", slug: "calacatta", image: "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg" },
+  { id: 2, name: "Wood Concept Natural", slug: "wood-concept-natural", image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg" },
+  { id: 3, name: "Lofthouse", slug: "lofthouse", image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg" },
+  { id: 4, name: "Northwood", slug: "northwood", image: "https://pvi.cersanit.ru/upload/uf/a08/INT_Northwood_012_2_2.jpg" },
+  { id: 5, name: "Woodhouse", slug: "woodhouse", image: "https://pvi.cersanit.ru/upload/uf/f0c/INT_Woodhouse_WS4O112_3_1.jpg" },
+  { id: 6, name: "Royal Stone", slug: "royal-stone", image: "https://pvi.cersanit.ru/upload/uf/cb8/INT_Royal_stone_2_1.jpg" },
+  { id: 7, name: "Wood Concept Prime", slug: "wood-concept-prime", image: "https://pvi.cersanit.ru/upload/uf/8e6/Interior_WP4T523_1.jpg" },
+  { id: 8, name: "Soft Concrete", slug: "soft-concrete", image: "https://pvi.cersanit.ru/upload/uf/068/gcqu8u24rft50mgxzpbijnh33k074vg0/A17122_01.jpg" },
+  { id: 9, name: "Galaxy", slug: "galaxy", image: "https://pvi.cersanit.ru/upload/uf/279/Int_Galaxy_012_1_1.jpg" },
+  { id: 10, name: "Effecta", slug: "effecta", image: "https://pvi.cersanit.ru/upload/uf/8b9/INT_Effecta_2_1.jpg" },
+  { id: 11, name: "Coliseum", slug: "coliseum", image: "https://pvi.cersanit.ru/upload/uf/93e/INT_Coliseum_012_2_1.jpg" },
+  { id: 12, name: "Infinity", slug: "infinity", image: "https://pvi.cersanit.ru/upload/uf/672/INT_Infinity_092_1_1.jpg" },
 ]
 
 export function HomeContent() {
@@ -195,7 +210,7 @@ export function HomeContent() {
                     src={`https://images.weserv.nl/?url=${collection.image.replace("https://","")}&w=512&output=webp&q=80&il`}
                     alt={collection.name}
                     fill
-                    priority={collections.indexOf(collection) < 4}
+                    priority={collection.id <= 4}
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
                     sizes="256px"
                   />
