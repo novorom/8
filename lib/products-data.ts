@@ -1,3 +1,5 @@
+import { importedProducts } from "./products-data-new"
+
 // Auto-generated — Cersanit 2D catalog
 // Images: proper arrays (fixed ; bug)
 // Interior photos, YouTube video embeds, specs icons added
@@ -60,7 +62,7 @@ export interface Product {
   reviews_count?: number
 }
 
-export const products: Product[] = [
+const localProducts: Product[] = [
   {
     id: "10084",
     collection_image: "https://pvi.cersanit.ru/upload/uf/3fb/INT_Lofthouse_Mix_2_1.jpg",
@@ -9142,6 +9144,11 @@ export const products: Product[] = [
 ]
 
 // ─── Helpers ────────────────────────────────────────────────
+
+export const products: Product[] = [
+  ...localProducts,
+  ...(importedProducts as unknown as Product[]),
+]
 
 export const collections = [...new Set(products.map(p => p.collection))].sort()
 
