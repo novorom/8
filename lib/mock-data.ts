@@ -49,10 +49,10 @@ export interface Collection {
 }
 
 export const categories: Category[] = [
-  { id: 1, name: "Плитка", slug: "plitka", image: "/images/categories/ceramic.jpg", count: 12 },
-  { id: 2, name: "Керамогранит", slug: "keramogranit", image: "/images/categories/porcelain.jpg", count: 24 },
-  { id: 3, name: "Мозаика", slug: "mozaika-na-setke", image: "/images/categories/mosaic.jpg", count: 5 },
-  { id: 4, name: "Ступень", slug: "stepen", image: "/images/categories/steps.jpg", count: 5 },
+  { id: 1, name: "Керамическая плитка", slug: "plitka", image: "https://pvi.cersanit.ru/upload/uf/6bc/Interior_SL4T053_1.jpg", count: 15 },
+  { id: 2, name: "Керамогранит", slug: "keramogranit", image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg", count: 166 },
+  { id: 3, name: "Мозаика", slug: "mozaika-na-setke", image: "https://pvi.cersanit.ru/upload/uf/1d7/LS6O096.jpg", count: 5 },
+  { id: 4, name: "Ступени", slug: "stepen", image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg", count: 5 },
 ]
 
 export const collections: Collection[] = [

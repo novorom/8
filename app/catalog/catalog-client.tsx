@@ -108,6 +108,9 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
         const record = p as unknown as Record<string, unknown>
         const productValue = record[field] as string
 
+        // Нормализация: "Керамическая плитка" → "Плитка"
+        const normalizedValues = values.map(v => v === "Керамическая плитка" ? "Плитка" : v === "Ступени" ? "Ступень" : v)
+
         if (key === "designs") {
           const designMapping = filterOptions.designCategoryMapping as Record<string, string[]>
           const matchedCollections = values.flatMap((v) => designMapping[v] || [])
@@ -118,7 +121,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
           if (productValue === "глянцевая" || productValue === "полированная") return true
         }
 
-        return values.includes(productValue)
+        return normalizedValues.includes(productValue)
       })
     })
 

@@ -112,9 +112,10 @@ export function HomeContent() {
                 className="group relative rounded-xl overflow-hidden aspect-[4/3] lg:aspect-[3/4]"
               >
                 <Image
-                  src={category.image}
+                  src={`https://images.weserv.nl/?url=${encodeURIComponent(category.image)}&w=600&output=webp&q=80`}
                   alt={category.name}
                   fill
+                  priority
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                   sizes="(max-width: 640px) 50vw, 25vw"
                 />
@@ -192,7 +193,7 @@ export function HomeContent() {
               >
                 <div className="relative aspect-square overflow-hidden">
                   <Image
-                    src={collection.image}
+                    src={`https://images.weserv.nl/?url=${encodeURIComponent(collection.image)}&w=512&output=webp&q=80`}
                     alt={collection.name}
                     fill
                     priority={collections.indexOf(collection) < 4}
