@@ -15,6 +15,16 @@ export default function Article() {
   return (
     <div className="min-h-screen bg-background">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@type":"Article","headline":"Керамогранит для балкона и террасы: морозостойкий нескользкий","publisher":{"@type":"Organization","name":"Дом Плитки CERSANIT","url":"https://cersanit-spb.ru"},"mainEntityOfPage":"https://cersanit-spb.ru/blog/keramogranit-dlya-balkona-i-terraisy","datePublished":"2025-03-10","author":{"@type":"Organization","name":"Дом Плитки CERSANIT"}}` }} />
+
+                <div className="mt-6 p-5 rounded-xl bg-muted/30 border border-border">
+            <p className="text-sm font-semibold text-muted-foreground mb-3 uppercase tracking-wide">По теме</p>
+            <div className="flex flex-wrap gap-2">
+              <Link href="/plitka-dlya-balkona-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Плитка для балкона</Link>
+              <Link href="/keramogranit-matovyy-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Матовый керамогранит</Link>
+              <Link href="/keramogranit-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Керамогранит в СПб</Link>
+            </div>
+          </div>
+
       <article className="mx-auto max-w-4xl px-4 py-10">
         <div className="mb-8 flex items-center gap-2 text-sm text-muted-foreground">
           <Link href="/">Главная</Link>

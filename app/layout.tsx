@@ -80,6 +80,7 @@ const organizationJsonLd = {
     "https://www.instagram.com/cersanit_spb",
     "https://www.facebook.com/tilebox/",
     "https://t.me/flyroman",
+    "https://www.youtube.com/@novorom",
     "https://rutube.ru/channel/17530235/",
     "https://www.tiktok.com/@romrom64123",
   ],

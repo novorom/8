@@ -92,6 +92,12 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог плитки",
+
+    blogLinks: [
+      { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку для ванной", desc: "Советы по выбору" },
+      { href: "/blog/trendy-plitki-2025", title: "Тренды плитки 2025", desc: "Актуальные тенденции" },
+      { href: "/blog/formaty-plitki", title: "Форматы плитки", desc: "Какой формат выбрать" }
+    ],
   },
 
   "keramicheskaya-plitka-spb": {
@@ -193,6 +199,12 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?product_type=Керамогранит",
     catalogLinkLabel: "Смотреть керамогранит",
+
+    blogLinks: [
+      { href: "/blog/keramogranit-ili-laminat", title: "Керамогранит или ламинат", desc: "Что лучше для пола" },
+      { href: "/blog/kak-rezat-keramogranit", title: "Как резать керамогранит", desc: "Инструкция" },
+      { href: "/blog/kak-uhazhivat-za-keramogranitom", title: "Уход за керамогранитом", desc: "Советы" }
+    ],
     featuredProducts: [
       { slug: "keramogranit-northwood-bezhevyy-18x60", name: "Керамогранит Northwood бежевый 18x60", price: 1098 },
       { slug: "keramogranit-wood-concept-natural-bezhevyy-22x90", name: "Керамогранит Wood Concept Natural бежевый 22x90", price: 1610 },
@@ -252,6 +264,12 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Смотреть плитку для ванной",
+
+    blogLinks: [
+      { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку для ванной", desc: "Полное руководство" },
+      { href: "/blog/rekomendatsii-po-zatirke", title: "Рекомендации по затирке", desc: "Как затирать швы" },
+      { href: "/blog/plitka-pod-mramor-v-interere", title: "Плитка под мрамор в интерьере", desc: "Дизайн идеи" }
+    ],
     featuredProducts: [
       { slug: "plitka-calacatta-belyy-30x60", name: "Плитка Calacatta белый 30x60", price: 780 },
       { slug: "plitka-calacatta-belyy-30x60-glyantsevaya", name: "Плитка Calacatta белый рельеф 30x60", price: 795 },
@@ -421,6 +439,12 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог",
+
+    blogLinks: [
+      { href: "/blog/trendy-plitki-2025", title: "Тренды плитки 2025", desc: "Новинки сезона" },
+      { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку", desc: "Советы покупателям" },
+      { href: "/blog/skolko-plitki-nuzhno-kupit", title: "Сколько плитки нужно", desc: "Расчёт количества" }
+    ],
     blogLinks: [
       { href: "/blog/trendy-plitki-2025", title: "Тренды плитки 2025", desc: "Актуальные коллекции в магазине." },
       { href: "/blog/formaty-plitki", title: "Форматы плитки", desc: "Какой размер выбрать." },

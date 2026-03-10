@@ -55,6 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "blog/trendy-plitki-2025",
     "blog/keramogranit-dlya-balkona-i-terraisy",
     "blog/plitka-pod-mramor-v-interere",
+    "blog/kak-sozdat-dizajn-vannoj-v-stile-loft",
     "plitka-seraya-spb",
     "plitka-belaya-spb",
     "keramogranit-matovyy-spb",

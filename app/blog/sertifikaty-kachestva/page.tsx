@@ -49,6 +49,16 @@ export default function Certificates() {
         author: { "@type": "Organization", name: "Дом Плитки CERSANIT" },
       }) }} />
       <div className="bg-muted/50 border-b border-border"><div className="mx-auto max-w-7xl px-4 py-3"><nav className="flex items-center gap-1.5 text-sm text-muted-foreground"><Link href="/" className="hover:text-primary transition-colors">Главная</Link><ChevronRight className="h-3.5 w-3.5" /><Link href="/blog" className="hover:text-primary transition-colors">Блог</Link><ChevronRight className="h-3.5 w-3.5" /><span className="text-foreground font-medium">Сертификаты качества</span></nav></div></div>
+
+                <div className="mt-6 p-5 rounded-xl bg-muted/30 border border-border">
+            <p className="text-sm font-semibold text-muted-foreground mb-3 uppercase tracking-wide">По теме</p>
+            <div className="flex flex-wrap gap-2">
+              <Link href="/keramogranit-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Керамогранит Cersanit</Link>
+              <Link href="/magazin-plitki-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Магазин плитки</Link>
+              <Link href="/dostavka-plitki-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Доставка плитки</Link>
+            </div>
+          </div>
+
       <article className="mx-auto max-w-3xl px-4 py-12 lg:py-16">
         <header className="mb-10">
           <div className="text-sm text-muted-foreground mb-3">3 минуты чтения · Документы и сертификаты</div>

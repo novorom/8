@@ -36,6 +36,16 @@ export default function Article() {
         </div>
       </div>
 
+
+                <div className="mt-6 p-5 rounded-xl bg-muted/30 border border-border">
+            <p className="text-sm font-semibold text-muted-foreground mb-3 uppercase tracking-wide">По теме</p>
+            <div className="flex flex-wrap gap-2">
+              <Link href="/plitka-dlya-vannoj-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Плитка для ванной</Link>
+              <Link href="/keramogranit-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Керамогранит в СПб</Link>
+              <Link href="/plitka-dlya-kuhni-spb" className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-border bg-background hover:border-primary/40 hover:bg-accent transition-all text-sm text-foreground font-medium">Плитка для кухни</Link>
+            </div>
+          </div>
+
       <article className="mx-auto max-w-3xl px-4 py-12 lg:py-16">
         <header className="mb-10">
           <div className="text-sm text-muted-foreground mb-3">8 минут чтения · Практический гид</div>
