@@ -219,9 +219,7 @@ export function HomeContent() {
                   <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">
                     {collection.name}
                   </h3>
-                  <span className="text-sm text-muted-foreground mt-0.5 block">
-                    {collection.product_count} товаров
-                  </span>
+                  
                 </div>
               </Link>
             ))}
