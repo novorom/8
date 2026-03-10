@@ -90,6 +90,44 @@ function getCollectionProducts(collectionName: string) {
   )
 }
 
+// Релевантные статьи блога для разных типов плитки
+const BLOG_LINKS_BY_TYPE: Record<string, Array<{slug: string, title: string, desc: string}>> = {
+  marble: [
+    { slug: "plitka-pod-mramor-v-interere", title: "Плитка под мрамор в интерьере", desc: "Роскошь без больших затрат" },
+    { slug: "trendy-plitki-2025", title: "Тренды плитки 2025", desc: "Актуальные дизайны" },
+    { slug: "kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку для ванной", desc: "Полный гид" },
+  ],
+  wood: [
+    { slug: "keramogranit-ili-laminat", title: "Керамогранит или ламинат?", desc: "Что лучше выбрать для пола" },
+    { slug: "kak-uhazhivat-za-keramogranitom", title: "Уход за керамогранитом", desc: "Правила чистки и защиты" },
+    { slug: "formaty-plitki", title: "Форматы плитки", desc: "Как выбрать нужный размер" },
+  ],
+  concrete: [
+    { slug: "kak-sozdat-dizajn-vannoj-v-stile-loft", title: "Дизайн ванной в стиле лофт", desc: "Плитка под бетон и кирпич" },
+    { slug: "trendy-plitki-2025", title: "Тренды плитки 2025", desc: "Актуальные дизайны" },
+    { slug: "kak-ukladyvat-plitku", title: "Как укладывать плитку", desc: "Пошаговая инструкция" },
+  ],
+  mosaic: [
+    { slug: "kak-ukladyvat-mozaiku", title: "Как укладывать мозаику", desc: "Пошаговая инструкция" },
+    { slug: "rekomendatsii-po-zatirke", title: "Рекомендации по затирке", desc: "Как затирать швы правильно" },
+    { slug: "kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку для ванной", desc: "Полный гид" },
+  ],
+  default: [
+    { slug: "kak-vybrat-plitku-dlya-vannoj", title: "Как выбрать плитку для ванной", desc: "Полный гид" },
+    { slug: "skolko-plitki-nuzhno-kupit", title: "Как рассчитать количество плитки", desc: "Формулы и советы" },
+    { slug: "rekomendatsii-po-zatirke", title: "Рекомендации по затирке", desc: "Как затирать швы правильно" },
+  ],
+}
+
+function getBlogLinks(name: string) {
+  const n = name.toLowerCase()
+  if (n.includes("calacatta") || n.includes("marble") || n.includes("мрамор") || n.includes("royal stone") || n.includes("travertino") || n.includes("limestone")) return BLOG_LINKS_BY_TYPE.marble
+  if (n.includes("wood") || n.includes("дерево") || n.includes("oak") || n.includes("timber") || n.includes("loft") || n.includes("concrete") || n.includes("northwood") || n.includes("amberwood") || n.includes("woodhouse")) return BLOG_LINKS_BY_TYPE.wood
+  if (n.includes("concrete") || n.includes("бетон") || n.includes("loft") || n.includes("soft")) return BLOG_LINKS_BY_TYPE.concrete
+  if (n.includes("mozaika") || n.includes("mosaic") || n.includes("мозаик")) return BLOG_LINKS_BY_TYPE.mosaic
+  return BLOG_LINKS_BY_TYPE.default
+}
+
 export default async function CollectionPage({ params }: CollectionPageProps) {
   const { collection } = await params
   const collectionName = findCollectionName(collection)
@@ -354,6 +392,23 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
           </div>
         </div>
       )}
+
+      {/* Полезные статьи */}
+      <div className="py-10 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-xl font-bold text-foreground mb-6">Полезные статьи</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            {getBlogLinks(collectionName).map((article) => (
+              <Link key={article.slug} href={`/blog/${article.slug}`}
+                className="group flex flex-col bg-background rounded-xl border border-border p-5 hover:border-primary/40 hover:shadow-md transition-all">
+                <span className="text-sm font-semibold text-foreground group-hover:text-primary transition-colors mb-1 line-clamp-2">{article.title}</span>
+                <span className="text-xs text-muted-foreground line-clamp-2">{article.desc}</span>
+                <span className="text-xs text-primary mt-3 group-hover:underline">Читать →</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </div>
 
       {/* CTA */}
       <div className="py-12 bg-primary text-primary-foreground">
