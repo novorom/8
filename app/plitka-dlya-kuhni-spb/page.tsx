@@ -4,7 +4,7 @@ import { ChevronRight, Phone } from "lucide-react"
 import { products } from "@/lib/products-data"
 import { ProductCard } from "@/components/product-card"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "Плитка для кухни Cersanit купить в Санкт-Петербурге | Дом Плитки",
   description: "Керамическая плитка и керамогранит для кухни Cersanit в СПб. Влагостойкая, жиростойкая, легко моется. Склад Янино, доставка по СПб от 1 дня. Цены от 472 руб/м2.",
   alternates: { canonical: `${SITE_URL}/plitka-dlya-kuhni-spb` },
-  openGraph: { title: "Плитка для кухни Cersanit в СПб", url: `${SITE_URL}/plitka-dlya-kuhni-spb`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "website" },
+  openGraph: { title: "Плитка для кухни Cersanit в СПб", url: `${SITE_URL}/plitka-dlya-kuhni-spb`, siteName: "Плитки СПб", locale: "ru_RU", type: "website" },
 }
 
 const faq = [

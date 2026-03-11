@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: "Блог о плитке и керамограните Cersanit | Дом Плитки СПб",
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "Блог о плитке и керамограните Cersanit | Дом Плитки СПб",
     description: "Инструкции по укладке, советы по уходу, сертификаты качества — полезные материалы от официального дилера Cersanit в Санкт-Петербурге.",
     url: `${SITE_URL}/blog`,
-    siteName: "Дом Плитки CERSANIT",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },

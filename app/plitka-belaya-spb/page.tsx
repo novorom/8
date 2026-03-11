@@ -4,7 +4,7 @@ import { ChevronRight, Phone } from "lucide-react"
 import { products } from "@/lib/products-data"
 import { ProductCard } from "@/components/product-card"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: "Белая плитка Cersanit в Санкт-Петербурге",
     description: "Белая плитка — Calacatta, Tiffany, Silvia. Склад в Янино, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/plitka-belaya-spb`,
-    siteName: "Дом Плитки CERSANIT",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },

@@ -3,56 +3,52 @@
 import Link from "next/link"
 import Image from "next/image"
 import { ArrowRight, Truck, ShieldCheck, Award, ChevronRight } from "lucide-react"
-import { categories } from "@/lib/mock-data"
 import { ProductCard } from "@/components/product-card"
 import { useProducts } from "@/lib/products-context"
 
 const homeFaq = [
   {
-    question: "Вы официальный дилер Cersanit?",
+    question: "Какие бренды плитки есть в наличии?",
     answer:
-      "Да, мы являемся официальным дилером Cersanit в России. Все товары поставляются напрямую с заводов, имеют сертификаты качества и гарантию производителя. Работаем на рынке керамической плитки с 2011 года.",
+      "На складе в Янино представлены ведущие бренды: Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика, Бонапарт, Элетто, Идальго, Dako, Квадро Декор. Более 3000 позиций для любых задач и бюджетов.",
   },
   {
-    question: "Где находится ваш склад?",
+    question: "Где находится склад и шоурум?",
     answer:
-      "Наш склад расположен в п. Янино-1, Ленинградская область (15-20 минут от КАД). Здесь хранится весь ассортимент -- более 750 наименований. Режим работы: Пн-Пт 10:00-16:45. Приезжайте, чтобы увидеть плитку вживую.",
+      "Склад и шоурум в п. Янино-1, Ленобласть — 15–20 минут от КАД по Мурманскому шоссе. Приезжайте, чтобы увидеть плитку вживую. Режим работы: Пн–Пт 10:00–16:45.",
   },
   {
     question: "Как быстро доставляете по Санкт-Петербургу?",
     answer:
-      "Доставка по СПб и Ленинградской области -- от 1-2 рабочих дней. Самовывоз со склада Янино бесплатный в день оплаты. Мы сами загружаем плитку в ваш транспорт.",
+      "Доставка по СПб и Ленинградской области — от 1–2 рабочих дней. Самовывоз со склада Янино бесплатный в день оплаты. Стоимость доставки рассчитывается индивидуально.",
   },
   {
-    question: "Помогаете рассчитать количество плитки?",
+    question: "Помогаете подобрать плитку под проект?",
     answer:
-      "Да, мы бесплатно рассчитаем нужное количество плитки по размерам вашего помещения. Свяжитесь с нами по телефону +7 (905) 205-09-00 или в Telegram @flyroman.",
+      "Да, бесплатно рассчитаем нужное количество по размерам помещения и поможем подобрать коллекцию. Звоните +7 (905) 205-09-00 или пишите в Telegram @flyroman — ответим быстро.",
   },
   {
-    question: "Работаете с юридическими лицами?",
+    question: "Работаете с юридическими лицами и строителями?",
     answer:
-      "Да, работаем с юридическими лицами и строительными компаниями. Предоставляем все документы: сертификаты качества, счета-фактуры, товарные накладные. Оплата по безналичному расчёту с НДС.",
+      "Да, работаем с юридическими лицами, ремонтными бригадами и строительными компаниями. Предоставляем полный пакет документов: счета-фактуры, накладные, сертификаты. Оплата по безналичному расчёту с НДС.",
   },
 ]
 
-const TOP_COLLECTIONS = [
-  { id: 1, name: "Calacatta", slug: "calacatta", image: "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg" },
-  { id: 2, name: "Wood Concept Natural", slug: "wood-concept-natural", image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg" },
-  { id: 3, name: "Lofthouse", slug: "lofthouse", image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg" },
-  { id: 4, name: "Northwood", slug: "northwood", image: "https://pvi.cersanit.ru/upload/uf/a08/INT_Northwood_012_2_2.jpg" },
-  { id: 5, name: "Woodhouse", slug: "woodhouse", image: "https://pvi.cersanit.ru/upload/uf/f0c/INT_Woodhouse_WS4O112_3_1.jpg" },
-  { id: 6, name: "Royal Stone", slug: "royal-stone", image: "https://pvi.cersanit.ru/upload/uf/cb8/INT_Royal_stone_2_1.jpg" },
-  { id: 7, name: "Wood Concept Prime", slug: "wood-concept-prime", image: "https://pvi.cersanit.ru/upload/uf/8e6/Interior_WP4T523_1.jpg" },
-  { id: 8, name: "Soft Concrete", slug: "soft-concrete", image: "https://pvi.cersanit.ru/upload/uf/068/gcqu8u24rft50mgxzpbijnh33k074vg0/A17122_01.jpg" },
-  { id: 9, name: "Galaxy", slug: "galaxy", image: "https://pvi.cersanit.ru/upload/uf/279/Int_Galaxy_012_1_1.jpg" },
-  { id: 10, name: "Effecta", slug: "effecta", image: "https://pvi.cersanit.ru/upload/uf/8b9/INT_Effecta_2_1.jpg" },
-  { id: 11, name: "Coliseum", slug: "coliseum", image: "https://pvi.cersanit.ru/upload/uf/93e/INT_Coliseum_012_2_1.jpg" },
-  { id: 12, name: "Infinity", slug: "infinity", image: "https://pvi.cersanit.ru/upload/uf/672/INT_Infinity_092_1_1.jpg" },
+const BRANDS = [
+  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "Российский лидер, 425+ позиций" },
+  { name: "Азори", slug: "azori", desc: "Дизайнерская коллекция, 1000+ позиций" },
+  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "Российское производство, 914 позиций" },
+  { name: "Cersanit", slug: "cersanit", desc: "Польский бренд, проверенное качество" },
+  { name: "Бонапарт", slug: "bonapart", desc: "Широкий ассортимент форматов" },
+  { name: "Элетто", slug: "eletto", desc: "Декоративная и напольная плитка" },
 ]
 
 export function HomeContent() {
   const { products } = useProducts()
   const popularProducts = products.filter((p) => p.is_bestseller).slice(0, 8)
+  const inStockProducts = products
+    .filter((p: any) => p.stock_yanino && p.stock_yanino > 0 && p.main_image)
+    .slice(0, 8)
 
   return (
     <>
@@ -60,7 +56,7 @@ export function HomeContent() {
       <section className="relative h-[520px] lg:h-[600px] overflow-hidden">
         <Image
           src="/images/hero-bathroom.jpg"
-          alt="Современный интерьер ванной комнаты с керамической плиткой Cersanit"
+          alt="Современный интерьер с керамической плиткой — Плитки СПб"
           fill
           className="object-cover"
           priority
@@ -71,275 +67,114 @@ export function HomeContent() {
             <div className="flex items-center gap-2">
               <span className="h-px w-8 bg-primary" />
               <span className="text-sm font-medium text-background/80 tracking-wide uppercase">
-                Официальный дилер
+                Склад в Янино — СПб
               </span>
             </div>
             <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold text-background leading-tight text-balance">
-              Керамическая плитка Cersanit в Санкт-Петербурге
+              Керамическая плитка в Санкт-Петербурге
             </h1>
             <p className="text-lg text-background/70 leading-relaxed max-w-md">
-              Более 750 наименований в наличии на складе в Янино. Доставка по СПб и Ленинградской области от 1 дня. Самовывоз бесплатно.
+              Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Более 3000 позиций на складе в Янино. Доставка от 1 дня.
             </p>
-            <div className="flex flex-wrap items-center gap-3">
+            <div className="flex flex-col sm:flex-row gap-3">
               <Link
                 href="/catalog"
-                className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-semibold text-base hover:bg-primary/90 transition-colors shadow-lg"
               >
-                Перейти в каталог
+                Смотреть каталог
                 <ArrowRight className="h-4 w-4" />
               </Link>
               <Link
-                href="#categories"
-                className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background/10 text-background font-medium text-sm backdrop-blur-sm border border-background/20 hover:bg-background/20 transition-colors"
+                href="/brands"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-background/15 backdrop-blur-sm text-background font-medium text-base border border-background/30 hover:bg-background/25 transition-colors"
               >
-                Категории товаров
+                Все бренды
               </Link>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Categories Section */}
-      <section id="categories" className="py-16 lg:py-20 bg-muted/50">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="flex items-end justify-between mb-8 lg:mb-10">
-            <div>
-              <h2 className="text-2xl lg:text-3xl font-bold text-foreground text-balance">
-                Категории товаров
-              </h2>
-              <p className="mt-2 text-muted-foreground">
-                Широкий ассортимент керамической продукции
-              </p>
+      {/* USP bar */}
+      <section className="border-b border-border bg-background">
+        <div className="mx-auto max-w-7xl px-4 py-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm text-muted-foreground">
+            <div className="flex items-center gap-2">
+              <Truck className="h-4 w-4 text-primary shrink-0" />
+              <span>Доставка по СПб от 1 дня</span>
             </div>
-            <Link
-              href="/catalog"
-              className="hidden sm:flex items-center gap-1 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-            >
-              Весь каталог
-              <ChevronRight className="h-4 w-4" />
+            <div className="flex items-center gap-2">
+              <ShieldCheck className="h-4 w-4 text-primary shrink-0" />
+              <span>Гарантия производителя</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <Award className="h-4 w-4 text-primary shrink-0" />
+              <span>В продаже с 2006 года</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <Award className="h-4 w-4 text-primary shrink-0" />
+              <span>3000+ позиций на складе</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Brands */}
+      <section className="py-12 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="text-2xl lg:text-3xl font-bold text-foreground">Бренды в наличии</h2>
+            <Link href="/brands" className="text-sm text-primary font-medium flex items-center gap-1 hover:gap-2 transition-all">
+              Все бренды <ChevronRight className="h-4 w-4" />
             </Link>
           </div>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-6">
-            {categories.map((category) => (
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+            {BRANDS.map((brand) => (
               <Link
-                key={category.id}
-                href={`/catalog?product_type=${encodeURIComponent(category.name)}`}
-                className="group relative rounded-xl overflow-hidden aspect-[4/3] lg:aspect-[3/4]"
+                key={brand.slug}
+                href={`/brands/${brand.slug}`}
+                className="group flex flex-col items-center gap-2 p-4 rounded-xl bg-background border border-border hover:border-primary/40 hover:shadow-md transition-all text-center"
               >
-                <Image
-                  src={category.image}
-                  alt={category.name}
-                  fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  sizes="(max-width: 640px) 50vw, 25vw"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-foreground/70 via-foreground/20 to-transparent" />
-                <div className="absolute bottom-0 left-0 right-0 p-4 lg:p-5">
-                  <h3 className="text-base lg:text-lg font-semibold text-background text-balance">
-                    {category.name}
-                  </h3>
-                </div>
-              </Link>
-            ))}
-          </div>
-          <Link
-            href="/catalog"
-            className="sm:hidden flex items-center justify-center gap-1 mt-6 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-          >
-            Весь каталог
-            <ChevronRight className="h-4 w-4" />
-          </Link>
-        </div>
-      </section>
-
-      {/* Popular Products Section */}
-      <section className="py-16 lg:py-20">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="flex items-end justify-between mb-8 lg:mb-10">
-            <div>
-              <h2 className="text-2xl lg:text-3xl font-bold text-foreground text-balance">
-                Популярные товары
-              </h2>
-              <p className="mt-2 text-muted-foreground">Лучшие предложения по отзывам покупателей</p>
-            </div>
-            <Link
-              href="/catalog"
-              className="hidden sm:flex items-center gap-1 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-            >
-              Все товары
-              <ChevronRight className="h-4 w-4" />
-            </Link>
-          </div>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-6">
-            {popularProducts.map((product, index) => (
-              <ProductCard key={product.id} product={product} priority={index < 4} />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Collections Section */}
-      <section className="py-16 lg:py-20 bg-muted/50">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="flex items-end justify-between mb-8 lg:mb-10">
-            <div>
-              <h2 className="text-2xl lg:text-3xl font-bold text-foreground text-balance">
-                Коллекции
-              </h2>
-              <p className="mt-2 text-muted-foreground">
-                Дизайнерские серии для создания единого стиля
-              </p>
-            </div>
-            <Link
-              href="/collections"
-              className="hidden sm:flex items-center gap-1 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-            >
-              Все коллекции
-              <ChevronRight className="h-4 w-4" />
-            </Link>
-          </div>
-          <div className="flex gap-4 lg:gap-6 overflow-x-auto pb-4 -mx-4 px-4 snap-x snap-mandatory scrollbar-hide">
-            {TOP_COLLECTIONS.map((collection) => (
-              <Link
-                key={collection.id}
-                href={`/collections/${collection.slug}`}
-                className="group snap-start shrink-0 w-56 lg:w-64 flex flex-col rounded-xl border border-border overflow-hidden bg-card hover:shadow-lg transition-all duration-300"
-              >
-                <div className="relative aspect-square overflow-hidden">
-                  <Image
-                    src={`https://images.weserv.nl/?url=${collection.image.replace("https://","")}&w=512&output=webp&q=80&il`}
-                    alt={collection.name}
-                    fill
-                    priority={collection.id <= 4}
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
-                    sizes="256px"
-                  />
-                </div>
-                <div className="p-4">
-                  <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">
-                    {collection.name}
-                  </h3>
-                  
-                </div>
+                <span className="font-semibold text-sm text-foreground group-hover:text-primary transition-colors leading-tight">
+                  {brand.name}
+                </span>
+                <span className="text-xs text-muted-foreground leading-snug">{brand.desc}</span>
               </Link>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Advantages Section */}
-      <section className="py-16 lg:py-20">
+      {/* Popular products */}
+      {(popularProducts.length > 0 || inStockProducts.length > 0) && (
+        <section className="py-12 bg-background">
+          <div className="mx-auto max-w-7xl px-4">
+            <div className="flex items-center justify-between mb-8">
+              <h2 className="text-2xl lg:text-3xl font-bold text-foreground">Товары в наличии</h2>
+              <Link href="/catalog" className="text-sm text-primary font-medium flex items-center gap-1 hover:gap-2 transition-all">
+                Весь каталог <ChevronRight className="h-4 w-4" />
+              </Link>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+              {(popularProducts.length > 0 ? popularProducts : inStockProducts).map((product, i) => (
+                <ProductCard key={product.id} product={product} priority={i < 4} />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* FAQ */}
+      <section className="py-12 bg-muted/30">
         <div className="mx-auto max-w-7xl px-4">
-          <h2 className="text-2xl lg:text-3xl font-bold text-foreground text-center mb-10 lg:mb-12 text-balance">
-            Почему выбирают нас
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 lg:gap-8">
-            {[
-              {
-                icon: Award,
-                title: "Официальный дилер",
-                description: "Прямые поставки с заводов Cersanit. Гарантия подлинности каждого товара.",
-              },
-              {
-                icon: Truck,
-                title: "Доставка по СПб и ЛО",
-                description: "Собственный склад в Янино. Доставка по Санкт-Петербургу от 1 дня. Самовывоз бесплатно.",
-              },
-              {
-                icon: ShieldCheck,
-                title: "Гарантия качества",
-                description: "Вся продукция сертифицирована. Обмен и возврат в течение 14 дней.",
-              },
-            ].map((advantage) => (
-              <div
-                key={advantage.title}
-                className="flex flex-col items-center text-center gap-4 p-6 lg:p-8 rounded-xl border border-border bg-card"
-              >
-                <div className="h-14 w-14 rounded-xl bg-primary/10 flex items-center justify-center">
-                  <advantage.icon className="h-7 w-7 text-primary" />
-                </div>
-                <h3 className="text-lg font-semibold text-foreground">{advantage.title}</h3>
-                <p className="text-sm text-muted-foreground leading-relaxed">
-                  {advantage.description}
-                </p>
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Часто задаваемые вопросы</h2>
+          <div className="grid gap-4 max-w-3xl">
+            {homeFaq.map((item, i) => (
+              <div key={i} className="bg-background rounded-xl border border-border p-5">
+                <h3 className="font-semibold text-foreground mb-2">{item.question}</h3>
+                <p className="text-sm text-muted-foreground leading-relaxed">{item.answer}</p>
               </div>
             ))}
-          </div>
-        </div>
-      </section>
-
-      {/* SEO Text Block */}
-      <section className="py-16 lg:py-20 bg-muted/30">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="max-w-4xl">
-            <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-6 text-balance">
-              Магазин плитки Cersanit в Санкт-Петербурге
-            </h2>
-            <div className="flex flex-col gap-4 text-foreground/80 leading-relaxed">
-              <p>
-                Дом Плитки -- специализированный интернет-магазин керамической плитки и керамогранита Cersanit в Санкт-Петербурге. С 2011 года мы обеспечиваем жителей СПб и Ленинградской области качественной облицовочной продукцией напрямую от производителя. Наш собственный склад в Янино позволяет поддерживать в наличии более 750 наименований -- от настенной керамической плитки до напольного керамогранита и декоративной мозаики.
-              </p>
-              <p>
-                В каталоге представлены все основные категории: керамическая плитка для ванной и кухни, керамогранит под дерево, мрамор и бетон, мозаика на сетке, ступени и плинтуса. Среди популярных коллекций: Calacatta (элегантный белый мрамор), Wood Concept Natural (реалистичная имитация дерева), Deco (современная геометрия), Lofthouse и Woodhouse. Все товары сертифицированы и соответствуют российским стандартам качества.
-              </p>
-              <p>
-                Мы предлагаем удобные условия покупки: бесплатный самовывоз со склада в Янино с погрузкой в ваш транспорт, доставку по Санкт-Петербургу и Ленинградской области от 1 рабочего дня, а также отправку по всей России транспортными компаниями. Для строительных компаний и юридических лиц -- работа по безналичному расчёту с НДС.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* FAQ Section */}
-      <section className="py-16 lg:py-20">
-        <div className="mx-auto max-w-7xl px-4">
-          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8 text-balance">
-            Часто задаваемые вопросы
-          </h2>
-          <div className="max-w-3xl flex flex-col gap-4">
-            {homeFaq.map((item, i) => (
-              <details
-                key={i}
-                className="group rounded-xl border border-border bg-card overflow-hidden"
-              >
-                <summary className="flex items-center justify-between cursor-pointer px-6 py-4 text-foreground font-medium hover:bg-muted/50 transition-colors">
-                  <span className="pr-4">{item.question}</span>
-                  <ChevronRight className="h-4 w-4 text-muted-foreground shrink-0 transition-transform group-open:rotate-90" />
-                </summary>
-                <div className="px-6 pb-4">
-                  <p className="text-foreground/80 leading-relaxed text-sm">
-                    {item.answer}
-                  </p>
-                </div>
-              </details>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* CTA Banner */}
-      <section className="py-16 lg:py-20 bg-primary">
-        <div className="mx-auto max-w-7xl px-4 text-center">
-          <h2 className="text-2xl lg:text-3xl font-bold text-primary-foreground mb-4 text-balance">
-            Нужна консультация?
-          </h2>
-          <p className="text-primary-foreground/70 mb-8 max-w-lg mx-auto">
-            Наши специалисты помогут подобрать плитку для вашего проекта и рассчитают необходимое количество.
-          </p>
-          <div className="flex flex-wrap items-center justify-center gap-3">
-            <a
-              href="tel:+79052050900"
-              className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors"
-            >
-              +7 (905) 205-09-00
-            </a>
-            <Link
-              href="/catalog"
-              className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-primary-foreground/30 text-primary-foreground font-medium text-sm hover:bg-primary-foreground/10 transition-colors"
-            >
-              Открыть каталог
-              <ArrowRight className="h-4 w-4" />
-            </Link>
           </div>
         </div>
       </section>

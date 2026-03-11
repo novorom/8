@@ -1,12 +1,12 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import { ChevronRight, ShieldCheck } from "lucide-react"
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 export const metadata: Metadata = {
   title: "Сертификаты качества и безопасности плитки Cersanit | Дом Плитки СПб",
   description: "Вся плитка и керамогранит Cersanit сертифицированы в России. Сертификат соответствия ГОСТ, пожарная безопасность, добровольная сертификация НСОПБ. Официальный дилер в СПб.",
   alternates: { canonical: `${SITE_URL}/blog/sertifikaty-kachestva` },
-  openGraph: { title: "Сертификаты качества Cersanit", url: `${SITE_URL}/blog/sertifikaty-kachestva`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "article" },
+  openGraph: { title: "Сертификаты качества Cersanit", url: `${SITE_URL}/blog/sertifikaty-kachestva`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },
 }
 const certs = [
   {
@@ -43,10 +43,10 @@ export default function Certificates() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "Article",
         headline: "Сертификаты качества и безопасности плитки Cersanit",
-        publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: "https://cersanit-spb.ru" },
+        publisher: { "@type": "Organization", name: "Плитки СПб", url: "https://plitki-spb.ru" },
         mainEntityOfPage: `${SITE_URL}/blog/sertifikaty-kachestva`,
         datePublished: "2025-03-01",
-        author: { "@type": "Organization", name: "Дом Плитки CERSANIT" },
+        author: { "@type": "Organization", name: "Плитки СПб" },
       }) }} />
       <div className="bg-muted/50 border-b border-border"><div className="mx-auto max-w-7xl px-4 py-3"><nav className="flex items-center gap-1.5 text-sm text-muted-foreground"><Link href="/" className="hover:text-primary transition-colors">Главная</Link><ChevronRight className="h-3.5 w-3.5" /><Link href="/blog" className="hover:text-primary transition-colors">Блог</Link><ChevronRight className="h-3.5 w-3.5" /><span className="text-foreground font-medium">Сертификаты качества</span></nav></div></div>
 

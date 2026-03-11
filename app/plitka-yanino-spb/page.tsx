@@ -4,7 +4,7 @@ import { ChevronRight, Phone } from "lucide-react"
 import { products } from "@/lib/products-data"
 import { ProductCard } from "@/components/product-card"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: "Плитка Cersanit со склада в Янино — самовывоз",
     description: "Плитка Cersanit со склада в Янино-1 СПб. Более 190 позиций в наличии. Самовывоз бесплатно в день оплаты. Режим работы: Пн-Пт 10:00-16:45.",
     url: `${SITE_URL}/plitka-yanino-spb`,
-    siteName: "Дом Плитки CERSANIT",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },

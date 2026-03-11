@@ -4,7 +4,7 @@ import { ChevronRight, Phone } from "lucide-react"
 import { products } from "@/lib/products-data"
 import { ProductCard } from "@/components/product-card"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: "Керамогранит 45x90 Cersanit в Санкт-Петербурге",
     description: "Керамогранит формата 45x90 Cersanit в СПб — 12 позиций в наличии. Популярный формат для пола и стен — склад Янино, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/keramogranit-45x90-spb`,
-    siteName: "Дом Плитки CERSANIT",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },

@@ -2,13 +2,13 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: "Плитка для кухни: как выбрать фартук и пол | Дом Плитки СПб",
   description: "Какую плитку выбрать для кухонного фартука и пола в Санкт-Петербурге. Требования к износостойкости, простоте ухода, сочетанию с интерьером. Коллекции Cersanit от официального дилера.",
   alternates: { canonical: `${SITE_URL}/blog/plitka-dlya-kuhni-kak-vybrat` },
-  openGraph: { title: "Плитка для кухни: как выбрать фартук и пол", url: `${SITE_URL}/blog/plitka-dlya-kuhni-kak-vybrat`, siteName: "Дом Плитки CERSANIT", locale: "ru_RU", type: "article" },
+  openGraph: { title: "Плитка для кухни: как выбрать фартук и пол", url: `${SITE_URL}/blog/plitka-dlya-kuhni-kak-vybrat`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },
 }
 
 export default function Article() {
@@ -18,10 +18,10 @@ export default function Article() {
         "@context": "https://schema.org", "@type": "Article",
         headline: "Керамогранит под дерево или ламинат — что лучше для пола?",
         description: "Детальное сравнение керамогранита и ламината по 8 параметрам.",
-        publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: SITE_URL },
+        publisher: { "@type": "Organization", name: "Плитки СПб", url: SITE_URL },
         mainEntityOfPage: `${SITE_URL}/blog/keramogranit-ili-laminat`,
         datePublished: "2025-02-20",
-        author: { "@type": "Organization", name: "Дом Плитки CERSANIT" },
+        author: { "@type": "Organization", name: "Плитки СПб" },
       })}} />
 
       <div className="bg-muted/50 border-b border-border">

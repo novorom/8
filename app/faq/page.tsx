@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Вопросы и ответы о плитке Cersanit | Дом Плитки СПб",
     description: "Ответы на частые вопросы: доставка, оплата, возврат, расчёт количества плитки. Официальный дилер Cersanit в Санкт-Петербурге.",
     url: `${SITE_URL}/faq`,
-    siteName: "Дом Плитки CERSANIT",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },

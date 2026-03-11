@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import { products } from "@/lib/products-data"
 import { ProductPageClient } from "./product-client"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 
 export async function generateStaticParams() {
   return products
@@ -20,7 +20,7 @@ export async function generateMetadata({
 
   if (!product) {
     return {
-      title: "Товар не найден | Дом Плитки CERSANIT",
+      title: "Товар не найден | Плитки СПб",
     }
   }
 
@@ -37,7 +37,7 @@ export async function generateMetadata({
       title,
       description,
       url: `${SITE_URL}/catalog/${product.slug}`,
-      siteName: "Дом Плитки CERSANIT",
+      siteName: "Плитки СПб",
       locale: "ru_RU",
       type: "website",
       images: product.main_image

@@ -4,17 +4,17 @@ import Image from "next/image"
 import { Star, MapPin, Calendar, ExternalLink } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Отзывы о нас | Дом Плитки CERSANIT",
+  title: "Отзывы о нас | Плитки СПб",
   description:
     "Магазин плитки Cersanit с 2011 года в Санкт-Петербурге. Отзывы реальных покупателей. Более 15 лет на рынке керамической плитки и керамогранита. Склад и шоурум в Янино.",
   alternates: {
     canonical: "/reviews",
   },
   openGraph: {
-    title: "Отзывы покупателей | Дом Плитки CERSANIT в СПб",
+    title: "Отзывы покупателей | Плитки СПб в СПб",
     description: "Реальные отзывы о магазине плитки Cersanit в Санкт-Петербурге. Более 15 лет на рынке, склад в Янино.",
-    url: "https://cersanit-spb.ru/reviews",
-    siteName: "Дом Плитки CERSANIT",
+    url: "https://plitki-spb.ru/reviews",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },
@@ -24,7 +24,7 @@ export default function ReviewsPage() {
   const reviewsSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: "Дом Плитки CERSANIT",
+    name: "Плитки СПб",
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: "4.9",

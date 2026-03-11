@@ -21,12 +21,14 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
   const searchParams = useSearchParams()
   const { products } = useProducts()
   const collectionSlug = searchParams.get("collection")
+  const brandParam = searchParams.get("brand")
   const productType = searchParams.get("product_type")
   const searchQuery = searchParams.get("search") || ""
 
   const initialFilters = useMemo((): Record<string, string[]> => {
     const filters: Record<string, string[]> = {}
     if (productType) filters.product_types = [productType]
+    if (brandParam) filters.brands = [brandParam]
     if (collectionSlug) {
       const collectionName = collectionSlug
         .split("-")
@@ -35,7 +37,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
       filters.collections = [collectionName]
     }
     return filters
-  }, [productType, collectionSlug])
+  }, [productType, collectionSlug, brandParam])
 
   const [activeFilters, setActiveFilters] = useState<Record<string, string[]>>(initialFilters)
   const [priceRange, setPriceRange] = useState<[number, number]>([400, 9500])
@@ -43,6 +45,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
   useEffect(() => {
     const filters: Record<string, string[]> = {}
     if (productType) filters.product_types = [productType]
+    if (brandParam) filters.brands = [brandParam]
     if (collectionSlug) {
       const collectionName = collectionSlug
         .split("-")
@@ -51,7 +54,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
       filters.collections = [collectionName]
     }
     if (Object.keys(filters).length > 0) setActiveFilters(filters)
-  }, [productType, collectionSlug])
+  }, [productType, collectionSlug, brandParam])
 
   const [sort, setSort] = useState("name")
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false)
@@ -102,6 +105,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
           designs: "collection",
           surface_types: "surface",
           collections: "collection",
+          brands: "brand",
         }
         const field = fieldMap[key]
         if (!field) return true

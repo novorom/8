@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Дом Плитки СПб",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: { 
     title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Дом Плитки СПб",
     url: `${SITE_URL}/blog/kak-sozdat-dizajn-vannoj-v-stile-loft`, 
-    siteName: "Дом Плитки CERSANIT", 
+    siteName: "Плитки СПб", 
     locale: "ru_RU", 
     type: "article" 
   },
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 export default function Article() {
   return (
     <div className="min-h-screen bg-background">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич", publisher: { "@type": "Organization", name: "Дом Плитки CERSANIT", url: "https://cersanit-spb.ru" }, mainEntityOfPage: "https://cersanit-spb.ru/blog/kak-sozdat-dizajn-vannoj-v-stile-loft", datePublished: "2025-10-15", author: { "@type": "Organization", name: "Дом Плитки CERSANIT" } }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич", publisher: { "@type": "Organization", name: "Плитки СПб", url: "https://plitki-spb.ru" }, mainEntityOfPage: "https://plitki-spb.ru/blog/kak-sozdat-dizajn-vannoj-v-stile-loft", datePublished: "2025-10-15", author: { "@type": "Organization", name: "Плитки СПб" } }) }} />
       <article className="mx-auto max-w-4xl px-4 py-10">
         <div className="mb-8">
           <div className="flex items-center gap-2 text-sm text-muted-foreground mb-4">

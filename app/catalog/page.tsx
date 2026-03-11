@@ -4,14 +4,14 @@ import { products } from "@/lib/products-data"
 import type { Product } from "@/lib/products-data"
 
 export const metadata: Metadata = {
-  title: "Каталог плитки Cersanit в СПб — купить керамогранит и керамическую плитку со склада",
-  description: "Каталог керамической плитки и керамогранита Cersanit в Санкт-Петербурге. 200+ моделей в наличии на складе Янино. Цены от 850 ₽/м². Доставка по СПб и ЛО от 1 дня. Самовывоз бесплатно.",
+  title: "Каталог плитки в СПб — Kerama Marazzi, Cersanit, Азори и другие бренды",
+  description: "Каталог керамической плитки и керамогранита в Санкт-Петербурге. Более 3000 позиций: Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика на складе в Янино. Доставка по СПб от 1 дня.",
   alternates: { canonical: "/catalog" },
   openGraph: {
-    title: "Каталог плитки Cersanit в СПб — 200+ моделей в наличии",
-    description: "Керамическая плитка и керамогранит Cersanit со склада в Янино. Доставка по СПб от 1 дня.",
-    url: "https://cersanit-spb.ru/catalog",
-    siteName: "Дом Плитки CERSANIT",
+    title: "Каталог плитки в СПб — 3000+ позиций на складе Янино",
+    description: "Керамическая плитка и керамогранит от ведущих брендов. Склад в Янино, доставка по СПб от 1 дня.",
+    url: "https://plitki-spb.ru/catalog",
+    siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
   },

@@ -2,12 +2,12 @@ import Link from 'next/link'
 import { ExternalLink, Award, MapPin, Package } from 'lucide-react'
 
 export const metadata = {
-  title: 'О компании Дом Плитки -- магазин Cersanit в СПб с 2011 года',
-  description: 'С 2011 года на рынке керамической плитки в Санкт-Петербурге — уже 15 лет. Склад и шоурум в Янино. 10+ производителей-партнёров. Отзывы на Avito.',
+  title: 'О компании Плитки СПб — многобрендовый магазин плитки в Санкт-Петербурге',
+  description: 'Многобрендовый магазин плитки в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Склад и шоурум в Янино. Работаем с 2006 года.',
   alternates: { canonical: '/about' },
   openGraph: {
-    title: 'О компании Дом Плитки -- магазин Cersanit в СПб',
-    description: 'С 2011 года на рынке керамической плитки в Санкт-Петербурге — уже 15 лет. Склад и шоурум в Янино.',
+    title: 'О компании Плитки СПб — магазин плитки в Санкт-Петербурге',
+    description: 'Многобрендовый магазин плитки в СПб. Kerama Marazzi, Cersanit, Азори и другие бренды. Склад и шоурум в Янино.',
   },
 }
 
@@ -43,10 +43,10 @@ export default function AboutPage() {
         <div className="container max-w-6xl mx-auto px-4">
           <div className="max-w-3xl">
             <h1 className="text-4xl lg:text-5xl font-bold text-foreground mb-6">
-              О нашей компании
+              Плитки СПб — ваш магазин плитки в Санкт-Петербурге
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              С 2011 года (15 лет) на рынке керамической плитки и керамогранита. Мы помогаем тысячам клиентов найти идеальное решение для их проектов.
+              С 2006 года работаем в B2B-продажах плитки, с 2011 года — розничный магазин. Предлагаем более 3000 позиций от ведущих брендов на складе в Янино.
             </p>
           </div>
         </div>
