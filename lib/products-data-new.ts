@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED — НЕ РЕДАКТИРОВАТЬ ВРУЧНУЮ
 
 export const importedProducts: any[] = [
