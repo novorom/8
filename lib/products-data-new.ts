@@ -47615,8 +47615,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773423832/plitki-spb/idalgo-dolomiti-sass-temnyy-dolomiti-takko-svetlyy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773423832/plitki-spb/idalgo-dolomiti-sass-temnyy-dolomiti-takko-svetlyy.webp"],
   description: "товарная программа — керамическая плитка коллекции Доломити Сасс Темный от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47853,8 +47853,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773423833/plitki-spb/idalgo-pallisandro-gridzhio-pallisandro-nero.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773423833/plitki-spb/idalgo-pallisandro-gridzhio-pallisandro-nero.webp"],
   description: "товарная программа — керамическая плитка коллекции Паллисандро Гриджио от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
