@@ -15,8 +15,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773348970/plitki-spb/17773.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773348970/plitki-spb/17773.webp"],
   description: "Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -32,8 +32,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773348983/plitki-spb/17775.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773348983/plitki-spb/17775.webp"],
   description: "Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49,8 +49,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773348994/plitki-spb/17695.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773348994/plitki-spb/17695.webp"],
   description: "Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 — керамогранит коллекции Pacific от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -66,8 +66,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349005/plitki-spb/17697.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349005/plitki-spb/17697.webp"],
   description: "Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -83,8 +83,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349016/plitki-spb/17781.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349016/plitki-spb/17781.webp"],
   description: "Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -100,8 +100,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349027/plitki-spb/17783.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349027/plitki-spb/17783.webp"],
   description: "Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -117,8 +117,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349038/plitki-spb/17699.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349038/plitki-spb/17699.webp"],
   description: "Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -134,8 +134,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349049/plitki-spb/17701.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349049/plitki-spb/17701.webp"],
   description: "Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -151,8 +151,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349061/plitki-spb/17785.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349061/plitki-spb/17785.webp"],
   description: "Глаз. керамогранит Spark серый ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Spark серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -168,8 +168,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349072/plitki-spb/17787.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349072/plitki-spb/17787.webp"],
   description: "Глаз. керамогранит Spark синий ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Синий. Размер 45x90 см. Купить Глаз. керамогранит Spark синий ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -185,8 +185,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349084/plitki-spb/17777.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349084/plitki-spb/17777.webp"],
   description: "Глаз. керамогранит Ultra серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -202,8 +202,8 @@ export const importedProducts: any[] = [
   price_retail: 1386,
   price_official: 1733,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349095/plitki-spb/17779.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349095/plitki-spb/17779.webp"],
   description: "Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -219,8 +219,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349103/plitki-spb/17894.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349103/plitki-spb/17894.webp"],
   description: "Глаз. керамогранит Coastline темно-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Coastline от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Coastline темно-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -236,8 +236,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349113/plitki-spb/17886.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349113/plitki-spb/17886.webp"],
   description: "Глаз. керамогранит Desert бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Desert от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Desert бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -253,8 +253,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349123/plitki-spb/17888.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349123/plitki-spb/17888.webp"],
   description: "Глаз. керамогранит Desert серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Desert от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Desert серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -270,8 +270,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349133/plitki-spb/17890.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349133/plitki-spb/17890.webp"],
   description: "Глаз. керамогранит Limestone бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Limestone от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Limestone бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -287,8 +287,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349142/plitki-spb/17892.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349142/plitki-spb/17892.webp"],
   description: "Глаз. керамогранит Limestone светло-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Limestone от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Limestone светло-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -304,8 +304,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349153/plitki-spb/17872.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349153/plitki-spb/17872.webp"],
   description: "Глаз. керамогранит Modis светло-серый ректификат 59,8x59,8 — керамогранит коллекции Modis от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Modis светло-серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -321,8 +321,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349167/plitki-spb/17874.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349167/plitki-spb/17874.webp"],
   description: "Глаз. керамогранит Residence светло-бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Residence от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Residence светло-бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -338,8 +338,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349176/plitki-spb/17876.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349176/plitki-spb/17876.webp"],
   description: "Глаз. керамогранит Residence светло-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Residence от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Residence светло-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -355,8 +355,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349188/plitki-spb/17896.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349188/plitki-spb/17896.webp"],
   description: "Глаз. керамогранит Sandstone светло-бежевый ректификат 59,8x59,8 — керамогранит коллекции Sandstone от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Sandstone светло-бежевый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -372,8 +372,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349201/plitki-spb/17880.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349201/plitki-spb/17880.webp"],
   description: "Глаз. керамогранит Stonehouse бежевый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse бежевый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -389,8 +389,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349211/plitki-spb/17882.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349211/plitki-spb/17882.webp"],
   description: "Глаз. керамогранит Stonehouse серый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -406,8 +406,8 @@ export const importedProducts: any[] = [
   price_retail: 1440,
   price_official: 1800,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349224/plitki-spb/17884.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349224/plitki-spb/17884.webp"],
   description: "Глаз. керамогранит Stonehouse темно-серый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse темно-серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -423,8 +423,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349237/plitki-spb/17942.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349237/plitki-spb/17942.webp"],
   description: "Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -440,8 +440,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349249/plitki-spb/17944.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349249/plitki-spb/17944.webp"],
   description: "Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -457,8 +457,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349261/plitki-spb/17946.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349261/plitki-spb/17946.webp"],
   description: "Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -474,8 +474,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349273/plitki-spb/17948.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349273/plitki-spb/17948.webp"],
   description: "Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -491,8 +491,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349286/plitki-spb/17936.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349286/plitki-spb/17936.webp"],
   description: "Глаз. керамогранит Kauri Wood светло-коричневый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood светло-коричневый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -508,8 +508,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349297/plitki-spb/17938.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349297/plitki-spb/17938.webp"],
   description: "Глаз. керамогранит Kauri Wood бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -525,8 +525,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349306/plitki-spb/17940.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349306/plitki-spb/17940.webp"],
   description: "Глаз. керамогранит Kauri Wood серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -610,8 +610,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349344/plitki-spb/15985.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349344/plitki-spb/15985.webp"],
   description: "Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -627,8 +627,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349356/plitki-spb/15987.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349356/plitki-spb/15987.webp"],
   description: "Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -678,8 +678,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349381/plitki-spb/15989.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349381/plitki-spb/15989.webp"],
   description: "Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Белый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -712,8 +712,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349399/plitki-spb/17950.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349399/plitki-spb/17950.webp"],
   description: "Глаз. керамогранит Select Wood светло-коричневый ректификат 21,8x89,8 — керамогранит коллекции Select Wood от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Select Wood светло-коричневый ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -729,8 +729,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349411/plitki-spb/17952.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349411/plitki-spb/17952.webp"],
   description: "Глаз. керамогранит Select Wood бежевый ректификат 21,8x89,8 — керамогранит коллекции Select Wood от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Select Wood бежевый ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -746,8 +746,8 @@ export const importedProducts: any[] = [
   price_retail: 1610,
   price_official: 2013,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349423/plitki-spb/17934.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349423/plitki-spb/17934.webp"],
   description: "Глаз. керамогранит Timber Land бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Timber Land от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Timber Land бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -763,8 +763,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349432/plitki-spb/16523.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349432/plitki-spb/16523.webp"],
   description: "Глаз. керамогранит Cameo бежевый 29,7x59,8 — керамогранит коллекции Cameo от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Cameo бежевый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -797,8 +797,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349452/plitki-spb/16541.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349452/plitki-spb/16541.webp"],
   description: "Глаз. керамогранит Concretehouse серый рельеф 29,7x59,8 — керамогранит коллекции Concretehouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Concretehouse серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -848,8 +848,8 @@ export const importedProducts: any[] = [
   price_retail: 1017,
   price_official: 1271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349473/plitki-spb/16533.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349473/plitki-spb/16533.webp"],
   description: "Глаз. керамогранит Greenhouse бежевый рельеф 29,7x59,8 — керамогранит коллекции Greenhouse от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Greenhouse бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -865,8 +865,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349484/plitki-spb/16535.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349484/plitki-spb/16535.webp"],
   description: "Глаз. керамогранит Greenhouse коричневый рельеф 29,7x59,8 — керамогранит коллекции Greenhouse от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Greenhouse коричневый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -967,8 +967,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349528/plitki-spb/17906.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349528/plitki-spb/17906.webp"],
   description: "Глаз. керамогранит Luna светло-бежевый 29,7x59,8 — керамогранит коллекции Luna от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Luna светло-бежевый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -984,8 +984,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349540/plitki-spb/17908.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349540/plitki-spb/17908.webp"],
   description: "Глаз. керамогранит Luna бежевый рельеф 29,7x59,8 — керамогранит коллекции Luna от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Luna бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1035,8 +1035,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349565/plitki-spb/16521.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349565/plitki-spb/16521.webp"],
   description: "Глаз. керамогранит Mont Blanc белый 29,7x59,8 — керамогранит коллекции Mont Blanc от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Mont Blanc белый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1171,8 +1171,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349620/plitki-spb/17904.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349620/plitki-spb/17904.webp"],
   description: "Глаз. керамогранит Stellar светло-серый рельеф 29,7x59,8 — керамогранит коллекции Stellar от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Stellar светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1239,8 +1239,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349648/plitki-spb/17902.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349648/plitki-spb/17902.webp"],
   description: "Глаз. керамогранит Amberwood светло-бежевый рельеф 18,5x59,8 — керамогранит коллекции Amberwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Amberwood светло-бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1392,8 +1392,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349710/plitki-spb/17487.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349710/plitki-spb/17487.webp"],
   description: "Глаз. керамогранит Oakwood темно-коричневый рельеф 18,5x59,8 — керамогранит коллекции Oakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Oakwood темно-коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1409,8 +1409,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349722/plitki-spb/17489.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349722/plitki-spb/17489.webp"],
   description: "Глаз. керамогранит Oakwood коричневый рельеф 18,5x59,8 — керамогранит коллекции Oakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Oakwood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1477,8 +1477,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349753/plitki-spb/17898.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349753/plitki-spb/17898.webp"],
   description: "Глаз. керамогранит Teakwood светло-коричневый рельеф 18,5x59,8 — керамогранит коллекции Teakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Teakwood светло-коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1494,8 +1494,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349764/plitki-spb/17900.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349764/plitki-spb/17900.webp"],
   description: "Глаз. керамогранит Teakwood светло-бежевый рельеф 18,5x59,8 — керамогранит коллекции Teakwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Teakwood светло-бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1511,8 +1511,8 @@ export const importedProducts: any[] = [
   price_retail: 1017,
   price_official: 1271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349776/plitki-spb/17914.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349776/plitki-spb/17914.webp"],
   description: "Глаз. керамогранит Avalon светло-бежевый 42x42 — керамогранит коллекции Avalon от Cersanit. Цвет: Бежевый. Размер 42x42 см. Купить Глаз. керамогранит Avalon светло-бежевый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1528,8 +1528,8 @@ export const importedProducts: any[] = [
   price_retail: 1017,
   price_official: 1271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349788/plitki-spb/17916.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349788/plitki-spb/17916.webp"],
   description: "Глаз. керамогранит Avalon бежевый рельеф 42x42 — керамогранит коллекции Avalon от Cersanit. Цвет: Бежевый. Размер 42x42 см. Купить Глаз. керамогранит Avalon бежевый рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1596,8 +1596,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349819/plitki-spb/17910.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349819/plitki-spb/17910.webp"],
   description: "Глаз. керамогранит Magic многоцветный рельеф 42x42 — керамогранит коллекции Magic от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Magic многоцветный рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1698,8 +1698,8 @@ export const importedProducts: any[] = [
   price_retail: 1171,
   price_official: 1464,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349864/plitki-spb/17210.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349864/plitki-spb/17210.webp"],
   description: "Глаз. керамогранит Queen черный 42x42 — керамогранит коллекции Queen от Cersanit. Цвет: Черный. Размер 42x42 см. Купить Глаз. керамогранит Queen черный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1732,8 +1732,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349882/plitki-spb/17912.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349882/plitki-spb/17912.webp"],
   description: "Глаз. керамогранит Ritmo многоцветный 42x42 — керамогранит коллекции Ritmo от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Ritmo многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1766,8 +1766,8 @@ export const importedProducts: any[] = [
   price_retail: 1098,
   price_official: 1373,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349901/plitki-spb/17220.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349901/plitki-spb/17220.webp"],
   description: "Глаз. керамогранит Sevilla пэчворк белый рельеф 42x42 — керамогранит коллекции Sevilla от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Sevilla пэчворк белый рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1834,8 +1834,8 @@ export const importedProducts: any[] = [
   price_retail: 927,
   price_official: 1159,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349932/plitki-spb/17930.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349932/plitki-spb/17930.webp"],
   description: "Глаз. керамогранит Carpet светло-бежевый рельеф 29,8x29,8 — керамогранит коллекции Carpet от Cersanit. Цвет: Бежевый. Размер 30х30 см. Купить Глаз. керамогранит Carpet светло-бежевый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1851,8 +1851,8 @@ export const importedProducts: any[] = [
   price_retail: 1017,
   price_official: 1271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349944/plitki-spb/17932.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349944/plitki-spb/17932.webp"],
   description: "Глаз. керамогранит Carpet орнамент многоцветный рельеф 29,8x29,8 — керамогранит коллекции Carpet от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит Carpet орнамент многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1919,8 +1919,8 @@ export const importedProducts: any[] = [
   price_retail: 1017,
   price_official: 1271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349974/plitki-spb/17924.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349974/plitki-spb/17924.webp"],
   description: "Глаз. керамогранит Motley мелкий узор светло-серый 29,8x29,8 — керамогранит коллекции Motley от Cersanit. Цвет: Серый. Размер 30х30 см. Купить Глаз. керамогранит Motley мелкий узор светло-серый 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1936,8 +1936,8 @@ export const importedProducts: any[] = [
   price_retail: 1017,
   price_official: 1271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349987/plitki-spb/17922.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349987/plitki-spb/17922.webp"],
   description: "Глаз. керамогранит Stream геометрия белый 29,8x29,8 — керамогранит коллекции Stream от Cersanit. Цвет: Белый. Размер 30х30 см. Купить Глаз. керамогранит Stream геометрия белый 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -1987,8 +1987,8 @@ export const importedProducts: any[] = [
   price_retail: 1414,
   price_official: 1768,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350013/plitki-spb/17006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350013/plitki-spb/17006.webp"],
   description: "Авеллино белый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Авеллино белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2004,8 +2004,8 @@ export const importedProducts: any[] = [
   price_retail: 1597,
   price_official: 1996,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350026/plitki-spb/16006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350026/plitki-spb/16006.webp"],
   description: "Авеллино белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2021,8 +2021,8 @@ export const importedProducts: any[] = [
   price_retail: 1658,
   price_official: 2072,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350040/plitki-spb/16017.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350040/plitki-spb/16017.webp"],
   description: "Авеллино белый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2038,8 +2038,8 @@ export const importedProducts: any[] = [
   price_retail: 1414,
   price_official: 1768,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350053/plitki-spb/17004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350053/plitki-spb/17004.webp"],
   description: "Авеллино голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Авеллино голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2055,8 +2055,8 @@ export const importedProducts: any[] = [
   price_retail: 1597,
   price_official: 1996,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350065/plitki-spb/16004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350065/plitki-spb/16004.webp"],
   description: "Авеллино голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2072,8 +2072,8 @@ export const importedProducts: any[] = [
   price_retail: 1658,
   price_official: 2072,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350078/plitki-spb/16015.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350078/plitki-spb/16015.webp"],
   description: "Авеллино голубой структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2123,8 +2123,8 @@ export const importedProducts: any[] = [
   price_retail: 1658,
   price_official: 2072,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350100/plitki-spb/16018.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350100/plitki-spb/16018.webp"],
   description: "Авеллино серый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2140,8 +2140,8 @@ export const importedProducts: any[] = [
   price_retail: 1414,
   price_official: 1768,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350113/plitki-spb/17009.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350113/plitki-spb/17009.webp"],
   description: "Авеллино фисташковый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 15x15 см. Купить Авеллино фисташковый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2157,8 +2157,8 @@ export const importedProducts: any[] = [
   price_retail: 1597,
   price_official: 1996,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350126/plitki-spb/16009.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350126/plitki-spb/16009.webp"],
   description: "Авеллино фисташковый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2174,8 +2174,8 @@ export const importedProducts: any[] = [
   price_retail: 1658,
   price_official: 2072,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350138/plitki-spb/16020.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350138/plitki-spb/16020.webp"],
   description: "Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2191,8 +2191,8 @@ export const importedProducts: any[] = [
   price_retail: 1466,
   price_official: 1833,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350152/plitki-spb/1328.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350152/plitki-spb/1328.webp"],
   description: "Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2208,8 +2208,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350166/plitki-spb/63005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350166/plitki-spb/63005.webp"],
   description: "Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2225,8 +2225,8 @@ export const importedProducts: any[] = [
   price_retail: 1466,
   price_official: 1833,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350180/plitki-spb/1332.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350180/plitki-spb/1332.webp"],
   description: "Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 9.8x9.8 см. Купить Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2242,8 +2242,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350194/plitki-spb/63000.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350194/plitki-spb/63000.webp"],
   description: "Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 29.7x29.8 см. Купить Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2259,8 +2259,8 @@ export const importedProducts: any[] = [
   price_retail: 4224,
   price_official: 5280,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350210/plitki-spb/63011.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350210/plitki-spb/63011.webp"],
   description: "Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 29.7x29.8 см. Купить Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2276,8 +2276,8 @@ export const importedProducts: any[] = [
   price_retail: 2035,
   price_official: 2544,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350223/plitki-spb/1337.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350223/plitki-spb/1337.webp"],
   description: "Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 9.8x9.8 см. Купить Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2293,8 +2293,8 @@ export const importedProducts: any[] = [
   price_retail: 3909,
   price_official: 4886,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350238/plitki-spb/63010.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350238/plitki-spb/63010.webp"],
   description: "Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 29.7x29.8 см. Купить Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2310,8 +2310,8 @@ export const importedProducts: any[] = [
   price_retail: 1727,
   price_official: 2159,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350252/plitki-spb/1336.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350252/plitki-spb/1336.webp"],
   description: "Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 9.8x9.8 см. Купить Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2327,8 +2327,8 @@ export const importedProducts: any[] = [
   price_retail: 1466,
   price_official: 1833,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350263/plitki-spb/1330.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350263/plitki-spb/1330.webp"],
   description: "Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2344,8 +2344,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350278/plitki-spb/63003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350278/plitki-spb/63003.webp"],
   description: "Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2361,8 +2361,8 @@ export const importedProducts: any[] = [
   price_retail: 1466,
   price_official: 1833,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350292/plitki-spb/1329.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350292/plitki-spb/1329.webp"],
   description: "Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2378,8 +2378,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350305/plitki-spb/63002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350305/plitki-spb/63002.webp"],
   description: "Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2395,8 +2395,8 @@ export const importedProducts: any[] = [
   price_retail: 1603,
   price_official: 2004,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350317/plitki-spb/1331.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350317/plitki-spb/1331.webp"],
   description: "Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2412,8 +2412,8 @@ export const importedProducts: any[] = [
   price_retail: 3465,
   price_official: 4331,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350331/plitki-spb/63004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350331/plitki-spb/63004.webp"],
   description: "Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2429,8 +2429,8 @@ export const importedProducts: any[] = [
   price_retail: 4224,
   price_official: 5280,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350346/plitki-spb/63012.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350346/plitki-spb/63012.webp"],
   description: "Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 29.7x29.8 см. Купить Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2446,8 +2446,8 @@ export const importedProducts: any[] = [
   price_retail: 2035,
   price_official: 2544,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350359/plitki-spb/1335.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350359/plitki-spb/1335.webp"],
   description: "Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 9.8x9.8 см. Купить Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2463,8 +2463,8 @@ export const importedProducts: any[] = [
   price_retail: 1636,
   price_official: 2045,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350373/plitki-spb/1333.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350373/plitki-spb/1333.webp"],
   description: "Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 9.8x9.8 см. Купить Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2480,8 +2480,8 @@ export const importedProducts: any[] = [
   price_retail: 3535,
   price_official: 4419,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350387/plitki-spb/63001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350387/plitki-spb/63001.webp"],
   description: "Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 29.7x29.8 см. Купить Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2514,8 +2514,8 @@ export const importedProducts: any[] = [
   price_retail: 969,
   price_official: 1211,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350407/plitki-spb/5303.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350407/plitki-spb/5303.webp"],
   description: "Адриатика голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Адриатика голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2548,8 +2548,8 @@ export const importedProducts: any[] = [
   price_retail: 917,
   price_official: 1146,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350426/plitki-spb/5306.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350426/plitki-spb/5306.webp"],
   description: "Адриатика серый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Адриатика серый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2566,8 +2566,8 @@ export const importedProducts: any[] = [
   price_official: 1718,
   stock_yanino: 60.14,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350439/plitki-spb/9011.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350439/plitki-spb/9011.webp"],
   description: "Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2584,8 +2584,8 @@ export const importedProducts: any[] = [
   price_official: 1718,
   stock_yanino: 70.79,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350453/plitki-spb/9010.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350453/plitki-spb/9010.webp"],
   description: "Аккорд белый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Аккорд белый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2601,8 +2601,8 @@ export const importedProducts: any[] = [
   price_retail: 1566,
   price_official: 1958,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350466/plitki-spb/9026.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350466/plitki-spb/9026.webp"],
   description: "Аккорд бордо грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд бордо грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2618,8 +2618,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350479/plitki-spb/9030.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350479/plitki-spb/9030.webp"],
   description: "Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2635,8 +2635,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350491/plitki-spb/9027.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350491/plitki-spb/9027.webp"],
   description: "Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2652,8 +2652,8 @@ export const importedProducts: any[] = [
   price_retail: 1510,
   price_official: 1887,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350505/plitki-spb/9028.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350505/plitki-spb/9028.webp"],
   description: "Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2669,8 +2669,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350517/plitki-spb/9012.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350517/plitki-spb/9012.webp"],
   description: "Аккорд зелёный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2686,8 +2686,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350530/plitki-spb/9013.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350530/plitki-spb/9013.webp"],
   description: "Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2703,8 +2703,8 @@ export const importedProducts: any[] = [
   price_retail: 1510,
   price_official: 1887,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350544/plitki-spb/9023.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350544/plitki-spb/9023.webp"],
   description: "Аккорд коралловый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд коралловый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2720,8 +2720,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350557/plitki-spb/9029.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350557/plitki-spb/9029.webp"],
   description: "Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2737,8 +2737,8 @@ export const importedProducts: any[] = [
   price_retail: 1510,
   price_official: 1887,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350570/plitki-spb/9024.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350570/plitki-spb/9024.webp"],
   description: "Аккорд розовый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2754,8 +2754,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350583/plitki-spb/9025.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350583/plitki-spb/9025.webp"],
   description: "Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2772,8 +2772,8 @@ export const importedProducts: any[] = [
   price_official: 1851,
   stock_yanino: 13.04,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350596/plitki-spb/9014.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350596/plitki-spb/9014.webp"],
   description: "Аккорд серый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2789,8 +2789,8 @@ export const importedProducts: any[] = [
   price_retail: 1481,
   price_official: 1851,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350609/plitki-spb/9015.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350609/plitki-spb/9015.webp"],
   description: "Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2806,8 +2806,8 @@ export const importedProducts: any[] = [
   price_retail: 1510,
   price_official: 1887,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350618/plitki-spb/9031.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350618/plitki-spb/9031.webp"],
   description: "Аккорд синий грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Аккорд синий грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2823,8 +2823,8 @@ export const importedProducts: any[] = [
   price_retail: 1190,
   price_official: 1488,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350633/plitki-spb/7198.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350633/plitki-spb/7198.webp"],
   description: "Алькала белый глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2840,8 +2840,8 @@ export const importedProducts: any[] = [
   price_retail: 1223,
   price_official: 1529,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350645/plitki-spb/7199.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350645/plitki-spb/7199.webp"],
   description: "Алькала белый панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2857,8 +2857,8 @@ export const importedProducts: any[] = [
   price_retail: 1254,
   price_official: 1568,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350655/plitki-spb/7200.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350655/plitki-spb/7200.webp"],
   description: "Алькала черный глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2874,8 +2874,8 @@ export const importedProducts: any[] = [
   price_retail: 1287,
   price_official: 1609,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350668/plitki-spb/7201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350668/plitki-spb/7201.webp"],
   description: "Алькала черный панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2891,8 +2891,8 @@ export const importedProducts: any[] = [
   price_retail: 1554,
   price_official: 1943,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350680/plitki-spb/26300.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350680/plitki-spb/26300.webp"],
   description: "Амстердам бежевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2908,8 +2908,8 @@ export const importedProducts: any[] = [
   price_retail: 1554,
   price_official: 1943,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350689/plitki-spb/26301.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350689/plitki-spb/26301.webp"],
   description: "Амстердам бежевый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2959,8 +2959,8 @@ export const importedProducts: any[] = [
   price_retail: 1612,
   price_official: 2015,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350710/plitki-spb/26306.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350710/plitki-spb/26306.webp"],
   description: "Амстердам коричневый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -2976,8 +2976,8 @@ export const importedProducts: any[] = [
   price_retail: 1554,
   price_official: 1943,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350719/plitki-spb/26303.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350719/plitki-spb/26303.webp"],
   description: "Амстердам оранжевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Размер 6x28.5 см. Купить Амстердам оранжевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3010,8 +3010,8 @@ export const importedProducts: any[] = [
   price_retail: 4255,
   price_official: 5319,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350736/plitki-spb/65013.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350736/plitki-spb/65013.webp"],
   description: "Арабески Авейру мозаичный красный глянцевый 26x30x0,7 — керамическая плитка коллекции Авейру от Kerama Marazzi. Цвет: Красный. Размер 26x30 см. Купить Арабески Авейру мозаичный красный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3027,8 +3027,8 @@ export const importedProducts: any[] = [
   price_retail: 3561,
   price_official: 4451,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350750/plitki-spb/65000.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350750/plitki-spb/65000.webp"],
   description: "Арабески белый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Белый. Размер 26x30 см. Купить Арабески белый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3044,8 +3044,8 @@ export const importedProducts: any[] = [
   price_retail: 3561,
   price_official: 4451,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350762/plitki-spb/65010.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350762/plitki-spb/65010.webp"],
   description: "Арабески Майолика бежевый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Бежевый. Размер 26x30 см. Купить Арабески Майолика бежевый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3061,8 +3061,8 @@ export const importedProducts: any[] = [
   price_retail: 4060,
   price_official: 5075,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350775/plitki-spb/65006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350775/plitki-spb/65006.webp"],
   description: "Арабески Майолика бирюза глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика бирюза глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3078,8 +3078,8 @@ export const importedProducts: any[] = [
   price_retail: 4060,
   price_official: 5075,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350788/plitki-spb/65005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350788/plitki-spb/65005.webp"],
   description: "Арабески Майолика голубой глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Голубой. Размер 26x30 см. Купить Арабески Майолика голубой глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3095,8 +3095,8 @@ export const importedProducts: any[] = [
   price_retail: 4060,
   price_official: 5075,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350800/plitki-spb/65009.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350800/plitki-spb/65009.webp"],
   description: "Арабески Майолика желтый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика желтый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3112,8 +3112,8 @@ export const importedProducts: any[] = [
   price_retail: 4060,
   price_official: 5075,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350812/plitki-spb/65008.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350812/plitki-spb/65008.webp"],
   description: "Арабески Майолика зеленый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Зеленый. Размер 26x30 см. Купить Арабески Майолика зеленый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3129,8 +3129,8 @@ export const importedProducts: any[] = [
   price_retail: 3561,
   price_official: 4451,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350825/plitki-spb/65011.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350825/plitki-spb/65011.webp"],
   description: "Арабески Майолика серый светлый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески Майолика серый светлый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3146,8 +3146,8 @@ export const importedProducts: any[] = [
   price_retail: 4060,
   price_official: 5075,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350837/plitki-spb/65007.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350837/plitki-spb/65007.webp"],
   description: "Арабески Майолика синий глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Синий. Размер 26x30 см. Купить Арабески Майолика синий глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3163,8 +3163,8 @@ export const importedProducts: any[] = [
   price_retail: 3802,
   price_official: 4753,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350846/plitki-spb/65012.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350846/plitki-spb/65012.webp"],
   description: "Арабески серый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески серый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3180,8 +3180,8 @@ export const importedProducts: any[] = [
   price_retail: 4165,
   price_official: 5206,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350858/plitki-spb/65001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350858/plitki-spb/65001.webp"],
   description: "Арабески черный глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Черный. Размер 26x30 см. Купить Арабески черный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3197,8 +3197,8 @@ export const importedProducts: any[] = [
   price_retail: 997,
   price_official: 1246,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350871/plitki-spb/7211.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350871/plitki-spb/7211.webp"],
   description: "Ауленти бежевый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3214,8 +3214,8 @@ export const importedProducts: any[] = [
   price_retail: 997,
   price_official: 1246,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350882/plitki-spb/7219.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350882/plitki-spb/7219.webp"],
   description: "Ауленти бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3231,8 +3231,8 @@ export const importedProducts: any[] = [
   price_retail: 1059,
   price_official: 1324,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350896/plitki-spb/7220.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350896/plitki-spb/7220.webp"],
   description: "Ауленти бежевый светлый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3248,8 +3248,8 @@ export const importedProducts: any[] = [
   price_retail: 1059,
   price_official: 1324,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350907/plitki-spb/7212.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350907/plitki-spb/7212.webp"],
   description: "Ауленти бежевый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3266,8 +3266,8 @@ export const importedProducts: any[] = [
   price_official: 899,
   stock_yanino: 74.52,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350919/plitki-spb/8290.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350919/plitki-spb/8290.webp"],
   description: "Баккара бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3284,8 +3284,8 @@ export const importedProducts: any[] = [
   price_official: 899,
   stock_yanino: 55.14,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350932/plitki-spb/8291.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350932/plitki-spb/8291.webp"],
   description: "Баккара бежевый темный глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый темный глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3301,8 +3301,8 @@ export const importedProducts: any[] = [
   price_retail: 741,
   price_official: 926,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350944/plitki-spb/8300.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350944/plitki-spb/8300.webp"],
   description: "Баккара структура глянцевый 20x30x0,77 — керамическая плитка коллекции Баккара от Kerama Marazzi. Размер 20x30 см. Купить Баккара структура глянцевый 20x30x0,77 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3318,8 +3318,8 @@ export const importedProducts: any[] = [
   price_retail: 1187,
   price_official: 1484,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350956/plitki-spb/2868.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350956/plitki-spb/2868.webp"],
   description: "Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3335,8 +3335,8 @@ export const importedProducts: any[] = [
   price_retail: 1166,
   price_official: 1458,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350967/plitki-spb/2841.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350967/plitki-spb/2841.webp"],
   description: "Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3353,8 +3353,8 @@ export const importedProducts: any[] = [
   price_official: 1451,
   stock_yanino: 35.99,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350979/plitki-spb/2828.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350979/plitki-spb/2828.webp"],
   description: "Баттерфляй белый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Баттерфляй белый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3370,8 +3370,8 @@ export const importedProducts: any[] = [
   price_retail: 1229,
   price_official: 1536,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350987/plitki-spb/2839.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350987/plitki-spb/2839.webp"],
   description: "Баттерфляй голубой глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3404,8 +3404,8 @@ export const importedProducts: any[] = [
   price_retail: 1641,
   price_official: 2051,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351005/plitki-spb/2823.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351005/plitki-spb/2823.webp"],
   description: "Баттерфляй красный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Красный. Размер 8.5x28.5 см. Купить Баттерфляй красный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3438,8 +3438,8 @@ export const importedProducts: any[] = [
   price_retail: 1486,
   price_official: 1858,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351020/plitki-spb/2821.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351020/plitki-spb/2821.webp"],
   description: "Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3557,8 +3557,8 @@ export const importedProducts: any[] = [
   price_retail: 1186,
   price_official: 1482,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351069/plitki-spb/15080.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351069/plitki-spb/15080.webp"],
   description: "Бельканто белый грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3608,8 +3608,8 @@ export const importedProducts: any[] = [
   price_retail: 1251,
   price_official: 1564,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351093/plitki-spb/15081.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351093/plitki-spb/15081.webp"],
   description: "Бельканто черный грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3625,8 +3625,8 @@ export const importedProducts: any[] = [
   price_retail: 1113,
   price_official: 1391,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351105/plitki-spb/15078.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351105/plitki-spb/15078.webp"],
   description: "Бельканто черный матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3642,8 +3642,8 @@ export const importedProducts: any[] = [
   price_retail: 906,
   price_official: 1132,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351119/plitki-spb/6402.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351119/plitki-spb/6402.webp"],
   description: "Борромео бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Борромео бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3659,8 +3659,8 @@ export const importedProducts: any[] = [
   price_retail: 906,
   price_official: 1132,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351133/plitki-spb/6403.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351133/plitki-spb/6403.webp"],
   description: "Борромео голубой матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Борромео голубой матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3676,8 +3676,8 @@ export const importedProducts: any[] = [
   price_retail: 988,
   price_official: 1235,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351142/plitki-spb/6404.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351142/plitki-spb/6404.webp"],
   description: "Борромео матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Размер 25x40 см. Купить Борромео матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3795,8 +3795,8 @@ export const importedProducts: any[] = [
   price_retail: 991,
   price_official: 1239,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351198/plitki-spb/60000.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351198/plitki-spb/60000.webp"],
   description: "Бьянка белый глянцевый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3863,8 +3863,8 @@ export const importedProducts: any[] = [
   price_retail: 1044,
   price_official: 1305,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351229/plitki-spb/60171.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351229/plitki-spb/60171.webp"],
   description: "Бьянка белый глянцевый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3880,8 +3880,8 @@ export const importedProducts: any[] = [
   price_retail: 1044,
   price_official: 1305,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351241/plitki-spb/60176.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351241/plitki-spb/60176.webp"],
   description: "Бьянка белый глянцевый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3897,8 +3897,8 @@ export const importedProducts: any[] = [
   price_retail: 1044,
   price_official: 1305,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351253/plitki-spb/60172.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351253/plitki-spb/60172.webp"],
   description: "Бьянка белый глянцевый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3914,8 +3914,8 @@ export const importedProducts: any[] = [
   price_retail: 1012,
   price_official: 1265,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351265/plitki-spb/60161.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351265/plitki-spb/60161.webp"],
   description: "Бьянка белый матовый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3931,8 +3931,8 @@ export const importedProducts: any[] = [
   price_retail: 1062,
   price_official: 1328,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351277/plitki-spb/60166.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351277/plitki-spb/60166.webp"],
   description: "Бьянка белый матовый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3948,8 +3948,8 @@ export const importedProducts: any[] = [
   price_retail: 1062,
   price_official: 1328,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351290/plitki-spb/60165.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351290/plitki-spb/60165.webp"],
   description: "Бьянка белый матовый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3982,8 +3982,8 @@ export const importedProducts: any[] = [
   price_retail: 1062,
   price_official: 1328,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351308/plitki-spb/60167.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351308/plitki-spb/60167.webp"],
   description: "Бьянка белый матовый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -3999,8 +3999,8 @@ export const importedProducts: any[] = [
   price_retail: 1062,
   price_official: 1328,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351320/plitki-spb/60174.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351320/plitki-spb/60174.webp"],
   description: "Бьянка белый матовый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4016,8 +4016,8 @@ export const importedProducts: any[] = [
   price_retail: 1062,
   price_official: 1328,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351333/plitki-spb/60168.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351333/plitki-spb/60168.webp"],
   description: "Бьянка белый матовый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4034,8 +4034,8 @@ export const importedProducts: any[] = [
   price_official: 953,
   stock_yanino: 62.82,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351345/plitki-spb/8246.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351345/plitki-spb/8246.webp"],
   description: "Вилла Флоридиана бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4051,8 +4051,8 @@ export const importedProducts: any[] = [
   price_retail: 762,
   price_official: 953,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351358/plitki-spb/8245.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351358/plitki-spb/8245.webp"],
   description: "Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4069,8 +4069,8 @@ export const importedProducts: any[] = [
   price_official: 993,
   stock_yanino: 15.9,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351370/plitki-spb/8247.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351370/plitki-spb/8247.webp"],
   description: "Вилла Флоридиана коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Вилла Флоридиана коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4086,8 +4086,8 @@ export const importedProducts: any[] = [
   price_retail: 1078,
   price_official: 1348,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351383/plitki-spb/15084.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351383/plitki-spb/15084.webp"],
   description: "Вилланелла бежевый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4103,8 +4103,8 @@ export const importedProducts: any[] = [
   price_retail: 1186,
   price_official: 1482,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351392/plitki-spb/15077.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351392/plitki-spb/15077.webp"],
   description: "Вилланелла бежевый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4138,8 +4138,8 @@ export const importedProducts: any[] = [
   price_retail: 1186,
   price_official: 1482,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351415/plitki-spb/15075.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351415/plitki-spb/15075.webp"],
   description: "Вилланелла белый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4155,8 +4155,8 @@ export const importedProducts: any[] = [
   price_retail: 1135,
   price_official: 1419,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351428/plitki-spb/15072.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351428/plitki-spb/15072.webp"],
   description: "Вилланелла коричневый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Коричневый. Размер 15x40 см. Купить Вилланелла коричневый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4172,8 +4172,8 @@ export const importedProducts: any[] = [
   price_retail: 1092,
   price_official: 1365,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351440/plitki-spb/15070.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351440/plitki-spb/15070.webp"],
   description: "Вилланелла серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4189,8 +4189,8 @@ export const importedProducts: any[] = [
   price_retail: 1135,
   price_official: 1419,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351453/plitki-spb/15071.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351453/plitki-spb/15071.webp"],
   description: "Вилланелла серый темный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый темный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4223,8 +4223,8 @@ export const importedProducts: any[] = [
   price_retail: 1253,
   price_official: 1566,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351473/plitki-spb/15076.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351473/plitki-spb/15076.webp"],
   description: "Вилланелла черный грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4240,8 +4240,8 @@ export const importedProducts: any[] = [
   price_retail: 562,
   price_official: 702,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351484/plitki-spb/6436.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351484/plitki-spb/6436.webp"],
   description: "Винетта бежевый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Винетта от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Винетта бежевый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4257,8 +4257,8 @@ export const importedProducts: any[] = [
   price_retail: 1378,
   price_official: 1722,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351497/plitki-spb/17063.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351497/plitki-spb/17063.webp"],
   description: "Витраж белый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Витраж белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4274,8 +4274,8 @@ export const importedProducts: any[] = [
   price_retail: 1414,
   price_official: 1767,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351510/plitki-spb/17067.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351510/plitki-spb/17067.webp"],
   description: "Витраж голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Витраж голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4291,8 +4291,8 @@ export const importedProducts: any[] = [
   price_retail: 1414,
   price_official: 1767,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351523/plitki-spb/17064.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351523/plitki-spb/17064.webp"],
   description: "Витраж желтый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж желтый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4325,8 +4325,8 @@ export const importedProducts: any[] = [
   price_retail: 1414,
   price_official: 1767,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351542/plitki-spb/17065.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351542/plitki-spb/17065.webp"],
   description: "Витраж синий глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Синий. Размер 15x15 см. Купить Витраж синий глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4342,8 +4342,8 @@ export const importedProducts: any[] = [
   price_retail: 2627,
   price_official: 3284,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351555/plitki-spb/20095.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351555/plitki-spb/20095.webp"],
   description: "Вяз бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4359,8 +4359,8 @@ export const importedProducts: any[] = [
   price_retail: 2627,
   price_official: 3284,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351568/plitki-spb/20096.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351568/plitki-spb/20096.webp"],
   description: "Вяз бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4377,8 +4377,8 @@ export const importedProducts: any[] = [
   price_official: 1646,
   stock_yanino: 56.75,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351581/plitki-spb/9001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351581/plitki-spb/9001.webp"],
   description: "Гамма белый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Гамма белый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4394,8 +4394,8 @@ export const importedProducts: any[] = [
   price_retail: 1424,
   price_official: 1780,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351593/plitki-spb/9007.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351593/plitki-spb/9007.webp"],
   description: "Гамма кофе с молоком матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма кофе с молоком матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4411,8 +4411,8 @@ export const importedProducts: any[] = [
   price_retail: 1424,
   price_official: 1780,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351604/plitki-spb/9004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351604/plitki-spb/9004.webp"],
   description: "Гамма серый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Гамма серый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4428,8 +4428,8 @@ export const importedProducts: any[] = [
   price_retail: 1317,
   price_official: 1646,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351616/plitki-spb/9006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351616/plitki-spb/9006.webp"],
   description: "Гамма топленое молоко матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма топленое молоко матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4462,8 +4462,8 @@ export const importedProducts: any[] = [
   price_retail: 1424,
   price_official: 1780,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351637/plitki-spb/9003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351637/plitki-spb/9003.webp"],
   description: "Гамма фисташковый светлый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый светлый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4496,8 +4496,8 @@ export const importedProducts: any[] = [
   price_retail: 916,
   price_official: 1145,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351661/plitki-spb/6341.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351661/plitki-spb/6341.webp"],
   description: "Гран Пале бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4513,8 +4513,8 @@ export const importedProducts: any[] = [
   price_retail: 963,
   price_official: 1204,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351675/plitki-spb/6353.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351675/plitki-spb/6353.webp"],
   description: "Гран Пале бежевый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4530,8 +4530,8 @@ export const importedProducts: any[] = [
   price_retail: 916,
   price_official: 1145,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351689/plitki-spb/6343.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351689/plitki-spb/6343.webp"],
   description: "Гран Пале белый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4547,8 +4547,8 @@ export const importedProducts: any[] = [
   price_retail: 963,
   price_official: 1204,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351702/plitki-spb/6357.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351702/plitki-spb/6357.webp"],
   description: "Гран Пале белый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4565,8 +4565,8 @@ export const importedProducts: any[] = [
   price_official: 1145,
   stock_yanino: 74.6,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351717/plitki-spb/6342.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351717/plitki-spb/6342.webp"],
   description: "Гран Пале серый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4582,8 +4582,8 @@ export const importedProducts: any[] = [
   price_retail: 963,
   price_official: 1204,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351730/plitki-spb/6354.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351730/plitki-spb/6354.webp"],
   description: "Гран Пале серый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4600,8 +4600,8 @@ export const importedProducts: any[] = [
   price_official: 1777,
   stock_yanino: 77.39,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351739/plitki-spb/17000.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351739/plitki-spb/17000.webp"],
   description: "Граньяно белый глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Граньяно белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4636,8 +4636,8 @@ export const importedProducts: any[] = [
   price_official: 2031,
   stock_yanino: 32.9,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351761/plitki-spb/16032.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351761/plitki-spb/16032.webp"],
   description: "Граньяно белый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4653,8 +4653,8 @@ export const importedProducts: any[] = [
   price_retail: 1929,
   price_official: 2411,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351771/plitki-spb/17014.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351771/plitki-spb/17014.webp"],
   description: "Граньяно красный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 15x15 см. Купить Граньяно красный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4687,8 +4687,8 @@ export const importedProducts: any[] = [
   price_retail: 1929,
   price_official: 2411,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351789/plitki-spb/17013.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351789/plitki-spb/17013.webp"],
   description: "Граньяно чёрный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 15x15 см. Купить Граньяно чёрный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4721,8 +4721,8 @@ export const importedProducts: any[] = [
   price_retail: 1899,
   price_official: 2374,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351811/plitki-spb/16033.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351811/plitki-spb/16033.webp"],
   description: "Граньяно черный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Черный. Размер 7.4x15 см. Купить Граньяно черный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4755,8 +4755,8 @@ export const importedProducts: any[] = [
   price_retail: 1150,
   price_official: 1437,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351834/plitki-spb/19066.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351834/plitki-spb/19066.webp"],
   description: "Граффити серый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4772,8 +4772,8 @@ export const importedProducts: any[] = [
   price_retail: 1150,
   price_official: 1437,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351847/plitki-spb/19065.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351847/plitki-spb/19065.webp"],
   description: "Граффити серый светлый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый светлый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4789,8 +4789,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351860/plitki-spb/19067.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351860/plitki-spb/19067.webp"],
   description: "Граффити серый темный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый темный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4806,8 +4806,8 @@ export const importedProducts: any[] = [
   price_retail: 1258,
   price_official: 1573,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351872/plitki-spb/19061.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351872/plitki-spb/19061.webp"],
   description: "Граффити черный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Черный. Размер 9.9x20 см. Купить Граффити черный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4823,8 +4823,8 @@ export const importedProducts: any[] = [
   price_retail: 1515,
   price_official: 1894,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351884/plitki-spb/9036.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351884/plitki-spb/9036.webp"],
   description: "Дарсена голубой глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Дарсена от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Дарсена голубой глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4840,8 +4840,8 @@ export const importedProducts: any[] = [
   price_retail: 1410,
   price_official: 1762,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351895/plitki-spb/9034.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351895/plitki-spb/9034.webp"],
   description: "Дорато белый грань матовый 8,5x28,5x0,92 — керамическая плитка коллекции Дорато от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Дорато белый грань матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4857,8 +4857,8 @@ export const importedProducts: any[] = [
   price_retail: 2578,
   price_official: 3223,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351908/plitki-spb/20099.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351908/plitki-spb/20099.webp"],
   description: "Золотой пляж бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4874,8 +4874,8 @@ export const importedProducts: any[] = [
   price_retail: 2578,
   price_official: 3223,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351917/plitki-spb/20098.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351917/plitki-spb/20098.webp"],
   description: "Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4908,8 +4908,8 @@ export const importedProducts: any[] = [
   price_retail: 867,
   price_official: 1084,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351936/plitki-spb/8262.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351936/plitki-spb/8262.webp"],
   description: "Золотой пляж светлый бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4925,8 +4925,8 @@ export const importedProducts: any[] = [
   price_retail: 937,
   price_official: 1171,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351944/plitki-spb/8264.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351944/plitki-spb/8264.webp"],
   description: "Золотой пляж светлый бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4942,8 +4942,8 @@ export const importedProducts: any[] = [
   price_retail: 2578,
   price_official: 3223,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351957/plitki-spb/20097.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351957/plitki-spb/20097.webp"],
   description: "Золотой пляж светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4959,8 +4959,8 @@ export const importedProducts: any[] = [
   price_retail: 885,
   price_official: 1106,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351970/plitki-spb/8263.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351970/plitki-spb/8263.webp"],
   description: "Золотой пляж темный бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -4994,8 +4994,8 @@ export const importedProducts: any[] = [
   price_official: 1253,
   stock_yanino: 0.12,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351985/plitki-spb/5281.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351985/plitki-spb/5281.webp"],
   description: "Калейдоскоп аквамарин светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп аквамарин светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5011,8 +5011,8 @@ export const importedProducts: any[] = [
   price_retail: 918,
   price_official: 1148,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352000/plitki-spb/5276.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352000/plitki-spb/5276.webp"],
   description: "Калейдоскоп бежевый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп бежевый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5064,8 +5064,8 @@ export const importedProducts: any[] = [
   price_retail: 952,
   price_official: 1190,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352020/plitki-spb/5185.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352020/plitki-spb/5185.webp"],
   description: "Калейдоскоп бирюза матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бирюза матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5081,8 +5081,8 @@ export const importedProducts: any[] = [
   price_retail: 1199,
   price_official: 1499,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352035/plitki-spb/5188.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352035/plitki-spb/5188.webp"],
   description: "Калейдоскоп бордо матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бордо матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5133,8 +5133,8 @@ export const importedProducts: any[] = [
   price_retail: 942,
   price_official: 1177,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352065/plitki-spb/5280.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352065/plitki-spb/5280.webp"],
   description: "Калейдоскоп голубой светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5151,8 +5151,8 @@ export const importedProducts: any[] = [
   price_official: 1148,
   stock_yanino: 187.28,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352075/plitki-spb/5182.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352075/plitki-spb/5182.webp"],
   description: "Калейдоскоп графит матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Графит. Размер 20x20 см. Купить Калейдоскоп графит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5168,8 +5168,8 @@ export const importedProducts: any[] = [
   price_retail: 872,
   price_official: 1090,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352087/plitki-spb/5011.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352087/plitki-spb/5011.webp"],
   description: "Калейдоскоп желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5221,8 +5221,8 @@ export const importedProducts: any[] = [
   price_retail: 982,
   price_official: 1228,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352115/plitki-spb/5278.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352115/plitki-spb/5278.webp"],
   description: "Калейдоскоп зелёный тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп зелёный тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5274,8 +5274,8 @@ export const importedProducts: any[] = [
   price_retail: 1110,
   price_official: 1388,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352139/plitki-spb/5057.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352139/plitki-spb/5057.webp"],
   description: "Калейдоскоп оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5291,8 +5291,8 @@ export const importedProducts: any[] = [
   price_retail: 1022,
   price_official: 1277,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352148/plitki-spb/5187.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352148/plitki-spb/5187.webp"],
   description: "Калейдоскоп оранжевый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5344,8 +5344,8 @@ export const importedProducts: any[] = [
   price_retail: 898,
   price_official: 1122,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352171/plitki-spb/5177.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352171/plitki-spb/5177.webp"],
   description: "Калейдоскоп персиковый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп персиковый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5361,8 +5361,8 @@ export const importedProducts: any[] = [
   price_retail: 872,
   price_official: 1090,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352180/plitki-spb/5181.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352180/plitki-spb/5181.webp"],
   description: "Калейдоскоп песок матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп песок матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5378,8 +5378,8 @@ export const importedProducts: any[] = [
   price_retail: 929,
   price_official: 1161,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352189/plitki-spb/5184.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352189/plitki-spb/5184.webp"],
   description: "Калейдоскоп розовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5395,8 +5395,8 @@ export const importedProducts: any[] = [
   price_retail: 891,
   price_official: 1114,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352197/plitki-spb/5169.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352197/plitki-spb/5169.webp"],
   description: "Калейдоскоп розовый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5412,8 +5412,8 @@ export const importedProducts: any[] = [
   price_retail: 1009,
   price_official: 1261,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352206/plitki-spb/5186.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352206/plitki-spb/5186.webp"],
   description: "Калейдоскоп розовый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5430,8 +5430,8 @@ export const importedProducts: any[] = [
   price_official: 1090,
   stock_yanino: 0.72,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352214/plitki-spb/5179.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352214/plitki-spb/5179.webp"],
   description: "Калейдоскоп серо-бежевый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп серо-бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5501,8 +5501,8 @@ export const importedProducts: any[] = [
   price_official: 1118,
   stock_yanino: 1.64,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352252/plitki-spb/5275.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352252/plitki-spb/5275.webp"],
   description: "Калейдоскоп слоновая кость матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп слоновая кость матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5519,8 +5519,8 @@ export const importedProducts: any[] = [
   price_official: 1090,
   stock_yanino: 94.44,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352260/plitki-spb/5180.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352260/plitki-spb/5180.webp"],
   description: "Калейдоскоп стальной матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп стальной матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5536,8 +5536,8 @@ export const importedProducts: any[] = [
   price_retail: 1087,
   price_official: 1359,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352269/plitki-spb/5114.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352269/plitki-spb/5114.webp"],
   description: "Калейдоскоп фиолетовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп фиолетовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5553,8 +5553,8 @@ export const importedProducts: any[] = [
   price_retail: 1057,
   price_official: 1321,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352280/plitki-spb/5115.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352280/plitki-spb/5115.webp"],
   description: "Калейдоскоп черный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Черный. Размер 20x20 см. Купить Калейдоскоп черный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5673,8 +5673,8 @@ export const importedProducts: any[] = [
   price_retail: 1060,
   price_official: 1325,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352329/plitki-spb/7245.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352329/plitki-spb/7245.webp"],
   description: "Каннареджо бежевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5690,8 +5690,8 @@ export const importedProducts: any[] = [
   price_retail: 1060,
   price_official: 1325,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352343/plitki-spb/7240.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352343/plitki-spb/7240.webp"],
   description: "Каннареджо бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5724,8 +5724,8 @@ export const importedProducts: any[] = [
   price_retail: 1060,
   price_official: 1325,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352362/plitki-spb/7254.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352362/plitki-spb/7254.webp"],
   description: "Каннареджо оранжевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо оранжевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5741,8 +5741,8 @@ export const importedProducts: any[] = [
   price_retail: 1060,
   price_official: 1325,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352375/plitki-spb/7242.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352375/plitki-spb/7242.webp"],
   description: "Каннареджо синий светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Синий. Размер 20x50 см. Купить Каннареджо синий светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5775,8 +5775,8 @@ export const importedProducts: any[] = [
   price_retail: 835,
   price_official: 1044,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352395/plitki-spb/6431.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352395/plitki-spb/6431.webp"],
   description: "Кантата серый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5792,8 +5792,8 @@ export const importedProducts: any[] = [
   price_retail: 835,
   price_official: 1044,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352407/plitki-spb/6430.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352407/plitki-spb/6430.webp"],
   description: "Кантата серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5809,8 +5809,8 @@ export const importedProducts: any[] = [
   price_retail: 1181,
   price_official: 1476,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352420/plitki-spb/7186.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352420/plitki-spb/7186.webp"],
   description: "Кантри Шик белый матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5826,8 +5826,8 @@ export const importedProducts: any[] = [
   price_retail: 1210,
   price_official: 1512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352434/plitki-spb/7191.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352434/plitki-spb/7191.webp"],
   description: "Кантри Шик белый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5843,8 +5843,8 @@ export const importedProducts: any[] = [
   price_retail: 1210,
   price_official: 1512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352447/plitki-spb/7188.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352447/plitki-spb/7188.webp"],
   description: "Кантри Шик белый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5860,8 +5860,8 @@ export const importedProducts: any[] = [
   price_retail: 1181,
   price_official: 1476,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352461/plitki-spb/7187.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352461/plitki-spb/7187.webp"],
   description: "Кантри Шик Полоски матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Размер 20x50 см. Купить Кантри Шик Полоски матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5877,8 +5877,8 @@ export const importedProducts: any[] = [
   price_retail: 1210,
   price_official: 1512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352474/plitki-spb/7192.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352474/plitki-spb/7192.webp"],
   description: "Кантри Шик серый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5894,8 +5894,8 @@ export const importedProducts: any[] = [
   price_retail: 1210,
   price_official: 1512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352487/plitki-spb/7189.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352487/plitki-spb/7189.webp"],
   description: "Кантри Шик серый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5911,8 +5911,8 @@ export const importedProducts: any[] = [
   price_retail: 1007,
   price_official: 1259,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352501/plitki-spb/5241.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352501/plitki-spb/5241.webp"],
   description: "Капри голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Капри голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5928,8 +5928,8 @@ export const importedProducts: any[] = [
   price_retail: 1009,
   price_official: 1261,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352515/plitki-spb/5240.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352515/plitki-spb/5240.webp"],
   description: "Капри жёлтый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри жёлтый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5945,8 +5945,8 @@ export const importedProducts: any[] = [
   price_retail: 1047,
   price_official: 1309,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352529/plitki-spb/5242.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352529/plitki-spb/5242.webp"],
   description: "Капри зелёный тёмный глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри зелёный тёмный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5979,8 +5979,8 @@ export const importedProducts: any[] = [
   price_retail: 978,
   price_official: 1223,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352554/plitki-spb/5232.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352554/plitki-spb/5232.webp"],
   description: "Капри светлый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри светлый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -5996,8 +5996,8 @@ export const importedProducts: any[] = [
   price_retail: 1047,
   price_official: 1309,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352568/plitki-spb/5239.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352568/plitki-spb/5239.webp"],
   description: "Капри синий глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Капри синий глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6013,8 +6013,8 @@ export const importedProducts: any[] = [
   price_retail: 707,
   price_official: 884,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352580/plitki-spb/8352.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352580/plitki-spb/8352.webp"],
   description: "Каприччо белый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Каприччо белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6030,8 +6030,8 @@ export const importedProducts: any[] = [
   price_retail: 727,
   price_official: 909,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352593/plitki-spb/8354.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352593/plitki-spb/8354.webp"],
   description: "Каприччо коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Каприччо коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6047,8 +6047,8 @@ export const importedProducts: any[] = [
   price_retail: 727,
   price_official: 909,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352606/plitki-spb/8353.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352606/plitki-spb/8353.webp"],
   description: "Каприччо серый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Каприччо серый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6064,8 +6064,8 @@ export const importedProducts: any[] = [
   price_retail: 99,
   price_official: 124,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352615/plitki-spb/191.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352615/plitki-spb/191.webp"],
   description: "Карандаш алый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш алый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6081,8 +6081,8 @@ export const importedProducts: any[] = [
   price_retail: 94,
   price_official: 118,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352624/plitki-spb/136.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352624/plitki-spb/136.webp"],
   description: "Карандаш бежевый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш бежевый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6115,8 +6115,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352644/plitki-spb/85.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352644/plitki-spb/85.webp"],
   description: "Карандаш бежевый светлый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 25x2 см. Купить Карандаш бежевый светлый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6132,8 +6132,8 @@ export const importedProducts: any[] = [
   price_retail: 97,
   price_official: 121,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352656/plitki-spb/130.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352656/plitki-spb/130.webp"],
   description: "Карандаш белый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 20x1.5 см. Купить Карандаш белый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6149,8 +6149,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352669/plitki-spb/86.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352669/plitki-spb/86.webp"],
   description: "Карандаш белый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 25x2 см. Купить Карандаш белый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6166,8 +6166,8 @@ export const importedProducts: any[] = [
   price_retail: 94,
   price_official: 118,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352682/plitki-spb/151.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352682/plitki-spb/151.webp"],
   description: "Карандаш белый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 20x1.5 см. Купить Карандаш белый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6183,8 +6183,8 @@ export const importedProducts: any[] = [
   price_retail: 102,
   price_official: 127,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352691/plitki-spb/70.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352691/plitki-spb/70.webp"],
   description: "Карандаш белый матовый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 25x2 см. Купить Карандаш белый матовый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6200,8 +6200,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352704/plitki-spb/205.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352704/plitki-spb/205.webp"],
   description: "Карандаш волна коричневый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш волна коричневый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6217,8 +6217,8 @@ export const importedProducts: any[] = [
   price_retail: 177,
   price_official: 221,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352716/plitki-spb/181.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352716/plitki-spb/181.webp"],
   description: "Карандаш Волна металл глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш Волна металл глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6234,8 +6234,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352729/plitki-spb/153.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352729/plitki-spb/153.webp"],
   description: "Карандаш голубой глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Голубой. Размер 20x1.5 см. Купить Карандаш голубой глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6251,8 +6251,8 @@ export const importedProducts: any[] = [
   price_retail: 195,
   price_official: 244,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352741/plitki-spb/211.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352741/plitki-spb/211.webp"],
   description: "Карандаш Дерево бежевый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш Дерево бежевый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6268,8 +6268,8 @@ export const importedProducts: any[] = [
   price_retail: 195,
   price_official: 244,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352753/plitki-spb/212.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352753/plitki-spb/212.webp"],
   description: "Карандаш Дерево коричневый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш Дерево коричневый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6285,8 +6285,8 @@ export const importedProducts: any[] = [
   price_retail: 102,
   price_official: 127,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352768/plitki-spb/132.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352768/plitki-spb/132.webp"],
   description: "Карандаш желтый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш желтый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6302,8 +6302,8 @@ export const importedProducts: any[] = [
   price_retail: 92,
   price_official: 115,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352778/plitki-spb/154.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352778/plitki-spb/154.webp"],
   description: "Карандаш желтый светлый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш желтый светлый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6319,8 +6319,8 @@ export const importedProducts: any[] = [
   price_retail: 94,
   price_official: 118,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352789/plitki-spb/138.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352789/plitki-spb/138.webp"],
   description: "Карандаш зелено-голубой глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Голубой. Размер 20x1.5 см. Купить Карандаш зелено-голубой глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6336,8 +6336,8 @@ export const importedProducts: any[] = [
   price_retail: 98,
   price_official: 123,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352800/plitki-spb/141.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352800/plitki-spb/141.webp"],
   description: "Карандаш зеленый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 20x1.5 см. Купить Карандаш зеленый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6353,8 +6353,8 @@ export const importedProducts: any[] = [
   price_retail: 102,
   price_official: 127,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352813/plitki-spb/91.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352813/plitki-spb/91.webp"],
   description: "Карандаш зеленый светлый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 25x2 см. Купить Карандаш зеленый светлый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6370,8 +6370,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352822/plitki-spb/133.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352822/plitki-spb/133.webp"],
   description: "Карандаш зеленый темный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 20x1.5 см. Купить Карандаш зеленый темный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6387,8 +6387,8 @@ export const importedProducts: any[] = [
   price_retail: 331,
   price_official: 414,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352834/plitki-spb/210.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352834/plitki-spb/210.webp"],
   description: "Карандаш золото глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш золото глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6404,8 +6404,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352843/plitki-spb/188.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352843/plitki-spb/188.webp"],
   description: "Карандаш коричневый темный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш коричневый темный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6421,8 +6421,8 @@ export const importedProducts: any[] = [
   price_retail: 98,
   price_official: 123,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352852/plitki-spb/198.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352852/plitki-spb/198.webp"],
   description: "Карандаш оранжевый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш оранжевый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6438,8 +6438,8 @@ export const importedProducts: any[] = [
   price_retail: 188,
   price_official: 235,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352861/plitki-spb/10.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352861/plitki-spb/10.webp"],
   description: "Карандаш платина глянцевый 20x1,5x0,8 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш платина глянцевый 20x1,5x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6455,8 +6455,8 @@ export const importedProducts: any[] = [
   price_retail: 210,
   price_official: 263,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352874/plitki-spb/11.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352874/plitki-spb/11.webp"],
   description: "Карандаш платина глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш платина глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6472,8 +6472,8 @@ export const importedProducts: any[] = [
   price_retail: 233,
   price_official: 291,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352883/plitki-spb/12.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352883/plitki-spb/12.webp"],
   description: "Карандаш платина глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 25x2 см. Купить Карандаш платина глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6489,8 +6489,8 @@ export const importedProducts: any[] = [
   price_retail: 94,
   price_official: 118,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352897/plitki-spb/199.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352897/plitki-spb/199.webp"],
   description: "Карандаш розовый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Розовый. Размер 20x1.5 см. Купить Карандаш розовый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6506,8 +6506,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352909/plitki-spb/155.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352909/plitki-spb/155.webp"],
   description: "Карандаш розовый светлый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Розовый. Размер 20x1.5 см. Купить Карандаш розовый светлый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6523,8 +6523,8 @@ export const importedProducts: any[] = [
   price_retail: 98,
   price_official: 123,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352921/plitki-spb/145.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352921/plitki-spb/145.webp"],
   description: "Карандаш рыжий матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш рыжий матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6540,8 +6540,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352932/plitki-spb/190.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352932/plitki-spb/190.webp"],
   description: "Карандаш салатный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш салатный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6557,8 +6557,8 @@ export const importedProducts: any[] = [
   price_retail: 102,
   price_official: 127,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352941/plitki-spb/143.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352941/plitki-spb/143.webp"],
   description: "Карандаш серый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Серый. Размер 20x1.5 см. Купить Карандаш серый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6574,8 +6574,8 @@ export const importedProducts: any[] = [
   price_retail: 95,
   price_official: 119,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352953/plitki-spb/75.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352953/plitki-spb/75.webp"],
   description: "Карандаш серый матовый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Серый. Размер 25x2 см. Купить Карандаш серый матовый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6591,8 +6591,8 @@ export const importedProducts: any[] = [
   price_retail: 92,
   price_official: 115,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352965/plitki-spb/135.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352965/plitki-spb/135.webp"],
   description: "Карандаш синий глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Синий. Размер 20x1.5 см. Купить Карандаш синий глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6608,8 +6608,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352977/plitki-spb/148.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352977/plitki-spb/148.webp"],
   description: "Карандаш синий матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Синий. Размер 20x1.5 см. Купить Карандаш синий матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6625,8 +6625,8 @@ export const importedProducts: any[] = [
   price_retail: 96,
   price_official: 120,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352986/plitki-spb/189.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352986/plitki-spb/189.webp"],
   description: "Карандаш фиолетовый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш фиолетовый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6659,8 +6659,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353010/plitki-spb/63008.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353010/plitki-spb/63008.webp"],
   description: "Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6676,8 +6676,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353023/plitki-spb/63006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353023/plitki-spb/63006.webp"],
   description: "Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6693,8 +6693,8 @@ export const importedProducts: any[] = [
   price_retail: 3193,
   price_official: 3991,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353037/plitki-spb/63007.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353037/plitki-spb/63007.webp"],
   description: "Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6711,8 +6711,8 @@ export const importedProducts: any[] = [
   price_official: 893,
   stock_yanino: 64.3,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353050/plitki-spb/3459.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353050/plitki-spb/3459.webp"],
   description: "Кассетоне бежевый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Кассетоне бежевый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6728,8 +6728,8 @@ export const importedProducts: any[] = [
   price_retail: 714,
   price_official: 893,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353063/plitki-spb/3462.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353063/plitki-spb/3462.webp"],
   description: "Кассетоне коричневый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Коричневый. Размер 30.2x30.2 см. Купить Кассетоне коричневый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6745,8 +6745,8 @@ export const importedProducts: any[] = [
   price_retail: 714,
   price_official: 893,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353075/plitki-spb/3458.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353075/plitki-spb/3458.webp"],
   description: "Кассетоне серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6762,8 +6762,8 @@ export const importedProducts: any[] = [
   price_retail: 714,
   price_official: 893,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353088/plitki-spb/3461.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353088/plitki-spb/3461.webp"],
   description: "Кассетоне серый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6779,8 +6779,8 @@ export const importedProducts: any[] = [
   price_retail: 1635,
   price_official: 2044,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353101/plitki-spb/16051.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353101/plitki-spb/16051.webp"],
   description: "Клемансо бежевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6830,8 +6830,8 @@ export const importedProducts: any[] = [
   price_retail: 1798,
   price_official: 2247,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353128/plitki-spb/16058.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353128/plitki-spb/16058.webp"],
   description: "Клемансо зелёный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6847,8 +6847,8 @@ export const importedProducts: any[] = [
   price_retail: 1798,
   price_official: 2247,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353141/plitki-spb/16059.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353141/plitki-spb/16059.webp"],
   description: "Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6864,8 +6864,8 @@ export const importedProducts: any[] = [
   price_retail: 1710,
   price_official: 2138,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353155/plitki-spb/16055.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353155/plitki-spb/16055.webp"],
   description: "Клемансо оливковый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оливковый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6881,8 +6881,8 @@ export const importedProducts: any[] = [
   price_retail: 1941,
   price_official: 2426,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353169/plitki-spb/16075.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353169/plitki-spb/16075.webp"],
   description: "Клемансо оранжевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оранжевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6898,8 +6898,8 @@ export const importedProducts: any[] = [
   price_retail: 1635,
   price_official: 2044,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353183/plitki-spb/16053.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353183/plitki-spb/16053.webp"],
   description: "Клемансо серый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6915,8 +6915,8 @@ export const importedProducts: any[] = [
   price_retail: 1635,
   price_official: 2044,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353196/plitki-spb/16054.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353196/plitki-spb/16054.webp"],
   description: "Клемансо серый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6932,8 +6932,8 @@ export const importedProducts: any[] = [
   price_retail: 562,
   price_official: 702,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353208/plitki-spb/6437.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353208/plitki-spb/6437.webp"],
   description: "Корредо серый светлый матовый 25x40x0,8 — керамическая плитка коллекции Корредо от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Корредо серый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6949,8 +6949,8 @@ export const importedProducts: any[] = [
   price_retail: 946,
   price_official: 1182,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353222/plitki-spb/6411.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353222/plitki-spb/6411.webp"],
   description: "Левада бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Левада бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6966,8 +6966,8 @@ export const importedProducts: any[] = [
   price_retail: 1010,
   price_official: 1262,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353234/plitki-spb/6410.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353234/plitki-spb/6410.webp"],
   description: "Левада зеленый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -6983,8 +6983,8 @@ export const importedProducts: any[] = [
   price_retail: 946,
   price_official: 1182,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353247/plitki-spb/6409.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353247/plitki-spb/6409.webp"],
   description: "Левада зеленый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7000,8 +7000,8 @@ export const importedProducts: any[] = [
   price_retail: 1010,
   price_official: 1262,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353262/plitki-spb/6412.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353262/plitki-spb/6412.webp"],
   description: "Левада коричневый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Коричневый. Размер 25x40 см. Купить Левада коричневый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7017,8 +7017,8 @@ export const importedProducts: any[] = [
   price_retail: 946,
   price_official: 1182,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353271/plitki-spb/6415.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353271/plitki-spb/6415.webp"],
   description: "Левада серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Левада серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7051,8 +7051,8 @@ export const importedProducts: any[] = [
   price_retail: 817,
   price_official: 1021,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353291/plitki-spb/6401.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353291/plitki-spb/6401.webp"],
   description: "Ломбардиа бежевый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Ломбардиа бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7068,8 +7068,8 @@ export const importedProducts: any[] = [
   price_retail: 817,
   price_official: 1021,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353304/plitki-spb/6397.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353304/plitki-spb/6397.webp"],
   description: "Ломбардиа белый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Ломбардиа белый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7085,8 +7085,8 @@ export const importedProducts: any[] = [
   price_retail: 817,
   price_official: 1021,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353318/plitki-spb/6398.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353318/plitki-spb/6398.webp"],
   description: "Ломбардиа серый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7102,8 +7102,8 @@ export const importedProducts: any[] = [
   price_retail: 881,
   price_official: 1101,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353331/plitki-spb/6399.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353331/plitki-spb/6399.webp"],
   description: "Ломбардиа серый темный матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый темный матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7255,8 +7255,8 @@ export const importedProducts: any[] = [
   price_retail: 1261,
   price_official: 1576,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353390/plitki-spb/2911.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353390/plitki-spb/2911.webp"],
   description: "Маттоне серый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7272,8 +7272,8 @@ export const importedProducts: any[] = [
   price_retail: 1261,
   price_official: 1576,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353399/plitki-spb/2912.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353399/plitki-spb/2912.webp"],
   description: "Маттоне серый светлый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый светлый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7289,8 +7289,8 @@ export const importedProducts: any[] = [
   price_retail: 712,
   price_official: 890,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353411/plitki-spb/8376.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353411/plitki-spb/8376.webp"],
   description: "Мираколи белый глянцевый 20x30x0,69 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7306,8 +7306,8 @@ export const importedProducts: any[] = [
   price_retail: 742,
   price_official: 927,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353422/plitki-spb/8377.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353422/plitki-spb/8377.webp"],
   description: "Мираколи белый глянцевый структура 20x30x0,86 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый структура 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7324,8 +7324,8 @@ export const importedProducts: any[] = [
   price_official: 1878,
   stock_yanino: 28.82,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353434/plitki-spb/9018.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353434/plitki-spb/9018.webp"],
   description: "Монпарнас бежевый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7342,8 +7342,8 @@ export const importedProducts: any[] = [
   price_official: 1760,
   stock_yanino: 19.24,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353446/plitki-spb/9022.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353446/plitki-spb/9022.webp"],
   description: "Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7360,8 +7360,8 @@ export const importedProducts: any[] = [
   price_official: 1732,
   stock_yanino: 66.22,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353458/plitki-spb/9016.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353458/plitki-spb/9016.webp"],
   description: "Монпарнас белый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Монпарнас белый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7378,8 +7378,8 @@ export const importedProducts: any[] = [
   price_official: 1831,
   stock_yanino: 17.74,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353470/plitki-spb/9021.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353470/plitki-spb/9021.webp"],
   description: "Монпарнас жёлтый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас жёлтый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7396,8 +7396,8 @@ export const importedProducts: any[] = [
   price_official: 1878,
   stock_yanino: 43.69,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353483/plitki-spb/9017.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353483/plitki-spb/9017.webp"],
   description: "Монпарнас зелёный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас зелёный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7414,8 +7414,8 @@ export const importedProducts: any[] = [
   price_official: 1878,
   stock_yanino: 28.75,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353496/plitki-spb/9019.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353496/plitki-spb/9019.webp"],
   description: "Монпарнас синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Монпарнас синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7432,8 +7432,8 @@ export const importedProducts: any[] = [
   price_official: 1878,
   stock_yanino: 33.84,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353508/plitki-spb/9020.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353508/plitki-spb/9020.webp"],
   description: "Монпарнас сиреневый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас сиреневый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7449,8 +7449,8 @@ export const importedProducts: any[] = [
   price_retail: 1144,
   price_official: 1430,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353521/plitki-spb/15145.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353521/plitki-spb/15145.webp"],
   description: "Монсанту бежевый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту бежевый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7466,8 +7466,8 @@ export const importedProducts: any[] = [
   price_retail: 1174,
   price_official: 1467,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353534/plitki-spb/15146.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353534/plitki-spb/15146.webp"],
   description: "Монсанту панель бежевый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту панель бежевый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7483,8 +7483,8 @@ export const importedProducts: any[] = [
   price_retail: 1174,
   price_official: 1467,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353546/plitki-spb/15148.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353546/plitki-spb/15148.webp"],
   description: "Монсанту панель серый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту панель серый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7500,8 +7500,8 @@ export const importedProducts: any[] = [
   price_retail: 1144,
   price_official: 1430,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353559/plitki-spb/15147.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353559/plitki-spb/15147.webp"],
   description: "Монсанту серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7517,8 +7517,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353572/plitki-spb/16086.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353572/plitki-spb/16086.webp"],
   description: "Монтальбано белый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Монтальбано белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7534,8 +7534,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353585/plitki-spb/16091.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353585/plitki-spb/16091.webp"],
   description: "Монтальбано жёлтый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано жёлтый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7551,8 +7551,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353598/plitki-spb/16087.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353598/plitki-spb/16087.webp"],
   description: "Монтальбано зелёный светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано зелёный светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7568,8 +7568,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353611/plitki-spb/16088.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353611/plitki-spb/16088.webp"],
   description: "Монтальбано розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Монтальбано розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7585,8 +7585,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353624/plitki-spb/16090.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353624/plitki-spb/16090.webp"],
   description: "Монтальбано серый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Монтальбано серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7602,8 +7602,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353636/plitki-spb/16089.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353636/plitki-spb/16089.webp"],
   description: "Монтальбано синий матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Синий. Размер 7.4x15 см. Купить Монтальбано синий матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7619,8 +7619,8 @@ export const importedProducts: any[] = [
   price_retail: 562,
   price_official: 702,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353647/plitki-spb/6424.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353647/plitki-spb/6424.webp"],
   description: "Мотиво серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Мотиво от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Мотиво серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7636,8 +7636,8 @@ export const importedProducts: any[] = [
   price_retail: 1587,
   price_official: 1984,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353660/plitki-spb/16028.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353660/plitki-spb/16028.webp"],
   description: "Мурано белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Мурано белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7653,8 +7653,8 @@ export const importedProducts: any[] = [
   price_retail: 1587,
   price_official: 1984,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353673/plitki-spb/16030.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353673/plitki-spb/16030.webp"],
   description: "Мурано голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Мурано голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7670,8 +7670,8 @@ export const importedProducts: any[] = [
   price_retail: 1587,
   price_official: 1984,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353685/plitki-spb/16031.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353685/plitki-spb/16031.webp"],
   description: "Мурано розовый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Мурано розовый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7687,8 +7687,8 @@ export const importedProducts: any[] = [
   price_retail: 1587,
   price_official: 1984,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353698/plitki-spb/16029.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353698/plitki-spb/16029.webp"],
   description: "Мурано серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Мурано серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7704,8 +7704,8 @@ export const importedProducts: any[] = [
   price_retail: 974,
   price_official: 1217,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353711/plitki-spb/6336.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353711/plitki-spb/6336.webp"],
   description: "Пантеон бежевый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7721,8 +7721,8 @@ export const importedProducts: any[] = [
   price_retail: 974,
   price_official: 1217,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353725/plitki-spb/6337.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353725/plitki-spb/6337.webp"],
   description: "Пантеон бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7738,8 +7738,8 @@ export const importedProducts: any[] = [
   price_retail: 1016,
   price_official: 1270,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353738/plitki-spb/6339.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353738/plitki-spb/6339.webp"],
   description: "Пантеон бежевый светлый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7755,8 +7755,8 @@ export const importedProducts: any[] = [
   price_retail: 1016,
   price_official: 1270,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353752/plitki-spb/6338.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353752/plitki-spb/6338.webp"],
   description: "Пантеон бежевый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7772,8 +7772,8 @@ export const importedProducts: any[] = [
   price_retail: 1131,
   price_official: 1414,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353761/plitki-spb/9000.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353761/plitki-spb/9000.webp"],
   description: "Парус белый глянцевый 8,5x28,5x0,69 — керамическая плитка коллекции _без коллекции от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Парус белый глянцевый 8,5x28,5x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7823,8 +7823,8 @@ export const importedProducts: any[] = [
   price_retail: 677,
   price_official: 846,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353784/plitki-spb/3463.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353784/plitki-spb/3463.webp"],
   description: "Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7840,8 +7840,8 @@ export const importedProducts: any[] = [
   price_retail: 677,
   price_official: 846,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353797/plitki-spb/3452.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353797/plitki-spb/3452.webp"],
   description: "Пьяцца серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7874,8 +7874,8 @@ export const importedProducts: any[] = [
   price_retail: 1181,
   price_official: 1476,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353815/plitki-spb/7169.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353815/plitki-spb/7169.webp"],
   description: "Резиденция бежевый матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Резиденция бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7891,8 +7891,8 @@ export const importedProducts: any[] = [
   price_retail: 1422,
   price_official: 1778,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353828/plitki-spb/7171.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353828/plitki-spb/7171.webp"],
   description: "Резиденция орнамент матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция орнамент матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7908,8 +7908,8 @@ export const importedProducts: any[] = [
   price_retail: 1210,
   price_official: 1512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353840/plitki-spb/7176.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353840/plitki-spb/7176.webp"],
   description: "Резиденция панель матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7925,8 +7925,8 @@ export const importedProducts: any[] = [
   price_retail: 1442,
   price_official: 1803,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353852/plitki-spb/17057.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353852/plitki-spb/17057.webp"],
   description: "Салинас бежевый глянцевый 15x15x0,82 — керамическая плитка коллекции Салинас от Kerama Marazzi. Цвет: Бежевый. Размер 15x15 см. Купить Салинас бежевый глянцевый 15x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7942,8 +7942,8 @@ export const importedProducts: any[] = [
   price_retail: 1477,
   price_official: 1846,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353863/plitki-spb/17070.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353863/plitki-spb/17070.webp"],
   description: "Сантана зеленый темный глянцевый 15x15x0,69 — керамическая плитка коллекции Сантана от Kerama Marazzi. Цвет: Зеленый. Размер 15x15 см. Купить Сантана зеленый темный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7959,8 +7959,8 @@ export const importedProducts: any[] = [
   price_retail: 1287,
   price_official: 1609,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353874/plitki-spb/19075.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353874/plitki-spb/19075.webp"],
   description: "Сеттиньяно белый грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Сеттиньяно белый грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7976,8 +7976,8 @@ export const importedProducts: any[] = [
   price_retail: 1314,
   price_official: 1642,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353885/plitki-spb/19077.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353885/plitki-spb/19077.webp"],
   description: "Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Размер 9.9x20 см. Купить Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -7993,8 +7993,8 @@ export const importedProducts: any[] = [
   price_retail: 1314,
   price_official: 1642,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353896/plitki-spb/19076.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353896/plitki-spb/19076.webp"],
   description: "Сеттиньяно синий грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Синий. Размер 9.9x20 см. Купить Сеттиньяно синий грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8010,8 +8010,8 @@ export const importedProducts: any[] = [
   price_retail: 1607,
   price_official: 2009,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353908/plitki-spb/16085.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353908/plitki-spb/16085.webp"],
   description: "Сиена серый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Сиена от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Сиена серый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8027,8 +8027,8 @@ export const importedProducts: any[] = [
   price_retail: 806,
   price_official: 1008,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353921/plitki-spb/6372.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353921/plitki-spb/6372.webp"],
   description: "Сияние бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8045,8 +8045,8 @@ export const importedProducts: any[] = [
   price_official: 1062,
   stock_yanino: 9.5,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353934/plitki-spb/6375.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353934/plitki-spb/6375.webp"],
   description: "Сияние бежевый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8062,8 +8062,8 @@ export const importedProducts: any[] = [
   price_retail: 806,
   price_official: 1008,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353948/plitki-spb/6373.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353948/plitki-spb/6373.webp"],
   description: "Сияние голубой глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8079,8 +8079,8 @@ export const importedProducts: any[] = [
   price_retail: 850,
   price_official: 1062,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353961/plitki-spb/6376.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353961/plitki-spb/6376.webp"],
   description: "Сияние голубой структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8096,8 +8096,8 @@ export const importedProducts: any[] = [
   price_retail: 806,
   price_official: 1008,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353975/plitki-spb/6374.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353975/plitki-spb/6374.webp"],
   description: "Сияние светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8114,8 +8114,8 @@ export const importedProducts: any[] = [
   price_official: 1062,
   stock_yanino: 1.1,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353988/plitki-spb/6377.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353988/plitki-spb/6377.webp"],
   description: "Сияние светлый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8131,8 +8131,8 @@ export const importedProducts: any[] = [
   price_retail: 1060,
   price_official: 1325,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354001/plitki-spb/7256.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354001/plitki-spb/7256.webp"],
   description: "Скарпа серый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8148,8 +8148,8 @@ export const importedProducts: any[] = [
   price_retail: 1087,
   price_official: 1359,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354014/plitki-spb/7258.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354014/plitki-spb/7258.webp"],
   description: "Скарпа серый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8165,8 +8165,8 @@ export const importedProducts: any[] = [
   price_retail: 1060,
   price_official: 1325,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354026/plitki-spb/7255.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354026/plitki-spb/7255.webp"],
   description: "Скарпа серый светлый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8182,8 +8182,8 @@ export const importedProducts: any[] = [
   price_retail: 1087,
   price_official: 1359,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354039/plitki-spb/7257.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354039/plitki-spb/7257.webp"],
   description: "Скарпа серый светлый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8199,8 +8199,8 @@ export const importedProducts: any[] = [
   price_retail: 974,
   price_official: 1217,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354052/plitki-spb/6355.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354052/plitki-spb/6355.webp"],
   description: "Сорбонна бежевый матовый 25x40x0,8 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8216,8 +8216,8 @@ export const importedProducts: any[] = [
   price_retail: 1016,
   price_official: 1270,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354065/plitki-spb/6356.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354065/plitki-spb/6356.webp"],
   description: "Сорбонна бежевый панель матовый 25x40x0,95 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый панель матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8233,8 +8233,8 @@ export const importedProducts: any[] = [
   price_retail: 779,
   price_official: 974,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354077/plitki-spb/8373.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354077/plitki-spb/8373.webp"],
   description: "Спинелли серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Спинелли от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Спинелли серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8250,8 +8250,8 @@ export const importedProducts: any[] = [
   price_retail: 943,
   price_official: 1179,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354090/plitki-spb/5288.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354090/plitki-spb/5288.webp"],
   description: "Стемма бежевый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Стемма бежевый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8267,8 +8267,8 @@ export const importedProducts: any[] = [
   price_retail: 943,
   price_official: 1179,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354102/plitki-spb/5287.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354102/plitki-spb/5287.webp"],
   description: "Стемма белый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Стемма белый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8284,8 +8284,8 @@ export const importedProducts: any[] = [
   price_retail: 1114,
   price_official: 1392,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354115/plitki-spb/5290.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354115/plitki-spb/5290.webp"],
   description: "Стемма зеленый темный глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Стемма зеленый темный глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8301,8 +8301,8 @@ export const importedProducts: any[] = [
   price_retail: 997,
   price_official: 1246,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354128/plitki-spb/5289.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354128/plitki-spb/5289.webp"],
   description: "Стемма коричневый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Стемма коричневый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8318,8 +8318,8 @@ export const importedProducts: any[] = [
   price_retail: 987,
   price_official: 1234,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354139/plitki-spb/5229.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354139/plitki-spb/5229.webp"],
   description: "Суррей бежевый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Суррей бежевый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8335,8 +8335,8 @@ export const importedProducts: any[] = [
   price_retail: 977,
   price_official: 1221,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354151/plitki-spb/5226.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354151/plitki-spb/5226.webp"],
   description: "Суррей белый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Суррей белый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8352,8 +8352,8 @@ export const importedProducts: any[] = [
   price_retail: 987,
   price_official: 1234,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354163/plitki-spb/5227.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354163/plitki-spb/5227.webp"],
   description: "Суррей глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Размер 20x20 см. Купить Суррей глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8369,8 +8369,8 @@ export const importedProducts: any[] = [
   price_retail: 2617,
   price_official: 3271,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354177/plitki-spb/20074.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354177/plitki-spb/20074.webp"],
   description: "Темари бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8386,8 +8386,8 @@ export const importedProducts: any[] = [
   price_retail: 2706,
   price_official: 3382,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354192/plitki-spb/20009.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354192/plitki-spb/20009.webp"],
   description: "Темари бежевый светлый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый светлый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8420,8 +8420,8 @@ export const importedProducts: any[] = [
   price_retail: 2855,
   price_official: 3569,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354213/plitki-spb/20003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354213/plitki-spb/20003.webp"],
   description: "Темари белый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8437,8 +8437,8 @@ export const importedProducts: any[] = [
   price_retail: 2886,
   price_official: 3607,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354227/plitki-spb/20059.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354227/plitki-spb/20059.webp"],
   description: "Темари белый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8454,8 +8454,8 @@ export const importedProducts: any[] = [
   price_retail: 2706,
   price_official: 3382,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354241/plitki-spb/20070.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354241/plitki-spb/20070.webp"],
   description: "Темари бирюза матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюза матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8472,8 +8472,8 @@ export const importedProducts: any[] = [
   price_official: 3570,
   stock_yanino: 2.13,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354255/plitki-spb/20090.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354255/plitki-spb/20090.webp"],
   description: "Темари бирюзовый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюзовый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8540,8 +8540,8 @@ export const importedProducts: any[] = [
   price_retail: 2688,
   price_official: 3360,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354293/plitki-spb/20064.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354293/plitki-spb/20064.webp"],
   description: "Темари графит матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8574,8 +8574,8 @@ export const importedProducts: any[] = [
   price_retail: 2856,
   price_official: 3570,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354308/plitki-spb/20052.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354308/plitki-spb/20052.webp"],
   description: "Темари дымчатый темный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый темный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8642,8 +8642,8 @@ export const importedProducts: any[] = [
   price_retail: 2787,
   price_official: 3484,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354336/plitki-spb/20013.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354336/plitki-spb/20013.webp"],
   description: "Темари синий глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Синий. Размер 29.8x29.8 см. Купить Темари синий глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8659,8 +8659,8 @@ export const importedProducts: any[] = [
   price_retail: 3151,
   price_official: 3939,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354350/plitki-spb/20004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354350/plitki-spb/20004.webp"],
   description: "Темари черный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8676,8 +8676,8 @@ export const importedProducts: any[] = [
   price_retail: 3346,
   price_official: 4183,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354360/plitki-spb/20071.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354360/plitki-spb/20071.webp"],
   description: "Темари черный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8694,8 +8694,8 @@ export const importedProducts: any[] = [
   price_official: 890,
   stock_yanino: 0.48,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354371/plitki-spb/8063.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354371/plitki-spb/8063.webp"],
   description: "Тигр белый матовый 20x30x0,69 — керамическая плитка коллекции Тигр от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Тигр белый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8728,8 +8728,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354390/plitki-spb/16084.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354390/plitki-spb/16084.webp"],
   description: "Тортона белый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Тортона белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8745,8 +8745,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354402/plitki-spb/16080.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354402/plitki-spb/16080.webp"],
   description: "Тортона голубой светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Тортона голубой светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8796,8 +8796,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354424/plitki-spb/16077.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354424/plitki-spb/16077.webp"],
   description: "Тортона розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8813,8 +8813,8 @@ export const importedProducts: any[] = [
   price_retail: 1601,
   price_official: 2001,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354436/plitki-spb/16081.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354436/plitki-spb/16081.webp"],
   description: "Тортона серый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Тортона серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8830,8 +8830,8 @@ export const importedProducts: any[] = [
   price_retail: 1469,
   price_official: 1836,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354447/plitki-spb/9038.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354447/plitki-spb/9038.webp"],
   description: "Тракай бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8847,8 +8847,8 @@ export const importedProducts: any[] = [
   price_retail: 1502,
   price_official: 1878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354455/plitki-spb/9040.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354455/plitki-spb/9040.webp"],
   description: "Тракай бежевый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8864,8 +8864,8 @@ export const importedProducts: any[] = [
   price_retail: 1502,
   price_official: 1878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354468/plitki-spb/9043.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354468/plitki-spb/9043.webp"],
   description: "Тракай бордо глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Размер 8.5x28.5 см. Купить Тракай бордо глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8881,8 +8881,8 @@ export const importedProducts: any[] = [
   price_retail: 1502,
   price_official: 1878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354479/plitki-spb/9041.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354479/plitki-spb/9041.webp"],
   description: "Тракай зеленый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Зеленый. Размер 8.5x28.5 см. Купить Тракай зеленый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8898,8 +8898,8 @@ export const importedProducts: any[] = [
   price_retail: 1469,
   price_official: 1836,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354492/plitki-spb/9039.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354492/plitki-spb/9039.webp"],
   description: "Тракай коричневый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8932,8 +8932,8 @@ export const importedProducts: any[] = [
   price_retail: 1469,
   price_official: 1836,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354514/plitki-spb/9037.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354514/plitki-spb/9037.webp"],
   description: "Тракай серый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8949,8 +8949,8 @@ export const importedProducts: any[] = [
   price_retail: 1502,
   price_official: 1878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354526/plitki-spb/9045.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354526/plitki-spb/9045.webp"],
   description: "Тракай серый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -8966,8 +8966,8 @@ export const importedProducts: any[] = [
   price_retail: 1502,
   price_official: 1878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354538/plitki-spb/9044.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354538/plitki-spb/9044.webp"],
   description: "Тракай синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Тракай синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9000,8 +9000,8 @@ export const importedProducts: any[] = [
   price_retail: 805,
   price_official: 1006,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354557/plitki-spb/8340.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354557/plitki-spb/8340.webp"],
   description: "Туф бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9017,8 +9017,8 @@ export const importedProducts: any[] = [
   price_retail: 860,
   price_official: 1075,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354570/plitki-spb/8347.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354570/plitki-spb/8347.webp"],
   description: "Туф бежевый светлый грань глянцевый 20x30x0,95 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый грань глянцевый 20x30x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9034,8 +9034,8 @@ export const importedProducts: any[] = [
   price_retail: 762,
   price_official: 953,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354583/plitki-spb/8348.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354583/plitki-spb/8348.webp"],
   description: "Ферони серый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9051,8 +9051,8 @@ export const importedProducts: any[] = [
   price_retail: 762,
   price_official: 953,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354595/plitki-spb/8349.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354595/plitki-spb/8349.webp"],
   description: "Ферони серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9069,8 +9069,8 @@ export const importedProducts: any[] = [
   price_official: 1157,
   stock_yanino: 30.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354607/plitki-spb/6330.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354607/plitki-spb/6330.webp"],
   description: "Фоскари бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Фоскари бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9086,8 +9086,8 @@ export const importedProducts: any[] = [
   price_retail: 952,
   price_official: 1190,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354619/plitki-spb/6327.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354619/plitki-spb/6327.webp"],
   description: "Фоскари бирюзовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Размер 25x40 см. Купить Фоскари бирюзовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9137,8 +9137,8 @@ export const importedProducts: any[] = [
   price_retail: 970,
   price_official: 1212,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354640/plitki-spb/5299.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354640/plitki-spb/5299.webp"],
   description: "Чементо антрацит матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Антрацит. Размер 20x20 см. Купить Чементо антрацит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9154,8 +9154,8 @@ export const importedProducts: any[] = [
   price_retail: 909,
   price_official: 1136,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354649/plitki-spb/5296.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354649/plitki-spb/5296.webp"],
   description: "Чементо бежевый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Чементо бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9171,8 +9171,8 @@ export const importedProducts: any[] = [
   price_retail: 970,
   price_official: 1212,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354661/plitki-spb/5300.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354661/plitki-spb/5300.webp"],
   description: "Чементо зелёный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Размер 20x20 см. Купить Чементо зелёный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9205,8 +9205,8 @@ export const importedProducts: any[] = [
   price_retail: 909,
   price_official: 1136,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354676/plitki-spb/5295.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354676/plitki-spb/5295.webp"],
   description: "Чементо серый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9222,8 +9222,8 @@ export const importedProducts: any[] = [
   price_retail: 909,
   price_official: 1136,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354685/plitki-spb/5294.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354685/plitki-spb/5294.webp"],
   description: "Чементо серый светлый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -9239,8 +9239,8 @@ export const importedProducts: any[] = [
   price_retail: 970,
   price_official: 1212,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354694/plitki-spb/5298.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354694/plitki-spb/5298.webp"],
   description: "Чементо синий тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Чементо синий тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12015,8 +12015,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 21.6,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp"],
   description: "Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12032,8 +12032,8 @@ export const importedProducts: any[] = [
   price_retail: 304,
   price_official: 380,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355726/plitki-spb/587121002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355726/plitki-spb/587121002.webp"],
   description: "Бордюр 63*7.5 ASCOLI BEIGE DIAMOND 16 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Размер 63х7,5 см. Купить Бордюр 63*7.5 ASCOLI BEIGE DIAMOND 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12049,8 +12049,8 @@ export const importedProducts: any[] = [
   price_retail: 304,
   price_official: 380,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355738/plitki-spb/587131002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355738/plitki-spb/587131002.webp"],
   description: "Бордюр 63*7.5 ASCOLI GREY DIAMOND 16 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Размер 63х7,5 см. Купить Бордюр 63*7.5 ASCOLI GREY DIAMOND 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12066,8 +12066,8 @@ export const importedProducts: any[] = [
   price_retail: 752,
   price_official: 940,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355750/plitki-spb/587122003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355750/plitki-spb/587122003.webp"],
   description: "Декор 31,5*63 ASCOLI BEIGE DIAMOND 6 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 ASCOLI BEIGE DIAMOND 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12083,8 +12083,8 @@ export const importedProducts: any[] = [
   price_retail: 752,
   price_official: 940,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355761/plitki-spb/587132003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355761/plitki-spb/587132003.webp"],
   description: "Декор 31,5*63 ASCOLI GREY DIAMOND 6 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 ASCOLI GREY DIAMOND 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12457,8 +12457,8 @@ export const importedProducts: any[] = [
   price_retail: 702,
   price_official: 878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355922/plitki-spb/587742001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355922/plitki-spb/587742001.webp"],
   description: "Декор 31,5*63 GLOBAL AJOUR 6 шт 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 GLOBAL AJOUR 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12474,8 +12474,8 @@ export const importedProducts: any[] = [
   price_retail: 702,
   price_official: 878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355934/plitki-spb/587742002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355934/plitki-spb/587742002.webp"],
   description: "Декор 31,5*63 GLOBAL PIAZZE 6 шт 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 GLOBAL PIAZZE 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12613,8 +12613,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355989/plitki-spb/507743003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355989/plitki-spb/507743003.webp"],
   description: "Плитка 42*42  GLOBAL 63,96 кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 42х42 см. Купить Плитка 42*42  GLOBAL 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12971,8 +12971,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356122/plitki-spb/509041202.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356122/plitki-spb/509041202.webp"],
   description: "Плитка 31,5*63 DESERT 50,88кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13024,8 +13024,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356146/plitki-spb/509501101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356146/plitki-spb/509501101.webp"],
   description: "Плитка 31,5*63 DESERT OASIS 1 50,88кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT OASIS 1 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13076,8 +13076,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356175/plitki-spb/509521101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356175/plitki-spb/509521101.webp"],
   description: "Плитка 31,5*63 DESERT OASIS 2 50,88кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT OASIS 2 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13129,8 +13129,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 1.59,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356199/plitki-spb/509531101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356199/plitki-spb/509531101.webp"],
   description: "Плитка 31,5*63 DESERT STRUTTURA 50,88кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT STRUTTURA 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13181,8 +13181,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356223/plitki-spb/509541101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356223/plitki-spb/509541101.webp"],
   description: "Плитка 31,5*63 MAPLE STRUTTURA 50,88кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MAPLE STRUTTURA 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13269,8 +13269,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356260/plitki-spb/587912002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356260/plitki-spb/587912002.webp"],
   description: "Декор 31,5*63 CALACATTA ROYAL VITRAGE 6 шт 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 CALACATTA ROYAL VITRAGE 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13287,8 +13287,8 @@ export const importedProducts: any[] = [
   price_official: 1550,
   stock_yanino: 11.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356273/plitki-spb/587912001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356273/plitki-spb/587912001.webp"],
   description: "Декор 31,5*63 CALACATTA ROYAL GEOMETRIA 6 шт 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 CALACATTA ROYAL GEOMETRIA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13304,8 +13304,8 @@ export const importedProducts: any[] = [
   price_retail: 1064,
   price_official: 1330,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356285/plitki-spb/588143001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356285/plitki-spb/588143001.webp"],
   description: "Мозаика 30*30 CALACATTA ROYAL MOSAIC 11 шт — мозаика коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 30х30 см. Купить Мозаика 30*30 CALACATTA ROYAL MOSAIC 11 шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13321,8 +13321,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356298/plitki-spb/507911201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356298/plitki-spb/507911201.webp"],
   description: "Плитка 31,5*63  CALACATTA ROYAL  50.88 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  50.88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13373,8 +13373,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356319/plitki-spb/509491101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356319/plitki-spb/509491101.webp"],
   description: "Плитка 31,5*63  CALACATTA ROYAL  STYLE 50.88 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  STYLE 50.88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13424,8 +13424,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356344/plitki-spb/509511201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356344/plitki-spb/509511201.webp"],
   description: "Плитка 31,5*63 WOOD HONEY  50,88кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 WOOD HONEY  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13475,8 +13475,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356368/plitki-spb/507913001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356368/plitki-spb/507913001.webp"],
   description: "Плитка 42*42  CALACATTA ROYAL 63,96 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 42х42 см. Купить Плитка 42*42  CALACATTA ROYAL 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13493,8 +13493,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 21.6,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp"],
   description: "Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14052,8 +14052,8 @@ export const importedProducts: any[] = [
   price_retail: 191,
   price_official: 239,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356615/plitki-spb/588471002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356615/plitki-spb/588471002.webp"],
   description: "Бордюр 31,5*6,2 ROMANICO GINKGO 36 шт 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х6,2 см. Купить Бордюр 31,5*6,2 ROMANICO GINKGO 36 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14069,8 +14069,8 @@ export const importedProducts: any[] = [
   price_retail: 420,
   price_official: 525,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356629/plitki-spb/588471001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356629/plitki-spb/588471001.webp"],
   description: "Бордюр 63*7,5 ROMANICO FLORA 16 шт 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 63х7,5 см. Купить Бордюр 63*7,5 ROMANICO FLORA 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14086,8 +14086,8 @@ export const importedProducts: any[] = [
   price_retail: 936,
   price_official: 1170,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356641/plitki-spb/588472002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356641/plitki-spb/588472002.webp"],
   description: "Декор 31,5*63 ROMANICO GINKGO 6 шт 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 ROMANICO GINKGO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14103,8 +14103,8 @@ export const importedProducts: any[] = [
   price_retail: 1072,
   price_official: 1340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356653/plitki-spb/588472001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356653/plitki-spb/588472001.webp"],
   description: "Декор 31,5*63 ROMANICO FLORA 6 шт 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 ROMANICO FLORA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14120,8 +14120,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356666/plitki-spb/508791201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356666/plitki-spb/508791201.webp"],
   description: "Плитка 31,5*63 ROMANICO CREMA  50,88кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO CREMA  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14171,8 +14171,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356691/plitki-spb/508471101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356691/plitki-spb/508471101.webp"],
   description: "Плитка 31,5*63 ROMANICO BEIGE  50,88кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO BEIGE  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14222,8 +14222,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356715/plitki-spb/508481101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356715/plitki-spb/508481101.webp"],
   description: "Плитка 31,5*63 ROMANICO NOCE  50,88кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO NOCE  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14257,8 +14257,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 30.75,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356733/plitki-spb/508473001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356733/plitki-spb/508473001.webp"],
   description: "Плитка 42*42 ROMANICO BEIGE 63,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 42х42 см. Купить Плитка 42*42 ROMANICO BEIGE 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14274,8 +14274,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356745/plitki-spb/508483001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356745/plitki-spb/508483001.webp"],
   description: "Плитка 42*42 ROMANICO NOCE 63,96 кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 42х42 см. Купить Плитка 42*42 ROMANICO NOCE 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14291,8 +14291,8 @@ export const importedProducts: any[] = [
   price_retail: 1036,
   price_official: 1295,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356759/plitki-spb/588252001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356759/plitki-spb/588252001.webp"],
   description: "Декор 31,5*63 HYGGE GREY CRISTALL 6 шт 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 HYGGE GREY CRISTALL 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14309,8 +14309,8 @@ export const importedProducts: any[] = [
   price_official: 1295,
   stock_yanino: 2.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356773/plitki-spb/588212001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356773/plitki-spb/588212001.webp"],
   description: "Декор 31,5*63 HYGGE LIGHT CRISTALL 6 шт 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 HYGGE LIGHT CRISTALL 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14326,8 +14326,8 @@ export const importedProducts: any[] = [
   price_retail: 1036,
   price_official: 1295,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356786/plitki-spb/588232001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356786/plitki-spb/588232001.webp"],
   description: "Декор 31,5*63 HYGGE MOCCA CRISTALL 6 шт 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 HYGGE MOCCA CRISTALL 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14343,8 +14343,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356799/plitki-spb/508211201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356799/plitki-spb/508211201.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT  50,88кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14414,8 +14414,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 1.59,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356830/plitki-spb/508221101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356830/plitki-spb/508221101.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT MIX  50,88кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT MIX  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14483,8 +14483,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356862/plitki-spb/508251101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356862/plitki-spb/508251101.webp"],
   description: "Плитка 31,5*63 HYGGE GREY  50,88кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14551,8 +14551,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356894/plitki-spb/508261101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356894/plitki-spb/508261101.webp"],
   description: "Плитка 31,5*63 HYGGE GREY MIX  50,88кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY MIX  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14620,8 +14620,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 4.37,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356926/plitki-spb/508231101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356926/plitki-spb/508231101.webp"],
   description: "Плитка 31,5*63 HYGGE MOCCA  50,88кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14673,8 +14673,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 4.57,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356952/plitki-spb/508241101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356952/plitki-spb/508241101.webp"],
   description: "Плитка 31,5*63 HYGGE MOCCA MIX  50,88кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA MIX  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14707,8 +14707,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356971/plitki-spb/508253001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356971/plitki-spb/508253001.webp"],
   description: "Плитка 42*42 HYGGE GREY 63,96 кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 42х42 см. Купить Плитка 42*42 HYGGE GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14725,8 +14725,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 53.24,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356986/plitki-spb/508233001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356986/plitki-spb/508233001.webp"],
   description: "Плитка 42*42 HYGGE MOCCA 63,96 кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 42х42 см. Купить Плитка 42*42 HYGGE MOCCA 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14793,8 +14793,8 @@ export const importedProducts: any[] = [
   price_retail: 702,
   price_official: 878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357029/plitki-spb/587762001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357029/plitki-spb/587762001.webp"],
   description: "Декор 31,5*63 SHABBY CHEVRON 6 шт 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 SHABBY CHEVRON 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14967,8 +14967,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357096/plitki-spb/507371101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357096/plitki-spb/507371101.webp"],
   description: "Плитка 31,5*63 SHABBY INTI  50,88кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY INTI  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15020,8 +15020,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 6.15,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357121/plitki-spb/507763002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357121/plitki-spb/507763002.webp"],
   description: "Плитка 42*42 SHABBY  63,96кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 42х42 см. Купить Плитка 42*42 SHABBY  63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15190,8 +15190,8 @@ export const importedProducts: any[] = [
   price_retail: 609,
   price_official: 761,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357189/plitki-spb/587992001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357189/plitki-spb/587992001.webp"],
   description: "Декор 31,5*63 GRUNGE VITRI  ART DARK 6 шт 1с — керамическая плитка коллекции ГРАНЖ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 GRUNGE VITRI  ART DARK 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15207,8 +15207,8 @@ export const importedProducts: any[] = [
   price_retail: 609,
   price_official: 761,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357200/plitki-spb/587972001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357200/plitki-spb/587972001.webp"],
   description: "Декор 31,5*63 GRUNGE VITRI ART LIGHT 6 шт 1с — керамическая плитка коллекции ГРАНЖ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 GRUNGE VITRI ART LIGHT 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15224,8 +15224,8 @@ export const importedProducts: any[] = [
   price_retail: 970,
   price_official: 1213,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357212/plitki-spb/507971201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357212/plitki-spb/507971201.webp"],
   description: "Плитка 31,5*63 GRUNGE GREY 50,88кв.м 1с — керамическая плитка коллекции ГРАНЖ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GRUNGE GREY 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15241,8 +15241,8 @@ export const importedProducts: any[] = [
   price_retail: 626,
   price_official: 782,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357223/plitki-spb/508001101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357223/plitki-spb/508001101.webp"],
   description: "Плитка 31,5*63 GRUNGE GREY GEOMETRY 50,88кв.м 1с — керамическая плитка коллекции ГРАНЖ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GRUNGE GREY GEOMETRY 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15258,8 +15258,8 @@ export const importedProducts: any[] = [
   price_retail: 626,
   price_official: 782,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357235/plitki-spb/507991101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357235/plitki-spb/507991101.webp"],
   description: "Плитка 31,5*63 GRUNGE NUTT DARK 50,88кв.м 1с — керамическая плитка коллекции ГРАНЖ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GRUNGE NUTT DARK 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15275,8 +15275,8 @@ export const importedProducts: any[] = [
   price_retail: 626,
   price_official: 782,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357246/plitki-spb/507981101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357246/plitki-spb/507981101.webp"],
   description: "Плитка 31,5*63 GRUNGE NUTT LIGHT 50,88кв.м 1с — керамическая плитка коллекции ГРАНЖ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GRUNGE NUTT LIGHT 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15292,8 +15292,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357258/plitki-spb/507973003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357258/plitki-spb/507973003.webp"],
   description: "Плитка 42*42  GRUNGE  GREY 63,96 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 42х42 см. Купить Плитка 42*42  GRUNGE  GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15343,8 +15343,8 @@ export const importedProducts: any[] = [
   price_retail: 702,
   price_official: 878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357281/plitki-spb/585082001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357281/plitki-spb/585082001.webp"],
   description: "Декор 31,5*63 MALLORCA BEIGE 6 шт 1с — керамическая плитка коллекции МАЙОРКА от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 MALLORCA BEIGE 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15360,8 +15360,8 @@ export const importedProducts: any[] = [
   price_retail: 702,
   price_official: 878,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357293/plitki-spb/585072001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357293/plitki-spb/585072001.webp"],
   description: "Декор 31,5*63 MALLORCA GREY 6 шт 1с — керамическая плитка коллекции МАЙОРКА от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 MALLORCA GREY 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15479,8 +15479,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357340/plitki-spb/508851101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357340/plitki-spb/508851101.webp"],
   description: "Плитка 31,5*63 MALLORCA MONO BEIGE  50,88кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MALLORCA MONO BEIGE  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15496,8 +15496,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357352/plitki-spb/508841101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357352/plitki-spb/508841101.webp"],
   description: "Плитка 31,5*63 MALLORCA MONO GREY  50,88кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MALLORCA MONO GREY  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15888,8 +15888,8 @@ export const importedProducts: any[] = [
   price_retail: 405,
   price_official: 506,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357527/plitki-spb/587423006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357527/plitki-spb/587423006.webp"],
   description: "Мозаика 30*30 PANDORA LATTE 22шт — мозаика коллекции ПАНДОРА от Азори. Размер 30х30 см. Купить Мозаика 30*30 PANDORA LATTE 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16007,8 +16007,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357575/plitki-spb/505711101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357575/plitki-spb/505711101.webp"],
   description: "Плитка 31,5*63 PANDORA GREY  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PANDORA GREY  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16177,8 +16177,8 @@ export const importedProducts: any[] = [
   price_retail: 562,
   price_official: 702,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357646/plitki-spb/588462001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357646/plitki-spb/588462001.webp"],
   description: "Декор 31,5*63 RUSTIC VINTAGE 1 6 шт 1с — керамическая плитка коллекции РУСТИК от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 RUSTIC VINTAGE 1 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16194,8 +16194,8 @@ export const importedProducts: any[] = [
   price_retail: 562,
   price_official: 702,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357658/plitki-spb/588462002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357658/plitki-spb/588462002.webp"],
   description: "Декор 31,5*63 RUSTIC VINTAGE 2 6 шт 1с — керамическая плитка коллекции РУСТИК от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 RUSTIC VINTAGE 2 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16211,8 +16211,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357669/plitki-spb/508531201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357669/plitki-spb/508531201.webp"],
   description: "Плитка 31,5*63 RUSTIC CREMA 50,88кв.м 1с — керамическая плитка коллекции РУСТИК от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RUSTIC CREMA 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16245,8 +16245,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357687/plitki-spb/508541101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357687/plitki-spb/508541101.webp"],
   description: "Плитка 31,5*63 RUSTIC BEIGE 50,88кв.м 1с — керамическая плитка коллекции РУСТИК от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RUSTIC BEIGE 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16262,8 +16262,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357698/plitki-spb/508551101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357698/plitki-spb/508551101.webp"],
   description: "Плитка 31,5*63 RUSTIC BEIGE STRUTTURA 50,88кв.м 1с — керамическая плитка коллекции РУСТИК от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RUSTIC BEIGE STRUTTURA 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16279,8 +16279,8 @@ export const importedProducts: any[] = [
   price_retail: 782,
   price_official: 977,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357710/plitki-spb/508561101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357710/plitki-spb/508561101.webp"],
   description: "Плитка 31,5*63 RUSTIC TRELLIS 50,88кв.м 1с — керамическая плитка коллекции РУСТИК от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RUSTIC TRELLIS 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17176,8 +17176,8 @@ export const importedProducts: any[] = [
   price_retail: 336,
   price_official: 420,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358071/plitki-spb/588801001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358071/plitki-spb/588801001.webp"],
   description: "Бордюр 50,5*6,2 ALPI CARPET 42 шт 1с — керамическая плитка коллекции АЛПИ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 ALPI CARPET 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17193,8 +17193,8 @@ export const importedProducts: any[] = [
   price_retail: 592,
   price_official: 740,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358083/plitki-spb/588802001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358083/plitki-spb/588802001.webp"],
   description: "Декор 20,1*50,5 ALPI CARPET 13 шт 1с — керамическая плитка коллекции АЛПИ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 ALPI CARPET 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17210,8 +17210,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358096/plitki-spb/508801201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358096/plitki-spb/508801201.webp"],
   description: "Плитка 20,1*50,5 ALPI MARMO 72,96 кв.м 1с — керамическая плитка коллекции АЛПИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 ALPI MARMO 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17244,8 +17244,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358114/plitki-spb/508811101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358114/plitki-spb/508811101.webp"],
   description: "Плитка 20,1*50,5 ALPI GEOMETRIA 72,96 кв.м 1с — керамическая плитка коллекции АЛПИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 ALPI GEOMETRIA 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17261,8 +17261,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358126/plitki-spb/848803101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358126/plitki-spb/848803101.webp"],
   description: "Керамогранит R 60*60 ALPI 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 ALPI 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17278,8 +17278,8 @@ export const importedProducts: any[] = [
   price_retail: 110,
   price_official: 138,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358139/plitki-spb/584191005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358139/plitki-spb/584191005.webp"],
   description: "Бордюр 50,5*6,2 AMATI PALAZZO 42 шт 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 AMATI PALAZZO 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17295,8 +17295,8 @@ export const importedProducts: any[] = [
   price_retail: 266,
   price_official: 333,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358152/plitki-spb/586432002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358152/plitki-spb/586432002.webp"],
   description: "Декор 20,1*50,5 AMATI PALAZZO 13 шт 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 AMATI PALAZZO 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17346,8 +17346,8 @@ export const importedProducts: any[] = [
   price_retail: 252,
   price_official: 315,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358178/plitki-spb/584191003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358178/plitki-spb/584191003.webp"],
   description: "Бордюр 50,5*6,2 AMATI PLUMERIA ALBA 42 шт 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 AMATI PLUMERIA ALBA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17364,8 +17364,8 @@ export const importedProducts: any[] = [
   price_official: 315,
   stock_yanino: 37.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358187/plitki-spb/584191004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358187/plitki-spb/584191004.webp"],
   description: "Бордюр 50,5*6,2 AMATI PLUMERIA BEIGE 42 шт 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 AMATI PLUMERIA BEIGE 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17398,8 +17398,8 @@ export const importedProducts: any[] = [
   price_retail: 1224,
   price_official: 1530,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358206/plitki-spb/584192003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358206/plitki-spb/584192003.webp"],
   description: "Панно 50,5*40,2 AMATI PLUMERIA ALBA (2 шт) - 6 комл 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 50,5х40,2 см. Купить Панно 50,5*40,2 AMATI PLUMERIA ALBA (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17415,8 +17415,8 @@ export const importedProducts: any[] = [
   price_retail: 1224,
   price_official: 1530,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358215/plitki-spb/584192004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358215/plitki-spb/584192004.webp"],
   description: "Панно 50,5*40,2 AMATI PLUMERIA BEIGE (2 шт) - 6 комл 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 50,5х40,2 см. Купить Панно 50,5*40,2 AMATI PLUMERIA BEIGE (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17557,8 +17557,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 24.25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358272/plitki-spb/504113002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358272/plitki-spb/504113002.webp"],
   description: "Плитка 42*42 AMATI AMBRA  63,96 кв.м 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 42х42 см. Купить Плитка 42*42 AMATI AMBRA  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17764,8 +17764,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358358/plitki-spb/587423003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358358/plitki-spb/587423003.webp"],
   description: "Мозаика 30*30 VELA NERO 22шт — мозаика коллекции ВЕЛА от Азори. Размер 30х30 см. Купить Мозаика 30*30 VELA NERO 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17905,8 +17905,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 22.67,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358418/plitki-spb/507103002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358418/plitki-spb/507103002.webp"],
   description: "Плитка 42*42 VELA TIFFANI  63,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 VELA TIFFANI  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18127,8 +18127,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358505/plitki-spb/507073002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358505/plitki-spb/507073002.webp"],
   description: "Плитка 42*42 VELA CARMIN  63,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 VELA CARMIN  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18144,8 +18144,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358518/plitki-spb/507083002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358518/plitki-spb/507083002.webp"],
   description: "Плитка 42*42 VELA INDIGO  63,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 VELA INDIGO  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18162,8 +18162,8 @@ export const importedProducts: any[] = [
   price_official: 829,
   stock_yanino: 15.99,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358531/plitki-spb/507093002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358531/plitki-spb/507093002.webp"],
   description: "Плитка 42*42 VELA OCHRA  63,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 VELA OCHRA  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18179,8 +18179,8 @@ export const importedProducts: any[] = [
   price_retail: 816,
   price_official: 1020,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358544/plitki-spb/589452001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358544/plitki-spb/589452001.webp"],
   description: "Панно 50,5*40,2 VENEZIANO (2 шт) - 6 комл 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 50,5х40,2 см. Купить Панно 50,5*40,2 VENEZIANO (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18196,8 +18196,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358556/plitki-spb/509441201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358556/plitki-spb/509441201.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO SETA 72,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO SETA 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18231,8 +18231,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358574/plitki-spb/509451101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358574/plitki-spb/509451101.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO BEIGE 72,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO BEIGE 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18265,8 +18265,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358590/plitki-spb/509461101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358590/plitki-spb/509461101.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO CASUAL 72,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO CASUAL 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18300,8 +18300,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358608/plitki-spb/509481101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358608/plitki-spb/509481101.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO MOSAICO 72,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO MOSAICO 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18334,8 +18334,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358627/plitki-spb/509471101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358627/plitki-spb/509471101.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO ORIGINALE 72,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO ORIGINALE 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18352,8 +18352,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 30.75,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356733/plitki-spb/508473001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356733/plitki-spb/508473001.webp"],
   description: "Плитка 42*42 ROMANICO BEIGE 63,96 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 42х42 см. Купить Плитка 42*42 ROMANICO BEIGE 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18387,8 +18387,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358654/plitki-spb/509551201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358654/plitki-spb/509551201.webp"],
   description: "Плитка 20,1*50,5 CALACATTA IVORI  72,96 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALACATTA IVORI  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18423,8 +18423,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 4.15,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358672/plitki-spb/509561101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358672/plitki-spb/509561101.webp"],
   description: "Плитка 20,1*50,5 CALACATTA IVORI FORMA 72,96 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALACATTA IVORI FORMA 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18459,8 +18459,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 9.32,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358690/plitki-spb/509571101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358690/plitki-spb/509571101.webp"],
   description: "Плитка 20,1*50,5 WOOD 72,96 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 WOOD 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18493,8 +18493,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773356368/plitki-spb/507913001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773356368/plitki-spb/507913001.webp"],
   description: "Плитка 42*42  CALACATTA ROYAL 63,96 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 42х42 см. Купить Плитка 42*42  CALACATTA ROYAL 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18511,8 +18511,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 21.6,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp"],
   description: "Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18703,8 +18703,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358126/plitki-spb/848803101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358126/plitki-spb/848803101.webp"],
   description: "Керамогранит R 60*60 ALPI 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 ALPI 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18720,8 +18720,8 @@ export const importedProducts: any[] = [
   price_retail: 312,
   price_official: 390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358797/plitki-spb/587891001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358797/plitki-spb/587891001.webp"],
   description: "Бордюр 50,5*6,2 SONNET BEIGE FLOWER 42шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 SONNET BEIGE FLOWER 42шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18737,8 +18737,8 @@ export const importedProducts: any[] = [
   price_retail: 312,
   price_official: 390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358809/plitki-spb/587891002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358809/plitki-spb/587891002.webp"],
   description: "Бордюр 50,5*6,2 SONNET BEIGE GEOMETRIA 42шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 SONNET BEIGE GEOMETRIA 42шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18754,8 +18754,8 @@ export const importedProducts: any[] = [
   price_retail: 312,
   price_official: 390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358821/plitki-spb/587901001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358821/plitki-spb/587901001.webp"],
   description: "Бордюр 50,5*6,2 SONNET GREY FLOWER 42шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 SONNET GREY FLOWER 42шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18771,8 +18771,8 @@ export const importedProducts: any[] = [
   price_retail: 312,
   price_official: 390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358832/plitki-spb/587901002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358832/plitki-spb/587901002.webp"],
   description: "Бордюр 50,5*6,2 SONNET GREY GEOMETRIA 42шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 SONNET GREY GEOMETRIA 42шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18788,8 +18788,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358843/plitki-spb/587892001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358843/plitki-spb/587892001.webp"],
   description: "Декор 20,1*50,5 SONNET BEIGE FLOWER 13 шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 SONNET BEIGE FLOWER 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18805,8 +18805,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358854/plitki-spb/587892002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358854/plitki-spb/587892002.webp"],
   description: "Декор 20,1*50,5 SONNET BEIGE GEOMETRIA 13 шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 SONNET BEIGE GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18822,8 +18822,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358865/plitki-spb/587902001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358865/plitki-spb/587902001.webp"],
   description: "Декор 20,1*50,5 SONNET GREY FLOWER 13 шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 SONNET GREY FLOWER 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18839,8 +18839,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358876/plitki-spb/587902002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358876/plitki-spb/587902002.webp"],
   description: "Декор 20,1*50,5 SONNET GREY GEOMETRIA 13 шт 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 SONNET GREY GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18856,8 +18856,8 @@ export const importedProducts: any[] = [
   price_retail: 791,
   price_official: 989,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358887/plitki-spb/508061201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358887/plitki-spb/508061201.webp"],
   description: "Плитка 20,1*50,5 SONNET LATTE 72,96кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 SONNET LATTE 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18873,8 +18873,8 @@ export const importedProducts: any[] = [
   price_retail: 791,
   price_official: 989,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358898/plitki-spb/507891101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358898/plitki-spb/507891101.webp"],
   description: "Плитка 20,1*50,5 SONNET BEIGE 72.96кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 SONNET BEIGE 72.96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18890,8 +18890,8 @@ export const importedProducts: any[] = [
   price_retail: 791,
   price_official: 989,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358909/plitki-spb/507901101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358909/plitki-spb/507901101.webp"],
   description: "Плитка 20,1*50,5 SONNET GREY 72.96кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 SONNET GREY 72.96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18907,8 +18907,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358921/plitki-spb/507893002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358921/plitki-spb/507893002.webp"],
   description: "Плитка 42*42 SONNET BEIGE 63,96 кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 42х42 см. Купить Плитка 42*42 SONNET BEIGE 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18924,8 +18924,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358932/plitki-spb/507903002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358932/plitki-spb/507903002.webp"],
   description: "Плитка 42*42 SONNET GREY 63,96 кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 42х42 см. Купить Плитка 42*42 SONNET GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18941,8 +18941,8 @@ export const importedProducts: any[] = [
   price_retail: 776,
   price_official: 970,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358942/plitki-spb/507893001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358942/plitki-spb/507893001.webp"],
   description: "Плитка 33,3*33,3  SONNET BEIGE 63,84 кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3  SONNET BEIGE 63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18958,8 +18958,8 @@ export const importedProducts: any[] = [
   price_retail: 776,
   price_official: 970,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358953/plitki-spb/507903001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358953/plitki-spb/507903001.webp"],
   description: "Плитка 33,3*33,3  SONNET GREY 63,84 кв.м 1с — керамическая плитка коллекции СОННЕТ от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3  SONNET GREY 63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19148,8 +19148,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359028/plitki-spb/505793002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359028/plitki-spb/505793002.webp"],
   description: "Плитка 42*42 ECLIPSE ORNAMENT 63,96кв.м  1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 42х42 см. Купить Плитка 42*42 ECLIPSE ORNAMENT 63,96кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19165,8 +19165,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359040/plitki-spb/505643002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359040/plitki-spb/505643002.webp"],
   description: "Плитка 42*42 ECLIPSE GREY 63,96кв.м  1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 42х42 см. Купить Плитка 42*42 ECLIPSE GREY 63,96кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19182,8 +19182,8 @@ export const importedProducts: any[] = [
   price_retail: 161,
   price_official: 201,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359052/plitki-spb/588271003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359052/plitki-spb/588271003.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE LIANA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE LIANA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19199,8 +19199,8 @@ export const importedProducts: any[] = [
   price_retail: 695,
   price_official: 869,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359064/plitki-spb/588272003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359064/plitki-spb/588272003.webp"],
   description: "Панно 50,5*40,2 LOUNGE LIANA (2 шт) - 6 комл 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х40,2 см. Купить Панно 50,5*40,2 LOUNGE LIANA (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19216,8 +19216,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359076/plitki-spb/588281001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359076/plitki-spb/588281001.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE BLOSSOM GEOMETRIA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE BLOSSOM GEOMETRIA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19233,8 +19233,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359088/plitki-spb/588281002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359088/plitki-spb/588281002.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE BLOSSOM LINEA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE BLOSSOM LINEA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19250,8 +19250,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359099/plitki-spb/588271001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359099/plitki-spb/588271001.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE LIGHT GEOMETRIA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE LIGHT GEOMETRIA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19267,8 +19267,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359110/plitki-spb/588271002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359110/plitki-spb/588271002.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE LIGHT LINEA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE LIGHT LINEA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19284,8 +19284,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359122/plitki-spb/588301001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359122/plitki-spb/588301001.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE MINT GEOMETRIA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE MINT GEOMETRIA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19301,8 +19301,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359134/plitki-spb/588301002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359134/plitki-spb/588301002.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE MINT LINEA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE MINT LINEA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19318,8 +19318,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359146/plitki-spb/588291001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359146/plitki-spb/588291001.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE MIST GEOMETRIA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE MIST GEOMETRIA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19335,8 +19335,8 @@ export const importedProducts: any[] = [
   price_retail: 182,
   price_official: 227,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359157/plitki-spb/588291002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359157/plitki-spb/588291002.webp"],
   description: "Бордюр 50,5*6,2 LOUNGE MIST LINEA 42 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 LOUNGE MIST LINEA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19352,8 +19352,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359169/plitki-spb/588282002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359169/plitki-spb/588282002.webp"],
   description: "Декор 20,1*50,5 LOUNGE BLOSSOM GEOMETRIA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE BLOSSOM GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19369,8 +19369,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359181/plitki-spb/588272002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359181/plitki-spb/588272002.webp"],
   description: "Декор 20,1*50,5 LOUNGE LIGHT GEOMETRIA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE LIGHT GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19386,8 +19386,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359192/plitki-spb/588272001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359192/plitki-spb/588272001.webp"],
   description: "Декор 20,1*50,5 LOUNGE LIGHT LINEA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE LIGHT LINEA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19403,8 +19403,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359204/plitki-spb/588302002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359204/plitki-spb/588302002.webp"],
   description: "Декор 20,1*50,5 LOUNGE MINT GEOMETRIA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE MINT GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19420,8 +19420,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359216/plitki-spb/588292002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359216/plitki-spb/588292002.webp"],
   description: "Декор 20,1*50,5 LOUNGE MIST GEOMETRIA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE MIST GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19437,8 +19437,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359227/plitki-spb/588282001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359227/plitki-spb/588282001.webp"],
   description: "Декор 20,1*50,5 LOUNGE BLOSSOM LINEA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE BLOSSOM LINEA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19454,8 +19454,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359239/plitki-spb/588302001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359239/plitki-spb/588302001.webp"],
   description: "Декор 20,1*50,5 LOUNGE MINT LINEA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE MINT LINEA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19471,8 +19471,8 @@ export const importedProducts: any[] = [
   price_retail: 363,
   price_official: 454,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359250/plitki-spb/588292001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359250/plitki-spb/588292001.webp"],
   description: "Декор 20,1*50,5 LOUNGE MIST LINEA 13 шт 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 LOUNGE MIST LINEA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19488,8 +19488,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359261/plitki-spb/508271201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359261/plitki-spb/508271201.webp"],
   description: "Плитка 20,1*50,5 LOUNGE LIGHT  72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE LIGHT  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19505,8 +19505,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359273/plitki-spb/508281101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359273/plitki-spb/508281101.webp"],
   description: "Плитка 20,1*50,5 LOUNGE BLOSSOM  72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE BLOSSOM  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19522,8 +19522,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359283/plitki-spb/508311101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359283/plitki-spb/508311101.webp"],
   description: "Плитка 20,1*50,5 LOUNGE BLOSSOM OASIS   72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE BLOSSOM OASIS   72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19539,8 +19539,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359294/plitki-spb/508301101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359294/plitki-spb/508301101.webp"],
   description: "Плитка 20,1*50,5 LOUNGE MINT 72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE MINT 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19573,8 +19573,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359312/plitki-spb/508331101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359312/plitki-spb/508331101.webp"],
   description: "Плитка 20,1*50,5 LOUNGE MINT OASIS 72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE MINT OASIS 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19590,8 +19590,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359323/plitki-spb/508291101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359323/plitki-spb/508291101.webp"],
   description: "Плитка 20,1*50,5 LOUNGE MIST  72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE MIST  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19607,8 +19607,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359334/plitki-spb/508321101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359334/plitki-spb/508321101.webp"],
   description: "Плитка 20,1*50,5 LOUNGE MIST OASIS  72,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE MIST OASIS  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19624,8 +19624,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359345/plitki-spb/508283001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359345/plitki-spb/508283001.webp"],
   description: "Плитка 42*42 LOUNGE BLOSSOM  63,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 42х42 см. Купить Плитка 42*42 LOUNGE BLOSSOM  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19641,8 +19641,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359355/plitki-spb/508303001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359355/plitki-spb/508303001.webp"],
   description: "Плитка 42*42 LOUNGE MINT  63,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 42х42 см. Купить Плитка 42*42 LOUNGE MINT  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19658,8 +19658,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359366/plitki-spb/508293001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359366/plitki-spb/508293001.webp"],
   description: "Плитка 42*42 LOUNGE MIST  63,96 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 42х42 см. Купить Плитка 42*42 LOUNGE MIST  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19811,8 +19811,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359429/plitki-spb/506353002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359429/plitki-spb/506353002.webp"],
   description: "Плитка 42*42 MACBETH GREY 63,96 кв.м 1с — керамическая плитка коллекции МАКБЕТ от Азори. Размер 42х42 см. Купить Плитка 42*42 MACBETH GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19998,8 +19998,8 @@ export const importedProducts: any[] = [
   price_retail: 387,
   price_official: 484,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359503/plitki-spb/707423011.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359503/plitki-spb/707423011.webp"],
   description: "Мозаика 30*30 RIVIERA AR-135 22шт — мозаика коллекции РИВЬЕРА от Азори. Размер 30х30 см. Купить Мозаика 30*30 RIVIERA AR-135 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20015,8 +20015,8 @@ export const importedProducts: any[] = [
   price_retail: 387,
   price_official: 484,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359515/plitki-spb/587423007.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359515/plitki-spb/587423007.webp"],
   description: "Мозаика 30*30 RIVIERA 22шт — мозаика коллекции РИВЬЕРА от Азори. Размер 30х30 см. Купить Мозаика 30*30 RIVIERA 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20083,8 +20083,8 @@ export const importedProducts: any[] = [
   price_retail: 663,
   price_official: 829,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359545/plitki-spb/506393002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359545/plitki-spb/506393002.webp"],
   description: "Плитка 42*42 RIVIERA MIST 63,96 кв.м 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Размер 42х42 см. Купить Плитка 42*42 RIVIERA MIST 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20100,8 +20100,8 @@ export const importedProducts: any[] = [
   price_retail: 350,
   price_official: 437,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359556/plitki-spb/583241001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359556/plitki-spb/583241001.webp"],
   description: "Бордюр 50.5*6.2 SFUMATO GREY FLORET 39 шт 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50.5*6.2 SFUMATO GREY FLORET 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20168,8 +20168,8 @@ export const importedProducts: any[] = [
   price_retail: 472,
   price_official: 590,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359584/plitki-spb/583242005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359584/plitki-spb/583242005.webp"],
   description: "Декор 20,1*50,5 SFUMATO GREY VISTAS 2 13 шт 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 SFUMATO GREY VISTAS 2 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20270,8 +20270,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359631/plitki-spb/583012011.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359631/plitki-spb/583012011.webp"],
   description: "Декор 40,5*20,1 VOGUE Breakfast 1 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Breakfast 1 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20287,8 +20287,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359644/plitki-spb/583012012.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359644/plitki-spb/583012012.webp"],
   description: "Декор 40,5*20,1 VOGUE Breakfast 2 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Breakfast 2 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20304,8 +20304,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359657/plitki-spb/583012013.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359657/plitki-spb/583012013.webp"],
   description: "Декор 40,5*20,1 VOGUE Breakfast 3 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Breakfast 3 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20321,8 +20321,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359670/plitki-spb/583012014.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359670/plitki-spb/583012014.webp"],
   description: "Декор 40,5*20,1 VOGUE Breakfast 4 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Breakfast 4 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20338,8 +20338,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359683/plitki-spb/583012019.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359683/plitki-spb/583012019.webp"],
   description: "Декор 40,5*20,1 VOGUE Morning 1 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Morning 1 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20355,8 +20355,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359696/plitki-spb/583012020.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359696/plitki-spb/583012020.webp"],
   description: "Декор 40,5*20,1 VOGUE Morning 2 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Morning 2 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20372,8 +20372,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359709/plitki-spb/583012021.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359709/plitki-spb/583012021.webp"],
   description: "Декор 40,5*20,1 VOGUE Morning 3 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Morning 3 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20389,8 +20389,8 @@ export const importedProducts: any[] = [
   price_retail: 480,
   price_official: 600,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359722/plitki-spb/583012022.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359722/plitki-spb/583012022.webp"],
   description: "Декор 40,5*20,1 VOGUE Morning 4 13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 VOGUE Morning 4 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20542,8 +20542,8 @@ export const importedProducts: any[] = [
   price_retail: 960,
   price_official: 1200,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359783/plitki-spb/583012023.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359783/plitki-spb/583012023.webp"],
   description: "Панно 40,5*40,2 VOGUE Citrus 1 (2 шт) - 6комл 1с — керамическая плитка коллекции ВОГ от Азори. Размер 40,5х40,2 см. Купить Панно 40,5*40,2 VOGUE Citrus 1 (2 шт) - 6комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20559,8 +20559,8 @@ export const importedProducts: any[] = [
   price_retail: 960,
   price_official: 1200,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359802/plitki-spb/583012024.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359802/plitki-spb/583012024.webp"],
   description: "Панно 40,5*40,2 VOGUE Citrus 2 (2 шт) - 6комл 1с — керамическая плитка коллекции ВОГ от Азори. Размер 40,5х40,2 см. Купить Панно 40,5*40,2 VOGUE Citrus 2 (2 шт) - 6комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20738,8 +20738,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 45.51,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359867/plitki-spb/503203003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359867/plitki-spb/503203003.webp"],
   description: "Плитка 42*42 CHATEAU GREY 63,96кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 CHATEAU GREY 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20756,8 +20756,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 2.64,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359879/plitki-spb/503193003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359879/plitki-spb/503193003.webp"],
   description: "Плитка 42*42 CHATEAU MOCCA 63,96кв.м 1с — керамическая плитка коллекции ГРАЦИЯ от Азори. Размер 42х42 см. Купить Плитка 42*42 CHATEAU MOCCA 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20807,8 +20807,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359904/plitki-spb/587423009.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359904/plitki-spb/587423009.webp"],
   description: "Мозаика 30*30 ДЕФИЛЕ НЕРО 22шт — мозаика коллекции ДЕФИЛЕ от Азори. Размер 30х30 см. Купить Мозаика 30*30 ДЕФИЛЕ НЕРО 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20858,8 +20858,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359927/plitki-spb/502203002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359927/plitki-spb/502203002.webp"],
   description: "Плитка 42*42 ДЕФИЛЕ НЕРО 63,96кв.м 1с — керамическая плитка коллекции ДЕФИЛЕ от Азори. Размер 42х42 см. Купить Плитка 42*42 ДЕФИЛЕ НЕРО 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20876,8 +20876,8 @@ export const importedProducts: any[] = [
   price_official: 485,
   stock_yanino: 4.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359940/plitki-spb/589632001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359940/plitki-spb/589632001.webp"],
   description: "Декор 20,1*40.5 STARСK MOSAICO 1 13 шт 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Декор 20,1*40.5 STARСK MOSAICO 1 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20894,8 +20894,8 @@ export const importedProducts: any[] = [
   price_official: 485,
   stock_yanino: 14.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359952/plitki-spb/589632002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359952/plitki-spb/589632002.webp"],
   description: "Декор 20,1*40.5 STARСK MOSAICO 2 13 шт 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Декор 20,1*40.5 STARСK MOSAICO 2 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20911,8 +20911,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359964/plitki-spb/509631201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359964/plitki-spb/509631201.webp"],
   description: "Плитка 20,1*40,5 STARCK LIGHT  65,88 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 STARCK LIGHT  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20947,8 +20947,8 @@ export const importedProducts: any[] = [
   price_official: 895,
   stock_yanino: 0.66,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359982/plitki-spb/509641101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359982/plitki-spb/509641101.webp"],
   description: "Плитка 20,1*40,5 STARCK GREY  65,88 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 STARCK GREY  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20983,8 +20983,8 @@ export const importedProducts: any[] = [
   price_official: 895,
   stock_yanino: 0.89,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360002/plitki-spb/509651101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360002/plitki-spb/509651101.webp"],
   description: "Плитка 20,1*40,5 STARCK TESSERA 1  65,88 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 STARCK TESSERA 1  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21000,8 +21000,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360014/plitki-spb/509661101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360014/plitki-spb/509661101.webp"],
   description: "Плитка 20,1*40,5 STARCK TESSERA 2  65,88 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 STARCK TESSERA 2  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21017,8 +21017,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773357258/plitki-spb/507973003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773357258/plitki-spb/507973003.webp"],
   description: "Плитка 42*42  GRUNGE  GREY 63,96 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 42х42 см. Купить Плитка 42*42  GRUNGE  GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21154,8 +21154,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360081/plitki-spb/587423008.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360081/plitki-spb/587423008.webp"],
   description: "Мозаика 30*30 ЭЛАРА ВЕРДЕ 22шт — мозаика коллекции ЭЛАРА от Азори. Размер 30х30 см. Купить Мозаика 30*30 ЭЛАРА ВЕРДЕ 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21205,8 +21205,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360105/plitki-spb/503963002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360105/plitki-spb/503963002.webp"],
   description: "Плитка 42*42 ЭЛАРА ВЕРДЕ  63,96 кв.м 1с — керамическая плитка коллекции ЭЛАРА от Азори. Размер 42х42 см. Купить Плитка 42*42 ЭЛАРА ВЕРДЕ  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21328,8 +21328,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773358126/plitki-spb/848803101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773358126/plitki-spb/848803101.webp"],
   description: "Керамогранит R 60*60 ALPI 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 ALPI 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21346,8 +21346,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 21.6,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773355715/plitki-spb/847913101.webp"],
   description: "Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 CALACATTA ROYAL 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21603,8 +21603,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360266/plitki-spb/506263002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360266/plitki-spb/506263002.webp"],
   description: "Плитка 42*42 VERDE универсальная  63,96кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 VERDE универсальная  63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21705,8 +21705,8 @@ export const importedProducts: any[] = [
   price_retail: 304,
   price_official: 380,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360314/plitki-spb/837441002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360314/plitki-spb/837441002.webp"],
   description: "Бордюр 2*50,5 STAINLESS STEEL SILVER MATTE 24 шт 1с — керамическая плитка коллекции Универсальные бордюры от Азори. Размер 2х50,5 см. Купить Бордюр 2*50,5 STAINLESS STEEL SILVER MATTE 24 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21722,8 +21722,8 @@ export const importedProducts: any[] = [
   price_retail: 296,
   price_official: 370,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360324/plitki-spb/837441003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360324/plitki-spb/837441003.webp"],
   description: "Бордюр 1,2*63 STAINLESS STEEL SILVER MATTE 40 шт 1с — керамическая плитка коллекции Универсальные бордюры от Азори. Размер 1,2х63,0 см. Купить Бордюр 1,2*63 STAINLESS STEEL SILVER MATTE 40 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21739,8 +21739,8 @@ export const importedProducts: any[] = [
   price_retail: 368,
   price_official: 460,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360335/plitki-spb/837441004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360335/plitki-spb/837441004.webp"],
   description: "Бордюр 2*63 STAINLESS STEEL SILVER MATTE 24 шт 1с — керамическая плитка коллекции Универсальные бордюры от Азори. Размер 2х63,0 см. Купить Бордюр 2*63 STAINLESS STEEL SILVER MATTE 24 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21756,8 +21756,8 @@ export const importedProducts: any[] = [
   price_retail: 152,
   price_official: 190,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360346/plitki-spb/807441001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360346/plitki-spb/807441001.webp"],
   description: "Бордюр 1,2*50,5 алюминий матовый 40 шт 1с — керамическая плитка коллекции Универсальные бордюры от Азори. Размер 1,2х50,5 см. Купить Бордюр 1,2*50,5 алюминий матовый 40 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21773,8 +21773,8 @@ export const importedProducts: any[] = [
   price_retail: 200,
   price_official: 250,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360356/plitki-spb/807441005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360356/plitki-spb/807441005.webp"],
   description: "Бордюр 2,2*50,5 алюминий матовый 40 шт 1с — керамическая плитка коллекции Универсальные бордюры от Азори. Размер 2,2х50,5 см. Купить Бордюр 2,2*50,5 алюминий матовый 40 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21790,8 +21790,8 @@ export const importedProducts: any[] = [
   price_retail: 184,
   price_official: 230,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360367/plitki-spb/807441002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360367/plitki-spb/807441002.webp"],
   description: "Бордюр 1,2*63 алюминий матовый 40 шт 1с — керамическая плитка коллекции Универсальные бордюры от Азори. Размер 1,2х63,0 см. Купить Бордюр 1,2*63 алюминий матовый 40 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21841,8 +21841,8 @@ export const importedProducts: any[] = [
   price_retail: 388,
   price_official: 485,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360393/plitki-spb/588011002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360393/plitki-spb/588011002.webp"],
   description: "Комплект бордюров 121,5*6,2 AZOLLA (3 шт)- 13 комл 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 121,5х6,2 см. Купить Комплект бордюров 121,5*6,2 AZOLLA (3 шт)- 13 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21858,8 +21858,8 @@ export const importedProducts: any[] = [
   price_retail: 130,
   price_official: 162,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360405/plitki-spb/588011001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360405/plitki-spb/588011001.webp"],
   description: "Бордюр 40,5*6,2 AZOLLA GEOMETRIA 39 шт 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 40,5х6,2 см. Купить Бордюр 40,5*6,2 AZOLLA GEOMETRIA 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21875,8 +21875,8 @@ export const importedProducts: any[] = [
   price_retail: 214,
   price_official: 268,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360416/plitki-spb/588012002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360416/plitki-spb/588012002.webp"],
   description: "Декор 20,1*40,5 AZOLLA 1 13 шт 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Декор 20,1*40,5 AZOLLA 1 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21892,8 +21892,8 @@ export const importedProducts: any[] = [
   price_retail: 214,
   price_official: 268,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360427/plitki-spb/588012003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360427/plitki-spb/588012003.webp"],
   description: "Декор 20,1*40,5 AZOLLA 2 13 шт 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Декор 20,1*40,5 AZOLLA 2 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21909,8 +21909,8 @@ export const importedProducts: any[] = [
   price_retail: 214,
   price_official: 268,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360439/plitki-spb/588012004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360439/plitki-spb/588012004.webp"],
   description: "Декор 20,1*40,5 AZOLLA 3 13 шт 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Декор 20,1*40,5 AZOLLA 3 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21926,8 +21926,8 @@ export const importedProducts: any[] = [
   price_retail: 214,
   price_official: 268,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360451/plitki-spb/588012001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360451/plitki-spb/588012001.webp"],
   description: "Декор 20,1*40,5 AZOLLA GEOMETRIA 13 шт 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Декор 20,1*40,5 AZOLLA GEOMETRIA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21943,8 +21943,8 @@ export const importedProducts: any[] = [
   price_retail: 690,
   price_official: 862,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360462/plitki-spb/508011201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360462/plitki-spb/508011201.webp"],
   description: "Плитка 20,1*40,5 AZOLLA LIGHT  65,88 кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 AZOLLA LIGHT  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21960,8 +21960,8 @@ export const importedProducts: any[] = [
   price_retail: 482,
   price_official: 603,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360473/plitki-spb/508031101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360473/plitki-spb/508031101.webp"],
   description: "Плитка 20,1*40,5 AZOLLA BLUE  65,88 кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 AZOLLA BLUE  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21977,8 +21977,8 @@ export const importedProducts: any[] = [
   price_retail: 482,
   price_official: 603,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360482/plitki-spb/508041101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360482/plitki-spb/508041101.webp"],
   description: "Плитка 20,1*40,5 AZOLLA GREY  65,88 кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 AZOLLA GREY  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21994,8 +21994,8 @@ export const importedProducts: any[] = [
   price_retail: 482,
   price_official: 603,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360493/plitki-spb/508021101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360493/plitki-spb/508021101.webp"],
   description: "Плитка 20,1*40,5 AZOLLA MOCCA  65,88 кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 AZOLLA MOCCA  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22011,8 +22011,8 @@ export const importedProducts: any[] = [
   price_retail: 482,
   price_official: 603,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360503/plitki-spb/508051101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360503/plitki-spb/508051101.webp"],
   description: "Плитка 20,1*40,5 AZOLLA VERDE  65,88 кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 AZOLLA VERDE  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22028,8 +22028,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360266/plitki-spb/506263002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360266/plitki-spb/506263002.webp"],
   description: "Плитка 42*42 VERDE универсальная  63,96кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 VERDE универсальная  63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22046,8 +22046,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 45.51,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773359867/plitki-spb/503203003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773359867/plitki-spb/503203003.webp"],
   description: "Плитка 42*42 CHATEAU GREY 63,96кв.м 1с — керамическая плитка коллекции АЗОЛЛА от Азори. Размер 42х42 см. Купить Плитка 42*42 CHATEAU GREY 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22183,8 +22183,8 @@ export const importedProducts: any[] = [
   price_retail: 519,
   price_official: 649,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360572/plitki-spb/503013002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360572/plitki-spb/503013002.webp"],
   description: "Плитка 33,3*33,3 ВОГ ПАЗЛ 63,84кв.м 1с — керамическая плитка коллекции ВОГ от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 ВОГ ПАЗЛ 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22200,8 +22200,8 @@ export const importedProducts: any[] = [
   price_retail: 20,
   price_official: 25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360584/plitki-spb/583252001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360584/plitki-spb/583252001.webp"],
   description: "Декор 40,5*20,1 ВОГ БЕЖ Каре Лайт  13шт 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 ВОГ БЕЖ Каре Лайт  13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22557,8 +22557,8 @@ export const importedProducts: any[] = [
   price_retail: 519,
   price_official: 649,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360727/plitki-spb/503963001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360727/plitki-spb/503963001.webp"],
   description: "Плитка 33,3*33,3 ЭЛАРА ВЕРДЕ  63,84 кв.м 1с — керамическая плитка коллекции ЭЛАРА от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 ЭЛАРА ВЕРДЕ  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22625,8 +22625,8 @@ export const importedProducts: any[] = [
   price_retail: 159,
   price_official: 199,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360757/plitki-spb/502821201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360757/plitki-spb/502821201.webp"],
   description: "Плитка 20,1*50,5 AVELLANO LIGHT  72,96 кв.м 1с — керамическая плитка коллекции АВЕЛЛАНО ЛАЙТ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 AVELLANO LIGHT  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23033,8 +23033,8 @@ export const importedProducts: any[] = [
   price_retail: 519,
   price_official: 649,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360911/plitki-spb/507073001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360911/plitki-spb/507073001.webp"],
   description: "Плитка 33,3*33,3 VELA CARMIN  63,84 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 VELA CARMIN  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23067,8 +23067,8 @@ export const importedProducts: any[] = [
   price_retail: 519,
   price_official: 649,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360930/plitki-spb/507113001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360930/plitki-spb/507113001.webp"],
   description: "Плитка 33,3*33,3 VELA NERO  63,84 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 VELA NERO  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23203,8 +23203,8 @@ export const importedProducts: any[] = [
   price_retail: 20,
   price_official: 25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360984/plitki-spb/583311001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360984/plitki-spb/583311001.webp"],
   description: "Бордюр 50,5*6.2 CALIZA BEIGE MARE 39 шт 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6.2 CALIZA BEIGE MARE 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23220,8 +23220,8 @@ export const importedProducts: any[] = [
   price_retail: 40,
   price_official: 50,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773360994/plitki-spb/583312002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773360994/plitki-spb/583312002.webp"],
   description: "Декор 20,1*50,5 CALIZA BEIGE MARE 1 13 шт 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CALIZA BEIGE MARE 1 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23237,8 +23237,8 @@ export const importedProducts: any[] = [
   price_retail: 40,
   price_official: 50,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361005/plitki-spb/583312003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361005/plitki-spb/583312003.webp"],
   description: "Декор 20,1*50,5 CALIZA BEIGE MARE 2 13 шт 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CALIZA BEIGE MARE 2 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23254,8 +23254,8 @@ export const importedProducts: any[] = [
   price_retail: 40,
   price_official: 50,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361015/plitki-spb/583312004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361015/plitki-spb/583312004.webp"],
   description: "Декор 20,1*50,5 CALIZA BEIGE MARE 3 13 шт 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CALIZA BEIGE MARE 3 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23271,8 +23271,8 @@ export const importedProducts: any[] = [
   price_retail: 120,
   price_official: 150,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361026/plitki-spb/583312001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361026/plitki-spb/583312001.webp"],
   description: "Панно 50,5*60,3  CALIZA BEIGE ARENA  (3 шт) - 4 комл 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 50,5х60,3 см. Купить Панно 50,5*60,3  CALIZA BEIGE ARENA  (3 шт) - 4 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23305,8 +23305,8 @@ export const importedProducts: any[] = [
   price_retail: 199,
   price_official: 249,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361044/plitki-spb/503311101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361044/plitki-spb/503311101.webp"],
   description: "Плитка 20,1*50,5 CALIZA BEIGE  72,96 кв.м 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALIZA BEIGE  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23322,8 +23322,8 @@ export const importedProducts: any[] = [
   price_retail: 199,
   price_official: 249,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361054/plitki-spb/503313001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361054/plitki-spb/503313001.webp"],
   description: "Плитка 33,3*33,3 CALIZA BEIGE  63,84 кв.м 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 CALIZA BEIGE  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23730,8 +23730,8 @@ export const importedProducts: any[] = [
   price_retail: 519,
   price_official: 649,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361209/plitki-spb/506393001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361209/plitki-spb/506393001.webp"],
   description: "Плитка 33,3*33,3 RIVIERA MIST 63,84 кв.м 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 RIVIERA MIST 63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24376,8 +24376,8 @@ export const importedProducts: any[] = [
   price_retail: 519,
   price_official: 649,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361449/plitki-spb/505613001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361449/plitki-spb/505613001.webp"],
   description: "Плитка 33,3*33,3 ECLIPSE INDIGO 63,84кв.м  1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 33,3х33,3 см. Купить Плитка 33,3*33,3 ECLIPSE INDIGO 63,84кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24682,8 +24682,8 @@ export const importedProducts: any[] = [
   price_retail: 234,
   price_official: 293,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361565/plitki-spb/582551001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361565/plitki-spb/582551001.webp"],
   description: "Бордюр 40,5*5 КАМЛОТ ИНДИГО крэш 65шт 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Размер 40,5х5 см. Купить Бордюр 40,5*5 КАМЛОТ ИНДИГО крэш 65шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24699,8 +24699,8 @@ export const importedProducts: any[] = [
   price_retail: 234,
   price_official: 293,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361577/plitki-spb/582551004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361577/plitki-spb/582551004.webp"],
   description: "Бордюр 40,5*5 КАМЛОТ ИНДИГО эйша 65шт 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Размер 40,5х5 см. Купить Бордюр 40,5*5 КАМЛОТ ИНДИГО эйша 65шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24716,8 +24716,8 @@ export const importedProducts: any[] = [
   price_retail: 234,
   price_official: 293,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361589/plitki-spb/582551002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361589/plitki-spb/582551002.webp"],
   description: "Бордюр 40,5*8 КАМЛОТ ИНДИГО крэш 39 шт 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Размер 40,5х8 см. Купить Бордюр 40,5*8 КАМЛОТ ИНДИГО крэш 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24750,8 +24750,8 @@ export const importedProducts: any[] = [
   price_retail: 288,
   price_official: 360,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361605/plitki-spb/582552002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361605/plitki-spb/582552002.webp"],
   description: "Декор 40,5*27,8 КАМЛОТ ИНДИГО эйша 13 шт 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Размер 27,8х40,5 см. Купить Декор 40,5*27,8 КАМЛОТ ИНДИГО эйша 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24869,8 +24869,8 @@ export const importedProducts: any[] = [
   price_retail: 152,
   price_official: 190,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361655/plitki-spb/582541002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361655/plitki-spb/582541002.webp"],
   description: "Бордюр 40,5*8 КАМЛОТ МОККА крэш 39 шт 1с — керамическая плитка коллекции КАМЛОТ МОККА от Азори. Размер 40,5х8 см. Купить Бордюр 40,5*8 КАМЛОТ МОККА крэш 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25005,8 +25005,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361710/plitki-spb/581221101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361710/plitki-spb/581221101.webp"],
   description: "Бордюр 27,8*9 ОРИГАМИ-лиана 56шт 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Размер 27,8х9 см. Купить Бордюр 27,8*9 ОРИГАМИ-лиана 56шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25056,8 +25056,8 @@ export const importedProducts: any[] = [
   price_retail: 20,
   price_official: 25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361734/plitki-spb/581221201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361734/plitki-spb/581221201.webp"],
   description: "Декор 40,5*27,8 ОРИГАМИ-лиана 13шт 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Размер 27,8х40,5 см. Купить Декор 40,5*27,8 ОРИГАМИ-лиана 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25158,8 +25158,8 @@ export const importedProducts: any[] = [
   price_retail: 256,
   price_official: 320,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361775/plitki-spb/582902001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361775/plitki-spb/582902001.webp"],
   description: "Декор 40,5*27,8 САТТИ КРОШЕ 13шт 1с — керамическая плитка коллекции САТТИ от Азори. Размер 27,8х40,5 см. Купить Декор 40,5*27,8 САТТИ КРОШЕ 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25328,8 +25328,8 @@ export const importedProducts: any[] = [
   price_retail: 199,
   price_official: 249,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773361842/plitki-spb/501342111.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773361842/plitki-spb/501342111.webp"],
   description: "Плитка 40,5*27,8 ФЬЮЖН КОРАЛЛ 60.84кв.м 1с — керамическая плитка коллекции ФЬЮЖН от Азори. Размер 27,8х40,5 см. Купить Плитка 40,5*27,8 ФЬЮЖН КОРАЛЛ 60.84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42237,8 +42237,8 @@ export const importedProducts: any[] = [
   price_retail: 341,
   price_official: 426,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773367950/plitki-spb/Arabika.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773367950/plitki-spb/Arabika.webp"],
   description: "Arabika — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Arabika в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42254,8 +42254,8 @@ export const importedProducts: any[] = [
   price_retail: 371,
   price_official: 464,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773367959/plitki-spb/Arktika.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773367959/plitki-spb/Arktika.webp"],
   description: "Arktika — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Arktika в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42475,8 +42475,8 @@ export const importedProducts: any[] = [
   price_retail: 300,
   price_official: 375,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368048/plitki-spb/Azov.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368048/plitki-spb/Azov.webp"],
   description: "Azov — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Azov в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42730,8 +42730,8 @@ export const importedProducts: any[] = [
   price_retail: 350,
   price_official: 438,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368162/plitki-spb/Choko.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368162/plitki-spb/Choko.webp"],
   description: "Choko — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Choko в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42798,8 +42798,8 @@ export const importedProducts: any[] = [
   price_retail: 755,
   price_official: 944,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368196/plitki-spb/Dallas.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368196/plitki-spb/Dallas.webp"],
   description: "Dallas — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Dallas в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42866,8 +42866,8 @@ export const importedProducts: any[] = [
   price_retail: 220,
   price_official: 275,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368236/plitki-spb/Emily.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368236/plitki-spb/Emily.webp"],
   description: "Emily — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Emily в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42883,8 +42883,8 @@ export const importedProducts: any[] = [
   price_retail: 242,
   price_official: 303,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368251/plitki-spb/Energy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368251/plitki-spb/Energy.webp"],
   description: "Energy — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Energy в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42900,8 +42900,8 @@ export const importedProducts: any[] = [
   price_retail: 377,
   price_official: 471,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368266/plitki-spb/Flamingo.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368266/plitki-spb/Flamingo.webp"],
   description: "Flamingo — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Flamingo в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42934,8 +42934,8 @@ export const importedProducts: any[] = [
   price_retail: 257,
   price_official: 321,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368289/plitki-spb/Fresh.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368289/plitki-spb/Fresh.webp"],
   description: "Fresh — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Fresh в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42968,8 +42968,8 @@ export const importedProducts: any[] = [
   price_retail: 635,
   price_official: 794,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368307/plitki-spb/Galaxy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368307/plitki-spb/Galaxy.webp"],
   description: "Galaxy — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Galaxy в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -42985,8 +42985,8 @@ export const importedProducts: any[] = [
   price_retail: 635,
   price_official: 794,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368319/plitki-spb/Glossy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368319/plitki-spb/Glossy.webp"],
   description: "Glossy — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Glossy в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -43138,8 +43138,8 @@ export const importedProducts: any[] = [
   price_retail: 267,
   price_official: 334,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368387/plitki-spb/Lotus.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368387/plitki-spb/Lotus.webp"],
   description: "Lotus — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Lotus в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -43189,8 +43189,8 @@ export const importedProducts: any[] = [
   price_retail: 300,
   price_official: 375,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368410/plitki-spb/Marina.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368410/plitki-spb/Marina.webp"],
   description: "Marina — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Marina в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -43325,8 +43325,8 @@ export const importedProducts: any[] = [
   price_retail: 404,
   price_official: 505,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368475/plitki-spb/Ocean.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368475/plitki-spb/Ocean.webp"],
   description: "Ocean — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Ocean в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -43376,8 +43376,8 @@ export const importedProducts: any[] = [
   price_retail: 975,
   price_official: 1219,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368499/plitki-spb/Orion.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368499/plitki-spb/Orion.webp"],
   description: "Orion — керамическая плитка коллекции  от Бонапарт. Размер 315x290 см. Купить Orion в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -43512,8 +43512,8 @@ export const importedProducts: any[] = [
   price_retail: 314,
   price_official: 393,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368555/plitki-spb/Queen.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368555/plitki-spb/Queen.webp"],
   description: "Queen — керамическая плитка коллекции  от Бонапарт. Размер 327x327 см. Купить Queen в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -43920,8 +43920,8 @@ export const importedProducts: any[] = [
   price_retail: 1059,
   price_official: 1324,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368712/plitki-spb/Textill.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368712/plitki-spb/Textill.webp"],
   description: "Textill — керамическая плитка коллекции  от Бонапарт. Размер 305x306 см. Купить Textill в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -44090,8 +44090,8 @@ export const importedProducts: any[] = [
   price_retail: 991,
   price_official: 1239,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368785/plitki-spb/Fantasy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368785/plitki-spb/Fantasy.webp"],
   description: "Fantasy — керамическая плитка коллекции  от Бонапарт. Размер 306x306 см. Купить Fantasy в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -44209,8 +44209,8 @@ export const importedProducts: any[] = [
   price_retail: 794,
   price_official: 992,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368840/plitki-spb/Aspen.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368840/plitki-spb/Aspen.webp"],
   description: "Aspen — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Aspen в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -44260,8 +44260,8 @@ export const importedProducts: any[] = [
   price_retail: 832,
   price_official: 1040,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368872/plitki-spb/Morocco.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368872/plitki-spb/Morocco.webp"],
   description: "Morocco — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Morocco в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -44311,8 +44311,8 @@ export const importedProducts: any[] = [
   price_retail: 892,
   price_official: 1115,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368900/plitki-spb/Smoke.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368900/plitki-spb/Smoke.webp"],
   description: "Smoke — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Smoke в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -44328,8 +44328,8 @@ export const importedProducts: any[] = [
   price_retail: 945,
   price_official: 1181,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773368912/plitki-spb/Space.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773368912/plitki-spb/Space.webp"],
   description: "Space — керамическая плитка коллекции  от Бонапарт. Размер 300x300 см. Купить Space в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -45263,8 +45263,8 @@ export const importedProducts: any[] = [
   price_retail: 602,
   price_official: 752,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369279/plitki-spb/Dunes.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369279/plitki-spb/Dunes.webp"],
   description: "Dunes — керамическая плитка коллекции  от Бонапарт. Размер 305x305 см. Купить Dunes в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -45314,8 +45314,8 @@ export const importedProducts: any[] = [
   price_retail: 859,
   price_official: 1074,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369306/plitki-spb/Ferato.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369306/plitki-spb/Ferato.webp"],
   description: "Ferato — керамическая плитка коллекции  от Бонапарт. Размер 305x305 см. Купить Ferato в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -45637,8 +45637,8 @@ export const importedProducts: any[] = [
   price_retail: 695,
   price_official: 869,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369432/plitki-spb/Palermo.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369432/plitki-spb/Palermo.webp"],
   description: "Palermo — керамическая плитка коллекции  от Бонапарт. Размер 305x305 см. Купить Palermo в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -45875,8 +45875,8 @@ export const importedProducts: any[] = [
   price_retail: 706,
   price_official: 883,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369535/plitki-spb/Tibet.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369535/plitki-spb/Tibet.webp"],
   description: "Tibet — керамическая плитка коллекции  от Бонапарт. Размер 275x287 см. Купить Tibet в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -45909,8 +45909,8 @@ export const importedProducts: any[] = [
   price_retail: 703,
   price_official: 879,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369562/plitki-spb/Tokyo.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369562/plitki-spb/Tokyo.webp"],
   description: "Tokyo — керамическая плитка коллекции  от Бонапарт. Размер 305x305 см. Купить Tokyo в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46062,8 +46062,8 @@ export const importedProducts: any[] = [
   price_retail: 883,
   price_official: 1104,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369626/plitki-spb/Winter.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369626/plitki-spb/Winter.webp"],
   description: "Winter — керамическая плитка коллекции  от Бонапарт. Размер 305x305 см. Купить Winter в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46130,8 +46130,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Авеллано Бежевый от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46147,8 +46147,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369662/plitki-spb/______________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369662/plitki-spb/______________.webp"],
   description: "товарная программа — керамическая плитка коллекции Натура Дуб Серый от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46164,8 +46164,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369670/plitki-spb/____________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369670/plitki-spb/____________.webp"],
   description: "товарная программа — керамическая плитка коллекции Натура Дуб Серый от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46181,8 +46181,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369678/plitki-spb/_______________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369678/plitki-spb/_______________.webp"],
   description: "товарная программа — керамическая плитка коллекции Натура Пино от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46198,8 +46198,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369687/plitki-spb/________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369687/plitki-spb/________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Натура Цедро от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46215,8 +46215,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Натура Цедро от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46232,8 +46232,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Этно Вуд Серый от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46249,8 +46249,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Вуд Классик Бьянко от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46266,8 +46266,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369722/plitki-spb/_______________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369722/plitki-spb/_______________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Вуд Классик Бьянко от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46283,8 +46283,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369687/plitki-spb/________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369687/plitki-spb/________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Вуд Классик Олива от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46300,8 +46300,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369739/plitki-spb/__________________-_______.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369739/plitki-spb/__________________-_______.webp"],
   description: "товарная программа — керамическая плитка коллекции Вуд Классик Олива от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46317,8 +46317,8 @@ export const importedProducts: any[] = [
   price_retail: 1550,
   price_official: 1938,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369748/plitki-spb/_________________-__________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369748/plitki-spb/_________________-__________.webp"],
   description: "товарная программа — керамическая плитка коллекции Вуд Классик Олива от Идальго. Размер 1142.2250007490002 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46334,8 +46334,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369756/plitki-spb/___________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369756/plitki-spb/___________.webp"],
   description: "товарная программа — керамическая плитка коллекции Габриэлла Серый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46351,8 +46351,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369765/plitki-spb/_________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369765/plitki-spb/_________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Герда Натура Дарк от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46368,8 +46368,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369756/plitki-spb/___________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369756/plitki-spb/___________.webp"],
   description: "товарная программа — керамическая плитка коллекции Герда Натура Дарк от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46385,8 +46385,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369678/plitki-spb/_______________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369678/plitki-spb/_______________.webp"],
   description: "товарная программа — керамическая плитка коллекции Герда Карнавал от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46402,8 +46402,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369791/plitki-spb/__________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369791/plitki-spb/__________.webp"],
   description: "товарная программа — керамическая плитка коллекции Люссо Небиа от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46419,8 +46419,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369653/plitki-spb/___________________.webp"],
   description: "товарная программа — керамическая плитка коллекции Марта Серый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46436,8 +46436,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369807/plitki-spb/____________-_____.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369807/plitki-spb/____________-_____.webp"],
   description: "товарная программа — керамическая плитка коллекции Перла Серый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46453,8 +46453,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369670/plitki-spb/____________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369670/plitki-spb/____________.webp"],
   description: "товарная программа — керамическая плитка коллекции Перла Светло-Серый от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46470,8 +46470,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369824/plitki-spb/____________-_________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369824/plitki-spb/____________-_________.webp"],
   description: "товарная программа — керамическая плитка коллекции Перла Серый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46487,8 +46487,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369678/plitki-spb/_______________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369678/plitki-spb/_______________.webp"],
   description: "товарная программа — керамическая плитка коллекции Перла Серый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46504,8 +46504,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369842/plitki-spb/___________-_________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369842/plitki-spb/___________-_________.webp"],
   description: "товарная программа — керамическая плитка коллекции София Серый Антрацит от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -46827,8 +46827,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773369670/plitki-spb/____________.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773369670/plitki-spb/____________.webp"],
   description: "товарная программа — керамическая плитка коллекции Перла Светло-Серый от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47289,8 +47289,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370126/plitki-spb/588512001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370126/plitki-spb/588512001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47306,8 +47306,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370139/plitki-spb/508511201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370139/plitki-spb/508511201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47323,8 +47323,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370152/plitki-spb/508511101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370152/plitki-spb/508511101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47340,8 +47340,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370164/plitki-spb/509261101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370164/plitki-spb/509261101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47357,8 +47357,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370176/plitki-spb/509271101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370176/plitki-spb/509271101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47374,8 +47374,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370188/plitki-spb/508513001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370188/plitki-spb/508513001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция BASALT (Базáльт) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47391,8 +47391,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370200/plitki-spb/589132002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370200/plitki-spb/589132002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47408,8 +47408,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370213/plitki-spb/589132001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370213/plitki-spb/589132001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47425,8 +47425,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370225/plitki-spb/588143003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370225/plitki-spb/588143003.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47442,8 +47442,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370237/plitki-spb/509131101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370237/plitki-spb/509131101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47459,8 +47459,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370250/plitki-spb/509241101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370250/plitki-spb/509241101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47476,8 +47476,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370259/plitki-spb/509133001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370259/plitki-spb/509133001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47493,8 +47493,8 @@ export const importedProducts: any[] = [
   price_retail: 968,
   price_official: 1210,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370272/plitki-spb/849133101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370272/plitki-spb/849133101.webp"],
   description: "600х600 — керамическая плитка коллекции коллекция CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 600х600 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47510,8 +47510,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370284/plitki-spb/589122002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370284/plitki-spb/589122002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47527,8 +47527,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370296/plitki-spb/589122001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370296/plitki-spb/589122001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47544,8 +47544,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370308/plitki-spb/588143004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370308/plitki-spb/588143004.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47561,8 +47561,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370320/plitki-spb/509121101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370320/plitki-spb/509121101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47578,8 +47578,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370332/plitki-spb/509231101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370332/plitki-spb/509231101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47595,8 +47595,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370344/plitki-spb/509123001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370344/plitki-spb/509123001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47612,8 +47612,8 @@ export const importedProducts: any[] = [
   price_retail: 968,
   price_official: 1210,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370356/plitki-spb/849123101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370356/plitki-spb/849123101.webp"],
   description: "600х600 — керамическая плитка коллекции коллекция CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 600х600 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47629,8 +47629,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370368/plitki-spb/589092001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370368/plitki-spb/589092001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47646,8 +47646,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370382/plitki-spb/588143005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370382/plitki-spb/588143005.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47663,8 +47663,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370394/plitki-spb/509091201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370394/plitki-spb/509091201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47680,8 +47680,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370406/plitki-spb/509211101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370406/plitki-spb/509211101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47697,8 +47697,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370418/plitki-spb/509093001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370418/plitki-spb/509093001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47714,8 +47714,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370429/plitki-spb/588382002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370429/plitki-spb/588382002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47731,8 +47731,8 @@ export const importedProducts: any[] = [
   price_retail: 1158,
   price_official: 1448,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370442/plitki-spb/588382001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370442/plitki-spb/588382001.webp"],
   description: "484х700 ректификат — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47748,8 +47748,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370455/plitki-spb/588143006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370455/plitki-spb/588143006.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47765,8 +47765,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370468/plitki-spb/508381201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370468/plitki-spb/508381201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47782,8 +47782,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370480/plitki-spb/508391101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370480/plitki-spb/508391101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47799,8 +47799,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370492/plitki-spb/509221101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370492/plitki-spb/509221101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47816,8 +47816,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370504/plitki-spb/508383001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370504/plitki-spb/508383001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47833,8 +47833,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370517/plitki-spb/586892001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370517/plitki-spb/586892001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47850,8 +47850,8 @@ export const importedProducts: any[] = [
   price_retail: 1810,
   price_official: 2262,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370530/plitki-spb/586482002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370530/plitki-spb/586482002.webp"],
   description: "484х1400 ректификат — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 484х1400 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47867,8 +47867,8 @@ export const importedProducts: any[] = [
   price_retail: 1158,
   price_official: 1448,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370542/plitki-spb/586482001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370542/plitki-spb/586482001.webp"],
   description: "484х700 ректификат — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47884,8 +47884,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370555/plitki-spb/588143002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370555/plitki-spb/588143002.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47901,8 +47901,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370567/plitki-spb/506891201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370567/plitki-spb/506891201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47918,8 +47918,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370579/plitki-spb/506901101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370579/plitki-spb/506901101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47935,8 +47935,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370591/plitki-spb/506483002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370591/plitki-spb/506483002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция CALACATTA (Калакáтта) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47952,8 +47952,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370603/plitki-spb/588502001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370603/plitki-spb/588502001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47969,8 +47969,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370615/plitki-spb/588502002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370615/plitki-spb/588502002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47986,8 +47986,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370629/plitki-spb/508501201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370629/plitki-spb/508501201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48003,8 +48003,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370640/plitki-spb/508721101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370640/plitki-spb/508721101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48020,8 +48020,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370652/plitki-spb/508503001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370652/plitki-spb/508503001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция FLETTO (Флéтто) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48037,8 +48037,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370665/plitki-spb/588402002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370665/plitki-spb/588402002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция LEVANTO NERO (Левáнто Нéро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48054,8 +48054,8 @@ export const importedProducts: any[] = [
   price_retail: 1158,
   price_official: 1448,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370677/plitki-spb/588402001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370677/plitki-spb/588402001.webp"],
   description: "484х700 ректификат — керамическая плитка коллекции коллекция LEVANTO NERO (Левáнто Нéро) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48071,8 +48071,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370689/plitki-spb/508401201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370689/plitki-spb/508401201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция LEVANTO NERO (Левáнто Нéро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48088,8 +48088,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370701/plitki-spb/587842006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370701/plitki-spb/587842006.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48105,8 +48105,8 @@ export const importedProducts: any[] = [
   price_retail: 1158,
   price_official: 1448,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370715/plitki-spb/587842005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370715/plitki-spb/587842005.webp"],
   description: "484х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48122,8 +48122,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370726/plitki-spb/587842001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370726/plitki-spb/587842001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48139,8 +48139,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370738/plitki-spb/587842002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370738/plitki-spb/587842002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48156,8 +48156,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370750/plitki-spb/508361101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370750/plitki-spb/508361101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48173,8 +48173,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370762/plitki-spb/508371101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370762/plitki-spb/508371101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48190,8 +48190,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370775/plitki-spb/508191101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370775/plitki-spb/508191101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48207,8 +48207,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370787/plitki-spb/507841201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370787/plitki-spb/507841201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48224,8 +48224,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370799/plitki-spb/507843001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370799/plitki-spb/507843001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48241,8 +48241,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370812/plitki-spb/508363001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370812/plitki-spb/508363001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48258,8 +48258,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370824/plitki-spb/587882001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370824/plitki-spb/587882001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48275,8 +48275,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370833/plitki-spb/588182001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370833/plitki-spb/588182001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48292,8 +48292,8 @@ export const importedProducts: any[] = [
   price_retail: 1158,
   price_official: 1448,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370846/plitki-spb/587882002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370846/plitki-spb/587882002.webp"],
   description: "484х700 ректификат — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48309,8 +48309,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370858/plitki-spb/507881201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370858/plitki-spb/507881201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48326,8 +48326,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370871/plitki-spb/508181101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370871/plitki-spb/508181101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48343,8 +48343,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370883/plitki-spb/508131101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370883/plitki-spb/508131101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48360,8 +48360,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370897/plitki-spb/507883001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370897/plitki-spb/507883001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48377,8 +48377,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370910/plitki-spb/588112001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370910/plitki-spb/588112001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48394,8 +48394,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370922/plitki-spb/588112002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370922/plitki-spb/588112002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48411,8 +48411,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370934/plitki-spb/508111201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370934/plitki-spb/508111201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48428,8 +48428,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370942/plitki-spb/508171101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370942/plitki-spb/508171101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48445,8 +48445,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370951/plitki-spb/508113001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370951/plitki-spb/508113001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48462,8 +48462,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370963/plitki-spb/588122001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370963/plitki-spb/588122001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48479,8 +48479,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370975/plitki-spb/588152001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370975/plitki-spb/588152001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48496,8 +48496,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370987/plitki-spb/508121201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370987/plitki-spb/508121201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48513,8 +48513,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371000/plitki-spb/508151101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371000/plitki-spb/508151101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48530,8 +48530,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371011/plitki-spb/508123001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371011/plitki-spb/508123001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48547,8 +48547,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371024/plitki-spb/586942001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371024/plitki-spb/586942001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48564,8 +48564,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371037/plitki-spb/586912001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371037/plitki-spb/586912001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48581,8 +48581,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371050/plitki-spb/506941201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371050/plitki-spb/506941201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48598,8 +48598,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371063/plitki-spb/506961101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371063/plitki-spb/506961101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48615,8 +48615,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371075/plitki-spb/506951101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371075/plitki-spb/506951101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48632,8 +48632,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371085/plitki-spb/506911201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371085/plitki-spb/506911201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48649,8 +48649,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371098/plitki-spb/506931101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371098/plitki-spb/506931101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48666,8 +48666,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371110/plitki-spb/506921101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371110/plitki-spb/506921101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48683,8 +48683,8 @@ export const importedProducts: any[] = [
   price_retail: 426,
   price_official: 532,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371121/plitki-spb/506943001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371121/plitki-spb/506943001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48700,8 +48700,8 @@ export const importedProducts: any[] = [
   price_retail: 426,
   price_official: 532,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371133/plitki-spb/506913001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371133/plitki-spb/506913001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48717,8 +48717,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371145/plitki-spb/506943002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371145/plitki-spb/506943002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48734,8 +48734,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371157/plitki-spb/506913002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371157/plitki-spb/506913002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция MALWIYA (Мáльвия) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48751,8 +48751,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371169/plitki-spb/506111102.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371169/plitki-spb/506111102.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48768,8 +48768,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371182/plitki-spb/506181102.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371182/plitki-spb/506181102.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48785,8 +48785,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371194/plitki-spb/506161202.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371194/plitki-spb/506161202.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48802,8 +48802,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371207/plitki-spb/506171201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371207/plitki-spb/506171201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48819,8 +48819,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371219/plitki-spb/506101102.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371219/plitki-spb/506101102.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48836,8 +48836,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371231/plitki-spb/506151102.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371231/plitki-spb/506151102.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48853,8 +48853,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371244/plitki-spb/506131202.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371244/plitki-spb/506131202.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48870,8 +48870,8 @@ export const importedProducts: any[] = [
   price_retail: 913,
   price_official: 1141,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371257/plitki-spb/506141102.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371257/plitki-spb/506141102.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48887,8 +48887,8 @@ export const importedProducts: any[] = [
   price_retail: 426,
   price_official: 532,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371269/plitki-spb/506113001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371269/plitki-spb/506113001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48904,8 +48904,8 @@ export const importedProducts: any[] = [
   price_retail: 426,
   price_official: 532,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371280/plitki-spb/506103001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371280/plitki-spb/506103001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48921,8 +48921,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371292/plitki-spb/506113002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371292/plitki-spb/506113002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48938,8 +48938,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371305/plitki-spb/506103002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371305/plitki-spb/506103002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция ODENSE (Óдэнс) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48955,8 +48955,8 @@ export const importedProducts: any[] = [
   price_retail: 205,
   price_official: 256,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371317/plitki-spb/587472001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371317/plitki-spb/587472001.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48972,8 +48972,8 @@ export const importedProducts: any[] = [
   price_retail: 205,
   price_official: 256,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371328/plitki-spb/587462002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371328/plitki-spb/587462002.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -48989,8 +48989,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371339/plitki-spb/507461201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371339/plitki-spb/507461201.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49006,8 +49006,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371349/plitki-spb/507501101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371349/plitki-spb/507501101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49023,8 +49023,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371360/plitki-spb/507471101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371360/plitki-spb/507471101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49040,8 +49040,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371370/plitki-spb/507511101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371370/plitki-spb/507511101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49057,8 +49057,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371380/plitki-spb/507491101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371380/plitki-spb/507491101.webp"],
   description: "242х700 ректификат — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49074,8 +49074,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371392/plitki-spb/507473001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371392/plitki-spb/507473001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция IDILIO (Иди́лио) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49091,8 +49091,8 @@ export const importedProducts: any[] = [
   price_retail: 566,
   price_official: 708,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371404/plitki-spb/587562002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371404/plitki-spb/587562002.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49108,8 +49108,8 @@ export const importedProducts: any[] = [
   price_retail: 521,
   price_official: 651,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371416/plitki-spb/587562001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371416/plitki-spb/587562001.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49125,8 +49125,8 @@ export const importedProducts: any[] = [
   price_retail: 566,
   price_official: 708,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371428/plitki-spb/587572002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371428/plitki-spb/587572002.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49142,8 +49142,8 @@ export const importedProducts: any[] = [
   price_retail: 521,
   price_official: 651,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371440/plitki-spb/587572001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371440/plitki-spb/587572001.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49159,8 +49159,8 @@ export const importedProducts: any[] = [
   price_retail: 546,
   price_official: 682,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371453/plitki-spb/707603001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371453/plitki-spb/707603001.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49176,8 +49176,8 @@ export const importedProducts: any[] = [
   price_retail: 546,
   price_official: 682,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371464/plitki-spb/587603001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371464/plitki-spb/587603001.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49193,8 +49193,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371476/plitki-spb/507561201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371476/plitki-spb/507561201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49210,8 +49210,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371488/plitki-spb/507571101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371488/plitki-spb/507571101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49227,8 +49227,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371499/plitki-spb/507563001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371499/plitki-spb/507563001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49244,8 +49244,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371507/plitki-spb/507573001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371507/plitki-spb/507573001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция TERRAZZO (Террáццо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49261,8 +49261,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371518/plitki-spb/507701101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371518/plitki-spb/507701101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TESSUTO (Тессу́то) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49278,8 +49278,8 @@ export const importedProducts: any[] = [
   price_retail: 873,
   price_official: 1091,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371529/plitki-spb/507721101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371529/plitki-spb/507721101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TESSUTO (Тессу́то) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49295,8 +49295,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371540/plitki-spb/507681201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371540/plitki-spb/507681201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TESSUTO (Тессу́то) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49312,8 +49312,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371551/plitki-spb/507703001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371551/plitki-spb/507703001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция TESSUTO (Тессу́то) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49329,8 +49329,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371564/plitki-spb/587662001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371564/plitki-spb/587662001.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49346,8 +49346,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371576/plitki-spb/587662002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371576/plitki-spb/587662002.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49363,8 +49363,8 @@ export const importedProducts: any[] = [
   price_retail: 584,
   price_official: 730,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371588/plitki-spb/587672001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371588/plitki-spb/587672001.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49380,8 +49380,8 @@ export const importedProducts: any[] = [
   price_retail: 552,
   price_official: 690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371601/plitki-spb/587672002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371601/plitki-spb/587672002.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49397,8 +49397,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371612/plitki-spb/507661201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371612/plitki-spb/507661201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49414,8 +49414,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371623/plitki-spb/507671201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371623/plitki-spb/507671201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49431,8 +49431,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371634/plitki-spb/507663001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371634/plitki-spb/507663001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49448,8 +49448,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371646/plitki-spb/507673001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371646/plitki-spb/507673001.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция TREVI (Трéви) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49465,8 +49465,8 @@ export const importedProducts: any[] = [
   price_retail: 450,
   price_official: 563,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371657/plitki-spb/586782003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371657/plitki-spb/586782003.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49482,8 +49482,8 @@ export const importedProducts: any[] = [
   price_retail: 546,
   price_official: 682,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371666/plitki-spb/707603002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371666/plitki-spb/707603002.webp"],
   description: "300х300 — керамическая плитка коллекции коллекция OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49499,8 +49499,8 @@ export const importedProducts: any[] = [
   price_retail: 827,
   price_official: 1034,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371678/plitki-spb/506781201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371678/plitki-spb/506781201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49516,8 +49516,8 @@ export const importedProducts: any[] = [
   price_retail: 499,
   price_official: 624,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371688/plitki-spb/506783001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371688/plitki-spb/506783001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49533,8 +49533,8 @@ export const importedProducts: any[] = [
   price_retail: 651,
   price_official: 814,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371699/plitki-spb/506783002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371699/plitki-spb/506783002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49618,8 +49618,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371739/plitki-spb/506081101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371739/plitki-spb/506081101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49635,8 +49635,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371749/plitki-spb/506301101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371749/plitki-spb/506301101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49652,8 +49652,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371759/plitki-spb/506091101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371759/plitki-spb/506091101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49669,8 +49669,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371770/plitki-spb/506291101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371770/plitki-spb/506291101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49686,8 +49686,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371781/plitki-spb/506121201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371781/plitki-spb/506121201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49703,8 +49703,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371791/plitki-spb/506083001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371791/plitki-spb/506083001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49720,8 +49720,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371801/plitki-spb/506093001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371801/plitki-spb/506093001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция AGRA (Áгра) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49754,8 +49754,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371818/plitki-spb/506501201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371818/plitki-spb/506501201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49788,8 +49788,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371835/plitki-spb/506503001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371835/plitki-spb/506503001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49805,8 +49805,8 @@ export const importedProducts: any[] = [
   price_retail: 410,
   price_official: 512,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371847/plitki-spb/506503002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371847/plitki-spb/506503002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49822,8 +49822,8 @@ export const importedProducts: any[] = [
   price_retail: 548,
   price_official: 685,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371859/plitki-spb/506771201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371859/plitki-spb/506771201.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49839,8 +49839,8 @@ export const importedProducts: any[] = [
   price_retail: 548,
   price_official: 685,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371870/plitki-spb/506801101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371870/plitki-spb/506801101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49856,8 +49856,8 @@ export const importedProducts: any[] = [
   price_retail: 548,
   price_official: 685,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371882/plitki-spb/506811101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371882/plitki-spb/506811101.webp"],
   description: "251х709 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49873,8 +49873,8 @@ export const importedProducts: any[] = [
   price_retail: 388,
   price_official: 485,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371892/plitki-spb/506493001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371892/plitki-spb/506493001.webp"],
   description: "333х333 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -49890,8 +49890,8 @@ export const importedProducts: any[] = [
   price_retail: 428,
   price_official: 535,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371904/plitki-spb/506493002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371904/plitki-spb/506493002.webp"],
   description: "420х420 — керамическая плитка коллекции коллекция COMMESSO (Коммéссо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -50111,8 +50111,8 @@ export const importedProducts: any[] = [
   price_retail: 338,
   price_official: 422,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773371988/plitki-spb/506231201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773371988/plitki-spb/506231201.webp"],
   description: "201х405 — керамическая плитка коллекции коллекция PROVENCE (Провáнс) от Элетто. Купить 201х405 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -50128,8 +50128,8 @@ export const importedProducts: any[] = [
   price_retail: 338,
   price_official: 422,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773372000/plitki-spb/506201201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773372000/plitki-spb/506201201.webp"],
   description: "201х405 — керамическая плитка коллекции коллекция PROVENCE (Провáнс) от Элетто. Купить 201х405 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -50145,8 +50145,8 @@ export const importedProducts: any[] = [
   price_retail: 338,
   price_official: 422,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773372011/plitki-spb/506241201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773372011/plitki-spb/506241201.webp"],
   description: "201х505 — керамическая плитка коллекции коллекция PROVENCE (Провáнс) от Элетто. Купить 201х505 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -50162,8 +50162,8 @@ export const importedProducts: any[] = [
   price_retail: 338,
   price_official: 422,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773372022/plitki-spb/506211201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773372022/plitki-spb/506211201.webp"],
   description: "201х505 — керамическая плитка коллекции коллекция PROVENCE (Провáнс) от Элетто. Купить 201х505 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -50741,8 +50741,8 @@ export const importedProducts: any[] = [
   price_retail: 250,
   price_official: 312,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773372247/plitki-spb/837451008.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773372247/plitki-spb/837451008.webp"],
   description: "20х709 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 20х709 в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
