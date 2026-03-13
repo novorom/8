@@ -17,7 +17,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773348970/plitki-spb/17773.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773348970/plitki-spb/17773.webp"],
-  description: "Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -36,7 +36,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773348983/plitki-spb/17775.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773348983/plitki-spb/17775.webp"],
-  description: "Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -55,7 +55,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773348994/plitki-spb/17695.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773348994/plitki-spb/17695.webp"],
-  description: "Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 — керамогранит коллекции Pacific от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 — керамогранит коллекции Pacific от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -74,7 +74,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349005/plitki-spb/17697.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349005/plitki-spb/17697.webp"],
-  description: "Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -93,7 +93,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349016/plitki-spb/17781.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349016/plitki-spb/17781.webp"],
-  description: "Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -112,7 +112,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349027/plitki-spb/17783.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349027/plitki-spb/17783.webp"],
-  description: "Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -131,7 +131,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349038/plitki-spb/17699.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349038/plitki-spb/17699.webp"],
-  description: "Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -150,7 +150,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349049/plitki-spb/17701.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349049/plitki-spb/17701.webp"],
-  description: "Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -169,7 +169,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349061/plitki-spb/17785.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349061/plitki-spb/17785.webp"],
-  description: "Глаз. керамогранит Spark серый ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Spark серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Spark серый ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Spark серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -188,7 +188,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349072/plitki-spb/17787.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349072/plitki-spb/17787.webp"],
-  description: "Глаз. керамогранит Spark синий ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Синий. Размер 45x90 см. Купить Глаз. керамогранит Spark синий ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Spark синий ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Синий. Размер 45x90 см. Купить Глаз. керамогранит Spark синий ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -207,7 +207,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349084/plitki-spb/17777.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349084/plitki-spb/17777.webp"],
-  description: "Глаз. керамогранит Ultra серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Ultra серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -226,7 +226,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349095/plitki-spb/17779.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349095/plitki-spb/17779.webp"],
-  description: "Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 3.0,
   sqm_per_box: 1.206
 },
@@ -245,7 +245,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349103/plitki-spb/17894.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349103/plitki-spb/17894.webp"],
-  description: "Глаз. керамогранит Coastline темно-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Coastline от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Coastline темно-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Coastline темно-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Coastline от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Coastline темно-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -264,7 +264,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349113/plitki-spb/17886.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349113/plitki-spb/17886.webp"],
-  description: "Глаз. керамогранит Desert бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Desert от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Desert бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Desert бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Desert от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Desert бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -283,7 +283,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349123/plitki-spb/17888.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349123/plitki-spb/17888.webp"],
-  description: "Глаз. керамогранит Desert серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Desert от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Desert серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Desert серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Desert от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Desert серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -302,7 +302,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349133/plitki-spb/17890.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349133/plitki-spb/17890.webp"],
-  description: "Глаз. керамогранит Limestone бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Limestone от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Limestone бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Limestone бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Limestone от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Limestone бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -321,7 +321,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349142/plitki-spb/17892.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349142/plitki-spb/17892.webp"],
-  description: "Глаз. керамогранит Limestone светло-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Limestone от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Limestone светло-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Limestone светло-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Limestone от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Limestone светло-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -340,7 +340,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349153/plitki-spb/17872.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349153/plitki-spb/17872.webp"],
-  description: "Глаз. керамогранит Modis светло-серый ректификат 59,8x59,8 — керамогранит коллекции Modis от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Modis светло-серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Modis светло-серый ректификат 59,8x59,8 — керамогранит коллекции Modis от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Modis светло-серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -359,7 +359,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349167/plitki-spb/17874.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349167/plitki-spb/17874.webp"],
-  description: "Глаз. керамогранит Residence светло-бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Residence от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Residence светло-бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Residence светло-бежевый рельеф ректификат 59,8x59,8 — керамогранит коллекции Residence от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Residence светло-бежевый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -378,7 +378,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349176/plitki-spb/17876.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349176/plitki-spb/17876.webp"],
-  description: "Глаз. керамогранит Residence светло-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Residence от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Residence светло-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Residence светло-серый рельеф ректификат 59,8x59,8 — керамогранит коллекции Residence от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Residence светло-серый рельеф ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -397,7 +397,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349188/plitki-spb/17896.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349188/plitki-spb/17896.webp"],
-  description: "Глаз. керамогранит Sandstone светло-бежевый ректификат 59,8x59,8 — керамогранит коллекции Sandstone от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Sandstone светло-бежевый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sandstone светло-бежевый ректификат 59,8x59,8 — керамогранит коллекции Sandstone от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Sandstone светло-бежевый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -416,7 +416,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349201/plitki-spb/17880.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349201/plitki-spb/17880.webp"],
-  description: "Глаз. керамогранит Stonehouse бежевый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse бежевый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Stonehouse бежевый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Бежевый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse бежевый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -435,7 +435,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349211/plitki-spb/17882.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349211/plitki-spb/17882.webp"],
-  description: "Глаз. керамогранит Stonehouse серый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Stonehouse серый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -454,7 +454,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349224/plitki-spb/17884.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349224/plitki-spb/17884.webp"],
-  description: "Глаз. керамогранит Stonehouse темно-серый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse темно-серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Stonehouse темно-серый ректификат 59,8x59,8 — керамогранит коллекции Stonehouse от Cersanit. Цвет: Серый. Размер 60x60 см. Купить Глаз. керамогранит Stonehouse темно-серый ректификат 59,8x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 5.0,
   sqm_per_box: 1.788
 },
@@ -473,7 +473,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349237/plitki-spb/17942.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349237/plitki-spb/17942.webp"],
-  description: "Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -492,7 +492,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349249/plitki-spb/17944.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349249/plitki-spb/17944.webp"],
-  description: "Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -511,7 +511,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349261/plitki-spb/17946.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349261/plitki-spb/17946.webp"],
-  description: "Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -530,7 +530,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349273/plitki-spb/17948.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349273/plitki-spb/17948.webp"],
-  description: "Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -549,7 +549,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349286/plitki-spb/17936.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349286/plitki-spb/17936.webp"],
-  description: "Глаз. керамогранит Kauri Wood светло-коричневый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood светло-коричневый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Kauri Wood светло-коричневый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood светло-коричневый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -568,7 +568,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349297/plitki-spb/17938.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349297/plitki-spb/17938.webp"],
-  description: "Глаз. керамогранит Kauri Wood бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Kauri Wood бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -587,7 +587,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349306/plitki-spb/17940.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349306/plitki-spb/17940.webp"],
-  description: "Глаз. керамогранит Kauri Wood серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Kauri Wood серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Kauri Wood от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Kauri Wood серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -606,7 +606,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/4af/15971_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/4af/15971_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Natural бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Natural бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -625,7 +625,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/05e/15973_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/05e/15973_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Natural песочный ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural песочный ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Natural песочный ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural песочный ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -644,7 +644,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/01e/15975_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/01e/15975_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Natural коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Natural коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -663,7 +663,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/9ef/15977_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/9ef/15977_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Natural светло-бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Natural светло-бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -682,7 +682,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349344/plitki-spb/15985.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349344/plitki-spb/15985.webp"],
-  description: "Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -701,7 +701,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349356/plitki-spb/15987.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349356/plitki-spb/15987.webp"],
-  description: "Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -720,7 +720,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/0d5/16021_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/0d5/16021_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Prime серый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime серый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Prime серый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime серый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -739,7 +739,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/af4/15981_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/af4/15981_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Prime светло-серый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime светло-серый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Prime светло-серый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Серый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime светло-серый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -758,7 +758,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349381/plitki-spb/15989.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349381/plitki-spb/15989.webp"],
-  description: "Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Белый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Белый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -777,7 +777,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/039/15983_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/039/15983_1.jpg"],
-  description: "Глаз. керамогранит Wood Concept Rustic бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Rustic от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Rustic бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Wood Concept Rustic бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Rustic от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Wood Concept Rustic бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.17
 },
@@ -796,7 +796,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349399/plitki-spb/17950.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349399/plitki-spb/17950.webp"],
-  description: "Глаз. керамогранит Select Wood светло-коричневый ректификат 21,8x89,8 — керамогранит коллекции Select Wood от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Select Wood светло-коричневый ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Select Wood светло-коричневый ректификат 21,8x89,8 — керамогранит коллекции Select Wood от Cersanit. Цвет: Коричневый. Размер 22х90 см. Купить Глаз. керамогранит Select Wood светло-коричневый ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -815,7 +815,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349411/plitki-spb/17952.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349411/plitki-spb/17952.webp"],
-  description: "Глаз. керамогранит Select Wood бежевый ректификат 21,8x89,8 — керамогранит коллекции Select Wood от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Select Wood бежевый ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Select Wood бежевый ректификат 21,8x89,8 — керамогранит коллекции Select Wood от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Select Wood бежевый ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -834,7 +834,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349423/plitki-spb/17934.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349423/plitki-spb/17934.webp"],
-  description: "Глаз. керамогранит Timber Land бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Timber Land от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Timber Land бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Timber Land бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Timber Land от Cersanit. Цвет: Бежевый. Размер 22х90 см. Купить Глаз. керамогранит Timber Land бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 6.0,
   sqm_per_box: 1.174
 },
@@ -853,7 +853,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349432/plitki-spb/16523.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349432/plitki-spb/16523.webp"],
-  description: "Глаз. керамогранит Cameo бежевый 29,7x59,8 — керамогранит коллекции Cameo от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Cameo бежевый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Cameo бежевый 29,7x59,8 — керамогранит коллекции Cameo от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Cameo бежевый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -872,7 +872,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/e34/C_CO4L012D_1f.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/e34/C_CO4L012D_1f.jpg"],
-  description: "Глаз. керамогранит Coliseum бежевый рельеф 29,7x59,8 — керамогранит коллекции Coliseum от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Coliseum бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Coliseum бежевый рельеф 29,7x59,8 — керамогранит коллекции Coliseum от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Coliseum бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -891,7 +891,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349452/plitki-spb/16541.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349452/plitki-spb/16541.webp"],
-  description: "Глаз. керамогранит Concretehouse серый рельеф 29,7x59,8 — керамогранит коллекции Concretehouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Concretehouse серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Concretehouse серый рельеф 29,7x59,8 — керамогранит коллекции Concretehouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Concretehouse серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -910,7 +910,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/857/GA4L012_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/857/GA4L012_1.jpg"],
-  description: "Глаз. керамогранит Galaxy бежевый рельеф 29,7x59,8 — керамогранит коллекции Galaxy от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Galaxy бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Galaxy бежевый рельеф 29,7x59,8 — керамогранит коллекции Galaxy от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Galaxy бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -929,7 +929,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/dbc/GA4L452_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/dbc/GA4L452_1.jpg"],
-  description: "Глаз. керамогранит Galaxy многоцветный рельеф 29,7x59,8 — керамогранит коллекции Galaxy от Cersanit. Размер 30x60 см. Купить Глаз. керамогранит Galaxy многоцветный рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Galaxy многоцветный рельеф 29,7x59,8 — керамогранит коллекции Galaxy от Cersanit. Размер 30x60 см. Купить Глаз. керамогранит Galaxy многоцветный рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -948,7 +948,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349473/plitki-spb/16533.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349473/plitki-spb/16533.webp"],
-  description: "Глаз. керамогранит Greenhouse бежевый рельеф 29,7x59,8 — керамогранит коллекции Greenhouse от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Greenhouse бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Greenhouse бежевый рельеф 29,7x59,8 — керамогранит коллекции Greenhouse от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Greenhouse бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -967,7 +967,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349484/plitki-spb/16535.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349484/plitki-spb/16535.webp"],
-  description: "Глаз. керамогранит Greenhouse коричневый рельеф 29,7x59,8 — керамогранит коллекции Greenhouse от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Greenhouse коричневый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Greenhouse коричневый рельеф 29,7x59,8 — керамогранит коллекции Greenhouse от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Greenhouse коричневый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -986,7 +986,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/841/IN4L092_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/841/IN4L092_1.jpg"],
-  description: "Глаз. керамогранит Infinity серый рельеф 29,7x59,8 — керамогранит коллекции Infinity от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Infinity серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Infinity серый рельеф 29,7x59,8 — керамогранит коллекции Infinity от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Infinity серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1005,7 +1005,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/782/IN4L402_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/782/IN4L402_1.jpg"],
-  description: "Глаз. керамогранит Infinity темно-серый рельеф 29,7x59,8 — керамогранит коллекции Infinity от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Infinity темно-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Infinity темно-серый рельеф 29,7x59,8 — керамогранит коллекции Infinity от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Infinity темно-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1024,7 +1024,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/d3c/C_LS4L522D_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/d3c/C_LS4L522D_1.jpg"],
-  description: "Глаз. керамогранит Lofthouse светло-серый рельеф 29,7x59,8 — керамогранит коллекции Lofthouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Lofthouse светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Lofthouse светло-серый рельеф 29,7x59,8 — керамогранит коллекции Lofthouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Lofthouse светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1043,7 +1043,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/eef/C_LS4L092D_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/eef/C_LS4L092D_1.jpg"],
-  description: "Глаз. керамогранит Lofthouse серый рельеф 29,7x59,8 — керамогранит коллекции Lofthouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Lofthouse серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Lofthouse серый рельеф 29,7x59,8 — керамогранит коллекции Lofthouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Lofthouse серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1062,7 +1062,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/877/15886_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/877/15886_1.jpg"],
-  description: "Глаз. керамогранит Lorenzo белый 29,7x59,8 — керамогранит коллекции Lorenzo от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Lorenzo белый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Lorenzo белый 29,7x59,8 — керамогранит коллекции Lorenzo от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Lorenzo белый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1081,7 +1081,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349528/plitki-spb/17906.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349528/plitki-spb/17906.webp"],
-  description: "Глаз. керамогранит Luna светло-бежевый 29,7x59,8 — керамогранит коллекции Luna от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Luna светло-бежевый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Luna светло-бежевый 29,7x59,8 — керамогранит коллекции Luna от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Luna светло-бежевый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -1100,7 +1100,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349540/plitki-spb/17908.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349540/plitki-spb/17908.webp"],
-  description: "Глаз. керамогранит Luna бежевый рельеф 29,7x59,8 — керамогранит коллекции Luna от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Luna бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Luna бежевый рельеф 29,7x59,8 — керамогранит коллекции Luna от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Luna бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -1119,7 +1119,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/44a/MU4L092_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/44a/MU4L092_1.jpg"],
-  description: "Глаз. керамогранит Mercury серый рельеф 29,7x59,8 — керамогранит коллекции Mercury от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Mercury серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Mercury серый рельеф 29,7x59,8 — керамогранит коллекции Mercury от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Mercury серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1138,7 +1138,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/3b6/MU4L012_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/3b6/MU4L012_1.jpg"],
-  description: "Глаз. керамогранит Mercury бежевый рельеф 29,7x59,8 — керамогранит коллекции Mercury от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Mercury бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Mercury бежевый рельеф 29,7x59,8 — керамогранит коллекции Mercury от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Mercury бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1157,7 +1157,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349565/plitki-spb/16521.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349565/plitki-spb/16521.webp"],
-  description: "Глаз. керамогранит Mont Blanc белый 29,7x59,8 — керамогранит коллекции Mont Blanc от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Mont Blanc белый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Mont Blanc белый 29,7x59,8 — керамогранит коллекции Mont Blanc от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Mont Blanc белый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -1176,7 +1176,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/688/C_OB4L092D_1f.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/688/C_OB4L092D_1f.jpg"],
-  description: "Глаз. керамогранит Orion серый 29,7x59,8 — керамогранит коллекции Orion от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Orion серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Orion серый 29,7x59,8 — керамогранит коллекции Orion от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Orion серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1195,7 +1195,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/7f0/C_OB4L112D_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/7f0/C_OB4L112D_1.jpg"],
-  description: "Глаз. керамогранит Orion коричневый 29,7x59,8 — керамогранит коллекции Orion от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Orion коричневый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Orion коричневый 29,7x59,8 — керамогранит коллекции Orion от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Orion коричневый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1214,7 +1214,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/c17/C_PG4L092D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/c17/C_PG4L092D_1a.jpg"],
-  description: "Глаз. керамогранит Polaris серый 29,7x59,8 — керамогранит коллекции Polaris от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Polaris серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Polaris серый 29,7x59,8 — керамогранит коллекции Polaris от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Polaris серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1233,7 +1233,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/a06/C_PG4L402D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/a06/C_PG4L402D_1a.jpg"],
-  description: "Глаз. керамогранит Polaris темно-серый 29,7x59,8 — керамогранит коллекции Polaris от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Polaris темно-серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Polaris темно-серый 29,7x59,8 — керамогранит коллекции Polaris от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Polaris темно-серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1252,7 +1252,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/986/C_PG4L522D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/986/C_PG4L522D_1a.jpg"],
-  description: "Глаз. керамогранит Polaris светло-серый 29,7x59,8 — керамогранит коллекции Polaris от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Polaris светло-серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Polaris светло-серый 29,7x59,8 — керамогранит коллекции Polaris от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Polaris светло-серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1271,7 +1271,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/875/C_SF4L402D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/875/C_SF4L402D_1a.jpg"],
-  description: "Глаз. керамогранит Slate темно-серый рельеф 29,7x59,8 — керамогранит коллекции Slate от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Slate темно-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Slate темно-серый рельеф 29,7x59,8 — керамогранит коллекции Slate от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Slate темно-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1290,7 +1290,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/ba2/SC4L092_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/ba2/SC4L092_1.jpg"],
-  description: "Глаз. керамогранит Space серый 29,7x59,8 — керамогранит коллекции Space от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Space серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Space серый 29,7x59,8 — керамогранит коллекции Space от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Space серый 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1309,7 +1309,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349620/plitki-spb/17904.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349620/plitki-spb/17904.webp"],
-  description: "Глаз. керамогранит Stellar светло-серый рельеф 29,7x59,8 — керамогранит коллекции Stellar от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Stellar светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Stellar светло-серый рельеф 29,7x59,8 — керамогранит коллекции Stellar от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Stellar светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.776
 },
@@ -1328,7 +1328,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/390/C_WS4L152D_k1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/390/C_WS4L152D_k1.jpg"],
-  description: "Глаз. керамогранит Woodhouse темно-бежевый рельеф 29,7x59,8 — керамогранит коллекции Woodhouse от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Woodhouse темно-бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Woodhouse темно-бежевый рельеф 29,7x59,8 — керамогранит коллекции Woodhouse от Cersanit. Цвет: Бежевый. Размер 30x60 см. Купить Глаз. керамогранит Woodhouse темно-бежевый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1347,7 +1347,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/d7f/C_WS4L522D_2.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/d7f/C_WS4L522D_2.jpg"],
-  description: "Глаз. керамогранит Woodhouse светло-серый рельеф 29,7x59,8 — керамогранит коллекции Woodhouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Woodhouse светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Woodhouse светло-серый рельеф 29,7x59,8 — керамогранит коллекции Woodhouse от Cersanit. Цвет: Серый. Размер 30x60 см. Купить Глаз. керамогранит Woodhouse светло-серый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1366,7 +1366,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/038/C_WS4L112D_k1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/038/C_WS4L112D_k1.jpg"],
-  description: "Глаз. керамогранит Woodhouse коричневый рельеф 29,7x59,8 — керамогранит коллекции Woodhouse от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Woodhouse коричневый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Woodhouse коричневый рельеф 29,7x59,8 — керамогранит коллекции Woodhouse от Cersanit. Цвет: Коричневый. Размер 30x60 см. Купить Глаз. керамогранит Woodhouse коричневый рельеф 29,7x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.77
 },
@@ -1385,7 +1385,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349648/plitki-spb/17902.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349648/plitki-spb/17902.webp"],
-  description: "Глаз. керамогранит Amberwood светло-бежевый рельеф 18,5x59,8 — керамогранит коллекции Amberwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Amberwood светло-бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Amberwood светло-бежевый рельеф 18,5x59,8 — керамогранит коллекции Amberwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Amberwood светло-бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1404,7 +1404,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/714/AQ4M092D_v1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/714/AQ4M092D_v1.jpg"],
-  description: "Глаз. керамогранит Antiquewood серый рельеф 18,5x59,8 — керамогранит коллекции Antiquewood от Cersanit. Цвет: Серый. Размер 18,5х60 см. Купить Глаз. керамогранит Antiquewood серый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Antiquewood серый рельеф 18,5x59,8 — керамогранит коллекции Antiquewood от Cersanit. Цвет: Серый. Размер 18,5х60 см. Купить Глаз. керамогранит Antiquewood серый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1423,7 +1423,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/5f4/CL4M452D_k04.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/5f4/CL4M452D_k04.jpg"],
-  description: "Глаз. керамогранит Colorwood многоцветный рельеф 18,5x59,8 — керамогранит коллекции Colorwood от Cersanit. Размер 18,5х60 см. Купить Глаз. керамогранит Colorwood многоцветный рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Colorwood многоцветный рельеф 18,5x59,8 — керамогранит коллекции Colorwood от Cersanit. Размер 18,5х60 см. Купить Глаз. керамогранит Colorwood многоцветный рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1442,7 +1442,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/61e/C_FF4M052D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/61e/C_FF4M052D_1a.jpg"],
-  description: "Глаз. керамогранит Finwood белый рельеф 18,5x59,8 — керамогранит коллекции Finwood от Cersanit. Цвет: Белый. Размер 18,5х60 см. Купить Глаз. керамогранит Finwood белый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Finwood белый рельеф 18,5x59,8 — керамогранит коллекции Finwood от Cersanit. Цвет: Белый. Размер 18,5х60 см. Купить Глаз. керамогранит Finwood белый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1461,7 +1461,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/b8c/HW4M092D_v1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/b8c/HW4M092D_v1.jpg"],
-  description: "Глаз. керамогранит Harbourwood серый 18,5x59,8 — керамогранит коллекции Harbourwood от Cersanit. Цвет: Серый. Размер 18,5х60 см. Купить Глаз. керамогранит Harbourwood серый 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Harbourwood серый 18,5x59,8 — керамогранит коллекции Harbourwood от Cersanit. Цвет: Серый. Размер 18,5х60 см. Купить Глаз. керамогранит Harbourwood серый 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1480,7 +1480,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/772/MW4M112_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/772/MW4M112_1.jpg"],
-  description: "Глаз. керамогранит Maplewood коричневый рельеф 18,5x59,8 — керамогранит коллекции Maplewood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Maplewood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Maplewood коричневый рельеф 18,5x59,8 — керамогранит коллекции Maplewood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Maplewood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1499,7 +1499,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/5b6/C_NW4M012D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/5b6/C_NW4M012D_1a.jpg"],
-  description: "Глаз. керамогранит Northwood бежевый рельеф 18,5x59,8 — керамогранит коллекции Northwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Northwood бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Northwood бежевый рельеф 18,5x59,8 — керамогранит коллекции Northwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Northwood бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1518,7 +1518,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/af2/C_NW4M052D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/af2/C_NW4M052D_1a.jpg"],
-  description: "Глаз. керамогранит Northwood белый рельеф 18,5x59,8 — керамогранит коллекции Northwood от Cersanit. Цвет: Белый. Размер 18,5х60 см. Купить Глаз. керамогранит Northwood белый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Northwood белый рельеф 18,5x59,8 — керамогранит коллекции Northwood от Cersanit. Цвет: Белый. Размер 18,5х60 см. Купить Глаз. керамогранит Northwood белый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1537,7 +1537,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/ad2/NW4M092D_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/ad2/NW4M092D_1.jpg"],
-  description: "Глаз. керамогранит Northwood серый рельеф 18,5x59,8 — керамогранит коллекции Northwood от Cersanit. Цвет: Серый. Размер 18,5х60 см. Купить Глаз. керамогранит Northwood серый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Northwood серый рельеф 18,5x59,8 — керамогранит коллекции Northwood от Cersanit. Цвет: Серый. Размер 18,5х60 см. Купить Глаз. керамогранит Northwood серый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1556,7 +1556,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349710/plitki-spb/17487.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349710/plitki-spb/17487.webp"],
-  description: "Глаз. керамогранит Oakwood темно-коричневый рельеф 18,5x59,8 — керамогранит коллекции Oakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Oakwood темно-коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Oakwood темно-коричневый рельеф 18,5x59,8 — керамогранит коллекции Oakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Oakwood темно-коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1575,7 +1575,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349722/plitki-spb/17489.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349722/plitki-spb/17489.webp"],
-  description: "Глаз. керамогранит Oakwood коричневый рельеф 18,5x59,8 — керамогранит коллекции Oakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Oakwood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Oakwood коричневый рельеф 18,5x59,8 — керамогранит коллекции Oakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Oakwood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1594,7 +1594,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/3f7/C_SW4M012D_1a.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/3f7/C_SW4M012D_1a.jpg"],
-  description: "Глаз. керамогранит Sandwood бежевый рельеф 18,5x59,8 — керамогранит коллекции Sandwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Sandwood бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sandwood бежевый рельеф 18,5x59,8 — керамогранит коллекции Sandwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Sandwood бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1613,7 +1613,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/bdf/SW4M112.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/bdf/SW4M112.jpg"],
-  description: "Глаз. керамогранит Sandwood коричневый рельеф 18,5x59,8 — керамогранит коллекции Sandwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Sandwood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sandwood коричневый рельеф 18,5x59,8 — керамогранит коллекции Sandwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Sandwood коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1632,7 +1632,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/f48/15934_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/f48/15934_1.jpg"],
-  description: "Глаз. керамогранит Starwood белый рельеф 18,5x59,8 — керамогранит коллекции Starwood от Cersanit. Цвет: Белый. Размер 18,5х60 см. Купить Глаз. керамогранит Starwood белый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Starwood белый рельеф 18,5x59,8 — керамогранит коллекции Starwood от Cersanit. Цвет: Белый. Размер 18,5х60 см. Купить Глаз. керамогранит Starwood белый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1651,7 +1651,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349753/plitki-spb/17898.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349753/plitki-spb/17898.webp"],
-  description: "Глаз. керамогранит Teakwood светло-коричневый рельеф 18,5x59,8 — керамогранит коллекции Teakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Teakwood светло-коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Teakwood светло-коричневый рельеф 18,5x59,8 — керамогранит коллекции Teakwood от Cersanit. Цвет: Коричневый. Размер 18,5х60 см. Купить Глаз. керамогранит Teakwood светло-коричневый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1670,7 +1670,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349764/plitki-spb/17900.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349764/plitki-spb/17900.webp"],
-  description: "Глаз. керамогранит Teakwood светло-бежевый рельеф 18,5x59,8 — керамогранит коллекции Teakwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Teakwood светло-бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Teakwood светло-бежевый рельеф 18,5x59,8 — керамогранит коллекции Teakwood от Cersanit. Цвет: Бежевый. Размер 18,5х60 см. Купить Глаз. керамогранит Teakwood светло-бежевый рельеф 18,5x59,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.216
 },
@@ -1689,7 +1689,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349776/plitki-spb/17914.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349776/plitki-spb/17914.webp"],
-  description: "Глаз. керамогранит Avalon светло-бежевый 42x42 — керамогранит коллекции Avalon от Cersanit. Цвет: Бежевый. Размер 42x42 см. Купить Глаз. керамогранит Avalon светло-бежевый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Avalon светло-бежевый 42x42 — керамогранит коллекции Avalon от Cersanit. Цвет: Бежевый. Размер 42x42 см. Купить Глаз. керамогранит Avalon светло-бежевый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1708,7 +1708,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349788/plitki-spb/17916.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349788/plitki-spb/17916.webp"],
-  description: "Глаз. керамогранит Avalon бежевый рельеф 42x42 — керамогранит коллекции Avalon от Cersanit. Цвет: Бежевый. Размер 42x42 см. Купить Глаз. керамогранит Avalon бежевый рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Avalon бежевый рельеф 42x42 — керамогранит коллекции Avalon от Cersanit. Цвет: Бежевый. Размер 42x42 см. Купить Глаз. керамогранит Avalon бежевый рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1727,7 +1727,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/c31/FS4R452_01.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/c31/FS4R452_01.jpg"],
-  description: "Глаз. керамогранит Fancy Stone многоцветный 42x42 — керамогранит коллекции Fancy Stone от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Fancy Stone многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Fancy Stone многоцветный 42x42 — керамогранит коллекции Fancy Stone от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Fancy Stone многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1746,7 +1746,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/bb0/LO4R092.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/bb0/LO4R092.jpg"],
-  description: "Глаз. керамогранит Loft серый 42x42 — керамогранит коллекции Loft от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Loft серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Loft серый 42x42 — керамогранит коллекции Loft от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Loft серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1765,7 +1765,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/8f3/LO4R452.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/8f3/LO4R452.jpg"],
-  description: "Глаз. керамогранит Loft многоцветный 42x42 — керамогранит коллекции Loft от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Loft многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Loft многоцветный 42x42 — керамогранит коллекции Loft от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Loft многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1784,7 +1784,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349819/plitki-spb/17910.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349819/plitki-spb/17910.webp"],
-  description: "Глаз. керамогранит Magic многоцветный рельеф 42x42 — керамогранит коллекции Magic от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Magic многоцветный рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Magic многоцветный рельеф 42x42 — керамогранит коллекции Magic от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Magic многоцветный рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1803,7 +1803,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/0cc/Oriental-White-OE4R052D-1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/0cc/Oriental-White-OE4R052D-1.jpg"],
-  description: "Глаз. керамогранит Oriental белый 42x42 — керамогранит коллекции Oriental от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Oriental белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Oriental белый 42x42 — керамогранит коллекции Oriental от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Oriental белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1822,7 +1822,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/e02/16002_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/e02/16002_1.jpg"],
-  description: "Глаз. керамогранит Oriental черный 42x42 — керамогранит коллекции Oriental от Cersanit. Цвет: Черный. Размер 42x42 см. Купить Глаз. керамогранит Oriental черный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Oriental черный 42x42 — керамогранит коллекции Oriental от Cersanit. Цвет: Черный. Размер 42x42 см. Купить Глаз. керамогранит Oriental черный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1841,7 +1841,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/4e5/16004_10.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/4e5/16004_10.jpg"],
-  description: "Глаз. керамогранит Oriental серый 42x42 — керамогранит коллекции Oriental от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Oriental серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Oriental серый 42x42 — керамогранит коллекции Oriental от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Oriental серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1860,7 +1860,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/e44/Palitra_42x42_PW4R052_floor_jpg.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/e44/Palitra_42x42_PW4R052_floor_jpg.jpg"],
-  description: "Глаз. керамогранит Palitra белый 42x42 — керамогранит коллекции Palitra от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Palitra белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Palitra белый 42x42 — керамогранит коллекции Palitra от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Palitra белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1879,7 +1879,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/2ab/QN4R053_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/2ab/QN4R053_1.jpg"],
-  description: "Глаз. керамогранит Queen белый 42x42 — керамогранит коллекции Queen от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Queen белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Queen белый 42x42 — керамогранит коллекции Queen от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Queen белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1898,7 +1898,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349864/plitki-spb/17210.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349864/plitki-spb/17210.webp"],
-  description: "Глаз. керамогранит Queen черный 42x42 — керамогранит коллекции Queen от Cersanit. Цвет: Черный. Размер 42x42 см. Купить Глаз. керамогранит Queen черный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Queen черный 42x42 — керамогранит коллекции Queen от Cersanit. Цвет: Черный. Размер 42x42 см. Купить Глаз. керамогранит Queen черный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1917,7 +1917,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/366/C_RE4R092D_k1_jpeg.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/366/C_RE4R092D_k1_jpeg.jpg"],
-  description: "Глаз. керамогранит Raven серый 42x42 — керамогранит коллекции Raven от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Raven серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Raven серый 42x42 — керамогранит коллекции Raven от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Raven серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1936,7 +1936,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349882/plitki-spb/17912.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349882/plitki-spb/17912.webp"],
-  description: "Глаз. керамогранит Ritmo многоцветный 42x42 — керамогранит коллекции Ritmo от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Ritmo многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Ritmo многоцветный 42x42 — керамогранит коллекции Ritmo от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Ritmo многоцветный 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1955,7 +1955,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/77d/RS4R052D_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/77d/RS4R052D_1.jpg"],
-  description: "Глаз. керамогранит Royal Stone белый 42x42 — керамогранит коллекции Royal Stone от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Royal Stone белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Royal Stone белый 42x42 — керамогранит коллекции Royal Stone от Cersanit. Цвет: Белый. Размер 30x60 см. Купить Глаз. керамогранит Royal Stone белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1974,7 +1974,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349901/plitki-spb/17220.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349901/plitki-spb/17220.webp"],
-  description: "Глаз. керамогранит Sevilla пэчворк белый рельеф 42x42 — керамогранит коллекции Sevilla от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Sevilla пэчворк белый рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sevilla пэчворк белый рельеф 42x42 — керамогранит коллекции Sevilla от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Sevilla пэчворк белый рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -1993,7 +1993,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/2e6/SE4R453.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/2e6/SE4R453.jpg"],
-  description: "Глаз. керамогранит Sevilla пэчворк многоцветный рельеф 42x42 — керамогранит коллекции Sevilla от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Sevilla пэчворк многоцветный рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sevilla пэчворк многоцветный рельеф 42x42 — керамогранит коллекции Sevilla от Cersanit. Размер 42x42 см. Купить Глаз. керамогранит Sevilla пэчворк многоцветный рельеф 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -2012,7 +2012,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/59c/A16008_1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/59c/A16008_1.jpg"],
-  description: "Глаз. керамогранит Siena белый 42x42 — керамогранит коллекции Siena от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Siena белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Siena белый 42x42 — керамогранит коллекции Siena от Cersanit. Цвет: Белый. Размер 42x42 см. Купить Глаз. керамогранит Siena белый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -2031,7 +2031,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/21a/Sonata-SO4R092D-1.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/21a/Sonata-SO4R092D-1.jpg"],
-  description: "Глаз. керамогранит Sonata серый 42x42 — керамогранит коллекции Sonata от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Sonata серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Sonata серый 42x42 — керамогранит коллекции Sonata от Cersanit. Цвет: Серый. Размер 42x42 см. Купить Глаз. керамогранит Sonata серый 42x42 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.587
 },
@@ -2050,7 +2050,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349932/plitki-spb/17930.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349932/plitki-spb/17930.webp"],
-  description: "Глаз. керамогранит Carpet светло-бежевый рельеф 29,8x29,8 — керамогранит коллекции Carpet от Cersanit. Цвет: Бежевый. Размер 30х30 см. Купить Глаз. керамогранит Carpet светло-бежевый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Carpet светло-бежевый рельеф 29,8x29,8 — керамогранит коллекции Carpet от Cersanit. Цвет: Бежевый. Размер 30х30 см. Купить Глаз. керамогранит Carpet светло-бежевый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2069,7 +2069,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349944/plitki-spb/17932.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349944/plitki-spb/17932.webp"],
-  description: "Глаз. керамогранит Carpet орнамент многоцветный рельеф 29,8x29,8 — керамогранит коллекции Carpet от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит Carpet орнамент многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Carpet орнамент многоцветный рельеф 29,8x29,8 — керамогранит коллекции Carpet от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит Carpet орнамент многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2088,7 +2088,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/upload/uf/b2a/A16067.jpg",
   images: ["https://pvi.cersanit.ru/upload/uf/b2a/A16067.jpg"],
-  description: "Глаз. керамогранит Daisy пэчворк многоцветный рельеф 29,8x29,8 — керамогранит коллекции Daisy от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит Daisy пэчворк многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Daisy пэчворк многоцветный рельеф 29,8x29,8 — керамогранит коллекции Daisy от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит Daisy пэчворк многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2107,7 +2107,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/files/get/11/14755/6892/800/800/0/",
   images: ["https://pvi.cersanit.ru/files/get/11/14755/6892/800/800/0/"],
-  description: "Глаз. керамогранит Exterio бежевый рельеф 29,8x29,8 — керамогранит коллекции Exterio от Cersanit. Цвет: Бежевый. Размер 30х30 см. Купить Глаз. керамогранит Exterio бежевый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Exterio бежевый рельеф 29,8x29,8 — керамогранит коллекции Exterio от Cersanit. Цвет: Бежевый. Размер 30х30 см. Купить Глаз. керамогранит Exterio бежевый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2126,7 +2126,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/files/get/11/14811/6910/800/800/0/",
   images: ["https://pvi.cersanit.ru/files/get/11/14811/6910/800/800/0/"],
-  description: "Глаз. керамогранит JackStone многоцветный рельеф 29,8x29,8 — керамогранит коллекции JackStone от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит JackStone многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит JackStone многоцветный рельеф 29,8x29,8 — керамогранит коллекции JackStone от Cersanit. Размер 30х30 см. Купить Глаз. керамогранит JackStone многоцветный рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2145,7 +2145,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349974/plitki-spb/17924.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349974/plitki-spb/17924.webp"],
-  description: "Глаз. керамогранит Motley мелкий узор светло-серый 29,8x29,8 — керамогранит коллекции Motley от Cersanit. Цвет: Серый. Размер 30х30 см. Купить Глаз. керамогранит Motley мелкий узор светло-серый 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Motley мелкий узор светло-серый 29,8x29,8 — керамогранит коллекции Motley от Cersanit. Цвет: Серый. Размер 30х30 см. Купить Глаз. керамогранит Motley мелкий узор светло-серый 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2164,7 +2164,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773349987/plitki-spb/17922.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773349987/plitki-spb/17922.webp"],
-  description: "Глаз. керамогранит Stream геометрия белый 29,8x29,8 — керамогранит коллекции Stream от Cersanit. Цвет: Белый. Размер 30х30 см. Купить Глаз. керамогранит Stream геометрия белый 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Stream геометрия белый 29,8x29,8 — керамогранит коллекции Stream от Cersanit. Цвет: Белый. Размер 30х30 см. Купить Глаз. керамогранит Stream геометрия белый 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2183,7 +2183,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/files/get/11/21562/27250/800/800/0/",
   images: ["https://pvi.cersanit.ru/files/get/11/21562/27250/800/800/0/"],
-  description: "Глаз. керамогранит Vilio коричневый рельеф 29,8x29,8 — керамогранит коллекции Vilio от Cersanit. Цвет: Коричневый. Размер 30х30 см. Купить Глаз. керамогранит Vilio коричневый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Vilio коричневый рельеф 29,8x29,8 — керамогранит коллекции Vilio от Cersanit. Цвет: Коричневый. Размер 30х30 см. Купить Глаз. керамогранит Vilio коричневый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2202,7 +2202,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pvi.cersanit.ru/files/get/11/21564/27252/800/800/0/",
   images: ["https://pvi.cersanit.ru/files/get/11/21564/27252/800/800/0/"],
-  description: "Глаз. керамогранит Vilio темно-серый рельеф 29,8x29,8 — керамогранит коллекции Vilio от Cersanit. Цвет: Серый. Размер 30х30 см. Купить Глаз. керамогранит Vilio темно-серый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Глаз. керамогранит Vilio темно-серый рельеф 29,8x29,8 — керамогранит коллекции Vilio от Cersanit. Цвет: Серый. Размер 30х30 см. Купить Глаз. керамогранит Vilio темно-серый рельеф 29,8x29,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.154
 },
@@ -2221,7 +2221,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350013/plitki-spb/17006.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350013/plitki-spb/17006.webp"],
-  description: "Авеллино белый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Авеллино белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино белый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Авеллино белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -2240,7 +2240,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350026/plitki-spb/16006.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350026/plitki-spb/16006.webp"],
-  description: "Авеллино белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -2259,7 +2259,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350040/plitki-spb/16017.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350040/plitki-spb/16017.webp"],
-  description: "Авеллино белый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино белый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 88.0,
   sqm_per_box: 0.98
 },
@@ -2278,7 +2278,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350053/plitki-spb/17004.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350053/plitki-spb/17004.webp"],
-  description: "Авеллино голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Авеллино голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Авеллино голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -2297,7 +2297,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350065/plitki-spb/16004.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350065/plitki-spb/16004.webp"],
-  description: "Авеллино голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -2316,7 +2316,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350078/plitki-spb/16015.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350078/plitki-spb/16015.webp"],
-  description: "Авеллино голубой структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино голубой структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 88.0,
   sqm_per_box: 0.98
 },
@@ -2335,7 +2335,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/622/rp0637hbcfnxgjbhz0lrbd3fhpqlyud7.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/622/rp0637hbcfnxgjbhz0lrbd3fhpqlyud7.jpg"],
-  description: "Авеллино серый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 15x15 см. Купить Авеллино серый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино серый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 15x15 см. Купить Авеллино серый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -2354,7 +2354,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/d12/j8zbkpn5eu9ism1hhhmxmcu45hwncz94.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/d12/j8zbkpn5eu9ism1hhhmxmcu45hwncz94.jpg"],
-  description: "Авеллино серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -2373,7 +2373,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350100/plitki-spb/16018.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350100/plitki-spb/16018.webp"],
-  description: "Авеллино серый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино серый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 88.0,
   sqm_per_box: 0.98
 },
@@ -2392,7 +2392,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350113/plitki-spb/17009.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350113/plitki-spb/17009.webp"],
-  description: "Авеллино фисташковый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 15x15 см. Купить Авеллино фисташковый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино фисташковый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 15x15 см. Купить Авеллино фисташковый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -2411,7 +2411,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350126/plitki-spb/16009.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350126/plitki-spb/16009.webp"],
-  description: "Авеллино фисташковый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино фисташковый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -2430,7 +2430,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350138/plitki-spb/16020.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350138/plitki-spb/16020.webp"],
-  description: "Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 88.0,
   sqm_per_box: 0.98
 },
@@ -2449,7 +2449,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350152/plitki-spb/1328.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350152/plitki-spb/1328.webp"],
-  description: "Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2468,7 +2468,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350166/plitki-spb/63005.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350166/plitki-spb/63005.webp"],
-  description: "Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2487,7 +2487,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350180/plitki-spb/1332.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350180/plitki-spb/1332.webp"],
-  description: "Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 9.8x9.8 см. Купить Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 9.8x9.8 см. Купить Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2506,7 +2506,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350194/plitki-spb/63000.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350194/plitki-spb/63000.webp"],
-  description: "Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 29.7x29.8 см. Купить Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 29.7x29.8 см. Купить Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2525,7 +2525,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350210/plitki-spb/63011.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350210/plitki-spb/63011.webp"],
-  description: "Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 29.7x29.8 см. Купить Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 29.7x29.8 см. Купить Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2544,7 +2544,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350223/plitki-spb/1337.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350223/plitki-spb/1337.webp"],
-  description: "Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 9.8x9.8 см. Купить Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 9.8x9.8 см. Купить Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2563,7 +2563,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350238/plitki-spb/63010.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350238/plitki-spb/63010.webp"],
-  description: "Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 29.7x29.8 см. Купить Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 29.7x29.8 см. Купить Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2582,7 +2582,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350252/plitki-spb/1336.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350252/plitki-spb/1336.webp"],
-  description: "Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 9.8x9.8 см. Купить Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 9.8x9.8 см. Купить Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2601,7 +2601,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350263/plitki-spb/1330.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350263/plitki-spb/1330.webp"],
-  description: "Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2620,7 +2620,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350278/plitki-spb/63003.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350278/plitki-spb/63003.webp"],
-  description: "Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2639,7 +2639,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350292/plitki-spb/1329.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350292/plitki-spb/1329.webp"],
-  description: "Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2658,7 +2658,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350305/plitki-spb/63002.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350305/plitki-spb/63002.webp"],
-  description: "Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2677,7 +2677,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350317/plitki-spb/1331.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350317/plitki-spb/1331.webp"],
-  description: "Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2696,7 +2696,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350331/plitki-spb/63004.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350331/plitki-spb/63004.webp"],
-  description: "Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2715,7 +2715,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350346/plitki-spb/63012.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350346/plitki-spb/63012.webp"],
-  description: "Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 29.7x29.8 см. Купить Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 29.7x29.8 см. Купить Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2734,7 +2734,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350359/plitki-spb/1335.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350359/plitki-spb/1335.webp"],
-  description: "Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 9.8x9.8 см. Купить Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 9.8x9.8 см. Купить Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2753,7 +2753,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350373/plitki-spb/1333.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350373/plitki-spb/1333.webp"],
-  description: "Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 9.8x9.8 см. Купить Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 9.8x9.8 см. Купить Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -2772,7 +2772,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350387/plitki-spb/63001.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350387/plitki-spb/63001.webp"],
-  description: "Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 29.7x29.8 см. Купить Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 29.7x29.8 см. Купить Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -2791,7 +2791,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/079/k0dcsly2c09xmf8s9lb7mmo2pqc8o0y9.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/079/k0dcsly2c09xmf8s9lb7mmo2pqc8o0y9.jpg"],
-  description: "Адриатика бежевый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Адриатика бежевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Адриатика бежевый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Адриатика бежевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -2810,7 +2810,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350407/plitki-spb/5303.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350407/plitki-spb/5303.webp"],
-  description: "Адриатика голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Адриатика голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Адриатика голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Адриатика голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -2829,7 +2829,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e9d/bs3u5n9qqtdo28yi2qaurdo557ka2hp1.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e9d/bs3u5n9qqtdo28yi2qaurdo557ka2hp1.jpg"],
-  description: "Адриатика зелёный глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Размер 20x20 см. Купить Адриатика зелёный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Адриатика зелёный глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Размер 20x20 см. Купить Адриатика зелёный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -2848,7 +2848,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350426/plitki-spb/5306.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350426/plitki-spb/5306.webp"],
-  description: "Адриатика серый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Адриатика серый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Адриатика серый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Адриатика серый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -2868,7 +2868,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350439/plitki-spb/9011.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350439/plitki-spb/9011.webp"],
-  description: "Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -2888,7 +2888,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350453/plitki-spb/9010.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350453/plitki-spb/9010.webp"],
-  description: "Аккорд белый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Аккорд белый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд белый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Аккорд белый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -2907,7 +2907,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350466/plitki-spb/9026.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350466/plitki-spb/9026.webp"],
-  description: "Аккорд бордо грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд бордо грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд бордо грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд бордо грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -2926,7 +2926,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350479/plitki-spb/9030.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350479/plitki-spb/9030.webp"],
-  description: "Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -2945,7 +2945,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350491/plitki-spb/9027.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350491/plitki-spb/9027.webp"],
-  description: "Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -2964,7 +2964,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350505/plitki-spb/9028.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350505/plitki-spb/9028.webp"],
-  description: "Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -2983,7 +2983,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350517/plitki-spb/9012.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350517/plitki-spb/9012.webp"],
-  description: "Аккорд зелёный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд зелёный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3002,7 +3002,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350530/plitki-spb/9013.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350530/plitki-spb/9013.webp"],
-  description: "Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3021,7 +3021,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350544/plitki-spb/9023.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350544/plitki-spb/9023.webp"],
-  description: "Аккорд коралловый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд коралловый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд коралловый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд коралловый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3040,7 +3040,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350557/plitki-spb/9029.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350557/plitki-spb/9029.webp"],
-  description: "Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3059,7 +3059,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350570/plitki-spb/9024.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350570/plitki-spb/9024.webp"],
-  description: "Аккорд розовый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд розовый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3078,7 +3078,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350583/plitki-spb/9025.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350583/plitki-spb/9025.webp"],
-  description: "Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3098,7 +3098,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350596/plitki-spb/9014.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350596/plitki-spb/9014.webp"],
-  description: "Аккорд серый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд серый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3117,7 +3117,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350609/plitki-spb/9015.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350609/plitki-spb/9015.webp"],
-  description: "Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3136,7 +3136,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350618/plitki-spb/9031.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350618/plitki-spb/9031.webp"],
-  description: "Аккорд синий грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Аккорд синий грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Аккорд синий грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Аккорд синий грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -3155,7 +3155,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350633/plitki-spb/7198.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350633/plitki-spb/7198.webp"],
-  description: "Алькала белый глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Алькала белый глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3174,7 +3174,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350645/plitki-spb/7199.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350645/plitki-spb/7199.webp"],
-  description: "Алькала белый панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Алькала белый панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3193,7 +3193,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350655/plitki-spb/7200.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350655/plitki-spb/7200.webp"],
-  description: "Алькала черный глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Алькала черный глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3212,7 +3212,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350668/plitki-spb/7201.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350668/plitki-spb/7201.webp"],
-  description: "Алькала черный панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Алькала черный панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3231,7 +3231,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350680/plitki-spb/26300.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350680/plitki-spb/26300.webp"],
-  description: "Амстердам бежевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам бежевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3250,7 +3250,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350689/plitki-spb/26301.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350689/plitki-spb/26301.webp"],
-  description: "Амстердам бежевый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам бежевый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3269,7 +3269,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/d03/pv2tubh93ti3zjr12xz7nrm5mnxlqlip.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/d03/pv2tubh93ti3zjr12xz7nrm5mnxlqlip.jpg"],
-  description: "Амстердам коричневый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам коричневый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3288,7 +3288,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/a1c/09z1ncm39hcovqbwyjm65lmn1628c9lp.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/a1c/09z1ncm39hcovqbwyjm65lmn1628c9lp.jpg"],
-  description: "Амстердам коричневый светлый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам коричневый светлый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3307,7 +3307,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350710/plitki-spb/26306.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350710/plitki-spb/26306.webp"],
-  description: "Амстердам коричневый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам коричневый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3326,7 +3326,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350719/plitki-spb/26303.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350719/plitki-spb/26303.webp"],
-  description: "Амстердам оранжевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Размер 6x28.5 см. Купить Амстердам оранжевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам оранжевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Размер 6x28.5 см. Купить Амстердам оранжевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3345,7 +3345,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/3d5/zdl69e7n2s3xut2x1xcd226ea2gwbzxv.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/3d5/zdl69e7n2s3xut2x1xcd226ea2gwbzxv.jpg"],
-  description: "Амстердам розовый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Розовый. Размер 6x28.5 см. Купить Амстердам розовый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Амстердам розовый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Розовый. Размер 6x28.5 см. Купить Амстердам розовый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -3364,7 +3364,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350736/plitki-spb/65013.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350736/plitki-spb/65013.webp"],
-  description: "Арабески Авейру мозаичный красный глянцевый 26x30x0,7 — керамическая плитка коллекции Авейру от Kerama Marazzi. Цвет: Красный. Размер 26x30 см. Купить Арабески Авейру мозаичный красный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Авейру мозаичный красный глянцевый 26x30x0,7 — керамическая плитка коллекции Авейру от Kerama Marazzi. Цвет: Красный. Размер 26x30 см. Купить Арабески Авейру мозаичный красный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3383,7 +3383,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350750/plitki-spb/65000.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350750/plitki-spb/65000.webp"],
-  description: "Арабески белый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Белый. Размер 26x30 см. Купить Арабески белый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески белый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Белый. Размер 26x30 см. Купить Арабески белый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3402,7 +3402,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350762/plitki-spb/65010.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350762/plitki-spb/65010.webp"],
-  description: "Арабески Майолика бежевый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Бежевый. Размер 26x30 см. Купить Арабески Майолика бежевый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика бежевый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Бежевый. Размер 26x30 см. Купить Арабески Майолика бежевый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3421,7 +3421,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350775/plitki-spb/65006.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350775/plitki-spb/65006.webp"],
-  description: "Арабески Майолика бирюза глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика бирюза глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика бирюза глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика бирюза глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3440,7 +3440,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350788/plitki-spb/65005.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350788/plitki-spb/65005.webp"],
-  description: "Арабески Майолика голубой глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Голубой. Размер 26x30 см. Купить Арабески Майолика голубой глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика голубой глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Голубой. Размер 26x30 см. Купить Арабески Майолика голубой глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3459,7 +3459,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350800/plitki-spb/65009.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350800/plitki-spb/65009.webp"],
-  description: "Арабески Майолика желтый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика желтый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика желтый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика желтый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3478,7 +3478,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350812/plitki-spb/65008.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350812/plitki-spb/65008.webp"],
-  description: "Арабески Майолика зеленый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Зеленый. Размер 26x30 см. Купить Арабески Майолика зеленый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика зеленый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Зеленый. Размер 26x30 см. Купить Арабески Майолика зеленый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3497,7 +3497,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350825/plitki-spb/65011.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350825/plitki-spb/65011.webp"],
-  description: "Арабески Майолика серый светлый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески Майолика серый светлый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика серый светлый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески Майолика серый светлый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3516,7 +3516,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350837/plitki-spb/65007.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350837/plitki-spb/65007.webp"],
-  description: "Арабески Майолика синий глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Синий. Размер 26x30 см. Купить Арабески Майолика синий глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески Майолика синий глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Синий. Размер 26x30 см. Купить Арабески Майолика синий глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3535,7 +3535,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350846/plitki-spb/65012.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350846/plitki-spb/65012.webp"],
-  description: "Арабески серый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески серый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески серый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески серый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3554,7 +3554,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350858/plitki-spb/65001.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350858/plitki-spb/65001.webp"],
-  description: "Арабески черный глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Черный. Размер 26x30 см. Купить Арабески черный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Арабески черный глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески глянцевый от Kerama Marazzi. Цвет: Черный. Размер 26x30 см. Купить Арабески черный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 0.59
 },
@@ -3573,7 +3573,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350871/plitki-spb/7211.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350871/plitki-spb/7211.webp"],
-  description: "Ауленти бежевый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ауленти бежевый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3592,7 +3592,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350882/plitki-spb/7219.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350882/plitki-spb/7219.webp"],
-  description: "Ауленти бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ауленти бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3611,7 +3611,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350896/plitki-spb/7220.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350896/plitki-spb/7220.webp"],
-  description: "Ауленти бежевый светлый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ауленти бежевый светлый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3630,7 +3630,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350907/plitki-spb/7212.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350907/plitki-spb/7212.webp"],
-  description: "Ауленти бежевый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ауленти бежевый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -3650,7 +3650,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350919/plitki-spb/8290.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350919/plitki-spb/8290.webp"],
-  description: "Баккара бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баккара бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -3670,7 +3670,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350932/plitki-spb/8291.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350932/plitki-spb/8291.webp"],
-  description: "Баккара бежевый темный глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый темный глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баккара бежевый темный глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый темный глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -3689,7 +3689,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350944/plitki-spb/8300.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350944/plitki-spb/8300.webp"],
-  description: "Баккара структура глянцевый 20x30x0,77 — керамическая плитка коллекции Баккара от Kerama Marazzi. Размер 20x30 см. Купить Баккара структура глянцевый 20x30x0,77 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баккара структура глянцевый 20x30x0,77 — керамическая плитка коллекции Баккара от Kerama Marazzi. Размер 20x30 см. Купить Баккара структура глянцевый 20x30x0,77 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 23.0,
   sqm_per_box: 1.38
 },
@@ -3708,7 +3708,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350956/plitki-spb/2868.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350956/plitki-spb/2868.webp"],
-  description: "Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3727,7 +3727,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350967/plitki-spb/2841.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350967/plitki-spb/2841.webp"],
-  description: "Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3747,7 +3747,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350979/plitki-spb/2828.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350979/plitki-spb/2828.webp"],
-  description: "Баттерфляй белый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Баттерфляй белый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй белый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Баттерфляй белый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3766,7 +3766,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773350987/plitki-spb/2839.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773350987/plitki-spb/2839.webp"],
-  description: "Баттерфляй голубой глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй голубой глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3785,7 +3785,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e40/rgiv82kjbgbhmsdmv6zrmanb73uhcjva.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e40/rgiv82kjbgbhmsdmv6zrmanb73uhcjva.jpg"],
-  description: "Баттерфляй голубой темный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой темный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй голубой темный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой темный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3804,7 +3804,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351005/plitki-spb/2823.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351005/plitki-spb/2823.webp"],
-  description: "Баттерфляй красный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Красный. Размер 8.5x28.5 см. Купить Баттерфляй красный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй красный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Красный. Размер 8.5x28.5 см. Купить Баттерфляй красный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3823,7 +3823,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/7c9/y0gnzk319r8186pq15dqb461livd0mm6.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/7c9/y0gnzk319r8186pq15dqb461livd0mm6.jpg"],
-  description: "Баттерфляй лазурь глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй лазурь глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй лазурь глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй лазурь глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3842,7 +3842,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351020/plitki-spb/2821.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351020/plitki-spb/2821.webp"],
-  description: "Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3861,7 +3861,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/530/9m44su1iscxi4g063r4t6k0z4rp5cvbj.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/530/9m44su1iscxi4g063r4t6k0z4rp5cvbj.jpg"],
-  description: "Баттерфляй рыжий глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй рыжий глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй рыжий глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй рыжий глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3880,7 +3880,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/678/glv8z51705slakzl73vgmg14ljang2ac.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/678/glv8z51705slakzl73vgmg14ljang2ac.jpg"],
-  description: "Баттерфляй синий глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Баттерфляй синий глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй синий глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Баттерфляй синий глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3899,7 +3899,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/213/l7ol33jod1zvkqf0ma5qrw10s9jwo7os.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/213/l7ol33jod1zvkqf0ma5qrw10s9jwo7os.jpg"],
-  description: "Баттерфляй ультрамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй ультрамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй ультрамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй ультрамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3918,7 +3918,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/6cc/oyelz4lqo8ixsiw150xubi56pq1aguh7.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/6cc/oyelz4lqo8ixsiw150xubi56pq1aguh7.jpg"],
-  description: "Баттерфляй фисташковый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй фисташковый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй фисташковый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй фисташковый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3937,7 +3937,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/9e1/7qhg1xijzgl00p2fcwvhqi9h98w93ohj.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/9e1/7qhg1xijzgl00p2fcwvhqi9h98w93ohj.jpg"],
-  description: "Баттерфляй фисташковый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй фисташковый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй фисташковый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй фисташковый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3956,7 +3956,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/eec/nbg8kk23wmo53bjm95bx43miq76dacq0.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/eec/nbg8kk23wmo53bjm95bx43miq76dacq0.jpg"],
-  description: "Баттерфляй черный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Черный. Размер 8.5x28.5 см. Купить Баттерфляй черный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Баттерфляй черный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Черный. Размер 8.5x28.5 см. Купить Баттерфляй черный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -3975,7 +3975,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351069/plitki-spb/15080.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351069/plitki-spb/15080.webp"],
-  description: "Бельканто белый грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бельканто белый грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 18.0,
   sqm_per_box: 1.08
 },
@@ -3994,7 +3994,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/6bc/39rs3bpit8ak6wl33wn8r64nyl8sstxf.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/6bc/39rs3bpit8ak6wl33wn8r64nyl8sstxf.jpg"],
-  description: "Бельканто белый матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бельканто белый матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4013,7 +4013,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/368/7ec7v1s3i3d7ob0npl84r9ll5c86y717.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/368/7ec7v1s3i3d7ob0npl84r9ll5c86y717.jpg"],
-  description: "Бельканто бордо матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Размер 15x40 см. Купить Бельканто бордо матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бельканто бордо матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Размер 15x40 см. Купить Бельканто бордо матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4032,7 +4032,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351093/plitki-spb/15081.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351093/plitki-spb/15081.webp"],
-  description: "Бельканто черный грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бельканто черный грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 18.0,
   sqm_per_box: 1.08
 },
@@ -4051,7 +4051,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351105/plitki-spb/15078.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351105/plitki-spb/15078.webp"],
-  description: "Бельканто черный матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бельканто черный матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4070,7 +4070,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351119/plitki-spb/6402.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351119/plitki-spb/6402.webp"],
-  description: "Борромео бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Борромео бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Борромео бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Борромео бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -4089,7 +4089,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351133/plitki-spb/6403.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351133/plitki-spb/6403.webp"],
-  description: "Борромео голубой матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Борромео голубой матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Борромео голубой матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Борромео голубой матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -4108,7 +4108,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351142/plitki-spb/6404.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351142/plitki-spb/6404.webp"],
-  description: "Борромео матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Размер 25x40 см. Купить Борромео матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Борромео матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Размер 25x40 см. Купить Борромео матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -4127,7 +4127,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e1a/k7t2nqwrldr017tdven5ngr7yun1cat7.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e1a/k7t2nqwrldr017tdven5ngr7yun1cat7.jpg"],
-  description: "Брюссель бежевый матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Брюссель бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Брюссель бежевый матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Брюссель бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -4146,7 +4146,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/d66/7n5aqehs61ikunj3myfji5b8ok3b8abu.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/d66/7n5aqehs61ikunj3myfji5b8ok3b8abu.jpg"],
-  description: "Брюссель бежевый матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Брюссель бежевый матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Брюссель бежевый матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Брюссель бежевый матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -4165,7 +4165,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/52d/on7t6t17n0zvsg310obf8it6ghbs4rm2.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/52d/on7t6t17n0zvsg310obf8it6ghbs4rm2.jpg"],
-  description: "Брюссель бежевый светлый матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Брюссель бежевый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Брюссель бежевый светлый матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Брюссель бежевый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -4184,7 +4184,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/36b/393xv0e4nlm73sbapacfq2ss7vanfv0c.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/36b/393xv0e4nlm73sbapacfq2ss7vanfv0c.jpg"],
-  description: "Брюссель бежевый светлый матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Брюссель бежевый светлый матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Брюссель бежевый светлый матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Брюссель бежевый светлый матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -4203,7 +4203,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/b52/h63j082fipxj6fbxp9smi8pzqcs1xpz4.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/b52/h63j082fipxj6fbxp9smi8pzqcs1xpz4.jpg"],
-  description: "Брюссель микс матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Размер 6x28.5 см. Купить Брюссель микс матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Брюссель микс матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Размер 6x28.5 см. Купить Брюссель микс матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -4222,7 +4222,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e8f/yv7cnloxwfxpt82nzg8dixrm9lwfx27o.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e8f/yv7cnloxwfxpt82nzg8dixrm9lwfx27o.jpg"],
-  description: "Брюссель микс матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Размер 9.8x9.8 см. Купить Брюссель микс матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Брюссель микс матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Размер 9.8x9.8 см. Купить Брюссель микс матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 8.0,
   sqm_per_box: 0.922
 },
@@ -4241,7 +4241,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351198/plitki-spb/60000.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351198/plitki-spb/60000.webp"],
-  description: "Бьянка белый глянцевый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4260,7 +4260,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/8ab/eyzih3x83zp2mce3d2dcpzd6wqqg7riq.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/8ab/eyzih3x83zp2mce3d2dcpzd6wqqg7riq.jpg"],
-  description: "Бьянка белый глянцевый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4279,7 +4279,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/c01/00fuo0g25cbcjn0hn8kq96la2qf1tbcc.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/c01/00fuo0g25cbcjn0hn8kq96la2qf1tbcc.jpg"],
-  description: "Бьянка белый глянцевый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4298,7 +4298,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/9bd/7q27o5rbsb9n4ml6gwhceyb2ab56niy9.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/9bd/7q27o5rbsb9n4ml6gwhceyb2ab56niy9.jpg"],
-  description: "Бьянка белый глянцевый вуд 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый вуд 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый вуд 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый вуд 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4317,7 +4317,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351229/plitki-spb/60171.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351229/plitki-spb/60171.webp"],
-  description: "Бьянка белый глянцевый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4336,7 +4336,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351241/plitki-spb/60176.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351241/plitki-spb/60176.webp"],
-  description: "Бьянка белый глянцевый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4355,7 +4355,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351253/plitki-spb/60172.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351253/plitki-spb/60172.webp"],
-  description: "Бьянка белый глянцевый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый глянцевый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4374,7 +4374,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351265/plitki-spb/60161.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351265/plitki-spb/60161.webp"],
-  description: "Бьянка белый матовый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4393,7 +4393,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351277/plitki-spb/60166.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351277/plitki-spb/60166.webp"],
-  description: "Бьянка белый матовый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4412,7 +4412,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351290/plitki-spb/60165.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351290/plitki-spb/60165.webp"],
-  description: "Бьянка белый матовый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4431,7 +4431,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/30b/cfxr14fpkq44aucbt1xtlk7teizkmnm1.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/30b/cfxr14fpkq44aucbt1xtlk7teizkmnm1.jpg"],
-  description: "Бьянка белый матовый вуд 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый вуд 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый вуд 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый вуд 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4450,7 +4450,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351308/plitki-spb/60167.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351308/plitki-spb/60167.webp"],
-  description: "Бьянка белый матовый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4469,7 +4469,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351320/plitki-spb/60174.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351320/plitki-spb/60174.webp"],
-  description: "Бьянка белый матовый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4488,7 +4488,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351333/plitki-spb/60168.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351333/plitki-spb/60168.webp"],
-  description: "Бьянка белый матовый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Бьянка белый матовый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.2
 },
@@ -4508,7 +4508,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351345/plitki-spb/8246.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351345/plitki-spb/8246.webp"],
-  description: "Вилла Флоридиана бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилла Флоридиана бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -4527,7 +4527,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351358/plitki-spb/8245.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351358/plitki-spb/8245.webp"],
-  description: "Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -4547,7 +4547,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351370/plitki-spb/8247.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351370/plitki-spb/8247.webp"],
-  description: "Вилла Флоридиана коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Вилла Флоридиана коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилла Флоридиана коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Вилла Флоридиана коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -4566,7 +4566,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351383/plitki-spb/15084.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351383/plitki-spb/15084.webp"],
-  description: "Вилланелла бежевый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла бежевый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4585,7 +4585,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351392/plitki-spb/15077.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351392/plitki-spb/15077.webp"],
-  description: "Вилланелла бежевый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла бежевый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 18.0,
   sqm_per_box: 1.08
 },
@@ -4605,7 +4605,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/252/gh3143e1auv4ifiyt23m6xtutato2kwn.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/252/gh3143e1auv4ifiyt23m6xtutato2kwn.jpg"],
-  description: "Вилланелла белый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла белый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4624,7 +4624,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351415/plitki-spb/15075.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351415/plitki-spb/15075.webp"],
-  description: "Вилланелла белый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла белый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 18.0,
   sqm_per_box: 1.08
 },
@@ -4643,7 +4643,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351428/plitki-spb/15072.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351428/plitki-spb/15072.webp"],
-  description: "Вилланелла коричневый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Коричневый. Размер 15x40 см. Купить Вилланелла коричневый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла коричневый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Коричневый. Размер 15x40 см. Купить Вилланелла коричневый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4662,7 +4662,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351440/plitki-spb/15070.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351440/plitki-spb/15070.webp"],
-  description: "Вилланелла серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4681,7 +4681,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351453/plitki-spb/15071.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351453/plitki-spb/15071.webp"],
-  description: "Вилланелла серый темный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый темный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла серый темный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый темный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4700,7 +4700,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/87c/5roc7tv222hudcu1tdvmm3yskexpo76k.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/87c/5roc7tv222hudcu1tdvmm3yskexpo76k.jpg"],
-  description: "Вилланелла черный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла черный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -4719,7 +4719,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351473/plitki-spb/15076.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351473/plitki-spb/15076.webp"],
-  description: "Вилланелла черный грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вилланелла черный грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 18.0,
   sqm_per_box: 1.08
 },
@@ -4738,7 +4738,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351484/plitki-spb/6436.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351484/plitki-spb/6436.webp"],
-  description: "Винетта бежевый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Винетта от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Винетта бежевый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Винетта бежевый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Винетта от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Винетта бежевый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -4757,7 +4757,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351497/plitki-spb/17063.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351497/plitki-spb/17063.webp"],
-  description: "Витраж белый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Витраж белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Витраж белый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Витраж белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -4776,7 +4776,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351510/plitki-spb/17067.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351510/plitki-spb/17067.webp"],
-  description: "Витраж голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Витраж голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Витраж голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Витраж голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -4795,7 +4795,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351523/plitki-spb/17064.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351523/plitki-spb/17064.webp"],
-  description: "Витраж желтый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж желтый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Витраж желтый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж желтый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -4814,7 +4814,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/830/olian2g8kec9ojpzj2w1811fq8pulwih.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/830/olian2g8kec9ojpzj2w1811fq8pulwih.jpg"],
-  description: "Витраж оранжевый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж оранжевый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Витраж оранжевый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж оранжевый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -4833,7 +4833,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351542/plitki-spb/17065.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351542/plitki-spb/17065.webp"],
-  description: "Витраж синий глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Синий. Размер 15x15 см. Купить Витраж синий глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Витраж синий глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Синий. Размер 15x15 см. Купить Витраж синий глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -4852,7 +4852,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351555/plitki-spb/20095.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351555/plitki-spb/20095.webp"],
-  description: "Вяз бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вяз бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.066
 },
@@ -4871,7 +4871,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351568/plitki-spb/20096.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351568/plitki-spb/20096.webp"],
-  description: "Вяз бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Вяз бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.066
 },
@@ -4891,7 +4891,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351581/plitki-spb/9001.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351581/plitki-spb/9001.webp"],
-  description: "Гамма белый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Гамма белый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма белый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Гамма белый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -4910,7 +4910,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351593/plitki-spb/9007.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351593/plitki-spb/9007.webp"],
-  description: "Гамма кофе с молоком матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма кофе с молоком матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма кофе с молоком матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма кофе с молоком матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -4929,7 +4929,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351604/plitki-spb/9004.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351604/plitki-spb/9004.webp"],
-  description: "Гамма серый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Гамма серый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма серый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Гамма серый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -4948,7 +4948,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351616/plitki-spb/9006.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351616/plitki-spb/9006.webp"],
-  description: "Гамма топленое молоко матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма топленое молоко матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма топленое молоко матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма топленое молоко матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -4967,7 +4967,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/8c6/2oxtm443gc1v3kpohogjv4x7zxt44jfr.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/8c6/2oxtm443gc1v3kpohogjv4x7zxt44jfr.jpg"],
-  description: "Гамма фисташковый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма фисташковый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -4986,7 +4986,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351637/plitki-spb/9003.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351637/plitki-spb/9003.webp"],
-  description: "Гамма фисташковый светлый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый светлый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма фисташковый светлый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый светлый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -5005,7 +5005,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/06a/pktu273d3ma5kle16rbngv9eirx5zyjz.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/06a/pktu273d3ma5kle16rbngv9eirx5zyjz.jpg"],
-  description: "Гамма чёрный матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма чёрный матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гамма чёрный матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма чёрный матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -5024,7 +5024,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351661/plitki-spb/6341.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351661/plitki-spb/6341.webp"],
-  description: "Гран Пале бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гран Пале бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -5043,7 +5043,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351675/plitki-spb/6353.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351675/plitki-spb/6353.webp"],
-  description: "Гран Пале бежевый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гран Пале бежевый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 0.9
 },
@@ -5062,7 +5062,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351689/plitki-spb/6343.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351689/plitki-spb/6343.webp"],
-  description: "Гран Пале белый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гран Пале белый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -5081,7 +5081,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351702/plitki-spb/6357.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351702/plitki-spb/6357.webp"],
-  description: "Гран Пале белый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гран Пале белый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 0.9
 },
@@ -5101,7 +5101,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351717/plitki-spb/6342.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351717/plitki-spb/6342.webp"],
-  description: "Гран Пале серый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гран Пале серый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -5120,7 +5120,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351730/plitki-spb/6354.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351730/plitki-spb/6354.webp"],
-  description: "Гран Пале серый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Гран Пале серый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 0.9
 },
@@ -5140,7 +5140,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351739/plitki-spb/17000.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351739/plitki-spb/17000.webp"],
-  description: "Граньяно белый глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Граньяно белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно белый глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Граньяно белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -5160,7 +5160,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/f72/bk9kmf4j1xkf01jzw07a2veyfm6a7ar1.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/f72/bk9kmf4j1xkf01jzw07a2veyfm6a7ar1.jpg"],
-  description: "Граньяно белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -5180,7 +5180,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351761/plitki-spb/16032.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351761/plitki-spb/16032.webp"],
-  description: "Граньяно белый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно белый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -5199,7 +5199,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351771/plitki-spb/17014.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351771/plitki-spb/17014.webp"],
-  description: "Граньяно красный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 15x15 см. Купить Граньяно красный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно красный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 15x15 см. Купить Граньяно красный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -5218,7 +5218,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/167/5gdb4ocjcuu0zewjqfjqh6eeuk5or4mn.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/167/5gdb4ocjcuu0zewjqfjqh6eeuk5or4mn.jpg"],
-  description: "Граньяно красный глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 7.4x15 см. Купить Граньяно красный глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно красный глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 7.4x15 см. Купить Граньяно красный глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -5237,7 +5237,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351789/plitki-spb/17013.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351789/plitki-spb/17013.webp"],
-  description: "Граньяно чёрный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 15x15 см. Купить Граньяно чёрный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно чёрный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 15x15 см. Купить Граньяно чёрный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -5256,7 +5256,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/9e4/57d7uo94sxcrb1p4a26v58l31k7241mr.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/9e4/57d7uo94sxcrb1p4a26v58l31k7241mr.jpg"],
-  description: "Граньяно чёрный глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 7.4x15 см. Купить Граньяно чёрный глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно чёрный глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 7.4x15 см. Купить Граньяно чёрный глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -5275,7 +5275,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351811/plitki-spb/16033.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351811/plitki-spb/16033.webp"],
-  description: "Граньяно черный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Черный. Размер 7.4x15 см. Купить Граньяно черный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граньяно черный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Черный. Размер 7.4x15 см. Купить Граньяно черный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -5294,7 +5294,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/2fd/70uohfx0rkuyafxmmqwk7l5baa1jo23h.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/2fd/70uohfx0rkuyafxmmqwk7l5baa1jo23h.jpg"],
-  description: "Граффити белый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Граффити белый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граффити белый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Граффити белый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 46.0,
   sqm_per_box: 0.91
 },
@@ -5313,7 +5313,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351834/plitki-spb/19066.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351834/plitki-spb/19066.webp"],
-  description: "Граффити серый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граффити серый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 46.0,
   sqm_per_box: 0.91
 },
@@ -5332,7 +5332,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351847/plitki-spb/19065.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351847/plitki-spb/19065.webp"],
-  description: "Граффити серый светлый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый светлый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граффити серый светлый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый светлый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 46.0,
   sqm_per_box: 0.91
 },
@@ -5351,7 +5351,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351860/plitki-spb/19067.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351860/plitki-spb/19067.webp"],
-  description: "Граффити серый темный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый темный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граффити серый темный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый темный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 46.0,
   sqm_per_box: 0.91
 },
@@ -5370,7 +5370,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351872/plitki-spb/19061.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351872/plitki-spb/19061.webp"],
-  description: "Граффити черный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Черный. Размер 9.9x20 см. Купить Граффити черный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Граффити черный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Черный. Размер 9.9x20 см. Купить Граффити черный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 46.0,
   sqm_per_box: 0.91
 },
@@ -5389,7 +5389,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351884/plitki-spb/9036.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351884/plitki-spb/9036.webp"],
-  description: "Дарсена голубой глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Дарсена от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Дарсена голубой глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Дарсена голубой глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Дарсена от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Дарсена голубой глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -5408,7 +5408,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351895/plitki-spb/9034.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351895/plitki-spb/9034.webp"],
-  description: "Дорато белый грань матовый 8,5x28,5x0,92 — керамическая плитка коллекции Дорато от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Дорато белый грань матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Дорато белый грань матовый 8,5x28,5x0,92 — керамическая плитка коллекции Дорато от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Дорато белый грань матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.97
 },
@@ -5427,7 +5427,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351908/plitki-spb/20099.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351908/plitki-spb/20099.webp"],
-  description: "Золотой пляж бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.066
 },
@@ -5446,7 +5446,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351917/plitki-spb/20098.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351917/plitki-spb/20098.webp"],
-  description: "Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.066
 },
@@ -5465,7 +5465,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e0e/vid0bc3iul372qqgxle59ldzpldkjxco.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e0e/vid0bc3iul372qqgxle59ldzpldkjxco.jpg"],
-  description: "Золотой пляж матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.066
 },
@@ -5484,7 +5484,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351936/plitki-spb/8262.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351936/plitki-spb/8262.webp"],
-  description: "Золотой пляж светлый бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж светлый бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -5503,7 +5503,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351944/plitki-spb/8264.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351944/plitki-spb/8264.webp"],
-  description: "Золотой пляж светлый бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж светлый бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 1.2
 },
@@ -5522,7 +5522,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351957/plitki-spb/20097.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351957/plitki-spb/20097.webp"],
-  description: "Золотой пляж светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 13.0,
   sqm_per_box: 1.066
 },
@@ -5541,7 +5541,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351970/plitki-spb/8263.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351970/plitki-spb/8263.webp"],
-  description: "Золотой пляж темный бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж темный бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -5560,7 +5560,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/049/ttrb91g46n5kw5os0eav2aazgvvl08kz.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/049/ttrb91g46n5kw5os0eav2aazgvvl08kz.jpg"],
-  description: "Золотой пляж темный бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Золотой пляж темный бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 1.2
 },
@@ -5580,7 +5580,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773351985/plitki-spb/5281.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773351985/plitki-spb/5281.webp"],
-  description: "Калейдоскоп аквамарин светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп аквамарин светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп аквамарин светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп аквамарин светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5599,7 +5599,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352000/plitki-spb/5276.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352000/plitki-spb/5276.webp"],
-  description: "Калейдоскоп бежевый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп бежевый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп бежевый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп бежевый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5619,7 +5619,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/792/wdmlaz1djak8a47qh2lkhbno7kwy0g2y.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/792/wdmlaz1djak8a47qh2lkhbno7kwy0g2y.jpg"],
-  description: "Калейдоскоп белый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Калейдоскоп белый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп белый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Калейдоскоп белый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5639,7 +5639,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/792/wdmlaz1djak8a47qh2lkhbno7kwy0g2y.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/792/wdmlaz1djak8a47qh2lkhbno7kwy0g2y.jpg"],
-  description: "Калейдоскоп белый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Калейдоскоп белый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп белый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Калейдоскоп белый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5658,7 +5658,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352020/plitki-spb/5185.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352020/plitki-spb/5185.webp"],
-  description: "Калейдоскоп бирюза матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бирюза матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп бирюза матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бирюза матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5677,7 +5677,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352035/plitki-spb/5188.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352035/plitki-spb/5188.webp"],
-  description: "Калейдоскоп бордо матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бордо матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп бордо матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бордо матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5696,7 +5696,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e5a/nvzrcp2gmsx10zeo4wlhpw5790k9tvm7.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e5a/nvzrcp2gmsx10zeo4wlhpw5790k9tvm7.jpg"],
-  description: "Калейдоскоп голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5716,7 +5716,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/b9d/qdswefpxkhw32t1i64ryk6upygejdr1a.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/b9d/qdswefpxkhw32t1i64ryk6upygejdr1a.jpg"],
-  description: "Калейдоскоп голубой матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп голубой матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5735,7 +5735,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352065/plitki-spb/5280.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352065/plitki-spb/5280.webp"],
-  description: "Калейдоскоп голубой светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп голубой светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5755,7 +5755,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352075/plitki-spb/5182.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352075/plitki-spb/5182.webp"],
-  description: "Калейдоскоп графит матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Графит. Размер 20x20 см. Купить Калейдоскоп графит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп графит матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Графит. Размер 20x20 см. Купить Калейдоскоп графит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5774,7 +5774,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352087/plitki-spb/5011.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352087/plitki-spb/5011.webp"],
-  description: "Калейдоскоп желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5794,7 +5794,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/0dd/evsvg2mo900bvqwautvsi5do1erbwjwy.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/0dd/evsvg2mo900bvqwautvsi5do1erbwjwy.jpg"],
-  description: "Калейдоскоп зеленый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Калейдоскоп зеленый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп зеленый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Калейдоскоп зеленый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5814,7 +5814,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/415/fk1yiuxd2cwk7053r7usby4xjrxz7n5g.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/415/fk1yiuxd2cwk7053r7usby4xjrxz7n5g.jpg"],
-  description: "Калейдоскоп зеленый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Калейдоскоп зеленый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп зеленый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Калейдоскоп зеленый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5833,7 +5833,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352115/plitki-spb/5278.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352115/plitki-spb/5278.webp"],
-  description: "Калейдоскоп зелёный тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп зелёный тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп зелёный тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп зелёный тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5853,7 +5853,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/1ef/hri61yt4chh7taixo55s8wr8o0hw1wb0.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/1ef/hri61yt4chh7taixo55s8wr8o0hw1wb0.jpg"],
-  description: "Калейдоскоп красный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Красный. Размер 20x20 см. Купить Калейдоскоп красный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп красный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Красный. Размер 20x20 см. Купить Калейдоскоп красный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5873,7 +5873,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/dc1/hemvxpn7yx91zmuucmeouh0n2c637ucp.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/dc1/hemvxpn7yx91zmuucmeouh0n2c637ucp.jpg"],
-  description: "Калейдоскоп лазурный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп лазурный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп лазурный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп лазурный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5892,7 +5892,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352139/plitki-spb/5057.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352139/plitki-spb/5057.webp"],
-  description: "Калейдоскоп оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5911,7 +5911,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352148/plitki-spb/5187.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352148/plitki-spb/5187.webp"],
-  description: "Калейдоскоп оранжевый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп оранжевый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5931,7 +5931,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/3f2/r797p0p9pktpysohzxze1e20wzxbi4sg.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/3f2/r797p0p9pktpysohzxze1e20wzxbi4sg.jpg"],
-  description: "Калейдоскоп оранжевый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп оранжевый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5951,7 +5951,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/641/6cqgejohyacead5j6yv23h6y200egas4.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/641/6cqgejohyacead5j6yv23h6y200egas4.jpg"],
-  description: "Калейдоскоп пепельный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп пепельный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп пепельный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп пепельный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5970,7 +5970,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352171/plitki-spb/5177.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352171/plitki-spb/5177.webp"],
-  description: "Калейдоскоп персиковый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп персиковый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп персиковый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп персиковый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -5989,7 +5989,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352180/plitki-spb/5181.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352180/plitki-spb/5181.webp"],
-  description: "Калейдоскоп песок матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп песок матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп песок матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп песок матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6008,7 +6008,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352189/plitki-spb/5184.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352189/plitki-spb/5184.webp"],
-  description: "Калейдоскоп розовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп розовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6027,7 +6027,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352197/plitki-spb/5169.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352197/plitki-spb/5169.webp"],
-  description: "Калейдоскоп розовый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп розовый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6046,7 +6046,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352206/plitki-spb/5186.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352206/plitki-spb/5186.webp"],
-  description: "Калейдоскоп розовый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп розовый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6066,7 +6066,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352214/plitki-spb/5179.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352214/plitki-spb/5179.webp"],
-  description: "Калейдоскоп серо-бежевый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп серо-бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп серо-бежевый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп серо-бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6086,7 +6086,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/73d/w953rawz9lsmixl5f790i1r3ixdj77t1.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/73d/w953rawz9lsmixl5f790i1r3ixdj77t1.jpg"],
-  description: "Калейдоскоп серый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Калейдоскоп серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп серый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Калейдоскоп серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6106,7 +6106,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/305/0wfw9v85gyrjku3iiamfd27fo7zygklq.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/305/0wfw9v85gyrjku3iiamfd27fo7zygklq.jpg"],
-  description: "Калейдоскоп серый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Калейдоскоп серый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп серый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Калейдоскоп серый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6125,7 +6125,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/2f2/u0m55g80hzbewmxy6gq0hvecvqf6iqt9.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/2f2/u0m55g80hzbewmxy6gq0hvecvqf6iqt9.jpg"],
-  description: "Калейдоскоп синий матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Калейдоскоп синий матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп синий матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Калейдоскоп синий матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6145,7 +6145,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352252/plitki-spb/5275.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352252/plitki-spb/5275.webp"],
-  description: "Калейдоскоп слоновая кость матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп слоновая кость матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп слоновая кость матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп слоновая кость матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6165,7 +6165,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352260/plitki-spb/5180.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352260/plitki-spb/5180.webp"],
-  description: "Калейдоскоп стальной матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп стальной матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп стальной матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп стальной матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6184,7 +6184,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352269/plitki-spb/5114.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352269/plitki-spb/5114.webp"],
-  description: "Калейдоскоп фиолетовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп фиолетовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп фиолетовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп фиолетовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6203,7 +6203,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352280/plitki-spb/5115.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352280/plitki-spb/5115.webp"],
-  description: "Калейдоскоп черный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Черный. Размер 20x20 см. Купить Калейдоскоп черный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп черный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Черный. Размер 20x20 см. Купить Калейдоскоп черный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6223,7 +6223,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/c9e/24nkv33w452zybnmoireakh6dmi01z1d.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/c9e/24nkv33w452zybnmoireakh6dmi01z1d.jpg"],
-  description: "Калейдоскоп ярко-желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп ярко-желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Калейдоскоп ярко-желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп ярко-желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6242,7 +6242,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/799/d2g3gvhqp531kkzw2ppwymp75hkac4w4.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/799/d2g3gvhqp531kkzw2ppwymp75hkac4w4.jpg"],
-  description: "Кампанила бежевый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Кампанила бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кампанила бежевый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Кампанила бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -6261,7 +6261,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/132/6akfy2gfdiskbczib1nxgtxj2dmx4xcz.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/132/6akfy2gfdiskbczib1nxgtxj2dmx4xcz.jpg"],
-  description: "Кампанила коричневый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Кампанила коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кампанила коричневый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Кампанила коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -6280,7 +6280,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/0d8/x3z05e4thnovf8v5e39c6morf2m4tpgg.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/0d8/x3z05e4thnovf8v5e39c6morf2m4tpgg.jpg"],
-  description: "Кампанила коричневый тёмный матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Кампанила коричневый тёмный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кампанила коричневый тёмный матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Кампанила коричневый тёмный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -6299,7 +6299,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/b63/futaj6hxgxi750t621z9qpc6xy3bp2e0.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/b63/futaj6hxgxi750t621z9qpc6xy3bp2e0.jpg"],
-  description: "Кампанила оранжевый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Размер 6x28.5 см. Купить Кампанила оранжевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кампанила оранжевый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Размер 6x28.5 см. Купить Кампанила оранжевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -6318,7 +6318,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/a2b/zjzcokhwwufutimfhzszq0fp58g5ixm3.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/a2b/zjzcokhwwufutimfhzszq0fp58g5ixm3.jpg"],
-  description: "Кампанила серый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Серый. Размер 6x28.5 см. Купить Кампанила серый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кампанила серый матовый 6x28,5x1 — керамическая плитка коллекции Кампанила от Kerama Marazzi. Цвет: Серый. Размер 6x28.5 см. Купить Кампанила серый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -6337,7 +6337,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352329/plitki-spb/7245.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352329/plitki-spb/7245.webp"],
-  description: "Каннареджо бежевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каннареджо бежевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6356,7 +6356,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352343/plitki-spb/7240.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352343/plitki-spb/7240.webp"],
-  description: "Каннареджо бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каннареджо бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6375,7 +6375,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/4d1/723fr67vism5jx0rrlfw6j2hlf2qz0j0.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/4d1/723fr67vism5jx0rrlfw6j2hlf2qz0j0.jpg"],
-  description: "Каннареджо зелёный светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо зелёный светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каннареджо зелёный светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо зелёный светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6394,7 +6394,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352362/plitki-spb/7254.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352362/plitki-spb/7254.webp"],
-  description: "Каннареджо оранжевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо оранжевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каннареджо оранжевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо оранжевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6413,7 +6413,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352375/plitki-spb/7242.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352375/plitki-spb/7242.webp"],
-  description: "Каннареджо синий светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Синий. Размер 20x50 см. Купить Каннареджо синий светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каннареджо синий светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Синий. Размер 20x50 см. Купить Каннареджо синий светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6432,7 +6432,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/881/1c25iqhjkes5juc1d57cdgf8dhhstt3m.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/881/1c25iqhjkes5juc1d57cdgf8dhhstt3m.jpg"],
-  description: "Кантата белый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Кантата белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантата белый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Кантата белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -6451,7 +6451,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352395/plitki-spb/6431.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352395/plitki-spb/6431.webp"],
-  description: "Кантата серый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантата серый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -6470,7 +6470,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352407/plitki-spb/6430.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352407/plitki-spb/6430.webp"],
-  description: "Кантата серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантата серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -6489,7 +6489,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352420/plitki-spb/7186.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352420/plitki-spb/7186.webp"],
-  description: "Кантри Шик белый матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантри Шик белый матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6508,7 +6508,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352434/plitki-spb/7191.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352434/plitki-spb/7191.webp"],
-  description: "Кантри Шик белый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантри Шик белый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6527,7 +6527,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352447/plitki-spb/7188.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352447/plitki-spb/7188.webp"],
-  description: "Кантри Шик белый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантри Шик белый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6546,7 +6546,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352461/plitki-spb/7187.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352461/plitki-spb/7187.webp"],
-  description: "Кантри Шик Полоски матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Размер 20x50 см. Купить Кантри Шик Полоски матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантри Шик Полоски матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Размер 20x50 см. Купить Кантри Шик Полоски матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6565,7 +6565,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352474/plitki-spb/7192.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352474/plitki-spb/7192.webp"],
-  description: "Кантри Шик серый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантри Шик серый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6584,7 +6584,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352487/plitki-spb/7189.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352487/plitki-spb/7189.webp"],
-  description: "Кантри Шик серый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кантри Шик серый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -6603,7 +6603,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352501/plitki-spb/5241.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352501/plitki-spb/5241.webp"],
-  description: "Капри голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Капри голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Капри голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Капри голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6622,7 +6622,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352515/plitki-spb/5240.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352515/plitki-spb/5240.webp"],
-  description: "Капри жёлтый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри жёлтый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Капри жёлтый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри жёлтый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6641,7 +6641,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352529/plitki-spb/5242.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352529/plitki-spb/5242.webp"],
-  description: "Капри зелёный тёмный глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри зелёный тёмный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Капри зелёный тёмный глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри зелёный тёмный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6660,7 +6660,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/f88/oyai1lfpjfzw5c4t10n99j7spmga5sig.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/f88/oyai1lfpjfzw5c4t10n99j7spmga5sig.jpg"],
-  description: "Капри оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Капри оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6679,7 +6679,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352554/plitki-spb/5232.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352554/plitki-spb/5232.webp"],
-  description: "Капри светлый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри светлый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Капри светлый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри светлый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6698,7 +6698,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352568/plitki-spb/5239.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352568/plitki-spb/5239.webp"],
-  description: "Капри синий глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Капри синий глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Капри синий глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Капри синий глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -6717,7 +6717,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352580/plitki-spb/8352.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352580/plitki-spb/8352.webp"],
-  description: "Каприччо белый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Каприччо белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каприччо белый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Каприччо белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -6736,7 +6736,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352593/plitki-spb/8354.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352593/plitki-spb/8354.webp"],
-  description: "Каприччо коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Каприччо коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каприччо коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Каприччо коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -6755,7 +6755,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352606/plitki-spb/8353.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352606/plitki-spb/8353.webp"],
-  description: "Каприччо серый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Каприччо серый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Каприччо серый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Каприччо серый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -6774,7 +6774,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352615/plitki-spb/191.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352615/plitki-spb/191.webp"],
-  description: "Карандаш алый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш алый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш алый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш алый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6792,7 +6792,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352624/plitki-spb/136.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352624/plitki-spb/136.webp"],
-  description: "Карандаш бежевый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш бежевый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш бежевый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш бежевый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6810,7 +6810,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/5bd/p14i0vm5fs55dc432cy1o27pb9fd4wp5.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/5bd/p14i0vm5fs55dc432cy1o27pb9fd4wp5.jpg"],
-  description: "Карандаш бежевый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш бежевый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш бежевый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш бежевый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6828,7 +6828,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352644/plitki-spb/85.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352644/plitki-spb/85.webp"],
-  description: "Карандаш бежевый светлый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 25x2 см. Купить Карандаш бежевый светлый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш бежевый светлый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 25x2 см. Купить Карандаш бежевый светлый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6846,7 +6846,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352656/plitki-spb/130.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352656/plitki-spb/130.webp"],
-  description: "Карандаш белый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 20x1.5 см. Купить Карандаш белый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш белый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 20x1.5 см. Купить Карандаш белый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6864,7 +6864,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352669/plitki-spb/86.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352669/plitki-spb/86.webp"],
-  description: "Карандаш белый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 25x2 см. Купить Карандаш белый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш белый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 25x2 см. Купить Карандаш белый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6882,7 +6882,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352682/plitki-spb/151.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352682/plitki-spb/151.webp"],
-  description: "Карандаш белый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 20x1.5 см. Купить Карандаш белый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш белый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 20x1.5 см. Купить Карандаш белый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6900,7 +6900,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352691/plitki-spb/70.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352691/plitki-spb/70.webp"],
-  description: "Карандаш белый матовый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 25x2 см. Купить Карандаш белый матовый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш белый матовый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Белый. Размер 25x2 см. Купить Карандаш белый матовый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6918,7 +6918,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352704/plitki-spb/205.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352704/plitki-spb/205.webp"],
-  description: "Карандаш волна коричневый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш волна коричневый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш волна коричневый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш волна коричневый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6936,7 +6936,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352716/plitki-spb/181.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352716/plitki-spb/181.webp"],
-  description: "Карандаш Волна металл глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш Волна металл глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш Волна металл глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш Волна металл глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6954,7 +6954,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352729/plitki-spb/153.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352729/plitki-spb/153.webp"],
-  description: "Карандаш голубой глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Голубой. Размер 20x1.5 см. Купить Карандаш голубой глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш голубой глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Голубой. Размер 20x1.5 см. Купить Карандаш голубой глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6972,7 +6972,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352741/plitki-spb/211.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352741/plitki-spb/211.webp"],
-  description: "Карандаш Дерево бежевый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш Дерево бежевый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш Дерево бежевый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Бежевый. Размер 20x1.5 см. Купить Карандаш Дерево бежевый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -6990,7 +6990,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352753/plitki-spb/212.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352753/plitki-spb/212.webp"],
-  description: "Карандаш Дерево коричневый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш Дерево коричневый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш Дерево коричневый матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш Дерево коричневый матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7008,7 +7008,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352768/plitki-spb/132.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352768/plitki-spb/132.webp"],
-  description: "Карандаш желтый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш желтый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш желтый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш желтый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7026,7 +7026,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352778/plitki-spb/154.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352778/plitki-spb/154.webp"],
-  description: "Карандаш желтый светлый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш желтый светлый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш желтый светлый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш желтый светлый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7044,7 +7044,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352789/plitki-spb/138.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352789/plitki-spb/138.webp"],
-  description: "Карандаш зелено-голубой глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Голубой. Размер 20x1.5 см. Купить Карандаш зелено-голубой глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш зелено-голубой глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Голубой. Размер 20x1.5 см. Купить Карандаш зелено-голубой глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7062,7 +7062,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352800/plitki-spb/141.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352800/plitki-spb/141.webp"],
-  description: "Карандаш зеленый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 20x1.5 см. Купить Карандаш зеленый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш зеленый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 20x1.5 см. Купить Карандаш зеленый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7080,7 +7080,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352813/plitki-spb/91.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352813/plitki-spb/91.webp"],
-  description: "Карандаш зеленый светлый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 25x2 см. Купить Карандаш зеленый светлый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш зеленый светлый глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 25x2 см. Купить Карандаш зеленый светлый глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7098,7 +7098,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352822/plitki-spb/133.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352822/plitki-spb/133.webp"],
-  description: "Карандаш зеленый темный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 20x1.5 см. Купить Карандаш зеленый темный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш зеленый темный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Зеленый. Размер 20x1.5 см. Купить Карандаш зеленый темный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7116,7 +7116,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352834/plitki-spb/210.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352834/plitki-spb/210.webp"],
-  description: "Карандаш золото глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш золото глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш золото глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш золото глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 32.0
 },
 {
@@ -7134,7 +7134,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352843/plitki-spb/188.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352843/plitki-spb/188.webp"],
-  description: "Карандаш коричневый темный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш коричневый темный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш коричневый темный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Коричневый. Размер 20x1.5 см. Купить Карандаш коричневый темный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7152,7 +7152,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352852/plitki-spb/198.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352852/plitki-spb/198.webp"],
-  description: "Карандаш оранжевый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш оранжевый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш оранжевый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш оранжевый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7170,7 +7170,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352861/plitki-spb/10.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352861/plitki-spb/10.webp"],
-  description: "Карандаш платина глянцевый 20x1,5x0,8 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш платина глянцевый 20x1,5x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш платина глянцевый 20x1,5x0,8 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш платина глянцевый 20x1,5x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 50.0
 },
 {
@@ -7188,7 +7188,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352874/plitki-spb/11.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352874/plitki-spb/11.webp"],
-  description: "Карандаш платина глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш платина глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш платина глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш платина глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7206,7 +7206,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352883/plitki-spb/12.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352883/plitki-spb/12.webp"],
-  description: "Карандаш платина глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 25x2 см. Купить Карандаш платина глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш платина глянцевый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 25x2 см. Купить Карандаш платина глянцевый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7224,7 +7224,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352897/plitki-spb/199.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352897/plitki-spb/199.webp"],
-  description: "Карандаш розовый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Розовый. Размер 20x1.5 см. Купить Карандаш розовый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш розовый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Розовый. Размер 20x1.5 см. Купить Карандаш розовый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7242,7 +7242,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352909/plitki-spb/155.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352909/plitki-spb/155.webp"],
-  description: "Карандаш розовый светлый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Розовый. Размер 20x1.5 см. Купить Карандаш розовый светлый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш розовый светлый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Розовый. Размер 20x1.5 см. Купить Карандаш розовый светлый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7260,7 +7260,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352921/plitki-spb/145.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352921/plitki-spb/145.webp"],
-  description: "Карандаш рыжий матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш рыжий матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш рыжий матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш рыжий матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7278,7 +7278,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352932/plitki-spb/190.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352932/plitki-spb/190.webp"],
-  description: "Карандаш салатный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш салатный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш салатный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш салатный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7296,7 +7296,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352941/plitki-spb/143.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352941/plitki-spb/143.webp"],
-  description: "Карандаш серый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Серый. Размер 20x1.5 см. Купить Карандаш серый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш серый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Серый. Размер 20x1.5 см. Купить Карандаш серый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7314,7 +7314,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352953/plitki-spb/75.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352953/plitki-spb/75.webp"],
-  description: "Карандаш серый матовый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Серый. Размер 25x2 см. Купить Карандаш серый матовый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш серый матовый 25x2x1,2 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Серый. Размер 25x2 см. Купить Карандаш серый матовый 25x2x1,2 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7332,7 +7332,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352965/plitki-spb/135.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352965/plitki-spb/135.webp"],
-  description: "Карандаш синий глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Синий. Размер 20x1.5 см. Купить Карандаш синий глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш синий глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Синий. Размер 20x1.5 см. Купить Карандаш синий глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7350,7 +7350,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352977/plitki-spb/148.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352977/plitki-spb/148.webp"],
-  description: "Карандаш синий матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Синий. Размер 20x1.5 см. Купить Карандаш синий матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш синий матовый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Синий. Размер 20x1.5 см. Купить Карандаш синий матовый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7368,7 +7368,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773352986/plitki-spb/189.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773352986/plitki-spb/189.webp"],
-  description: "Карандаш фиолетовый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш фиолетовый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш фиолетовый глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Размер 20x1.5 см. Купить Карандаш фиолетовый глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7386,7 +7386,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/594/d6w3xld0swv5uei90v65xo0r4y75l7hu.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/594/d6w3xld0swv5uei90v65xo0r4y75l7hu.jpg"],
-  description: "Карандаш черный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Черный. Размер 20x1.5 см. Купить Карандаш черный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карандаш черный глянцевый 20x1,5x1 — керамическая плитка коллекции Бордюры \\ от Kerama Marazzi. Цвет: Черный. Размер 20x1.5 см. Купить Карандаш черный глянцевый 20x1,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0
 },
 {
@@ -7404,7 +7404,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353010/plitki-spb/63008.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353010/plitki-spb/63008.webp"],
-  description: "Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -7423,7 +7423,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353023/plitki-spb/63006.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353023/plitki-spb/63006.webp"],
-  description: "Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -7442,7 +7442,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353037/plitki-spb/63007.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353037/plitki-spb/63007.webp"],
-  description: "Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 7.0,
   sqm_per_box: 0.529
 },
@@ -7462,7 +7462,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353050/plitki-spb/3459.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353050/plitki-spb/3459.webp"],
-  description: "Кассетоне бежевый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Кассетоне бежевый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кассетоне бежевый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Кассетоне бежевый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -7481,7 +7481,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353063/plitki-spb/3462.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353063/plitki-spb/3462.webp"],
-  description: "Кассетоне коричневый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Коричневый. Размер 30.2x30.2 см. Купить Кассетоне коричневый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кассетоне коричневый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Коричневый. Размер 30.2x30.2 см. Купить Кассетоне коричневый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -7500,7 +7500,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353075/plitki-spb/3458.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353075/plitki-spb/3458.webp"],
-  description: "Кассетоне серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кассетоне серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -7519,7 +7519,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353088/plitki-spb/3461.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353088/plitki-spb/3461.webp"],
-  description: "Кассетоне серый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Кассетоне серый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -7538,7 +7538,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353101/plitki-spb/16051.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353101/plitki-spb/16051.webp"],
-  description: "Клемансо бежевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо бежевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7557,7 +7557,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/4bc/zo4zp53a6yn152gm78u9ayx3lhlrt5nz.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/4bc/zo4zp53a6yn152gm78u9ayx3lhlrt5nz.jpg"],
-  description: "Клемансо бежевый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо бежевый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7576,7 +7576,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/4e9/5wcw8ldnqwsrw99s557xcvyo2jyyo2q7.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/4e9/5wcw8ldnqwsrw99s557xcvyo2jyyo2q7.jpg"],
-  description: "Клемансо бирюзовый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо бирюзовый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо бирюзовый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо бирюзовый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7595,7 +7595,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353128/plitki-spb/16058.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353128/plitki-spb/16058.webp"],
-  description: "Клемансо зелёный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо зелёный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7614,7 +7614,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353141/plitki-spb/16059.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353141/plitki-spb/16059.webp"],
-  description: "Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7633,7 +7633,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353155/plitki-spb/16055.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353155/plitki-spb/16055.webp"],
-  description: "Клемансо оливковый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оливковый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо оливковый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оливковый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7652,7 +7652,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353169/plitki-spb/16075.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353169/plitki-spb/16075.webp"],
-  description: "Клемансо оранжевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оранжевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо оранжевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оранжевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7671,7 +7671,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353183/plitki-spb/16053.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353183/plitki-spb/16053.webp"],
-  description: "Клемансо серый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо серый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7690,7 +7690,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353196/plitki-spb/16054.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353196/plitki-spb/16054.webp"],
-  description: "Клемансо серый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Клемансо серый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -7709,7 +7709,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353208/plitki-spb/6437.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353208/plitki-spb/6437.webp"],
-  description: "Корредо серый светлый матовый 25x40x0,8 — керамическая плитка коллекции Корредо от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Корредо серый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Корредо серый светлый матовый 25x40x0,8 — керамическая плитка коллекции Корредо от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Корредо серый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7728,7 +7728,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353222/plitki-spb/6411.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353222/plitki-spb/6411.webp"],
-  description: "Левада бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Левада бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Левада бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Левада бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7747,7 +7747,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353234/plitki-spb/6410.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353234/plitki-spb/6410.webp"],
-  description: "Левада зеленый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Левада зеленый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.0
 },
@@ -7766,7 +7766,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353247/plitki-spb/6409.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353247/plitki-spb/6409.webp"],
-  description: "Левада зеленый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Левада зеленый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7785,7 +7785,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353262/plitki-spb/6412.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353262/plitki-spb/6412.webp"],
-  description: "Левада коричневый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Коричневый. Размер 25x40 см. Купить Левада коричневый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Левада коричневый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Коричневый. Размер 25x40 см. Купить Левада коричневый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 10.0,
   sqm_per_box: 1.0
 },
@@ -7804,7 +7804,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353271/plitki-spb/6415.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353271/plitki-spb/6415.webp"],
-  description: "Левада серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Левада серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Левада серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Левада серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7823,7 +7823,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/164/t3qy3svr89b6agf6g2j13jvmmv4bt420.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/164/t3qy3svr89b6agf6g2j13jvmmv4bt420.jpg"],
-  description: "Ломбардиа антрацит матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Антрацит. Размер 25x40 см. Купить Ломбардиа антрацит матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ломбардиа антрацит матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Антрацит. Размер 25x40 см. Купить Ломбардиа антрацит матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7842,7 +7842,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353291/plitki-spb/6401.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353291/plitki-spb/6401.webp"],
-  description: "Ломбардиа бежевый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Ломбардиа бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ломбардиа бежевый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Ломбардиа бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7861,7 +7861,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353304/plitki-spb/6397.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353304/plitki-spb/6397.webp"],
-  description: "Ломбардиа белый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Ломбардиа белый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ломбардиа белый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Ломбардиа белый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7880,7 +7880,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353318/plitki-spb/6398.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353318/plitki-spb/6398.webp"],
-  description: "Ломбардиа серый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ломбардиа серый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7899,7 +7899,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353331/plitki-spb/6399.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353331/plitki-spb/6399.webp"],
-  description: "Ломбардиа серый темный матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый темный матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ломбардиа серый темный матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый темный матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -7918,7 +7918,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/371/vv07i1q8v2p3ilqfumqy9vpc9rt3x4g5.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/371/vv07i1q8v2p3ilqfumqy9vpc9rt3x4g5.jpg"],
-  description: "Марракеш бежевый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Марракеш бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Марракеш бежевый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Марракеш бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -7937,7 +7937,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/d7a/7thgmxeaweyqvmd4f6b49om6uguoxyfw.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/d7a/7thgmxeaweyqvmd4f6b49om6uguoxyfw.jpg"],
-  description: "Марракеш бежевый светлый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Марракеш бежевый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Марракеш бежевый светлый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Марракеш бежевый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -7956,7 +7956,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/a68/0a8l6dy3we5rantbod1tqa85enpou06p.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/a68/0a8l6dy3we5rantbod1tqa85enpou06p.jpg"],
-  description: "Марракеш коричневый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Марракеш коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Марракеш коричневый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Марракеш коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -7975,7 +7975,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/92e/r63dxgtlmrvrncw0cvrloppkccqpjh9v.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/92e/r63dxgtlmrvrncw0cvrloppkccqpjh9v.jpg"],
-  description: "Марракеш коричневый светлый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Марракеш коричневый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Марракеш коричневый светлый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Марракеш коричневый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -7994,7 +7994,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/3f0/8qvd4oog3t2ea7zt0rs6vk47wci9rn81.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/3f0/8qvd4oog3t2ea7zt0rs6vk47wci9rn81.jpg"],
-  description: "Марракеш розовый темный матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Розовый. Размер 6x28.5 см. Купить Марракеш розовый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Марракеш розовый темный матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Розовый. Размер 6x28.5 см. Купить Марракеш розовый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -8013,7 +8013,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/805/761ubom5dj3rq7uzgnosews6402co575.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/805/761ubom5dj3rq7uzgnosews6402co575.jpg"],
-  description: "Марракеш серый светлый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Серый. Размер 6x28.5 см. Купить Марракеш серый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Марракеш серый светлый матовый 6x28,5x1 — керамическая плитка коллекции Марракеш от Kerama Marazzi. Цвет: Серый. Размер 6x28.5 см. Купить Марракеш серый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 0.82
 },
@@ -8032,7 +8032,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/4f7/s5szd04jrkarirl5brgh5m7lgc0m0jqo.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/4f7/s5szd04jrkarirl5brgh5m7lgc0m0jqo.jpg"],
-  description: "Маттоне бежевый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Маттоне бежевый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Маттоне бежевый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Маттоне бежевый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -8051,7 +8051,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/0a9/o4b76z6zb4wfl3r3no10xsjq1pxfo86x.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/0a9/o4b76z6zb4wfl3r3no10xsjq1pxfo86x.jpg"],
-  description: "Маттоне коричневый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Маттоне коричневый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Маттоне коричневый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Маттоне коричневый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -8070,7 +8070,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353390/plitki-spb/2911.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353390/plitki-spb/2911.webp"],
-  description: "Маттоне серый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Маттоне серый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -8089,7 +8089,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353399/plitki-spb/2912.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353399/plitki-spb/2912.webp"],
-  description: "Маттоне серый светлый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый светлый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Маттоне серый светлый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый светлый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 42.0,
   sqm_per_box: 1.02
 },
@@ -8108,7 +8108,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353411/plitki-spb/8376.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353411/plitki-spb/8376.webp"],
-  description: "Мираколи белый глянцевый 20x30x0,69 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мираколи белый глянцевый 20x30x0,69 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -8127,7 +8127,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353422/plitki-spb/8377.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353422/plitki-spb/8377.webp"],
-  description: "Мираколи белый глянцевый структура 20x30x0,86 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый структура 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мираколи белый глянцевый структура 20x30x0,86 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый структура 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 1.2
 },
@@ -8147,7 +8147,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353434/plitki-spb/9018.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353434/plitki-spb/9018.webp"],
-  description: "Монпарнас бежевый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас бежевый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8167,7 +8167,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353446/plitki-spb/9022.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353446/plitki-spb/9022.webp"],
-  description: "Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8187,7 +8187,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353458/plitki-spb/9016.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353458/plitki-spb/9016.webp"],
-  description: "Монпарнас белый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Монпарнас белый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас белый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Монпарнас белый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8207,7 +8207,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353470/plitki-spb/9021.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353470/plitki-spb/9021.webp"],
-  description: "Монпарнас жёлтый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас жёлтый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас жёлтый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас жёлтый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8227,7 +8227,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353483/plitki-spb/9017.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353483/plitki-spb/9017.webp"],
-  description: "Монпарнас зелёный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас зелёный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас зелёный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас зелёный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8247,7 +8247,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353496/plitki-spb/9019.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353496/plitki-spb/9019.webp"],
-  description: "Монпарнас синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Монпарнас синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Монпарнас синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8267,7 +8267,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353508/plitki-spb/9020.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353508/plitki-spb/9020.webp"],
-  description: "Монпарнас сиреневый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас сиреневый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монпарнас сиреневый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас сиреневый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -8286,7 +8286,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353521/plitki-spb/15145.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353521/plitki-spb/15145.webp"],
-  description: "Монсанту бежевый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту бежевый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монсанту бежевый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту бежевый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -8305,7 +8305,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353534/plitki-spb/15146.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353534/plitki-spb/15146.webp"],
-  description: "Монсанту панель бежевый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту панель бежевый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монсанту панель бежевый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту панель бежевый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 19.0,
   sqm_per_box: 1.14
 },
@@ -8324,7 +8324,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353546/plitki-spb/15148.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353546/plitki-spb/15148.webp"],
-  description: "Монсанту панель серый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту панель серый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монсанту панель серый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту панель серый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 19.0,
   sqm_per_box: 1.14
 },
@@ -8343,7 +8343,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353559/plitki-spb/15147.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353559/plitki-spb/15147.webp"],
-  description: "Монсанту серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монсанту серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 1.32
 },
@@ -8362,7 +8362,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353572/plitki-spb/16086.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353572/plitki-spb/16086.webp"],
-  description: "Монтальбано белый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Монтальбано белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монтальбано белый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Монтальбано белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8381,7 +8381,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353585/plitki-spb/16091.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353585/plitki-spb/16091.webp"],
-  description: "Монтальбано жёлтый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано жёлтый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монтальбано жёлтый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано жёлтый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8400,7 +8400,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353598/plitki-spb/16087.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353598/plitki-spb/16087.webp"],
-  description: "Монтальбано зелёный светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано зелёный светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монтальбано зелёный светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано зелёный светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 1.58
 },
@@ -8419,7 +8419,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353611/plitki-spb/16088.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353611/plitki-spb/16088.webp"],
-  description: "Монтальбано розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Монтальбано розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монтальбано розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Монтальбано розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8438,7 +8438,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353624/plitki-spb/16090.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353624/plitki-spb/16090.webp"],
-  description: "Монтальбано серый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Монтальбано серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монтальбано серый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Монтальбано серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8457,7 +8457,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353636/plitki-spb/16089.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353636/plitki-spb/16089.webp"],
-  description: "Монтальбано синий матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Синий. Размер 7.4x15 см. Купить Монтальбано синий матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Монтальбано синий матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Синий. Размер 7.4x15 см. Купить Монтальбано синий матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8476,7 +8476,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353647/plitki-spb/6424.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353647/plitki-spb/6424.webp"],
-  description: "Мотиво серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Мотиво от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Мотиво серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мотиво серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Мотиво от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Мотиво серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -8495,7 +8495,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353660/plitki-spb/16028.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353660/plitki-spb/16028.webp"],
-  description: "Мурано белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Мурано белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мурано белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Мурано белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8514,7 +8514,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353673/plitki-spb/16030.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353673/plitki-spb/16030.webp"],
-  description: "Мурано голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Мурано голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мурано голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Мурано голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8533,7 +8533,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353685/plitki-spb/16031.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353685/plitki-spb/16031.webp"],
-  description: "Мурано розовый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Мурано розовый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мурано розовый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Мурано розовый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8552,7 +8552,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353698/plitki-spb/16029.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353698/plitki-spb/16029.webp"],
-  description: "Мурано серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Мурано серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Мурано серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Мурано серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8571,7 +8571,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353711/plitki-spb/6336.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353711/plitki-spb/6336.webp"],
-  description: "Пантеон бежевый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пантеон бежевый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -8590,7 +8590,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353725/plitki-spb/6337.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353725/plitki-spb/6337.webp"],
-  description: "Пантеон бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пантеон бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -8609,7 +8609,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353738/plitki-spb/6339.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353738/plitki-spb/6339.webp"],
-  description: "Пантеон бежевый светлый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пантеон бежевый светлый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 0.9
 },
@@ -8628,7 +8628,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353752/plitki-spb/6338.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353752/plitki-spb/6338.webp"],
-  description: "Пантеон бежевый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пантеон бежевый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 0.9
 },
@@ -8681,7 +8681,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/ed7/1k42r0zhucr4j53n3al4me6en8cgmc38.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/ed7/1k42r0zhucr4j53n3al4me6en8cgmc38.jpg"],
-  description: "Пьяцца бежевый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пьяцца бежевый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -8700,7 +8700,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353784/plitki-spb/3463.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353784/plitki-spb/3463.webp"],
-  description: "Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -8719,7 +8719,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353797/plitki-spb/3452.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353797/plitki-spb/3452.webp"],
-  description: "Пьяцца серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пьяцца серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -8738,7 +8738,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/f4a/ij4kput7nhfgahghp1o4zlh2bi9f5d23.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/f4a/ij4kput7nhfgahghp1o4zlh2bi9f5d23.jpg"],
-  description: "Пьяцца серый темный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый темный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Пьяцца серый темный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый темный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 15.0,
   sqm_per_box: 1.37
 },
@@ -8757,7 +8757,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353815/plitki-spb/7169.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353815/plitki-spb/7169.webp"],
-  description: "Резиденция бежевый матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Резиденция бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Резиденция бежевый матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Резиденция бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -8776,7 +8776,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353828/plitki-spb/7171.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353828/plitki-spb/7171.webp"],
-  description: "Резиденция орнамент матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция орнамент матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Резиденция орнамент матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция орнамент матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -8795,7 +8795,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353840/plitki-spb/7176.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353840/plitki-spb/7176.webp"],
-  description: "Резиденция панель матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Резиденция панель матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -8814,7 +8814,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353852/plitki-spb/17057.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353852/plitki-spb/17057.webp"],
-  description: "Салинас бежевый глянцевый 15x15x0,82 — керамическая плитка коллекции Салинас от Kerama Marazzi. Цвет: Бежевый. Размер 15x15 см. Купить Салинас бежевый глянцевый 15x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Салинас бежевый глянцевый 15x15x0,82 — керамическая плитка коллекции Салинас от Kerama Marazzi. Цвет: Бежевый. Размер 15x15 см. Купить Салинас бежевый глянцевый 15x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.9
 },
@@ -8833,7 +8833,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353863/plitki-spb/17070.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353863/plitki-spb/17070.webp"],
-  description: "Сантана зеленый темный глянцевый 15x15x0,69 — керамическая плитка коллекции Сантана от Kerama Marazzi. Цвет: Зеленый. Размер 15x15 см. Купить Сантана зеленый темный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сантана зеленый темный глянцевый 15x15x0,69 — керамическая плитка коллекции Сантана от Kerama Marazzi. Цвет: Зеленый. Размер 15x15 см. Купить Сантана зеленый темный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 48.0,
   sqm_per_box: 1.08
 },
@@ -8852,7 +8852,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353874/plitki-spb/19075.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353874/plitki-spb/19075.webp"],
-  description: "Сеттиньяно белый грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Сеттиньяно белый грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сеттиньяно белый грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Сеттиньяно белый грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.792
 },
@@ -8871,7 +8871,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353885/plitki-spb/19077.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353885/plitki-spb/19077.webp"],
-  description: "Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Размер 9.9x20 см. Купить Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Размер 9.9x20 см. Купить Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.792
 },
@@ -8890,7 +8890,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353896/plitki-spb/19076.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353896/plitki-spb/19076.webp"],
-  description: "Сеттиньяно синий грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Синий. Размер 9.9x20 см. Купить Сеттиньяно синий грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сеттиньяно синий грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Синий. Размер 9.9x20 см. Купить Сеттиньяно синий грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 40.0,
   sqm_per_box: 0.792
 },
@@ -8909,7 +8909,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353908/plitki-spb/16085.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353908/plitki-spb/16085.webp"],
-  description: "Сиена серый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Сиена от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Сиена серый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сиена серый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Сиена от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Сиена серый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -8928,7 +8928,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353921/plitki-spb/6372.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353921/plitki-spb/6372.webp"],
-  description: "Сияние бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сияние бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -8948,7 +8948,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353934/plitki-spb/6375.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353934/plitki-spb/6375.webp"],
-  description: "Сияние бежевый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сияние бежевый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -8967,7 +8967,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353948/plitki-spb/6373.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353948/plitki-spb/6373.webp"],
-  description: "Сияние голубой глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сияние голубой глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -8986,7 +8986,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353961/plitki-spb/6376.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353961/plitki-spb/6376.webp"],
-  description: "Сияние голубой структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сияние голубой структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -9005,7 +9005,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353975/plitki-spb/6374.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353975/plitki-spb/6374.webp"],
-  description: "Сияние светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сияние светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -9025,7 +9025,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773353988/plitki-spb/6377.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773353988/plitki-spb/6377.webp"],
-  description: "Сияние светлый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сияние светлый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -9044,7 +9044,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354001/plitki-spb/7256.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354001/plitki-spb/7256.webp"],
-  description: "Скарпа серый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Скарпа серый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -9063,7 +9063,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354014/plitki-spb/7258.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354014/plitki-spb/7258.webp"],
-  description: "Скарпа серый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Скарпа серый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -9082,7 +9082,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354026/plitki-spb/7255.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354026/plitki-spb/7255.webp"],
-  description: "Скарпа серый светлый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Скарпа серый светлый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -9101,7 +9101,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354039/plitki-spb/7257.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354039/plitki-spb/7257.webp"],
-  description: "Скарпа серый светлый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Скарпа серый светлый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.2
 },
@@ -9120,7 +9120,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354052/plitki-spb/6355.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354052/plitki-spb/6355.webp"],
-  description: "Сорбонна бежевый матовый 25x40x0,8 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сорбонна бежевый матовый 25x40x0,8 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -9139,7 +9139,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354065/plitki-spb/6356.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354065/plitki-spb/6356.webp"],
-  description: "Сорбонна бежевый панель матовый 25x40x0,95 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый панель матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Сорбонна бежевый панель матовый 25x40x0,95 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый панель матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 9.0,
   sqm_per_box: 0.9
 },
@@ -9158,7 +9158,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354077/plitki-spb/8373.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354077/plitki-spb/8373.webp"],
-  description: "Спинелли серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Спинелли от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Спинелли серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Спинелли серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Спинелли от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Спинелли серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -9177,7 +9177,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354090/plitki-spb/5288.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354090/plitki-spb/5288.webp"],
-  description: "Стемма бежевый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Стемма бежевый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Стемма бежевый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Стемма бежевый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 0.8
 },
@@ -9196,7 +9196,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354102/plitki-spb/5287.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354102/plitki-spb/5287.webp"],
-  description: "Стемма белый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Стемма белый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Стемма белый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Стемма белый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 0.8
 },
@@ -9215,7 +9215,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354115/plitki-spb/5290.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354115/plitki-spb/5290.webp"],
-  description: "Стемма зеленый темный глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Стемма зеленый темный глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Стемма зеленый темный глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Стемма зеленый темный глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 0.8
 },
@@ -9234,7 +9234,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354128/plitki-spb/5289.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354128/plitki-spb/5289.webp"],
-  description: "Стемма коричневый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Стемма коричневый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Стемма коричневый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Стемма коричневый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 20.0,
   sqm_per_box: 0.8
 },
@@ -9253,7 +9253,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354139/plitki-spb/5229.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354139/plitki-spb/5229.webp"],
-  description: "Суррей бежевый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Суррей бежевый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Суррей бежевый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Суррей бежевый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 0.88
 },
@@ -9272,7 +9272,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354151/plitki-spb/5226.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354151/plitki-spb/5226.webp"],
-  description: "Суррей белый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Суррей белый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Суррей белый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Суррей белый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 0.88
 },
@@ -9291,7 +9291,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354163/plitki-spb/5227.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354163/plitki-spb/5227.webp"],
-  description: "Суррей глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Размер 20x20 см. Купить Суррей глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Суррей глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Размер 20x20 см. Купить Суррей глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 22.0,
   sqm_per_box: 0.88
 },
@@ -9310,7 +9310,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354177/plitki-spb/20074.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354177/plitki-spb/20074.webp"],
-  description: "Темари бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9329,7 +9329,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354192/plitki-spb/20009.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354192/plitki-spb/20009.webp"],
-  description: "Темари бежевый светлый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый светлый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари бежевый светлый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый светлый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9348,7 +9348,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/0f4/l7hyvlsja5y98wsiqmskmqzwmbm16sm3.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/0f4/l7hyvlsja5y98wsiqmskmqzwmbm16sm3.jpg"],
-  description: "Темари бежевый темный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый темный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари бежевый темный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый темный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9367,7 +9367,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354213/plitki-spb/20003.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354213/plitki-spb/20003.webp"],
-  description: "Темари белый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари белый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9386,7 +9386,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354227/plitki-spb/20059.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354227/plitki-spb/20059.webp"],
-  description: "Темари белый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари белый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9405,7 +9405,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354241/plitki-spb/20070.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354241/plitki-spb/20070.webp"],
-  description: "Темари бирюза матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюза матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари бирюза матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюза матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9425,7 +9425,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354255/plitki-spb/20090.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354255/plitki-spb/20090.webp"],
-  description: "Темари бирюзовый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюзовый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари бирюзовый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюзовый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9444,7 +9444,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/117/orcgoijtrs8a6e1t8zhk1admm6wqexlm.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/117/orcgoijtrs8a6e1t8zhk1admm6wqexlm.jpg"],
-  description: "Темари бледно-голубой глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Голубой. Размер 29.8x29.8 см. Купить Темари бледно-голубой глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари бледно-голубой глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Голубой. Размер 29.8x29.8 см. Купить Темари бледно-голубой глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9463,7 +9463,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e3c/0e1vhv1wjijxfuei50trwz1xn3jel7hp.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e3c/0e1vhv1wjijxfuei50trwz1xn3jel7hp.jpg"],
-  description: "Темари голубой глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Голубой. Размер 29.8x29.8 см. Купить Темари голубой глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари голубой глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Голубой. Размер 29.8x29.8 см. Купить Темари голубой глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9482,7 +9482,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/87e/a3b96s3ztw4yu1aqvhlyiraygpq66uzc.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/87e/a3b96s3ztw4yu1aqvhlyiraygpq66uzc.jpg"],
-  description: "Темари графит глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари графит глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9501,7 +9501,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354293/plitki-spb/20064.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354293/plitki-spb/20064.webp"],
-  description: "Темари графит матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари графит матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9520,7 +9520,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/33c/094md6qv4yjjtutqj7f49jiylt2ehwot.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/33c/094md6qv4yjjtutqj7f49jiylt2ehwot.jpg"],
-  description: "Темари дымчатый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари дымчатый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9539,7 +9539,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354308/plitki-spb/20052.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354308/plitki-spb/20052.webp"],
-  description: "Темари дымчатый темный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый темный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари дымчатый темный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый темный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9558,7 +9558,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e2b/gppzy2gs0o2oenerer2ol8zr7jheavk2.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e2b/gppzy2gs0o2oenerer2ol8zr7jheavk2.jpg"],
-  description: "Темари красный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Красный. Размер 29.8x29.8 см. Купить Темари красный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари красный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Красный. Размер 29.8x29.8 см. Купить Темари красный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9577,7 +9577,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/976/epi3xtlxd1bdn8sze30ghqlnrvuk6wvx.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/976/epi3xtlxd1bdn8sze30ghqlnrvuk6wvx.jpg"],
-  description: "Темари лайм глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари лайм глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари лайм глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари лайм глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9596,7 +9596,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/848/ip8wetusmyafahur6uep3bpn5ukixt9s.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/848/ip8wetusmyafahur6uep3bpn5ukixt9s.jpg"],
-  description: "Темари серебро глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари серебро глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари серебро глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари серебро глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9615,7 +9615,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354336/plitki-spb/20013.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354336/plitki-spb/20013.webp"],
-  description: "Темари синий глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Синий. Размер 29.8x29.8 см. Купить Темари синий глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари синий глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Синий. Размер 29.8x29.8 см. Купить Темари синий глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9634,7 +9634,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354350/plitki-spb/20004.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354350/plitki-spb/20004.webp"],
-  description: "Темари черный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари черный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9653,7 +9653,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354360/plitki-spb/20071.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354360/plitki-spb/20071.webp"],
-  description: "Темари черный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Темари черный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 12.0,
   sqm_per_box: 1.066
 },
@@ -9673,7 +9673,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354371/plitki-spb/8063.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354371/plitki-spb/8063.webp"],
-  description: "Тигр белый матовый 20x30x0,69 — керамическая плитка коллекции Тигр от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Тигр белый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тигр белый матовый 20x30x0,69 — керамическая плитка коллекции Тигр от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Тигр белый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -9692,7 +9692,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/e06/ufd9ou91dgvhd841iympvcywkj1hlasa.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/e06/ufd9ou91dgvhd841iympvcywkj1hlasa.jpg"],
-  description: "Тортона бежевый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Тортона бежевый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона бежевый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Тортона бежевый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9711,7 +9711,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354390/plitki-spb/16084.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354390/plitki-spb/16084.webp"],
-  description: "Тортона белый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Тортона белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона белый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Тортона белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9730,7 +9730,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354402/plitki-spb/16080.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354402/plitki-spb/16080.webp"],
-  description: "Тортона голубой светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Тортона голубой светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона голубой светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Тортона голубой светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9749,7 +9749,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/1bd/haaiqrh53r5qr9s1wm28uurdhlue35k2.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/1bd/haaiqrh53r5qr9s1wm28uurdhlue35k2.jpg"],
-  description: "Тортона зеленый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Зеленый. Размер 7.4x15 см. Купить Тортона зеленый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона зеленый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Зеленый. Размер 7.4x15 см. Купить Тортона зеленый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9768,7 +9768,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/de6/8cyczsg5j7cezbjk8oxrs6ztgkmrs5uh.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/de6/8cyczsg5j7cezbjk8oxrs6ztgkmrs5uh.jpg"],
-  description: "Тортона розовый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона розовый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9787,7 +9787,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354424/plitki-spb/16077.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354424/plitki-spb/16077.webp"],
-  description: "Тортона розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9806,7 +9806,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354436/plitki-spb/16081.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354436/plitki-spb/16081.webp"],
-  description: "Тортона серый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Тортона серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тортона серый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Тортона серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 96.0,
   sqm_per_box: 1.07
 },
@@ -9825,7 +9825,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354447/plitki-spb/9038.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354447/plitki-spb/9038.webp"],
-  description: "Тракай бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9844,7 +9844,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354455/plitki-spb/9040.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354455/plitki-spb/9040.webp"],
-  description: "Тракай бежевый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай бежевый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9863,7 +9863,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354468/plitki-spb/9043.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354468/plitki-spb/9043.webp"],
-  description: "Тракай бордо глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Размер 8.5x28.5 см. Купить Тракай бордо глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай бордо глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Размер 8.5x28.5 см. Купить Тракай бордо глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9882,7 +9882,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354479/plitki-spb/9041.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354479/plitki-spb/9041.webp"],
-  description: "Тракай зеленый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Зеленый. Размер 8.5x28.5 см. Купить Тракай зеленый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай зеленый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Зеленый. Размер 8.5x28.5 см. Купить Тракай зеленый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9901,7 +9901,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354492/plitki-spb/9039.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354492/plitki-spb/9039.webp"],
-  description: "Тракай коричневый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай коричневый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9920,7 +9920,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/067/krz46t8e4fdcss2fkpq1s5keojqfyzxx.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/067/krz46t8e4fdcss2fkpq1s5keojqfyzxx.jpg"],
-  description: "Тракай коричневый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай коричневый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9939,7 +9939,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354514/plitki-spb/9037.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354514/plitki-spb/9037.webp"],
-  description: "Тракай серый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай серый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9958,7 +9958,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354526/plitki-spb/9045.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354526/plitki-spb/9045.webp"],
-  description: "Тракай серый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай серый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9977,7 +9977,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354538/plitki-spb/9044.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354538/plitki-spb/9044.webp"],
-  description: "Тракай синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Тракай синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Тракай синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Тракай синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 44.0,
   sqm_per_box: 1.07
 },
@@ -9996,7 +9996,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/b4b/jvhw96gki2wd6gixe4ofsdvnkz10ico8.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/b4b/jvhw96gki2wd6gixe4ofsdvnkz10ico8.jpg"],
-  description: "Туари бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Туари от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туари бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Туари бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Туари от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туари бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -10015,7 +10015,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354557/plitki-spb/8340.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354557/plitki-spb/8340.webp"],
-  description: "Туф бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Туф бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -10034,7 +10034,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354570/plitki-spb/8347.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354570/plitki-spb/8347.webp"],
-  description: "Туф бежевый светлый грань глянцевый 20x30x0,95 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый грань глянцевый 20x30x0,95 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Туф бежевый светлый грань глянцевый 20x30x0,95 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый грань глянцевый 20x30x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 19.0,
   sqm_per_box: 1.14
 },
@@ -10053,7 +10053,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354583/plitki-spb/8348.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354583/plitki-spb/8348.webp"],
-  description: "Ферони серый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ферони серый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -10072,7 +10072,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354595/plitki-spb/8349.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354595/plitki-spb/8349.webp"],
-  description: "Ферони серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Ферони серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 25.0,
   sqm_per_box: 1.5
 },
@@ -10092,7 +10092,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354607/plitki-spb/6330.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354607/plitki-spb/6330.webp"],
-  description: "Фоскари бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Фоскари бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Фоскари бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Фоскари бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -10111,7 +10111,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354619/plitki-spb/6327.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354619/plitki-spb/6327.webp"],
-  description: "Фоскари бирюзовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Размер 25x40 см. Купить Фоскари бирюзовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Фоскари бирюзовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Размер 25x40 см. Купить Фоскари бирюзовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -10130,7 +10130,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/d6d/elbri3qwdyaybg04qwngy230jb96a25a.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/d6d/elbri3qwdyaybg04qwngy230jb96a25a.jpg"],
-  description: "Фоскари розовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Розовый. Размер 25x40 см. Купить Фоскари розовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Фоскари розовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Розовый. Размер 25x40 см. Купить Фоскари розовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 11.0,
   sqm_per_box: 1.1
 },
@@ -10149,7 +10149,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/0ca/9mmm3eqbty2epsbcyh1czykusy34eeda.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/0ca/9mmm3eqbty2epsbcyh1czykusy34eeda.jpg"],
-  description: "Фрагонар белый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Фрагонар от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Фрагонар белый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Фрагонар белый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Фрагонар от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Фрагонар белый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 80.0,
   sqm_per_box: 0.89
 },
@@ -10168,7 +10168,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354640/plitki-spb/5299.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354640/plitki-spb/5299.webp"],
-  description: "Чементо антрацит матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Антрацит. Размер 20x20 см. Купить Чементо антрацит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо антрацит матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Антрацит. Размер 20x20 см. Купить Чементо антрацит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -10187,7 +10187,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354649/plitki-spb/5296.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354649/plitki-spb/5296.webp"],
-  description: "Чементо бежевый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Чементо бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо бежевый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Чементо бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -10206,7 +10206,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354661/plitki-spb/5300.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354661/plitki-spb/5300.webp"],
-  description: "Чементо зелёный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Размер 20x20 см. Купить Чементо зелёный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо зелёный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Размер 20x20 см. Купить Чементо зелёный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -10225,7 +10225,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://pim.kerama-marazzi.com/upload/iblock/d5f/dnmt9syvm01ba8upwzq9vpnxlwgsah3n.jpg",
   images: ["https://pim.kerama-marazzi.com/upload/iblock/d5f/dnmt9syvm01ba8upwzq9vpnxlwgsah3n.jpg"],
-  description: "Чементо коричневый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Чементо коричневый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо коричневый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Чементо коричневый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -10244,7 +10244,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354676/plitki-spb/5295.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354676/plitki-spb/5295.webp"],
-  description: "Чементо серый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо серый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -10263,7 +10263,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354685/plitki-spb/5294.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354685/plitki-spb/5294.webp"],
-  description: "Чементо серый светлый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо серый светлый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -10282,7 +10282,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773354694/plitki-spb/5298.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773354694/plitki-spb/5298.webp"],
-  description: "Чементо синий тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Чементо синий тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "Чементо синий тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Чементо синий тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
   pieces_per_box: 26.0,
   sqm_per_box: 1.04
 },
@@ -49150,7 +49150,7 @@ export const importedProducts: any[] = [
 
   main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773370715/plitki-spb/587842005.webp",
   images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773370715/plitki-spb/587842005.webp"],
-  description: "484х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",,
+  description: "484х700 ректификат — керамическая плитка коллекции коллекция GALA (Гáла) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
   sqm_per_box: 4.0
 },
 {
