@@ -20,7 +20,6 @@ export const metadata: Metadata = {
 export default function CatalogPage() {
   const initialProducts: Product[] = products
     .filter((p) => p.name && p.name.trim() && p.slug)
-    .slice(0, 60)
 
   return <CatalogClient initialProducts={initialProducts} />
 }
