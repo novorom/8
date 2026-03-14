@@ -47564,8 +47564,8 @@ export const importedProducts: any[] = [
   price_retail: 1403,
   price_official: 1753,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494070/plitki-spb/idalgo-kontsepta-antratsit-kontsepta-bezhevyy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494070/plitki-spb/idalgo-kontsepta-antratsit-kontsepta-bezhevyy.webp"],
   description: "товарная программа — керамическая плитка коллекции Концепта Антрацит от Идальго. Размер 913.780000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47581,8 +47581,8 @@ export const importedProducts: any[] = [
   price_retail: 1403,
   price_official: 1753,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494072/plitki-spb/idalgo-kontsepta-antratsit-kontsepta-zhemchug.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494072/plitki-spb/idalgo-kontsepta-antratsit-kontsepta-zhemchug.webp"],
   description: "товарная программа — керамическая плитка коллекции Концепта Антрацит от Идальго. Размер 913.780000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47649,8 +47649,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494073/plitki-spb/idalgo-stoun-tsement-belyy-stoun-tsement-klassik.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494073/plitki-spb/idalgo-stoun-tsement-belyy-stoun-tsement-klassik.webp"],
   description: "товарная программа — керамическая плитка коллекции Стоун Цемент Белый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47666,8 +47666,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494075/plitki-spb/idalgo-stoun-tsement-belyy-stoun-tsement-svetlo-bezhevyy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494075/plitki-spb/idalgo-stoun-tsement-belyy-stoun-tsement-svetlo-bezhevyy.webp"],
   description: "товарная программа — керамическая плитка коллекции Стоун Цемент Белый от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47700,8 +47700,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494078/plitki-spb/idalgo-arabesko-verde-arabesko-layt.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494078/plitki-spb/idalgo-arabesko-verde-arabesko-layt.webp"],
   description: "товарная программа — керамическая плитка коллекции Арабеско Верде от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47751,8 +47751,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494080/plitki-spb/idalgo-lyusso-oro-lyusso-santo.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494080/plitki-spb/idalgo-lyusso-oro-lyusso-santo.webp"],
   description: "товарная программа — керамическая плитка коллекции Люссо Оро от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47768,8 +47768,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494080/plitki-spb/idalgo-lyusso-oro-lyusso-seryy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494080/plitki-spb/idalgo-lyusso-oro-lyusso-seryy.webp"],
   description: "товарная программа — керамическая плитка коллекции Люссо Оро от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47785,8 +47785,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494082/plitki-spb/idalgo-namibiya-klassik-oniks-bezhevyy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494082/plitki-spb/idalgo-namibiya-klassik-oniks-bezhevyy.webp"],
   description: "товарная программа — керамическая плитка коллекции Намибия Классик от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47802,8 +47802,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494084/plitki-spb/idalgo-oniks-korichnevyy-oniks-oro.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494084/plitki-spb/idalgo-oniks-korichnevyy-oniks-oro.webp"],
   description: "товарная программа — керамическая плитка коллекции Оникс Коричневый от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
