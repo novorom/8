@@ -70,7 +70,7 @@ export function CatalogFilters({
         <div className="px-1 space-y-2">
           <input
             type="range"
-            min={400}
+            min={0}
             max={9500}
             step={100}
             value={priceRange[0]}
@@ -82,7 +82,7 @@ export function CatalogFilters({
           />
           <input
             type="range"
-            min={400}
+            min={0}
             max={9500}
             step={100}
             value={priceRange[1]}
