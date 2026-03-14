@@ -1,5 +1,7 @@
 "use client"
 
+import { HeroSection } from "@/components/hero-section"
+
 import Link from "next/link"
 import Image from "next/image"
 import { ArrowRight, Truck, ShieldCheck, Award, ChevronRight } from "lucide-react"
@@ -52,48 +54,7 @@ export function HomeContent() {
 
   return (
     <>
-      {/* Hero Section */}
-      <section className="relative h-[520px] lg:h-[600px] overflow-hidden">
-        <Image
-          src="/images/hero-bathroom.jpg"
-          alt="Современный интерьер с керамической плиткой — Плитки СПб"
-          fill
-          className="object-cover"
-          priority
-        />
-        <div className="absolute inset-0 bg-gradient-to-r from-foreground/80 via-foreground/50 to-transparent" />
-        <div className="relative mx-auto max-w-7xl px-4 h-full flex items-center">
-          <div className="max-w-xl flex flex-col gap-6">
-            <div className="flex items-center gap-2">
-              <span className="h-px w-8 bg-primary" />
-              <span className="text-sm font-medium text-background/80 tracking-wide uppercase">
-                Склад в Янино — СПб
-              </span>
-            </div>
-            <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold text-background leading-tight text-balance">
-              Керамическая плитка в Санкт-Петербурге
-            </h1>
-            <p className="text-lg text-background/70 leading-relaxed max-w-md">
-              Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Более 3000 позиций на складе в Янино. Доставка от 1 дня.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-3">
-              <Link
-                href="/catalog"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-semibold text-base hover:bg-primary/90 transition-colors shadow-lg"
-              >
-                Смотреть каталог
-                <ArrowRight className="h-4 w-4" />
-              </Link>
-              <Link
-                href="/brands"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-background/15 backdrop-blur-sm text-background font-medium text-base border border-background/30 hover:bg-background/25 transition-colors"
-              >
-                Все бренды
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
+      <HeroSection />
 
       {/* USP bar */}
       <section className="border-b border-border bg-background">
