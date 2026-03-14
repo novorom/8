@@ -47598,8 +47598,8 @@ export const importedProducts: any[] = [
   price_retail: 1403,
   price_official: 1753,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493832/plitki-spb/idalgo-kontsepta-selikato-seryy-kontsepta-selikato-temnyy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493832/plitki-spb/idalgo-kontsepta-selikato-seryy-kontsepta-selikato-temnyy.webp"],
   description: "товарная программа — керамическая плитка коллекции Концепта Селикато Серый от Идальго. Размер 913.780000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47632,8 +47632,8 @@ export const importedProducts: any[] = [
   price_retail: 1619,
   price_official: 2024,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493834/plitki-spb/idalgo-dolomiti-takko-temnyy-karolina-zhemchug.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493834/plitki-spb/idalgo-dolomiti-takko-temnyy-karolina-zhemchug.webp"],
   description: "товарная программа — керамическая плитка коллекции Доломити Такко Темный от Идальго. Размер 1104.026000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47683,8 +47683,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493835/plitki-spb/idalgo-kontsepta-parete-temnyy-amarillo-delikat.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493835/plitki-spb/idalgo-kontsepta-parete-temnyy-amarillo-delikat.webp"],
   description: "товарная программа — керамическая плитка коллекции Концепта Парете Темный от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47717,8 +47717,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493836/plitki-spb/idalgo-armor-bronza-armor-giza.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493836/plitki-spb/idalgo-armor-bronza-armor-giza.webp"],
   description: "товарная программа — керамическая плитка коллекции Армор Бронза от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47734,8 +47734,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493838/plitki-spb/idalgo-armor-bronza-armor-kobre.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493838/plitki-spb/idalgo-armor-bronza-armor-kobre.webp"],
   description: "товарная программа — керамическая плитка коллекции Армор Бронза от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47819,8 +47819,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493840/plitki-spb/idalgo-oniks-korichnevyy-oniks-perla.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493840/plitki-spb/idalgo-oniks-korichnevyy-oniks-perla.webp"],
   description: "товарная программа — керамическая плитка коллекции Оникс Коричневый от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47836,8 +47836,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493841/plitki-spb/idalgo-pallisandro-gridzhio-pallisandro-klassik.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493841/plitki-spb/idalgo-pallisandro-gridzhio-pallisandro-klassik.webp"],
   description: "товарная программа — керамическая плитка коллекции Паллисандро Гриджио от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -47887,8 +47887,8 @@ export const importedProducts: any[] = [
   price_retail: 1723,
   price_official: 2153,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773493842/plitki-spb/idalgo-sanset-gridzhio-siena-belyy.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773493842/plitki-spb/idalgo-sanset-gridzhio-siena-belyy.webp"],
   description: "товарная программа — керамическая плитка коллекции Сансет Гриджио от Идальго. Размер 1180.424000749 см. Купить товарная программа в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
