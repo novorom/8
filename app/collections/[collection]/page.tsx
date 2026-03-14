@@ -19,7 +19,7 @@ const COLLECTION_IMAGE_OVERRIDES: Record<string, string> = {
   "DECO": "https://pvi.cersanit.ru/upload/uf/b22/DEL232.jpg",
 }
 
-const SITE_URL = "https://cersanit-spb.ru"
+const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
