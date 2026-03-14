@@ -245,7 +245,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
         {/* Title row */}
         <div className="flex items-end justify-between mb-8">
           <div>
-            <h1 className="text-2xl lg:text-3xl font-bold text-foreground">Коллекции Cersanit</h1>
+            <h1 className="text-2xl lg:text-3xl font-bold text-foreground">Коллекции плитки</h1>
             <p className="mt-2 text-muted-foreground">
               {filtered.length}{" "}
               {filtered.length === 1 ? "коллекция" : filtered.length < 5 ? "коллекции" : "коллекций"}
