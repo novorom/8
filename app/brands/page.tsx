@@ -1,5 +1,6 @@
 import Link from "next/link"
 import type { Metadata } from "next"
+import { BrandLogo } from "./brand-logo"
 
 export const metadata: Metadata = {
   title: "Все бренды плитки в СПб — Kerama Marazzi, Cersanit, Азори",
@@ -98,24 +99,7 @@ export default function BrandsPage() {
           >
             {/* Logo area */}
             <div className="h-28 flex items-center justify-center p-5 bg-white">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={brand.logo}
-                alt={`Логотип ${brand.name}`}
-                className="max-h-14 max-w-full object-contain"
-                onError={(e) => {
-                  const target = e.currentTarget
-                  target.style.display = "none"
-                  const parent = target.parentElement
-                  if (parent) {
-                    const span = document.createElement("span")
-                    span.className = "text-lg font-bold text-center"
-                    span.style.color = brand.color
-                    span.textContent = brand.name
-                    parent.appendChild(span)
-                  }
-                }}
-              />
+              <BrandLogo src={brand.logo} alt={brand.name} color={brand.color} />
             </div>
             {/* Color bar */}
             <div className="h-1" style={{ backgroundColor: brand.color }} />
