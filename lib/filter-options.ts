@@ -18,7 +18,8 @@ export const filterOptions = {
     "Dako",
     "Квадро Декор",
     "Гранитея",
-    "Gracia Ceramica"],
+    "Gracia Ceramica",
+    "Уральский гранит"],
   colors: [
     "белый",
     "бежевый",
