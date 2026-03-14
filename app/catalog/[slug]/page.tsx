@@ -4,11 +4,20 @@ import { ProductPageClient } from "./product-client"
 
 const SITE_URL = "https://plitki-spb.ru"
 
+// Генерируем статически только топ-300 товаров с картинками и ценой
+// Остальные рендерятся динамически при первом запросе и кешируются
 export async function generateStaticParams() {
   return products
-    .filter((p) => p.slug)
+    .filter((p) => p.slug && p.main_image && p.price_retail > 0)
+    .slice(0, 300)
     .map((p) => ({ slug: p.slug as string }))
 }
+
+// Разрешаем динамический рендеринг для остальных страниц
+export const dynamicParams = true
+
+// Кешируем динамически сгенерированные страницы на 1 час
+export const revalidate = 3600
 
 export async function generateMetadata({
   params,
@@ -55,8 +64,6 @@ export default async function ProductPage({
   const { slug } = await params
   const product = products.find((p) => p.slug === slug)
 
-  // Preload главного фото через weserv — браузер качает картинку
-  // одновременно с JS, не дожидаясь гидрации клиентского компонента
   const rawImage = product?.main_image || (product?.images && product.images[0])
   const preloadUrl = rawImage
     ? `https://images.weserv.nl/?url=${rawImage.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`
