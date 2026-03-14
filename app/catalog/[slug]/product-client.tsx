@@ -148,7 +148,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
         totalStock > 0
           ? "https://schema.org/InStock"
           : "https://schema.org/PreOrder",
-      seller: { "@type": "Organization", name: "Плитки СПб" },
+      seller: { "@type": "Organization", name: "Дом Плитки CERSANIT" },
       areaServed: { "@type": "City", name: "Санкт-Петербург" },
       deliveryLeadTime: {
         "@type": "QuantitativeValue",
@@ -350,7 +350,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
             {/* Price */}
             <div className="flex items-baseline gap-3">
               <span className="text-3xl font-bold text-foreground">
-                {product.price_retail?.toLocaleString("ru-RU")} {priceUnit}
+                {product.price_retail.toLocaleString("ru-RU")} {priceUnit}
               </span>
               {hasDiscount && (
                 <span className="text-lg text-muted-foreground line-through">
@@ -414,7 +414,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                 <ShoppingCart className="h-4 w-4" />
                 В корзину{" "}
                 <span className="text-primary-foreground/70">
-                  {(product.price_retail || 0 * quantity)?.toLocaleString("ru-RU")} {"₽"}
+                  {(product.price_retail * quantity).toLocaleString("ru-RU")} {"₽"}
                 </span>
               </button>
 
