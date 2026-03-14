@@ -17,7 +17,6 @@ export const filterOptions = {
     "Идальго",
     "Dako",
     "Квадро Декор",
-  ,
     "Гранитея",
     "Gracia Ceramica"],
   colors: [
