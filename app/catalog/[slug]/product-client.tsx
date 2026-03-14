@@ -93,11 +93,11 @@ export function ProductPageClient({ slug }: { slug: string }) {
   const [isFavorite, setIsFavorite] = useState(false)
 
   const relatedProducts = useMemo(() => {
-    const same = products.filter(p => p.collection === product.collection && p.id !== product.id)
+    const same = products.filter(p => p.collection === product.collection && p.slug !== product.slug)
     if (same.length >= 4) return same.slice(0, 4)
     // Расширяем: по формату, цвету, типу
     const scored = products
-      .filter(p => p.id !== product.id && p.collection !== product.collection)
+      .filter(p => p.slug !== product.slug && p.collection !== product.collection)
       .map(p => {
         let score = 0
         if (p.format === product.format) score += 3
