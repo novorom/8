@@ -80,7 +80,7 @@ export const filterOptions = {
     "Декор",
   ],
   price_range: {
-    min: 400,
+    min: 0,
     max: 9500,
   },
 

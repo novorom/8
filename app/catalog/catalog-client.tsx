@@ -40,7 +40,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
   }, [productType, collectionSlug, brandParam])
 
   const [activeFilters, setActiveFilters] = useState<Record<string, string[]>>(initialFilters)
-  const [priceRange, setPriceRange] = useState<[number, number]>([400, 9500])
+  const [priceRange, setPriceRange] = useState<[number, number]>([0, 9500])
 
   useEffect(() => {
     const filters: Record<string, string[]> = {}
@@ -131,7 +131,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
 
     // Price filter
     result = result.filter(
-      (p) => p.price_retail >= priceRange[0] && p.price_retail <= priceRange[1]
+      (p) => p.price_retail === 0 || (p.price_retail >= priceRange[0] && p.price_retail <= priceRange[1])
     )
 
     switch (sort) {
