@@ -9147,7 +9147,11 @@ const localProducts: Product[] = [
 
 export const products: Product[] = [
   ...localProducts,
-  ...(importedProducts as unknown as Product[]),
+  ...(importedProducts as unknown as any[]).map(p => ({
+    ...p,
+    price_retail: p.price_retail ?? p.price ?? 0,
+    price_official: p.price_official ?? p.price ?? 0,
+  })) as Product[],
 ]
 
 export const collections = [...new Set(products.map(p => p.collection))].sort()
