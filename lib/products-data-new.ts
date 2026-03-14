@@ -10299,8 +10299,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524482/plitki-spb/azori-river-00-00110097.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524482/plitki-spb/azori-river-00-00110097.webp"],
   description: "Плитка 31,5*63 RIVER 87,71кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RIVER 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10316,8 +10316,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524483/plitki-spb/azori-river-00-00110096.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524483/plitki-spb/azori-river-00-00110096.webp"],
   description: "Плитка 31,5*63 RIVER DECOR 87,71кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RIVER DECOR 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10333,8 +10333,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524485/plitki-spb/azori-river-00-00110098.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524485/plitki-spb/azori-river-00-00110098.webp"],
   description: "Плитка 31,5*63 RIVER DEEP 87,71кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 RIVER DEEP 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10350,8 +10350,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524487/plitki-spb/azori-river-00-00110099.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524487/plitki-spb/azori-river-00-00110099.webp"],
   description: "Плитка 42*42 FOREST 63,96кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Размер 42х42 см. Купить Плитка 42*42 FOREST 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10367,8 +10367,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524489/plitki-spb/azori-patagoniya-00-00110023.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524489/plitki-spb/azori-patagoniya-00-00110023.webp"],
   description: "Плитка 31,5*63 PATAGONIA 87,71кв.м 1с — керамическая плитка коллекции ПАТАГОНИЯ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PATAGONIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10384,8 +10384,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524491/plitki-spb/azori-patagoniya-00-00110024.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524491/plitki-spb/azori-patagoniya-00-00110024.webp"],
   description: "Плитка 31,5*63 PATAGONIA BRICKS 87,71кв.м 1с — керамическая плитка коллекции ПАТАГОНИЯ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PATAGONIA BRICKS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10401,8 +10401,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524493/plitki-spb/azori-patagoniya-00-00110025.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524493/plitki-spb/azori-patagoniya-00-00110025.webp"],
   description: "Плитка 31,5*63 PATAGONIA LIGHT 87,71кв.м 1с — керамическая плитка коллекции ПАТАГОНИЯ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PATAGONIA LIGHT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10418,8 +10418,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524494/plitki-spb/azori-patagoniya-00-00110026.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524494/plitki-spb/azori-patagoniya-00-00110026.webp"],
   description: "Плитка 42*42 PATAGONIA LIGHT 63,96кв.м 1с — керамическая плитка коллекции ПАТАГОНИЯ от Азори. Размер 42х42 см. Купить Плитка 42*42 PATAGONIA LIGHT 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10435,8 +10435,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524496/plitki-spb/azori-salvador-00-00110061.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524496/plitki-spb/azori-salvador-00-00110061.webp"],
   description: "Плитка 31,5*63 SALVADOR BEIGE 87,71кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SALVADOR BEIGE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10452,8 +10452,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524498/plitki-spb/azori-salvador-00-00110060.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524498/plitki-spb/azori-salvador-00-00110060.webp"],
   description: "Плитка 31,5*63 SALVADOR CREMA 87,71кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SALVADOR CREMA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10469,8 +10469,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524500/plitki-spb/azori-salvador-00-00110062.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524500/plitki-spb/azori-salvador-00-00110062.webp"],
   description: "Плитка 31,5*63 SALVADOR DÉCOR 1  87,71кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SALVADOR DÉCOR 1  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10486,8 +10486,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524502/plitki-spb/azori-salvador-00-00110063.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524502/plitki-spb/azori-salvador-00-00110063.webp"],
   description: "Плитка 31,5*63 SALVADOR DÉCOR 2  87,71кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SALVADOR DÉCOR 2  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10503,8 +10503,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524503/plitki-spb/azori-salvador-00-00110064.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524503/plitki-spb/azori-salvador-00-00110064.webp"],
   description: "Плитка 31,5*63 SALVADOR WOOD 87,71кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SALVADOR WOOD 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10520,8 +10520,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524505/plitki-spb/azori-salvador-00-00110065.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524505/plitki-spb/azori-salvador-00-00110065.webp"],
   description: "Плитка 42*42 SALVADOR 63,96кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Размер 42х42 см. Купить Плитка 42*42 SALVADOR 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10537,8 +10537,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524507/plitki-spb/azori-sendstoun-00-00110082.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524507/plitki-spb/azori-sendstoun-00-00110082.webp"],
   description: "Плитка 31,5*63 SANDSTONE BRICKS 87,71кв.м 1с — керамическая плитка коллекции СЭНДСТОУН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SANDSTONE BRICKS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10554,8 +10554,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524508/plitki-spb/azori-sendstoun-00-00110079.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524508/plitki-spb/azori-sendstoun-00-00110079.webp"],
   description: "Плитка 31,5*63 SANDSTONE DARK 87,71кв.м 1с — керамическая плитка коллекции СЭНДСТОУН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SANDSTONE DARK 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10571,8 +10571,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524510/plitki-spb/azori-sendstoun-00-00110080.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524510/plitki-spb/azori-sendstoun-00-00110080.webp"],
   description: "Плитка 31,5*63 SANDSTONE DÉCOR 1  87,71кв.м 1с — керамическая плитка коллекции СЭНДСТОУН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SANDSTONE DÉCOR 1  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10588,8 +10588,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524511/plitki-spb/azori-sendstoun-00-00110081.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524511/plitki-spb/azori-sendstoun-00-00110081.webp"],
   description: "Плитка 31,5*63 SANDSTONE DÉCOR 2  87,71кв.м 1с — керамическая плитка коллекции СЭНДСТОУН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SANDSTONE DÉCOR 2  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10605,8 +10605,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524513/plitki-spb/azori-sendstoun-00-00110078.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524513/plitki-spb/azori-sendstoun-00-00110078.webp"],
   description: "Плитка 31,5*63 SANDSTONE DUNE 87,71кв.м 1с — керамическая плитка коллекции СЭНДСТОУН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SANDSTONE DUNE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10622,8 +10622,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524515/plitki-spb/azori-sendstoun-00-00110136.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524515/plitki-spb/azori-sendstoun-00-00110136.webp"],
   description: "Плитка 42*42 SANDSTONE DARK 63,96кв.м 1с — керамическая плитка коллекции СЭНДСТОУН от Азори. Размер 42х42 см. Купить Плитка 42*42 SANDSTONE DARK 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10639,8 +10639,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524516/plitki-spb/azori-sendstoun-00-00110083.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524516/plitki-spb/azori-sendstoun-00-00110083.webp"],
   description: "Керамогранит R 60*60 SANDSTONE DUNE 46,08 кв.м 1с — керамогранит коллекции СЭНДСТОУН от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 SANDSTONE DUNE 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10656,8 +10656,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524518/plitki-spb/azori-sendstoun-00-00110327.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524518/plitki-spb/azori-sendstoun-00-00110327.webp"],
   description: "Керамогранит R 60*60 SANDSTONE DARK 46,08 кв.м 1с — керамогранит коллекции СЭНДСТОУН от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 SANDSTONE DARK 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10673,8 +10673,8 @@ export const importedProducts: any[] = [
   price_retail: 712,
   price_official: 890,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524520/plitki-spb/azori-sen-loran-00-00110251.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524520/plitki-spb/azori-sen-loran-00-00110251.webp"],
   description: "Декор 31,5*63 SAINT LAURENT ARCADA 6 шт 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 SAINT LAURENT ARCADA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10690,8 +10690,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524522/plitki-spb/azori-sen-loran-00-00110093.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524522/plitki-spb/azori-sen-loran-00-00110093.webp"],
   description: "Плитка 31,5*63 SAINT LAURENT  LIGHT 87,71кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SAINT LAURENT  LIGHT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10707,8 +10707,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524523/plitki-spb/azori-sen-loran-00-00110094.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524523/plitki-spb/azori-sen-loran-00-00110094.webp"],
   description: "Плитка 31,5*63 SAINT LAURENT 87,71кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SAINT LAURENT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10724,8 +10724,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524525/plitki-spb/azori-sen-loran-00-00110091.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524525/plitki-spb/azori-sen-loran-00-00110091.webp"],
   description: "Плитка 31,5*63 SAINT LAURENT DÉCOR 1  87,71кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SAINT LAURENT DÉCOR 1  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10741,8 +10741,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524527/plitki-spb/azori-sen-loran-00-00110092.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524527/plitki-spb/azori-sen-loran-00-00110092.webp"],
   description: "Плитка 31,5*63 SAINT LAURENT DÉCOR 2  87,71кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SAINT LAURENT DÉCOR 2  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10758,8 +10758,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524528/plitki-spb/azori-sen-loran-00-00110250.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524528/plitki-spb/azori-sen-loran-00-00110250.webp"],
   description: "Плитка 31,5*63 SAINT LAURENT PATTERN  87,71кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SAINT LAURENT PATTERN  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10775,8 +10775,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524531/plitki-spb/azori-sen-loran-00-00110095.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524531/plitki-spb/azori-sen-loran-00-00110095.webp"],
   description: "Плитка 42*42 SAINT LAURENT 63,96кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 42х42 см. Купить Плитка 42*42 SAINT LAURENT 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10792,8 +10792,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524533/plitki-spb/azori-sen-loran-00-00110137.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524533/plitki-spb/azori-sen-loran-00-00110137.webp"],
   description: "Плитка 42*42 SAINT LAURENT LIGHT 63,96кв.м 1с — керамическая плитка коллекции СЕН ЛОРАН от Азори. Размер 42х42 см. Купить Плитка 42*42 SAINT LAURENT LIGHT 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10809,8 +10809,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524535/plitki-spb/azori-karrara-00-00108694.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524535/plitki-spb/azori-karrara-00-00108694.webp"],
   description: "Плитка 31,5*63 CARRARA  FLOWERS 52,47кв.м 1с — керамическая плитка коллекции Каррара от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARRARA  FLOWERS 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10826,8 +10826,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524537/plitki-spb/azori-karrara-00-00109617.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524537/plitki-spb/azori-karrara-00-00109617.webp"],
   description: "Плитка 31,5*63 CARRARA  FLOWERS 87,71кв.м 1с — керамическая плитка коллекции Каррара от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARRARA  FLOWERS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10843,8 +10843,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524539/plitki-spb/azori-karrara-00-00108696.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524539/plitki-spb/azori-karrara-00-00108696.webp"],
   description: "Плитка 31,5*63 CARRARA  GEOMETRIA 52,47кв.м 1с — керамическая плитка коллекции Каррара от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARRARA  GEOMETRIA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10860,8 +10860,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524541/plitki-spb/azori-karrara-00-00109618.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524541/plitki-spb/azori-karrara-00-00109618.webp"],
   description: "Плитка 31,5*63 CARRARA  GEOMETRIA 87,71кв.м 1с — керамическая плитка коллекции Каррара от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARRARA  GEOMETRIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10877,8 +10877,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524543/plitki-spb/azori-karrara-00-00108692.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524543/plitki-spb/azori-karrara-00-00108692.webp"],
   description: "Плитка 31,5*63 CARRARA BIANCO 52,47кв.м 1с — керамическая плитка коллекции Каррара от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARRARA BIANCO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10895,8 +10895,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 2.39,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524545/plitki-spb/azori-karrara-00-00109616.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524545/plitki-spb/azori-karrara-00-00109616.webp"],
   description: "Плитка 31,5*63 CARRARA BIANCO 87,71кв.м 1с — керамическая плитка коллекции Каррара от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARRARA BIANCO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10912,8 +10912,8 @@ export const importedProducts: any[] = [
   price_retail: 1272,
   price_official: 1590,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524547/plitki-spb/azori-sorel-00-00108633.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524547/plitki-spb/azori-sorel-00-00108633.webp"],
   description: "Декор 31,5*63 SOREL MOSAICO 6 шт 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 SOREL MOSAICO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10929,8 +10929,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524549/plitki-spb/azori-sorel-00-00108602.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524549/plitki-spb/azori-sorel-00-00108602.webp"],
   description: "Плитка 31,5*63 SOREL 52,47кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SOREL 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10946,8 +10946,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524551/plitki-spb/azori-sorel-00-00109558.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524551/plitki-spb/azori-sorel-00-00109558.webp"],
   description: "Плитка 31,5*63 SOREL 87,71кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SOREL 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10963,8 +10963,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524552/plitki-spb/azori-sorel-00-00108600.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524552/plitki-spb/azori-sorel-00-00108600.webp"],
   description: "Плитка 31,5*63 SOREL GREY 52,47кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SOREL GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10980,8 +10980,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524554/plitki-spb/azori-sorel-00-00109637.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524554/plitki-spb/azori-sorel-00-00109637.webp"],
   description: "Плитка 31,5*63 SOREL GREY 87,71кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SOREL GREY 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -10997,8 +10997,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524557/plitki-spb/azori-sorel-00-00108598.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524557/plitki-spb/azori-sorel-00-00108598.webp"],
   description: "Плитка 31,5*63 SOREL LIGHT 52,47кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SOREL LIGHT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11014,8 +11014,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524558/plitki-spb/azori-sorel-00-00109638.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524558/plitki-spb/azori-sorel-00-00109638.webp"],
   description: "Плитка 31,5*63 SOREL LIGHT 87,71кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SOREL LIGHT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11031,8 +11031,8 @@ export const importedProducts: any[] = [
   price_retail: 1272,
   price_official: 1590,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524560/plitki-spb/azori-kalakatta-opako-00-00108678.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524560/plitki-spb/azori-kalakatta-opako-00-00108678.webp"],
   description: "Декор 31,5*63 CALACATTA OPACO 6 шт 1с — керамическая плитка коллекции Калакатта Опако от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 CALACATTA OPACO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11048,8 +11048,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524562/plitki-spb/azori-kalakatta-opako-00-00108672.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524562/plitki-spb/azori-kalakatta-opako-00-00108672.webp"],
   description: "Плитка 31,5*63 CALACATTA OPACO 52,47кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11065,8 +11065,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524564/plitki-spb/azori-kalakatta-opako-00-00109614.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524564/plitki-spb/azori-kalakatta-opako-00-00109614.webp"],
   description: "Плитка 31,5*63 CALACATTA OPACO 87,71кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11082,8 +11082,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524566/plitki-spb/azori-kalakatta-opako-00-00108674.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524566/plitki-spb/azori-kalakatta-opako-00-00108674.webp"],
   description: "Плитка 31,5*63 CALACATTA OPACO DIAMOND 52,47кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO DIAMOND 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11099,8 +11099,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524568/plitki-spb/azori-kalakatta-opako-00-00109615.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524568/plitki-spb/azori-kalakatta-opako-00-00109615.webp"],
   description: "Плитка 31,5*63 CALACATTA OPACO DIAMOND 87,71кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO DIAMOND 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11116,8 +11116,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524570/plitki-spb/azori-urban-00-00108595.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524570/plitki-spb/azori-urban-00-00108595.webp"],
   description: "Плитка 31,5*63 URBAN 52,47кв.м 1с — керамическая плитка коллекции Урбан от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 URBAN 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11133,8 +11133,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524572/plitki-spb/azori-urban-00-00109557.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524572/plitki-spb/azori-urban-00-00109557.webp"],
   description: "Плитка 31,5*63 URBAN 87,71кв.м 1с — керамическая плитка коллекции Урбан от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 URBAN 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11150,8 +11150,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524574/plitki-spb/azori-urban-00-00108591.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524574/plitki-spb/azori-urban-00-00108591.webp"],
   description: "Плитка 31,5*63 URBAN CREMA 52,47кв.м 1с — керамическая плитка коллекции Урбан от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 URBAN CREMA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11167,8 +11167,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524575/plitki-spb/azori-urban-00-00109639.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524575/plitki-spb/azori-urban-00-00109639.webp"],
   description: "Плитка 31,5*63 URBAN CREMA 87,71кв.м 1с — керамическая плитка коллекции Урбан от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 URBAN CREMA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11184,8 +11184,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524577/plitki-spb/azori-urban-00-00108593.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524577/plitki-spb/azori-urban-00-00108593.webp"],
   description: "Плитка 31,5*63 URBAN DARK 52,47кв.м 1с — керамическая плитка коллекции Урбан от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 URBAN DARK 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11202,8 +11202,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 10.74,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524579/plitki-spb/azori-urban-00-00109640.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524579/plitki-spb/azori-urban-00-00109640.webp"],
   description: "Плитка 31,5*63 URBAN DARK 87,71кв.м 1с — керамическая плитка коллекции Урбан от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 URBAN DARK 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11219,8 +11219,8 @@ export const importedProducts: any[] = [
   price_retail: 1072,
   price_official: 1340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524581/plitki-spb/azori-fortetstsa-00-00108419.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524581/plitki-spb/azori-fortetstsa-00-00108419.webp"],
   description: "Декор 31,5*63 FORTEZZA 6 шт 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 FORTEZZA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11236,8 +11236,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524583/plitki-spb/azori-fortetstsa-00-00108412.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524583/plitki-spb/azori-fortetstsa-00-00108412.webp"],
   description: "Плитка 31,5*63 FORTEZZA ERBA 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA ERBA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11253,8 +11253,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524584/plitki-spb/azori-fortetstsa-00-00109632.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524584/plitki-spb/azori-fortetstsa-00-00109632.webp"],
   description: "Плитка 31,5*63 FORTEZZA ERBA 87,71кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA ERBA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11270,8 +11270,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524586/plitki-spb/azori-fortetstsa-00-00108414.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524586/plitki-spb/azori-fortetstsa-00-00108414.webp"],
   description: "Плитка 31,5*63 FORTEZZA FOGLIA 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA FOGLIA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11288,8 +11288,8 @@ export const importedProducts: any[] = [
   price_official: 1490,
   stock_yanino: 3.18,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524588/plitki-spb/azori-fortetstsa-00-00109470.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524588/plitki-spb/azori-fortetstsa-00-00109470.webp"],
   description: "Плитка 31,5*63 FORTEZZA FOGLIA 87,71кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA FOGLIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11305,8 +11305,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524590/plitki-spb/azori-fortetstsa-00-00108410.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524590/plitki-spb/azori-fortetstsa-00-00108410.webp"],
   description: "Плитка 31,5*63 FORTEZZA GREY 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11322,8 +11322,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524592/plitki-spb/azori-fortetstsa-00-00109633.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524592/plitki-spb/azori-fortetstsa-00-00109633.webp"],
   description: "Плитка 31,5*63 FORTEZZA GREY 87,71кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA GREY 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11339,8 +11339,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524594/plitki-spb/azori-fortetstsa-00-00108408.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524594/plitki-spb/azori-fortetstsa-00-00108408.webp"],
   description: "Плитка 31,5*63 FORTEZZA LIGHT 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA LIGHT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11356,8 +11356,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524596/plitki-spb/azori-fortetstsa-00-00109471.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524596/plitki-spb/azori-fortetstsa-00-00109471.webp"],
   description: "Плитка 31,5*63 FORTEZZA LIGHT 87,71кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA LIGHT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11373,8 +11373,8 @@ export const importedProducts: any[] = [
   price_retail: 1072,
   price_official: 1340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524597/plitki-spb/azori-akate-00-00108418.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524597/plitki-spb/azori-akate-00-00108418.webp"],
   description: "Декор 31,5*63 ACATE 6 шт 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 ACATE 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11390,8 +11390,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524600/plitki-spb/azori-akate-00-00108401.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524600/plitki-spb/azori-akate-00-00108401.webp"],
   description: "Плитка 31,5*63 ACATE CASCADE 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE CASCADE 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11407,8 +11407,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524601/plitki-spb/azori-akate-00-00109538.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524601/plitki-spb/azori-akate-00-00109538.webp"],
   description: "Плитка 31,5*63 ACATE CASCADE 87,71кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE CASCADE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11424,8 +11424,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524603/plitki-spb/azori-akate-00-00108403.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524603/plitki-spb/azori-akate-00-00108403.webp"],
   description: "Плитка 31,5*63 ACATE FLORA 1 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE FLORA 1 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11441,8 +11441,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524605/plitki-spb/azori-akate-00-00109603.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524605/plitki-spb/azori-akate-00-00109603.webp"],
   description: "Плитка 31,5*63 ACATE FLORA 1 87,71кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE FLORA 1 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11458,8 +11458,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524607/plitki-spb/azori-akate-00-00108405.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524607/plitki-spb/azori-akate-00-00108405.webp"],
   description: "Плитка 31,5*63 ACATE FLORA 2 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE FLORA 2 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11475,8 +11475,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524609/plitki-spb/azori-akate-00-00109604.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524609/plitki-spb/azori-akate-00-00109604.webp"],
   description: "Плитка 31,5*63 ACATE FLORA 2 87,71кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE FLORA 2 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11492,8 +11492,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524611/plitki-spb/azori-akate-00-00108399.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524611/plitki-spb/azori-akate-00-00108399.webp"],
   description: "Плитка 31,5*63 ACATE GREY 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11510,8 +11510,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 6.76,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524613/plitki-spb/azori-akate-00-00109509.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524613/plitki-spb/azori-akate-00-00109509.webp"],
   description: "Плитка 31,5*63 ACATE GREY 87,71кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE GREY 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11527,8 +11527,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524615/plitki-spb/azori-akate-00-00108397.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524615/plitki-spb/azori-akate-00-00108397.webp"],
   description: "Плитка 31,5*63 ACATE LIGHT 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE LIGHT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11545,8 +11545,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 1.99,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524617/plitki-spb/azori-akate-00-00109510.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524617/plitki-spb/azori-akate-00-00109510.webp"],
   description: "Плитка 31,5*63 ACATE LIGHT 87,71кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ACATE LIGHT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11562,8 +11562,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524618/plitki-spb/azori-akate-00-00003519.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524618/plitki-spb/azori-akate-00-00003519.webp"],
   description: "Плитка 42*42  ACATE GREY 63,96 кв.м 1с — керамическая плитка коллекции Акате от Азори. Размер 42х42 см. Купить Плитка 42*42  ACATE GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11596,8 +11596,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524622/plitki-spb/azori-karlina-00-00003511.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524622/plitki-spb/azori-karlina-00-00003511.webp"],
   description: "Плитка 31,5*63 CARLINA  MONSTERA  52,47кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х62 см. Купить Плитка 31,5*63 CARLINA  MONSTERA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11613,8 +11613,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524624/plitki-spb/azori-karlina-00-00110071.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524624/plitki-spb/azori-karlina-00-00110071.webp"],
   description: "Плитка 31,5*63 CARLINA  MONSTERA  59,07кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х62 см. Купить Плитка 31,5*63 CARLINA  MONSTERA  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11630,8 +11630,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524626/plitki-spb/azori-karlina-00-00109472.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524626/plitki-spb/azori-karlina-00-00109472.webp"],
   description: "Плитка 31,5*63 CARLINA  MONSTERA  87,71кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х62 см. Купить Плитка 31,5*63 CARLINA  MONSTERA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11647,8 +11647,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524627/plitki-spb/azori-karlina-00-00003507.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524627/plitki-spb/azori-karlina-00-00003507.webp"],
   description: "Плитка 31,5*63 CARLINA  PEARL  52,47кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARLINA  PEARL  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11664,8 +11664,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524629/plitki-spb/azori-karlina-00-00110070.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524629/plitki-spb/azori-karlina-00-00110070.webp"],
   description: "Плитка 31,5*63 CARLINA  PEARL 59,07 кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARLINA  PEARL 59,07 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11681,8 +11681,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524631/plitki-spb/azori-karlina-00-00109457.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524631/plitki-spb/azori-karlina-00-00109457.webp"],
   description: "Плитка 31,5*63 CARLINA  PEARL 87,71 кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х62 см. Купить Плитка 31,5*63 CARLINA  PEARL 87,71 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11698,8 +11698,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524633/plitki-spb/azori-karlina-00-00003509.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524633/plitki-spb/azori-karlina-00-00003509.webp"],
   description: "Плитка 31,5*63 CARLINA  SHADOW  52,47кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARLINA  SHADOW  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11715,8 +11715,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524635/plitki-spb/azori-karlina-00-00110072.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524635/plitki-spb/azori-karlina-00-00110072.webp"],
   description: "Плитка 31,5*63 CARLINA  SHADOW  59,07кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CARLINA  SHADOW  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11732,8 +11732,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524637/plitki-spb/azori-karlina-00-00109541.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524637/plitki-spb/azori-karlina-00-00109541.webp"],
   description: "Плитка 31,5*63 CARLINA  SHADOW  87,71кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 31,5х62 см. Купить Плитка 31,5*63 CARLINA  SHADOW  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11749,8 +11749,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524640/plitki-spb/azori-karlina-00-00003515.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524640/plitki-spb/azori-karlina-00-00003515.webp"],
   description: "Плитка 42*42 CARLINA  SHADOW 63,96кв.м 1с — керамическая плитка коллекции Карлина от Азори. Размер 42х42 см. Купить Плитка 42*42 CARLINA  SHADOW 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11766,8 +11766,8 @@ export const importedProducts: any[] = [
   price_retail: 592,
   price_official: 740,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524642/plitki-spb/azori-chemento-00-00003286.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524642/plitki-spb/azori-chemento-00-00003286.webp"],
   description: "Декор 31,5*63 CEMENTO 6 шт 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 CEMENTO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11783,8 +11783,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524644/plitki-spb/azori-chemento-00-00003276.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524644/plitki-spb/azori-chemento-00-00003276.webp"],
   description: "Плитка 31,5*63 CEMENTO  52,47кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11800,8 +11800,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524645/plitki-spb/azori-chemento-00-00109964.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524645/plitki-spb/azori-chemento-00-00109964.webp"],
   description: "Плитка 31,5*63 CEMENTO  59,07кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11817,8 +11817,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524647/plitki-spb/azori-chemento-00-00109542.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524647/plitki-spb/azori-chemento-00-00109542.webp"],
   description: "Плитка 31,5*63 CEMENTO  87,71кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11834,8 +11834,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524649/plitki-spb/azori-chemento-00-00003280.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524649/plitki-spb/azori-chemento-00-00003280.webp"],
   description: "Плитка 31,5*63 CEMENTO GEOMETRIA  52,47кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO GEOMETRIA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11851,8 +11851,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524651/plitki-spb/azori-chemento-00-00110111.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524651/plitki-spb/azori-chemento-00-00110111.webp"],
   description: "Плитка 31,5*63 CEMENTO GEOMETRIA  59,07кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO GEOMETRIA  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11868,8 +11868,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524653/plitki-spb/azori-chemento-00-00109619.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524653/plitki-spb/azori-chemento-00-00109619.webp"],
   description: "Плитка 31,5*63 CEMENTO GEOMETRIA  87,71кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO GEOMETRIA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11885,8 +11885,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524654/plitki-spb/azori-chemento-00-00003278.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524654/plitki-spb/azori-chemento-00-00003278.webp"],
   description: "Плитка 31,5*63 CEMENTO SHADOW  52,47кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO SHADOW  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11902,8 +11902,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524656/plitki-spb/azori-chemento-00-00109991.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524656/plitki-spb/azori-chemento-00-00109991.webp"],
   description: "Плитка 31,5*63 CEMENTO SHADOW  59,07кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO SHADOW  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11919,8 +11919,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524657/plitki-spb/azori-chemento-00-00109543.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524657/plitki-spb/azori-chemento-00-00109543.webp"],
   description: "Плитка 31,5*63 CEMENTO SHADOW  87,71кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 CEMENTO SHADOW  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11936,8 +11936,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524659/plitki-spb/azori-chemento-00-00003282.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524659/plitki-spb/azori-chemento-00-00003282.webp"],
   description: "Плитка 31,5*63 MADERA  52,47кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MADERA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11953,8 +11953,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524661/plitki-spb/azori-chemento-00-00110007.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524661/plitki-spb/azori-chemento-00-00110007.webp"],
   description: "Плитка 31,5*63 MADERA  59,07кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MADERA  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11970,8 +11970,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524663/plitki-spb/azori-chemento-00-00109620.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524663/plitki-spb/azori-chemento-00-00109620.webp"],
   description: "Плитка 31,5*63 MADERA  87,71кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MADERA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -11987,8 +11987,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524665/plitki-spb/azori-chemento-00-00003284.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524665/plitki-spb/azori-chemento-00-00003284.webp"],
   description: "Плитка 42*42 CEMENTO SHADOW 63,96кв.м 1с — керамическая плитка коллекции Чементо от Азори. Размер 42х42 см. Купить Плитка 42*42 CEMENTO SHADOW 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12004,8 +12004,8 @@ export const importedProducts: any[] = [
   price_retail: 1072,
   price_official: 1340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524666/plitki-spb/azori-briks-00-00003254.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524666/plitki-spb/azori-briks-00-00003254.webp"],
   description: "Декор 31,5*63 BRICKS 6 шт 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 BRICKS 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12021,8 +12021,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524668/plitki-spb/azori-briks-00-00003246.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524668/plitki-spb/azori-briks-00-00003246.webp"],
   description: "Плитка 31,5*63 BRICKS AZUL  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS AZUL  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12039,8 +12039,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 93.68,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524670/plitki-spb/azori-briks-00-00109540.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524670/plitki-spb/azori-briks-00-00109540.webp"],
   description: "Плитка 31,5*63 BRICKS AZUL  87,71кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS AZUL  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12057,8 +12057,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 51.87,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524671/plitki-spb/azori-briks-00-00003240.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524671/plitki-spb/azori-briks-00-00003240.webp"],
   description: "Плитка 31,5*63 BRICKS BEIGE   52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS BEIGE   52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12075,8 +12075,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 42.56,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524674/plitki-spb/azori-briks-00-00109497.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524674/plitki-spb/azori-briks-00-00109497.webp"],
   description: "Плитка 31,5*63 BRICKS BEIGE   87,71кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS BEIGE   87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12092,8 +12092,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524675/plitki-spb/azori-briks-00-00003244.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524675/plitki-spb/azori-briks-00-00003244.webp"],
   description: "Плитка 31,5*63 BRICKS GREEN  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS GREEN  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12110,8 +12110,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 63.25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524677/plitki-spb/azori-briks-00-00109498.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524677/plitki-spb/azori-briks-00-00109498.webp"],
   description: "Плитка 31,5*63 BRICKS GREEN  87,71кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS GREEN  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12127,8 +12127,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524679/plitki-spb/azori-briks-00-00003242.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524679/plitki-spb/azori-briks-00-00003242.webp"],
   description: "Плитка 31,5*63 BRICKS GRIS  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS GRIS  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12144,8 +12144,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524681/plitki-spb/azori-briks-00-00109499.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524681/plitki-spb/azori-briks-00-00109499.webp"],
   description: "Плитка 31,5*63 BRICKS GRIS  87,71кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS GRIS  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12162,8 +12162,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 36.77,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524683/plitki-spb/azori-briks-00-00003250.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524683/plitki-spb/azori-briks-00-00003250.webp"],
   description: "Плитка 31,5*63 BRICKS LEAF 52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS LEAF 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12179,8 +12179,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524685/plitki-spb/azori-briks-00-00109500.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524685/plitki-spb/azori-briks-00-00109500.webp"],
   description: "Плитка 31,5*63 BRICKS LEAF 87,71кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS LEAF 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12196,8 +12196,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524687/plitki-spb/azori-briks-00-00003248.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524687/plitki-spb/azori-briks-00-00003248.webp"],
   description: "Плитка 31,5*63 BRICKS TERRACOTA  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS TERRACOTA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12213,8 +12213,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524689/plitki-spb/azori-briks-00-00109611.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524689/plitki-spb/azori-briks-00-00109611.webp"],
   description: "Плитка 31,5*63 BRICKS TERRACOTA  87,71кв.м 1с — керамическая плитка коллекции Брикс от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 BRICKS TERRACOTA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12230,8 +12230,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524691/plitki-spb/azori-rosso-venato-00-00003221.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524691/plitki-spb/azori-rosso-venato-00-00003221.webp"],
   description: "Плитка 31,5*63 ROSSO VENATO 52,47кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROSSO VENATO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12248,8 +12248,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 7.16,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524693/plitki-spb/azori-rosso-venato-00-00109554.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524693/plitki-spb/azori-rosso-venato-00-00109554.webp"],
   description: "Плитка 31,5*63 ROSSO VENATO 87,71кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROSSO VENATO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12265,8 +12265,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524695/plitki-spb/azori-rosso-venato-00-00003223.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524695/plitki-spb/azori-rosso-venato-00-00003223.webp"],
   description: "Плитка 31,5*63 ROSSO VENATO GEOMETRIA 52,47кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROSSO VENATO GEOMETRIA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12283,8 +12283,8 @@ export const importedProducts: any[] = [
   price_official: 1490,
   stock_yanino: 11.73,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524697/plitki-spb/azori-rosso-venato-00-00109475.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524697/plitki-spb/azori-rosso-venato-00-00109475.webp"],
   description: "Плитка 31,5*63 ROSSO VENATO GEOMETRIA 87,71кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROSSO VENATO GEOMETRIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12301,8 +12301,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 6.15,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524698/plitki-spb/azori-rosso-venato-00-00003447.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524698/plitki-spb/azori-rosso-venato-00-00003447.webp"],
   description: "Плитка 42*42 ROSSO VENATO 63,96кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Размер 42х42 см. Купить Плитка 42*42 ROSSO VENATO 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12318,8 +12318,8 @@ export const importedProducts: any[] = [
   price_retail: 1072,
   price_official: 1340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524700/plitki-spb/azori-inchisio-00-00003161.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524700/plitki-spb/azori-inchisio-00-00003161.webp"],
   description: "Декор 31,5*63 INCISIO 6 шт 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 INCISIO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12335,8 +12335,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524702/plitki-spb/azori-inchisio-00-00003145.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524702/plitki-spb/azori-inchisio-00-00003145.webp"],
   description: "Плитка 31,5*63 INCISIO  52,47кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12352,8 +12352,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524704/plitki-spb/azori-inchisio-00-00109523.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524704/plitki-spb/azori-inchisio-00-00109523.webp"],
   description: "Плитка 31,5*63 INCISIO  87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12369,8 +12369,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524705/plitki-spb/azori-inchisio-00-00003151.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524705/plitki-spb/azori-inchisio-00-00003151.webp"],
   description: "Плитка 31,5*63 INCISIO DIAMOND 52,47кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO DIAMOND 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12386,8 +12386,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524707/plitki-spb/azori-inchisio-00-00109524.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524707/plitki-spb/azori-inchisio-00-00109524.webp"],
   description: "Плитка 31,5*63 INCISIO DIAMOND 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO DIAMOND 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12420,8 +12420,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524710/plitki-spb/azori-inchisio-00-00109525.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524710/plitki-spb/azori-inchisio-00-00109525.webp"],
   description: "Плитка 31,5*63 INCISIO GEOMETRIA 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO GEOMETRIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12437,8 +12437,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524713/plitki-spb/azori-inchisio-00-00003149.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524713/plitki-spb/azori-inchisio-00-00003149.webp"],
   description: "Плитка 31,5*63 INCISIO GREY 52,47кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12454,8 +12454,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524715/plitki-spb/azori-inchisio-00-00109527.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524715/plitki-spb/azori-inchisio-00-00109527.webp"],
   description: "Плитка 31,5*63 INCISIO GREY 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO GREY 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12471,8 +12471,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524717/plitki-spb/azori-inchisio-00-00003153.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524717/plitki-spb/azori-inchisio-00-00003153.webp"],
   description: "Плитка 31,5*63 INCISIO ORIGINALE 52,47кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO ORIGINALE 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12488,8 +12488,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524719/plitki-spb/azori-inchisio-00-00109526.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524719/plitki-spb/azori-inchisio-00-00109526.webp"],
   description: "Плитка 31,5*63 INCISIO ORIGINALE 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO ORIGINALE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12505,8 +12505,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524721/plitki-spb/azori-inchisio-00-00003147.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524721/plitki-spb/azori-inchisio-00-00003147.webp"],
   description: "Плитка 31,5*63 INCISIO SILVER 52,47кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO SILVER 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12522,8 +12522,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524723/plitki-spb/azori-inchisio-00-00109528.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524723/plitki-spb/azori-inchisio-00-00109528.webp"],
   description: "Плитка 31,5*63 INCISIO SILVER 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 INCISIO SILVER 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12539,8 +12539,8 @@ export const importedProducts: any[] = [
   price_retail: 919,
   price_official: 1149,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524724/plitki-spb/azori-inchisio-00-00003445.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524724/plitki-spb/azori-inchisio-00-00003445.webp"],
   description: "Плитка 42*42 INCISIO GREY 63,96кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Размер 42х42 см. Купить Плитка 42*42 INCISIO GREY 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12556,8 +12556,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524726/plitki-spb/azori-artemest-00-00003171.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524726/plitki-spb/azori-artemest-00-00003171.webp"],
   description: "Плитка 31,5*63 ARTEMEST 52,47кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12574,8 +12574,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 57.48,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524728/plitki-spb/azori-artemest-00-00109468.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524728/plitki-spb/azori-artemest-00-00109468.webp"],
   description: "Плитка 31,5*63 ARTEMEST 87,71кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12591,8 +12591,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524730/plitki-spb/azori-artemest-00-00003177.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524730/plitki-spb/azori-artemest-00-00003177.webp"],
   description: "Плитка 31,5*63 ARTEMEST GRIS 52,47кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST GRIS 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12608,8 +12608,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524732/plitki-spb/azori-artemest-00-00109539.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524732/plitki-spb/azori-artemest-00-00109539.webp"],
   description: "Плитка 31,5*63 ARTEMEST GRIS 87,71кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST GRIS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12625,8 +12625,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524734/plitki-spb/azori-artemest-00-00003173.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524734/plitki-spb/azori-artemest-00-00003173.webp"],
   description: "Плитка 31,5*63 ARTEMEST CASUAL 52,47кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST CASUAL 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12642,8 +12642,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524736/plitki-spb/azori-artemest-00-00109606.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524736/plitki-spb/azori-artemest-00-00109606.webp"],
   description: "Плитка 31,5*63 ARTEMEST CASUAL 87,71кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST CASUAL 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12659,8 +12659,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524738/plitki-spb/azori-artemest-00-00003175.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524738/plitki-spb/azori-artemest-00-00003175.webp"],
   description: "Плитка 31,5*63 ARTEMEST CASUAL GRIS 52,47кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST CASUAL GRIS 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12676,8 +12676,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524740/plitki-spb/azori-artemest-00-00109607.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524740/plitki-spb/azori-artemest-00-00109607.webp"],
   description: "Плитка 31,5*63 ARTEMEST CASUAL GRIS 87,71кв.м 1с — керамическая плитка коллекции АРТЕМЕСТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ARTEMEST CASUAL GRIS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12693,8 +12693,8 @@ export const importedProducts: any[] = [
   price_retail: 1072,
   price_official: 1340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524742/plitki-spb/azori-ebri-00-00002211.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524742/plitki-spb/azori-ebri-00-00002211.webp"],
   description: "Декор 31,5*63 EBRI 6 шт 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 EBRI 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12711,8 +12711,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 57.04,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524743/plitki-spb/azori-ebri-00-00002206.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524743/plitki-spb/azori-ebri-00-00002206.webp"],
   description: "Плитка 31,5*63 EBRI  52,47кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12729,8 +12729,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 146.18,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524746/plitki-spb/azori-ebri-00-00109626.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524746/plitki-spb/azori-ebri-00-00109626.webp"],
   description: "Плитка 31,5*63 EBRI  87,71кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12747,8 +12747,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 0.99,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524749/plitki-spb/azori-ebri-00-00002210.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524749/plitki-spb/azori-ebri-00-00002210.webp"],
   description: "Плитка 31,5*63 EBRI  FOLIAGE 1 52,47кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  FOLIAGE 1 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12764,8 +12764,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524751/plitki-spb/azori-ebri-00-00109627.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524751/plitki-spb/azori-ebri-00-00109627.webp"],
   description: "Плитка 31,5*63 EBRI  FOLIAGE 1 87,71кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  FOLIAGE 1 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12782,8 +12782,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 34.29,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524753/plitki-spb/azori-ebri-00-00002213.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524753/plitki-spb/azori-ebri-00-00002213.webp"],
   description: "Плитка 31,5*63 EBRI  FOLIAGE 2 52,47кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  FOLIAGE 2 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12799,8 +12799,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524755/plitki-spb/azori-ebri-00-00109628.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524755/plitki-spb/azori-ebri-00-00109628.webp"],
   description: "Плитка 31,5*63 EBRI  FOLIAGE 2 87,71кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  FOLIAGE 2 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12817,8 +12817,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 6.56,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524757/plitki-spb/azori-ebri-00-00002208.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524757/plitki-spb/azori-ebri-00-00002208.webp"],
   description: "Плитка 31,5*63 EBRI  GRIS 52,47кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  GRIS 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12834,8 +12834,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524759/plitki-spb/azori-ebri-00-00109517.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524759/plitki-spb/azori-ebri-00-00109517.webp"],
   description: "Плитка 31,5*63 EBRI  GRIS 87,71кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  GRIS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12852,8 +12852,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 10.93,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524760/plitki-spb/azori-ebri-00-00002215.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524760/plitki-spb/azori-ebri-00-00002215.webp"],
   description: "Плитка 31,5*63 EBRI  STRUTTURA 52,47кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  STRUTTURA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12869,8 +12869,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524763/plitki-spb/azori-ebri-00-00109798.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524763/plitki-spb/azori-ebri-00-00109798.webp"],
   description: "Плитка 31,5*63 EBRI  STRUTTURA 87,71кв.м 1с — керамическая плитка коллекции ЭБРИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 EBRI  STRUTTURA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -12903,8 +12903,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524766/plitki-spb/azori-ebri-00-00002578.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524766/plitki-spb/azori-ebri-00-00002578.webp"],
   description: "Керамогранит R 60*60 EBRI GRIS 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 EBRI GRIS 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13006,8 +13006,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524771/plitki-spb/azori-apulia-oro-00-00002362.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524771/plitki-spb/azori-apulia-oro-00-00002362.webp"],
   description: "Плитка 31,5*63 APULIA ORO 52,47кв.м 1с — керамическая плитка коллекции АПУЛИА ОРО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 APULIA ORO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13023,8 +13023,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524773/plitki-spb/azori-apulia-oro-00-00109605.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524773/plitki-spb/azori-apulia-oro-00-00109605.webp"],
   description: "Плитка 31,5*63 APULIA ORO 87,71кв.м 1с — керамическая плитка коллекции АПУЛИА ОРО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 APULIA ORO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13415,8 +13415,8 @@ export const importedProducts: any[] = [
   price_retail: 1039,
   price_official: 1299,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524787/plitki-spb/azori-atlas-00-00109610.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524787/plitki-spb/azori-atlas-00-00109610.webp"],
   description: "Плитка 31,5*63 ATLAS LIGHT  87,71кв.м 1с — керамическая плитка коллекции АТЛАС от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ATLAS LIGHT  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13466,8 +13466,8 @@ export const importedProducts: any[] = [
   price_retail: 1039,
   price_official: 1299,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524790/plitki-spb/azori-atlas-00-00109609.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524790/plitki-spb/azori-atlas-00-00109609.webp"],
   description: "Плитка 31,5*63 ATLAS DARK  87,71кв.м 1с — керамическая плитка коллекции АТЛАС от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ATLAS DARK  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13552,8 +13552,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524793/plitki-spb/azori-global-00-00003228.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524793/plitki-spb/azori-global-00-00003228.webp"],
   description: "Плитка 31,5*63 GLOBAL CONCRETE  52,47кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GLOBAL CONCRETE  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13569,8 +13569,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524795/plitki-spb/azori-global-00-00108797.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524795/plitki-spb/azori-global-00-00108797.webp"],
   description: "Плитка 31,5*63 GLOBAL CONCRETE  71,94кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GLOBAL CONCRETE  71,94кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13586,8 +13586,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524797/plitki-spb/azori-global-00-00109518.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524797/plitki-spb/azori-global-00-00109518.webp"],
   description: "Плитка 31,5*63 GLOBAL CONCRETE  87,71кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GLOBAL CONCRETE  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13604,8 +13604,8 @@ export const importedProducts: any[] = [
   price_official: 1490,
   stock_yanino: 3.38,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524799/plitki-spb/azori-global-507271201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524799/plitki-spb/azori-global-507271201.webp"],
   description: "Плитка 31,5*63 GLOBAL GEOMETRY  50,88кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GLOBAL GEOMETRY  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13622,8 +13622,8 @@ export const importedProducts: any[] = [
   price_official: 1490,
   stock_yanino: 21.47,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524801/plitki-spb/azori-global-00-00002986.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524801/plitki-spb/azori-global-00-00002986.webp"],
   description: "Плитка 31,5*63 GLOBAL GEOMETRY  52,47кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GLOBAL GEOMETRY  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13639,8 +13639,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524803/plitki-spb/azori-global-00-00109519.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524803/plitki-spb/azori-global-00-00109519.webp"],
   description: "Плитка 31,5*63 GLOBAL GEOMETRY  87,71кв.м 1с — керамическая плитка коллекции ГЛОБАЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 GLOBAL GEOMETRY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13776,8 +13776,8 @@ export const importedProducts: any[] = [
   price_retail: 720,
   price_official: 900,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524809/plitki-spb/azori-devore-587423001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524809/plitki-spb/azori-devore-587423001.webp"],
   description: "Мозаика 30*30.4 DEVORE LIGHT 22шт — мозаика коллекции ДЕВОРЕ от Азори. Размер 30х30,4 см. Купить Мозаика 30*30.4 DEVORE LIGHT 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13810,8 +13810,8 @@ export const importedProducts: any[] = [
   price_retail: 720,
   price_official: 900,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524812/plitki-spb/azori-devore-587423002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524812/plitki-spb/azori-devore-587423002.webp"],
   description: "Мозаика 30*30.4 DEVORE GRIS 22шт — мозаика коллекции ДЕВОРЕ от Азори. Размер 30х30,4 см. Купить Мозаика 30*30.4 DEVORE GRIS 22шт в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13861,8 +13861,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524815/plitki-spb/azori-devore-00-00109625.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524815/plitki-spb/azori-devore-00-00109625.webp"],
   description: "Плитка 31,5*63 DEVORE LIGHT 87,71кв.м 1с — керамическая плитка коллекции ДЕВОРЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DEVORE LIGHT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13912,8 +13912,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524819/plitki-spb/azori-devore-00-00109623.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524819/plitki-spb/azori-devore-00-00109623.webp"],
   description: "Плитка 31,5*63 DEVORE GRIS 87,71кв.м 1с — керамическая плитка коллекции ДЕВОРЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DEVORE GRIS 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13946,8 +13946,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524822/plitki-spb/azori-devore-00-00003065.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524822/plitki-spb/azori-devore-00-00003065.webp"],
   description: "Плитка 31,5*63 DEVORE INDIGO 52,47кв.м 1с — керамическая плитка коллекции ДЕВОРЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DEVORE INDIGO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -13963,8 +13963,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524824/plitki-spb/azori-devore-00-00109624.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524824/plitki-spb/azori-devore-00-00109624.webp"],
   description: "Плитка 31,5*63 DEVORE INDIGO 87,71кв.м 1с — керамическая плитка коллекции ДЕВОРЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DEVORE INDIGO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14032,8 +14032,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 3.38,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524828/plitki-spb/azori-dezert-00-00002418.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524828/plitki-spb/azori-dezert-00-00002418.webp"],
   description: "Плитка 31,5*63 DESERT 52,47кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14050,8 +14050,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 109.98,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524830/plitki-spb/azori-dezert-00-00109516.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524830/plitki-spb/azori-dezert-00-00109516.webp"],
   description: "Плитка 31,5*63 DESERT 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14102,8 +14102,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524833/plitki-spb/azori-dezert-00-00109621.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524833/plitki-spb/azori-dezert-00-00109621.webp"],
   description: "Плитка 31,5*63 DESERT OASIS 1 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT OASIS 1 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14154,8 +14154,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524837/plitki-spb/azori-dezert-00-00109622.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524837/plitki-spb/azori-dezert-00-00109622.webp"],
   description: "Плитка 31,5*63 DESERT OASIS 2 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT OASIS 2 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14189,8 +14189,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524838/plitki-spb/azori-dezert-00-00002385.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524838/plitki-spb/azori-dezert-00-00002385.webp"],
   description: "Плитка 31,5*63 DESERT STRUTTURA 52,47кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT STRUTTURA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14207,8 +14207,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 42.96,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524840/plitki-spb/azori-dezert-00-00109544.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524840/plitki-spb/azori-dezert-00-00109544.webp"],
   description: "Плитка 31,5*63 DESERT STRUTTURA 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 DESERT STRUTTURA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14241,8 +14241,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524842/plitki-spb/azori-dezert-00-00002386.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524842/plitki-spb/azori-dezert-00-00002386.webp"],
   description: "Плитка 31,5*63 MAPLE STRUTTURA 52,47кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MAPLE STRUTTURA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14259,8 +14259,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 39.38,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524844/plitki-spb/azori-dezert-00-00109545.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524844/plitki-spb/azori-dezert-00-00109545.webp"],
   description: "Плитка 31,5*63 MAPLE STRUTTURA 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MAPLE STRUTTURA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14277,8 +14277,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 119.16,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524846/plitki-spb/azori-dezert-00-00000160.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524846/plitki-spb/azori-dezert-00-00000160.webp"],
   description: "Керамогранит R 60*60 DESERT BEIGE 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 DESERT BEIGE 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14295,8 +14295,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 79.2,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524847/plitki-spb/azori-dezert-00-00000157.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524847/plitki-spb/azori-dezert-00-00000157.webp"],
   description: "Керамогранит R 60*60 DESSERT GREY 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 DESSERT GREY 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14382,8 +14382,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 53.07,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524849/plitki-spb/azori-kalakatta-royal-00-00002290.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524849/plitki-spb/azori-kalakatta-royal-00-00002290.webp"],
   description: "Плитка 31,5*63  CALACATTA ROYAL  52.47 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  52.47 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14399,8 +14399,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524851/plitki-spb/azori-kalakatta-royal-00-00109613.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524851/plitki-spb/azori-kalakatta-royal-00-00109613.webp"],
   description: "Плитка 31,5*63  CALACATTA ROYAL  87,71кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14433,8 +14433,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524853/plitki-spb/azori-kalakatta-royal-00-00003236.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524853/plitki-spb/azori-kalakatta-royal-00-00003236.webp"],
   description: "Плитка 31,5*63  CALACATTA ROYAL  STYLE 52.47 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  STYLE 52.47 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14450,8 +14450,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524855/plitki-spb/azori-kalakatta-royal-00-00109612.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524855/plitki-spb/azori-kalakatta-royal-00-00109612.webp"],
   description: "Плитка 31,5*63  CALACATTA ROYAL  STYLE 87,71кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  STYLE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14484,8 +14484,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524857/plitki-spb/azori-kalakatta-royal-00-00003381.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524857/plitki-spb/azori-kalakatta-royal-00-00003381.webp"],
   description: "Плитка 31,5*63 WOOD HONEY  52,47кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 WOOD HONEY  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14501,8 +14501,8 @@ export const importedProducts: any[] = [
   price_retail: 1192,
   price_official: 1490,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524858/plitki-spb/azori-kalakatta-royal-00-00109805.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524858/plitki-spb/azori-kalakatta-royal-00-00109805.webp"],
   description: "Плитка 31,5*63 WOOD HONEY  87,71кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 WOOD HONEY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14571,8 +14571,8 @@ export const importedProducts: any[] = [
   price_official: 2680,
   stock_yanino: 4.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524861/plitki-spb/azori-latila-588942002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524861/plitki-spb/azori-latila-588942002.webp"],
   description: "Панно 63*63 LATILA FEUILLE (2 шт) - 3 комл 1с — керамическая плитка коллекции ЛАТИЛА от Азори. Размер 63х63 см. Купить Панно 63*63 LATILA FEUILLE (2 шт) - 3 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14605,8 +14605,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524864/plitki-spb/azori-latila-00-00002111.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524864/plitki-spb/azori-latila-00-00002111.webp"],
   description: "Плитка 31,5*63 LATILA  52,47кв.м 1с — керамическая плитка коллекции ЛАТИЛА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 LATILA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14623,8 +14623,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 143.8,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524866/plitki-spb/azori-latila-00-00109511.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524866/plitki-spb/azori-latila-00-00109511.webp"],
   description: "Плитка 31,5*63 LATILA  87,71кв.м 1с — керамическая плитка коллекции ЛАТИЛА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 LATILA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14658,8 +14658,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 37.16,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524868/plitki-spb/azori-latila-00-00108395.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524868/plitki-spb/azori-latila-00-00108395.webp"],
   description: "Плитка 31,5*63 LATILA STRUTTURA  52,47кв.м 1с — керамическая плитка коллекции ЛАТИЛА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 LATILA STRUTTURA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14675,8 +14675,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524870/plitki-spb/azori-latila-00-00109797.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524870/plitki-spb/azori-latila-00-00109797.webp"],
   description: "Плитка 31,5*63 LATILA STRUTTURA  87,71кв.м 1с — керамическая плитка коллекции ЛАТИЛА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 LATILA STRUTTURA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14781,8 +14781,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 16.89,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524875/plitki-spb/azori-opal-grey-00-00002113.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524875/plitki-spb/azori-opal-grey-00-00002113.webp"],
   description: "Плитка 31,5*63 OPALE LIGHT  52,47кв.м 1с — керамическая плитка коллекции ОПАЛ ГРЭЙ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 OPALE LIGHT  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14799,8 +14799,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 173.23,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524877/plitki-spb/azori-opal-grey-00-00109512.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524877/plitki-spb/azori-opal-grey-00-00109512.webp"],
   description: "Плитка 31,5*63 OPALE LIGHT  87,71кв.м 1с — керамическая плитка коллекции ОПАЛ ГРЭЙ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 OPALE LIGHT  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14834,8 +14834,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524879/plitki-spb/azori-opal-grey-00-00002131.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524879/plitki-spb/azori-opal-grey-00-00002131.webp"],
   description: "Плитка 31,5*63 OPALE GREY  52,47кв.м 1с — керамическая плитка коллекции ОПАЛ ГРЭЙ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 OPALE GREY  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14852,8 +14852,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 44.15,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524881/plitki-spb/azori-opal-grey-00-00109513.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524881/plitki-spb/azori-opal-grey-00-00109513.webp"],
   description: "Плитка 31,5*63 OPALE GREY  87,71кв.м 1с — керамическая плитка коллекции ОПАЛ ГРЭЙ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 OPALE GREY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14888,8 +14888,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 8.34,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524884/plitki-spb/azori-opal-grey-00-00108534.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524884/plitki-spb/azori-opal-grey-00-00108534.webp"],
   description: "Плитка 31,5*63 OPALE GREY STRUTTURA  45,87кв.м 1с — керамическая плитка коллекции ОПАЛ ГРЭЙ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 OPALE GREY STRUTTURA  45,87кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14974,8 +14974,8 @@ export const importedProducts: any[] = [
   price_retail: 1039,
   price_official: 1299,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524888/plitki-spb/azori-palladio-00-00002985.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524888/plitki-spb/azori-palladio-00-00002985.webp"],
   description: "Плитка 31,5*63 PALLADIO IVORY  52,47кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PALLADIO IVORY  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -14991,8 +14991,8 @@ export const importedProducts: any[] = [
   price_retail: 1039,
   price_official: 1299,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524891/plitki-spb/azori-palladio-00-00109553.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524891/plitki-spb/azori-palladio-00-00109553.webp"],
   description: "Плитка 31,5*63 PALLADIO IVORY  87,71кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PALLADIO IVORY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15008,8 +15008,8 @@ export const importedProducts: any[] = [
   price_retail: 1039,
   price_official: 1299,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524893/plitki-spb/azori-palladio-00-00000546.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524893/plitki-spb/azori-palladio-00-00000546.webp"],
   description: "Плитка 31,5*63 PALLADIO DIAMOND 50,88кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PALLADIO DIAMOND 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15026,8 +15026,8 @@ export const importedProducts: any[] = [
   price_official: 1299,
   stock_yanino: 7.75,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524895/plitki-spb/azori-palladio-00-00109073.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524895/plitki-spb/azori-palladio-00-00109073.webp"],
   description: "Плитка 31,5*63 PALLADIO DIAMOND 52,47кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PALLADIO DIAMOND 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15060,8 +15060,8 @@ export const importedProducts: any[] = [
   price_retail: 1039,
   price_official: 1299,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524898/plitki-spb/azori-palladio-00-00108535.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524898/plitki-spb/azori-palladio-00-00108535.webp"],
   description: "Плитка 31,5*63 PALLADIO 52,47кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PALLADIO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15078,8 +15078,8 @@ export const importedProducts: any[] = [
   price_official: 1299,
   stock_yanino: 82.34,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524900/plitki-spb/azori-palladio-00-00109712.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524900/plitki-spb/azori-palladio-00-00109712.webp"],
   description: "Плитка 31,5*63 PALLADIO 87,71кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PALLADIO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15180,8 +15180,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524901/plitki-spb/azori-romaniko-00-00002450.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524901/plitki-spb/azori-romaniko-00-00002450.webp"],
   description: "Плитка 31,5*63 ROMANICO CREMA  52,47кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO CREMA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15197,8 +15197,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524904/plitki-spb/azori-romaniko-00-00109635.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524904/plitki-spb/azori-romaniko-00-00109635.webp"],
   description: "Плитка 31,5*63 ROMANICO CREMA  87,71кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO CREMA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15231,8 +15231,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524906/plitki-spb/azori-romaniko-00-00108476.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524906/plitki-spb/azori-romaniko-00-00108476.webp"],
   description: "Плитка 31,5*63 ROMANICO BEIGE  52,47кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO BEIGE  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15248,8 +15248,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524908/plitki-spb/azori-romaniko-00-00109634.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524908/plitki-spb/azori-romaniko-00-00109634.webp"],
   description: "Плитка 31,5*63 ROMANICO BEIGE  87,71кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO BEIGE  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15282,8 +15282,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524910/plitki-spb/azori-romaniko-00-00109636.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524910/plitki-spb/azori-romaniko-00-00109636.webp"],
   description: "Плитка 31,5*63 ROMANICO NOCE  87,71кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 ROMANICO NOCE  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15403,8 +15403,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524912/plitki-spb/azori-khyugge-00-00002136.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524912/plitki-spb/azori-khyugge-00-00002136.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT  52,47кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15421,8 +15421,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 91.29,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524914/plitki-spb/azori-khyugge-00-00109965.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524914/plitki-spb/azori-khyugge-00-00109965.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15439,8 +15439,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 6.96,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524917/plitki-spb/azori-khyugge-00-00109550.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524917/plitki-spb/azori-khyugge-00-00109550.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15475,8 +15475,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 14.31,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524918/plitki-spb/azori-khyugge-00-00002387.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524918/plitki-spb/azori-khyugge-00-00002387.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT MIX  52,47кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT MIX  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15492,8 +15492,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524921/plitki-spb/azori-khyugge-00-00109999.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524921/plitki-spb/azori-khyugge-00-00109999.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT MIX  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT MIX  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15509,8 +15509,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524923/plitki-spb/azori-khyugge-00-00109551.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524923/plitki-spb/azori-khyugge-00-00109551.webp"],
   description: "Плитка 31,5*63 HYGGE LIGHT MIX  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT MIX  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15543,8 +15543,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524925/plitki-spb/azori-khyugge-00-00002137.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524925/plitki-spb/azori-khyugge-00-00002137.webp"],
   description: "Плитка 31,5*63 HYGGE GREY  52,47кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15560,8 +15560,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524927/plitki-spb/azori-khyugge-00-00110088.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524927/plitki-spb/azori-khyugge-00-00110088.webp"],
   description: "Плитка 31,5*63 HYGGE GREY  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15577,8 +15577,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524929/plitki-spb/azori-khyugge-00-00109548.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524929/plitki-spb/azori-khyugge-00-00109548.webp"],
   description: "Плитка 31,5*63 HYGGE GREY  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15611,8 +15611,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524931/plitki-spb/azori-khyugge-00-00108492.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524931/plitki-spb/azori-khyugge-00-00108492.webp"],
   description: "Плитка 31,5*63 HYGGE GREY MIX  52,47кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY MIX  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15628,8 +15628,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524933/plitki-spb/azori-khyugge-00-00109998.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524933/plitki-spb/azori-khyugge-00-00109998.webp"],
   description: "Плитка 31,5*63 HYGGE GREY MIX  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY MIX  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15645,8 +15645,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524936/plitki-spb/azori-khyugge-00-00109549.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524936/plitki-spb/azori-khyugge-00-00109549.webp"],
   description: "Плитка 31,5*63 HYGGE GREY MIX  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY MIX  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15681,8 +15681,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 6.36,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524938/plitki-spb/azori-khyugge-00-00002135.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524938/plitki-spb/azori-khyugge-00-00002135.webp"],
   description: "Плитка 31,5*63 HYGGE MOCCA  52,47кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15698,8 +15698,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524940/plitki-spb/azori-khyugge-00-00109552.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524940/plitki-spb/azori-khyugge-00-00109552.webp"],
   description: "Плитка 31,5*63 HYGGE MOCCA  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15733,8 +15733,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524942/plitki-spb/azori-khyugge-00-00109796.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524942/plitki-spb/azori-khyugge-00-00109796.webp"],
   description: "Плитка 31,5*63 HYGGE MOCCA MIX  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA MIX  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15853,8 +15853,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524945/plitki-spb/azori-shebbi-507341201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524945/plitki-spb/azori-shebbi-507341201.webp"],
   description: "Плитка 31,5*63 SHABBY MARFIL  50,88кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY MARFIL  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15870,8 +15870,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524947/plitki-spb/azori-shebbi-00-00002415.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524947/plitki-spb/azori-shebbi-00-00002415.webp"],
   description: "Плитка 31,5*63 SHABBY MARFIL  52,47кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY MARFIL  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15888,8 +15888,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 6.76,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524949/plitki-spb/azori-shebbi-00-00109474.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524949/plitki-spb/azori-shebbi-00-00109474.webp"],
   description: "Плитка 31,5*63 SHABBY MARFIL  87,71кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY MARFIL  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15924,8 +15924,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 0.79,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524952/plitki-spb/azori-shebbi-00-00002388.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524952/plitki-spb/azori-shebbi-00-00002388.webp"],
   description: "Плитка 31,5*63 SHABBY BEIGE  52,47кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY BEIGE  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15941,8 +15941,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524954/plitki-spb/azori-shebbi-00-00109799.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524954/plitki-spb/azori-shebbi-00-00109799.webp"],
   description: "Плитка 31,5*63 SHABBY BEIGE  87,71кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY BEIGE  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -15993,8 +15993,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 57.28,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524957/plitki-spb/azori-shebbi-00-00109555.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524957/plitki-spb/azori-shebbi-00-00109555.webp"],
   description: "Плитка 31,5*63 SHABBY GREY  87,71кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY GREY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16027,8 +16027,8 @@ export const importedProducts: any[] = [
   price_retail: 1112,
   price_official: 1390,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524960/plitki-spb/azori-shebbi-00-00002390.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524960/plitki-spb/azori-shebbi-00-00002390.webp"],
   description: "Плитка 31,5*63 SHABBY INTI  52,47кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY INTI  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16045,8 +16045,8 @@ export const importedProducts: any[] = [
   price_official: 1390,
   stock_yanino: 67.62,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524963/plitki-spb/azori-shebbi-00-00109556.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524963/plitki-spb/azori-shebbi-00-00109556.webp"],
   description: "Плитка 31,5*63 SHABBY INTI  87,71кв.м 1с — керамическая плитка коллекции ШЭББИ от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 SHABBY INTI  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -16556,8 +16556,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524976/plitki-spb/azori-mayorka-00-00109534.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524976/plitki-spb/azori-mayorka-00-00109534.webp"],
   description: "Плитка 31,5*63 MALLORCA MONO GREY  87,71кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 MALLORCA MONO GREY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17101,8 +17101,8 @@ export const importedProducts: any[] = [
   price_retail: 728,
   price_official: 910,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773524997/plitki-spb/azori-pandora-00-00108919.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773524997/plitki-spb/azori-pandora-00-00108919.webp"],
   description: "Плитка 31,5*63 PANDORA LATTE  52,47кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 PANDORA LATTE  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17783,8 +17783,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 1.01,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525019/plitki-spb/azori-kolormiks-00-00109819.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525019/plitki-spb/azori-kolormiks-00-00109819.webp"],
   description: "Плитка 20,1*50,5 COLORMIX CEMENTO GREY 77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX CEMENTO GREY 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17819,8 +17819,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 1.21,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525021/plitki-spb/azori-kolormiks-00-00108706.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525021/plitki-spb/azori-kolormiks-00-00108706.webp"],
   description: "Плитка 20,1*50,5 COLORMIX MARFIL  77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX MARFIL  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17837,8 +17837,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 1.01,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525023/plitki-spb/azori-kolormiks-00-00109815.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525023/plitki-spb/azori-kolormiks-00-00109815.webp"],
   description: "Плитка 20,1*50,5 COLORMIX MARMO  77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX MARMO  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17855,8 +17855,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 1.11,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525025/plitki-spb/azori-kolormiks-00-00108716.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525025/plitki-spb/azori-kolormiks-00-00108716.webp"],
   description: "Плитка 20,1*50,5 COLORMIX ORNAMENT  77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX ORNAMENT  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17873,8 +17873,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 0.91,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525027/plitki-spb/azori-kolormiks-00-00108714.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525027/plitki-spb/azori-kolormiks-00-00108714.webp"],
   description: "Плитка 20,1*50,5 COLORMIX STEEL  77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX STEEL  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17891,8 +17891,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 1.21,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525029/plitki-spb/azori-kolormiks-00-00108720.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525029/plitki-spb/azori-kolormiks-00-00108720.webp"],
   description: "Плитка 20,1*50,5 COLORMIX TERRAZZO  77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX TERRAZZO  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17909,8 +17909,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 23.69,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525031/plitki-spb/azori-kolormiks-00-00108710.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525031/plitki-spb/azori-kolormiks-00-00108710.webp"],
   description: "Плитка 20,1*50,5 COLORMIX VANILLA  77,76 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 COLORMIX VANILLA  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -17979,8 +17979,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 1.05,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525035/plitki-spb/azori-kolormiks-00-00109877.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525035/plitki-spb/azori-kolormiks-00-00109877.webp"],
   description: "Плитка 42*42  COLORMIX CEMENTO GREY 63,96 кв.м 1с — керамическая плитка коллекции КОЛОРМИКС от Азори. Размер 42х42 см. Купить Плитка 42*42  COLORMIX CEMENTO GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18032,8 +18032,8 @@ export const importedProducts: any[] = [
   price_retail: 520,
   price_official: 650,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525038/plitki-spb/azori-talisman-00-00110174.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525038/plitki-spb/azori-talisman-00-00110174.webp"],
   description: "Декор 20,1*50,5 TALISMAN 13 шт 1с — керамическая плитка коллекции Талисман от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 TALISMAN 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18049,8 +18049,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525040/plitki-spb/azori-talisman-00-00110172.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525040/plitki-spb/azori-talisman-00-00110172.webp"],
   description: "Плитка 20,1*50,5 TALISMAN BRICKS BLUE 77,76 кв.м 1с — керамическая плитка коллекции Талисман от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 TALISMAN BRICKS BLUE 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18066,8 +18066,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525042/plitki-spb/azori-talisman-00-00110171.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525042/plitki-spb/azori-talisman-00-00110171.webp"],
   description: "Плитка 20,1*50,5 TALISMAN BRICKS GREEN 77,76 кв.м 1с — керамическая плитка коллекции Талисман от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 TALISMAN BRICKS GREEN 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18083,8 +18083,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525044/plitki-spb/azori-talisman-00-00110170.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525044/plitki-spb/azori-talisman-00-00110170.webp"],
   description: "Плитка 20,1*50,5 TALISMAN GREY 77,76 кв.м 1с — керамическая плитка коллекции Талисман от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 TALISMAN GREY 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18100,8 +18100,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525046/plitki-spb/azori-talisman-00-00110169.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525046/plitki-spb/azori-talisman-00-00110169.webp"],
   description: "Плитка 20,1*50,5 TALISMAN LIGHT 77,76 кв.м 1с — керамическая плитка коллекции Талисман от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 TALISMAN LIGHT 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18117,8 +18117,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525048/plitki-spb/azori-talisman-00-00110173.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525048/plitki-spb/azori-talisman-00-00110173.webp"],
   description: "Плитка 20,1*50,5 TALISMAN ORNAMENT 77,76 кв.м 1с — керамическая плитка коллекции Талисман от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 TALISMAN ORNAMENT 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18134,8 +18134,8 @@ export const importedProducts: any[] = [
   price_retail: 520,
   price_official: 650,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525049/plitki-spb/azori-kasl-00-00110183.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525049/plitki-spb/azori-kasl-00-00110183.webp"],
   description: "Декор 20,1*50,5 CASTLE 13 шт 1с — керамическая плитка коллекции КАСЛ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CASTLE 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18151,8 +18151,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525051/plitki-spb/azori-kasl-00-00110185.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525051/plitki-spb/azori-kasl-00-00110185.webp"],
   description: "Плитка 20,1*50,5 CASTLE BEIGE 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE BEIGE 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18168,8 +18168,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525053/plitki-spb/azori-kasl-00-00110184.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525053/plitki-spb/azori-kasl-00-00110184.webp"],
   description: "Плитка 20,1*50,5 CASTLE MARFIL 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE MARFIL 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18185,8 +18185,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525054/plitki-spb/azori-kasl-00-00110186.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525054/plitki-spb/azori-kasl-00-00110186.webp"],
   description: "Плитка 20,1*50,5 CASTLE ORNAMENT 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE ORNAMENT 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18202,8 +18202,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525056/plitki-spb/azori-kasl-00-00110421.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525056/plitki-spb/azori-kasl-00-00110421.webp"],
   description: "Плитка 20,1*50,5 CASTLE WOOD 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE WOOD 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18270,8 +18270,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525058/plitki-spb/azori-alpi-00-00108786.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525058/plitki-spb/azori-alpi-00-00108786.webp"],
   description: "Плитка 20,1*50,5 ALPI MARMO 77,76 кв.м 1с — керамическая плитка коллекции АЛПИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 ALPI MARMO 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18511,8 +18511,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 84.32,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525063/plitki-spb/azori-amati-00-00108776.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525063/plitki-spb/azori-amati-00-00108776.webp"],
   description: "Плитка 20,1*50,5 AMATI BEIGE 77,76 кв.м 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 AMATI BEIGE 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18547,8 +18547,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 62.67,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525065/plitki-spb/azori-amati-00-00108777.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525065/plitki-spb/azori-amati-00-00108777.webp"],
   description: "Плитка 20,1*50,5 AMATI AMBRA 77,76 кв.м 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 AMATI AMBRA 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18582,8 +18582,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525068/plitki-spb/azori-amati-00-00110177.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525068/plitki-spb/azori-amati-00-00110177.webp"],
   description: "Плитка 20,1*50,5 AMATI MOCCA 77,76 кв.м 1с — керамическая плитка коллекции АМАТИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 AMATI MOCCA 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18825,8 +18825,8 @@ export const importedProducts: any[] = [
   price_official: 1115,
   stock_yanino: 2.43,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525078/plitki-spb/azori-vela-507061201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525078/plitki-spb/azori-vela-507061201.webp"],
   description: "Плитка 20,1*50,5 VELA BEIGE  72,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA BEIGE  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18843,8 +18843,8 @@ export const importedProducts: any[] = [
   price_official: 1115,
   stock_yanino: 52.24,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525080/plitki-spb/azori-vela-00-00109536.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525080/plitki-spb/azori-vela-00-00109536.webp"],
   description: "Плитка 20,1*50,5 VELA BEIGE  77,76 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA BEIGE  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18878,8 +18878,8 @@ export const importedProducts: any[] = [
   price_retail: 892,
   price_official: 1115,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525083/plitki-spb/azori-vela-00-00109537.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525083/plitki-spb/azori-vela-00-00109537.webp"],
   description: "Плитка 20,1*50,5 VELA NERO  77,76 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA NERO  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -18913,8 +18913,8 @@ export const importedProducts: any[] = [
   price_official: 1115,
   stock_yanino: 89.61,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525086/plitki-spb/azori-vela-00-00109221.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525086/plitki-spb/azori-vela-00-00109221.webp"],
   description: "Плитка 20,1*50,5 VELA TIFFANI  77,76 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA TIFFANI  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19257,8 +19257,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 2.52,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525096/plitki-spb/azori-venetsiano-00-00108760.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525096/plitki-spb/azori-venetsiano-00-00108760.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO SETA 77,76 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO SETA 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19291,8 +19291,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525098/plitki-spb/azori-venetsiano-00-00108759.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525098/plitki-spb/azori-venetsiano-00-00108759.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO BEIGE 77,76 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO BEIGE 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19326,8 +19326,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 4.86,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525099/plitki-spb/azori-venetsiano-00-00108758.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525099/plitki-spb/azori-venetsiano-00-00108758.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO CASUAL 77,76 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO CASUAL 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19360,8 +19360,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525102/plitki-spb/azori-venetsiano-00-00110142.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525102/plitki-spb/azori-venetsiano-00-00110142.webp"],
   description: "Плитка 20,1*50,5 VENEZIANO MOSAICO 77,76 кв.м 1с — керамическая плитка коллекции ВЕНЕЦИАНО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 VENEZIANO MOSAICO 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19413,8 +19413,8 @@ export const importedProducts: any[] = [
   price_official: 1370,
   stock_yanino: 8.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525104/plitki-spb/azori-kalakatta-ayvori-00-00000702.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525104/plitki-spb/azori-kalakatta-ayvori-00-00000702.webp"],
   description: "Панно 50,5*40,2 STRELITZIA (2 шт) - 6 комл 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 50,5х40,2 см. Купить Панно 50,5*40,2 STRELITZIA (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19448,8 +19448,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 74.62,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525106/plitki-spb/azori-kalakatta-ayvori-00-00108791.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525106/plitki-spb/azori-kalakatta-ayvori-00-00108791.webp"],
   description: "Плитка 20,1*50,5 CALACATTA IVORI  77,76 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALACATTA IVORI  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19484,8 +19484,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 25.72,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525107/plitki-spb/azori-kalakatta-ayvori-00-00108792.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525107/plitki-spb/azori-kalakatta-ayvori-00-00108792.webp"],
   description: "Плитка 20,1*50,5 CALACATTA IVORI FORMA 77,76 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALACATTA IVORI FORMA 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19519,8 +19519,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525109/plitki-spb/azori-kalakatta-ayvori-00-00108929.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525109/plitki-spb/azori-kalakatta-ayvori-00-00108929.webp"],
   description: "Плитка 20,1*50,5 WOOD 77,76 кв.м 1с — керамическая плитка коллекции КАЛАКАТТА АЙВОРИ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 WOOD 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19572,8 +19572,8 @@ export const importedProducts: any[] = [
   price_official: 685,
   stock_yanino: 69.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525111/plitki-spb/azori-kalipso-00-00001247.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525111/plitki-spb/azori-kalipso-00-00001247.webp"],
   description: "Декор 20,1*50,5 CALYPSO 1 13 шт 1с — керамическая плитка коллекции КАЛИПСО от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CALYPSO 1 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19590,8 +19590,8 @@ export const importedProducts: any[] = [
   price_official: 510,
   stock_yanino: 85.0,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525112/plitki-spb/azori-kalipso-00-00001248.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525112/plitki-spb/azori-kalipso-00-00001248.webp"],
   description: "Декор 20,1*50,5 CALYPSO 2 13 шт 1с — керамическая плитка коллекции КАЛИПСО от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CALYPSO 2 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19607,8 +19607,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525114/plitki-spb/azori-kalipso-00-00001243.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525114/plitki-spb/azori-kalipso-00-00001243.webp"],
   description: "Плитка 20,1*50,5 CALYPSO AQUAMARINE 72,96 кв.м 1c — керамическая плитка коллекции КАЛИПСО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALYPSO AQUAMARINE 72,96 кв.м 1c в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19625,8 +19625,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 23.79,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525115/plitki-spb/azori-kalipso-00-00108755.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525115/plitki-spb/azori-kalipso-00-00108755.webp"],
   description: "Плитка 20,1*50,5 CALYPSO AQUAMARINE 77,76 кв.м 1c — керамическая плитка коллекции КАЛИПСО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALYPSO AQUAMARINE 77,76 кв.м 1c в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19642,8 +19642,8 @@ export const importedProducts: any[] = [
   price_retail: 796,
   price_official: 995,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525118/plitki-spb/azori-kalipso-00-00001241.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525118/plitki-spb/azori-kalipso-00-00001241.webp"],
   description: "Плитка 20,1*50,5 CALYPSO WHITE 72,96 кв.м 1с — керамическая плитка коллекции КАЛИПСО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALYPSO WHITE 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19660,8 +19660,8 @@ export const importedProducts: any[] = [
   price_official: 995,
   stock_yanino: 40.82,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525119/plitki-spb/azori-kalipso-00-00108754.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525119/plitki-spb/azori-kalipso-00-00108754.webp"],
   description: "Плитка 20,1*50,5 CALYPSO WHITE 77,76 кв.м 1с — керамическая плитка коллекции КАЛИПСО от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALYPSO WHITE 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -19678,8 +19678,8 @@ export const importedProducts: any[] = [
   price_official: 1149,
   stock_yanino: 22.65,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525121/plitki-spb/azori-kalipso-00-00001245.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525121/plitki-spb/azori-kalipso-00-00001245.webp"],
   description: "Плитка 42*42 CALYPSO AQUAMARINE  63,96 кв.м 1с — керамическая плитка коллекции КАЛИПСО от Азори. Размер 42х42 см. Купить Плитка 42*42 CALYPSO AQUAMARINE  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20070,8 +20070,8 @@ export const importedProducts: any[] = [
   price_retail: 652,
   price_official: 815,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525127/plitki-spb/azori-eklips-585602003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525127/plitki-spb/azori-eklips-585602003.webp"],
   description: "Декор 20,1*50,5 ECLIPSE SELENA 13 шт 1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 ECLIPSE SELENA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20105,8 +20105,8 @@ export const importedProducts: any[] = [
   price_official: 1115,
   stock_yanino: 1.01,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525129/plitki-spb/azori-eklips-00-00108784.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525129/plitki-spb/azori-eklips-00-00108784.webp"],
   description: "Плитка 20,1*50,5 ECLIPSE LIGHT 77,76кв.м 1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 ECLIPSE LIGHT 77,76кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20157,8 +20157,8 @@ export const importedProducts: any[] = [
   price_official: 1115,
   stock_yanino: 5.87,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525133/plitki-spb/azori-eklips-00-00108785.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525133/plitki-spb/azori-eklips-00-00108785.webp"],
   description: "Плитка 20,1*50,5 ECLIPSE INDIGO 77,76кв.м 1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 ECLIPSE INDIGO 77,76кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -20599,8 +20599,8 @@ export const importedProducts: any[] = [
   price_retail: 642,
   price_official: 802,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525137/plitki-spb/azori-launzh-00-00109220.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525137/plitki-spb/azori-launzh-00-00109220.webp"],
   description: "Плитка 20,1*50,5 LOUNGE MINT 77,76 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE MINT 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21620,8 +21620,8 @@ export const importedProducts: any[] = [
   price_official: 970,
   stock_yanino: 23.77,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525166/plitki-spb/azori-vog-503011201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525166/plitki-spb/azori-vog-503011201.webp"],
   description: "Плитка 20,1*40,5 ВОГ 61,56кв.м 1с — керамическая плитка коллекции ВОГ от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 ВОГ 61,56кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21710,8 +21710,8 @@ export const importedProducts: any[] = [
   price_official: 895,
   stock_yanino: 70.34,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525171/plitki-spb/azori-gratsiya-505571201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525171/plitki-spb/azori-gratsiya-505571201.webp"],
   description: "Плитка 20,1*40,5 GRAZIA LIGHT  65,88 кв.м 1с — керамическая плитка коллекции ГРАЦИЯ от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 GRAZIA LIGHT  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21727,8 +21727,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525173/plitki-spb/azori-gratsiya-00-00109987.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525173/plitki-spb/azori-gratsiya-00-00109987.webp"],
   description: "Плитка 20,1*40,5 GRAZIA LIGHT  93,6 кв.м 1с — керамическая плитка коллекции ГРАЦИЯ от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 GRAZIA LIGHT  93,6 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -21972,8 +21972,8 @@ export const importedProducts: any[] = [
   price_official: 895,
   stock_yanino: 8.32,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525179/plitki-spb/azori-stark-00-00109980.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525179/plitki-spb/azori-stark-00-00109980.webp"],
   description: "Плитка 20,1*40,5 STARCK LIGHT  93,6 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 STARCK LIGHT  93,6 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22008,8 +22008,8 @@ export const importedProducts: any[] = [
   price_official: 895,
   stock_yanino: 16.57,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525181/plitki-spb/azori-stark-00-00109981.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525181/plitki-spb/azori-stark-00-00109981.webp"],
   description: "Плитка 20,1*40,5 STARCK GREY  93,6 кв.м 1с — керамическая плитка коллекции СТАРК от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 STARCK GREY  93,6 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22078,8 +22078,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 79.2,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525183/plitki-spb/azori-stark-00-00000157.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525183/plitki-spb/azori-stark-00-00000157.webp"],
   description: "Керамогранит R 60*60 DESSERT GREY 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 DESSERT GREY 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22231,8 +22231,8 @@ export const importedProducts: any[] = [
   price_retail: 716,
   price_official: 895,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525189/plitki-spb/azori-elara-503961101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525189/plitki-spb/azori-elara-503961101.webp"],
   description: "Плитка 20,1*40,5 ЭЛАРА ВЕРДЕ  65,88 кв.м 1с — керамическая плитка коллекции ЭЛАРА от Азори. Размер 20,1х40,5 см. Купить Плитка 20,1*40,5 ЭЛАРА ВЕРДЕ  65,88 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22266,8 +22266,8 @@ export const importedProducts: any[] = [
   price_official: 2499,
   stock_yanino: 11.63,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525192/plitki-spb/azori-vud-00-00002402.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525192/plitki-spb/azori-vud-00-00002402.webp"],
   description: "Плитка 15,0*15,0 TERRAZZO WOOD 72кв.м 1с — керамическая плитка коллекции ВУД от Азори. Размер 15,0х15,0 см. Купить Плитка 15,0*15,0 TERRAZZO WOOD 72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22284,8 +22284,8 @@ export const importedProducts: any[] = [
   price_official: 2499,
   stock_yanino: 17.95,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525194/plitki-spb/azori-vud-00-00002400.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525194/plitki-spb/azori-vud-00-00002400.webp"],
   description: "Плитка 15,0*15,0 WOOD 72кв.м 1с — керамическая плитка коллекции ВУД от Азори. Размер 15,0х15,0 см. Купить Плитка 15,0*15,0 WOOD 72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22301,8 +22301,8 @@ export const importedProducts: any[] = [
   price_retail: 1999,
   price_official: 2499,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525196/plitki-spb/azori-mate-00-00002397.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525196/plitki-spb/azori-mate-00-00002397.webp"],
   description: "Плитка 15,0*15,0 MATE GREEN 72кв.м 1с — керамическая плитка коллекции МАТЭ от Азори. Размер 15,0х15,0 см. Купить Плитка 15,0*15,0 MATE GREEN 72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22318,8 +22318,8 @@ export const importedProducts: any[] = [
   price_retail: 1999,
   price_official: 2499,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525197/plitki-spb/azori-mate-00-00002395.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525197/plitki-spb/azori-mate-00-00002395.webp"],
   description: "Плитка 15,0*15,0 MATE LIGHT 72кв.м 1с — керамическая плитка коллекции МАТЭ от Азори. Размер 15,0х15,0 см. Купить Плитка 15,0*15,0 MATE LIGHT 72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22336,8 +22336,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 119.16,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525199/plitki-spb/azori-keramogranit-00-00000160.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525199/plitki-spb/azori-keramogranit-00-00000160.webp"],
   description: "Керамогранит R 60*60 DESERT BEIGE 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 DESERT BEIGE 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22354,8 +22354,8 @@ export const importedProducts: any[] = [
   price_official: 1699,
   stock_yanino: 79.2,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525201/plitki-spb/azori-keramogranit-00-00000157.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525201/plitki-spb/azori-keramogranit-00-00000157.webp"],
   description: "Керамогранит R 60*60 DESSERT GREY 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 DESSERT GREY 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22527,8 +22527,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525207/plitki-spb/azori-keramogranit-00-00110330.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525207/plitki-spb/azori-keramogranit-00-00110330.webp"],
   description: "Керамогранит R 60*60 PORTU PERLA 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 PORTU PERLA 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -22629,8 +22629,8 @@ export const importedProducts: any[] = [
   price_retail: 1359,
   price_official: 1699,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525211/plitki-spb/azori-keramogranit-00-00002578.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525211/plitki-spb/azori-keramogranit-00-00002578.webp"],
   description: "Керамогранит R 60*60 EBRI GRIS 46,08 кв.м 1с — керамогранит коллекции Керамогранит от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 EBRI GRIS 46,08 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23141,8 +23141,8 @@ export const importedProducts: any[] = [
   price_retail: 12,
   price_official: 15,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525219/plitki-spb/azori-valkiriya-582302005.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525219/plitki-spb/azori-valkiriya-582302005.webp"],
   description: "Декор 40,5*20,1 ВАЛЬКИРИЯ  цветы 2 13шт 1с — керамическая плитка коллекции ВАЛЬКИРИЯ от Азори. Размер 20,1х40,5 см. Купить Декор 40,5*20,1 ВАЛЬКИРИЯ  цветы 2 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23294,8 +23294,8 @@ export const importedProducts: any[] = [
   price_retail: 40,
   price_official: 50,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525225/plitki-spb/azori-vog-583252002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525225/plitki-spb/azori-vog-583252002.webp"],
   description: "Панно 40,5*40,2 ВОГ БЕЖ Каре (2 шт) - 6комл 1с — керамическая плитка коллекции ВОГ от Азори. Размер 40,5х40,2 см. Купить Панно 40,5*40,2 ВОГ БЕЖ Каре (2 шт) - 6комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23702,8 +23702,8 @@ export const importedProducts: any[] = [
   price_retail: 884,
   price_official: 1105,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525240/plitki-spb/azori-avellano-layt-502803003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525240/plitki-spb/azori-avellano-layt-502803003.webp"],
   description: "Плитка 42*42  AVELLANO TABACCO  63,96 кв.м 1с — керамическая плитка коллекции АВЕЛЛАНО ЛАЙТ от Азори. Размер 42х42 см. Купить Плитка 42*42  AVELLANO TABACCO  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23940,8 +23940,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525250/plitki-spb/azori-aretstso-583391001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525250/plitki-spb/azori-aretstso-583391001.webp"],
   description: "Бордюр 20,1*6,2 AREZZO BLU ALBA 104 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Размер 20,1х6,2 см. Купить Бордюр 20,1*6,2 AREZZO BLU ALBA 104 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23957,8 +23957,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525252/plitki-spb/azori-aretstso-583371003.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525252/plitki-spb/azori-aretstso-583371003.webp"],
   description: "Бордюр 20,1*8 AREZZO ALBA 78 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Размер 20,1х8 см. Купить Бордюр 20,1*8 AREZZO ALBA 78 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -23991,8 +23991,8 @@ export const importedProducts: any[] = [
   price_retail: 12,
   price_official: 15,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525255/plitki-spb/azori-aretstso-583392001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525255/plitki-spb/azori-aretstso-583392001.webp"],
   description: "Декор 20,1*50,5 AREZZO BLU ALBA 13 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 AREZZO BLU ALBA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24161,8 +24161,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525262/plitki-spb/azori-garmoniya-585541001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525262/plitki-spb/azori-garmoniya-585541001.webp"],
   description: "Бордюр 50,5*6,2 HARMONIA AFINA 39 шт 1с — керамическая плитка коллекции ГАРМОНИЯ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 HARMONIA AFINA 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24178,8 +24178,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525263/plitki-spb/azori-garmoniya-585541002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525263/plitki-spb/azori-garmoniya-585541002.webp"],
   description: "Бордюр 50,5*6,2 HARMONIA WAVE 39 шт 1с — керамическая плитка коллекции ГАРМОНИЯ от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 HARMONIA WAVE 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24195,8 +24195,8 @@ export const importedProducts: any[] = [
   price_retail: 20,
   price_official: 25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525265/plitki-spb/azori-garmoniya-585542001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525265/plitki-spb/azori-garmoniya-585542001.webp"],
   description: "Декор 20,1*50,5 HARMONIA AFINA 13 шт 1с — керамическая плитка коллекции ГАРМОНИЯ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 HARMONIA AFINA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24212,8 +24212,8 @@ export const importedProducts: any[] = [
   price_retail: 20,
   price_official: 25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525267/plitki-spb/azori-garmoniya-585542002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525267/plitki-spb/azori-garmoniya-585542002.webp"],
   description: "Декор 20,1*50,5 HARMONIA WAVE 13 шт 1с — керамическая плитка коллекции ГАРМОНИЯ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 HARMONIA WAVE 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24331,8 +24331,8 @@ export const importedProducts: any[] = [
   price_retail: 319,
   price_official: 399,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525269/plitki-spb/azori-kaliza-503301201.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525269/plitki-spb/azori-kaliza-503301201.webp"],
   description: "Плитка 20,1*50,5 CALIZA LATTE  72,96 кв.м 1с — керамическая плитка коллекции КАЛИЗА от Азори. Размер 20,1х50,5 см. Купить Плитка 20,1*50,5 CALIZA LATTE  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24416,8 +24416,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525273/plitki-spb/azori-navarra-584141002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525273/plitki-spb/azori-navarra-584141002.webp"],
   description: "Бордюр 50,5*6,2 NAVARRA BAROCCO 39 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Размер 50,5х6,2 см. Купить Бордюр 50,5*6,2 NAVARRA BAROCCO 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24518,8 +24518,8 @@ export const importedProducts: any[] = [
   price_retail: 199,
   price_official: 249,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525278/plitki-spb/azori-navarra-504201102.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525278/plitki-spb/azori-navarra-504201102.webp"],
   description: "Плитка  20,1*50,5 NAVARRA CARMIN ARABESCO 72,96кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Размер 20,1х50,5 см. Купить Плитка  20,1*50,5 NAVARRA CARMIN ARABESCO 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -24994,8 +24994,8 @@ export const importedProducts: any[] = [
   price_retail: 8,
   price_official: 10,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525298/plitki-spb/azori-shato-583161004.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525298/plitki-spb/azori-shato-583161004.webp"],
   description: "Бордюр 20,1*8 CHATEAU MOCCA TENDA 78 шт 1с — керамическая плитка коллекции ШАТО от Азори. Размер 20,1х8 см. Купить Бордюр 20,1*8 CHATEAU MOCCA TENDA 78 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25079,8 +25079,8 @@ export const importedProducts: any[] = [
   price_retail: 20,
   price_official: 25,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525302/plitki-spb/azori-shato-583162002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525302/plitki-spb/azori-shato-583162002.webp"],
   description: "Декор 20,1*50,5 CHATEAU MOCCA TENDA 13 шт 1с — керамическая плитка коллекции ШАТО от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 CHATEAU MOCCA TENDA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25249,8 +25249,8 @@ export const importedProducts: any[] = [
   price_retail: 80,
   price_official: 100,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525310/plitki-spb/azori-eklips-585602001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525310/plitki-spb/azori-eklips-585602001.webp"],
   description: "Декор 20,1*50,5 ECLIPSE AURORA 1 13 шт 1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 ECLIPSE AURORA 1 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25266,8 +25266,8 @@ export const importedProducts: any[] = [
   price_retail: 80,
   price_official: 100,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525312/plitki-spb/azori-eklips-585602002.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525312/plitki-spb/azori-eklips-585602002.webp"],
   description: "Декор 20,1*50,5 ECLIPSE AURORA 2 13 шт 1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 ECLIPSE AURORA 2 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25300,8 +25300,8 @@ export const importedProducts: any[] = [
   price_retail: 80,
   price_official: 100,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525315/plitki-spb/azori-eklips-585602006.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525315/plitki-spb/azori-eklips-585602006.webp"],
   description: "Декор 20,1*50,5 ECLIPSE OCHRA MIX 13 шт 1с — керамическая плитка коллекции ЭКЛИПС от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 ECLIPSE OCHRA MIX 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25521,8 +25521,8 @@ export const importedProducts: any[] = [
   price_retail: 40,
   price_official: 50,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525324/plitki-spb/azori-erato-grey-583361001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525324/plitki-spb/azori-erato-grey-583361001.webp"],
   description: "Бордюр 50,5*8 ERATO VETRO 26 шт 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Размер 50,5х8 см. Купить Бордюр 50,5*8 ERATO VETRO 26 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -25555,8 +25555,8 @@ export const importedProducts: any[] = [
   price_retail: 80,
   price_official: 100,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525327/plitki-spb/azori-erato-grey-583352001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525327/plitki-spb/azori-erato-grey-583352001.webp"],
   description: "Декор 20,1*50,5 ERATO LIGHT MORESCA 13 шт 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Размер 20,1х50,5 см. Купить Декор 20,1*50,5 ERATO LIGHT MORESCA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -26473,8 +26473,8 @@ export const importedProducts: any[] = [
   price_retail: 272,
   price_official: 340,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525359/plitki-spb/azori-askoli-587132001.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525359/plitki-spb/azori-askoli-587132001.webp"],
   description: "Декор 31,5*63 ASCOLI GREY CLASSICO 6 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Размер 31,5х63 см. Купить Декор 31,5*63 ASCOLI GREY CLASSICO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -26524,8 +26524,8 @@ export const importedProducts: any[] = [
   price_retail: 825,
   price_official: 1031,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525363/plitki-spb/azori-aura-506571101.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525363/plitki-spb/azori-aura-506571101.webp"],
   description: "Плитка 31,5*63 AURA GRAFITE 50,88кв.м 1с — керамическая плитка коллекции АУРА от Азори. Размер 31,5х63 см. Купить Плитка 31,5*63 AURA GRAFITE 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27119,8 +27119,8 @@ export const importedProducts: any[] = [
   price_retail: 1832,
   price_official: 2290,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525385/plitki-spb/azori-6060-00-00109985.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525385/plitki-spb/azori-6060-00-00109985.webp"],
   description: "Керамогранит R 60*60 ONYX RUBY GREY 54,72кв.м 1с — керамогранит коллекции 60*60 от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 ONYX RUBY GREY 54,72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27136,8 +27136,8 @@ export const importedProducts: any[] = [
   price_retail: 1832,
   price_official: 2290,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525387/plitki-spb/azori-6060-00-00109984.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525387/plitki-spb/azori-6060-00-00109984.webp"],
   description: "Керамогранит R 60*60 ONYX RUBY SILVER 54,72кв.м 1с — керамогранит коллекции 60*60 от Азори. Размер 60х60 см. Купить Керамогранит R 60*60 ONYX RUBY SILVER 54,72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27408,8 +27408,8 @@ export const importedProducts: any[] = [
   price_retail: 2152,
   price_official: 2690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525399/plitki-spb/azori-60120-00-00109982.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525399/plitki-spb/azori-60120-00-00109982.webp"],
   description: "Керамогранит R 120*60 ONYX RUBY GREY 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Размер 60х120 см. Купить Керамогранит R 120*60 ONYX RUBY GREY 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27425,8 +27425,8 @@ export const importedProducts: any[] = [
   price_retail: 2152,
   price_official: 2690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525401/plitki-spb/azori-60120-00-00109983.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525401/plitki-spb/azori-60120-00-00109983.webp"],
   description: "Керамогранит R 120*60 ONYX RUBY SILVER 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Размер 60х120 см. Купить Керамогранит R 120*60 ONYX RUBY SILVER 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27476,8 +27476,8 @@ export const importedProducts: any[] = [
   price_retail: 2152,
   price_official: 2690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525404/plitki-spb/azori-60120-00-00109920.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525404/plitki-spb/azori-60120-00-00109920.webp"],
   description: "Керамогранит R 120*60 PULPIS DARK 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Размер 60х120 см. Купить Керамогранит R 120*60 PULPIS DARK 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27493,8 +27493,8 @@ export const importedProducts: any[] = [
   price_retail: 2152,
   price_official: 2690,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525406/plitki-spb/azori-60120-00-00109919.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525406/plitki-spb/azori-60120-00-00109919.webp"],
   description: "Керамогранит R 120*60 PULPIS LIGHT 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Размер 60х120 см. Купить Керамогранит R 120*60 PULPIS LIGHT 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
@@ -27528,8 +27528,8 @@ export const importedProducts: any[] = [
   price_official: 2690,
   stock_yanino: 1.44,
 
-  main_image: "https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp",
-  images: ["https://images.weserv.nl/?url=plitburg.ru/upload/resize_cache/webp/iblock/c58/360_245_1/pn2zjwwaovzifaf7cju0jztypbbna9uw.webp&w=800&h=800&fit=cover&output=webp"],
+  main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773525409/plitki-spb/azori-60120-00-00108579.webp",
+  images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773525409/plitki-spb/azori-60120-00-00108579.webp"],
   description: "Керамогранит R 60*60 STATUARIO GOLD 54,72кв.м 1с — керамогранит коллекции 60*120 от Азори. Размер 60х120 см. Купить Керамогранит R 60*60 STATUARIO GOLD 54,72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
 },
 {
