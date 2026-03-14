@@ -1,4 +1,4 @@
-import { importedProducts } from "./products-data-new"
+import importedProducts from "./products-data.json"
 
 // Auto-generated — Cersanit 2D catalog
 // Images: proper arrays (fixed ; bug)
