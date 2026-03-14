@@ -67290,8 +67290,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494770/plitki-spb/ural-biryuza-600kh600.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494770/plitki-spb/ural-biryuza-600kh600.webp"],
   },
   {
     sku: "UP040",
@@ -67305,8 +67305,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494771/plitki-spb/ural-biryuza-1200kh600.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494771/plitki-spb/ural-biryuza-1200kh600.webp"],
   },
   {
     sku: "UP038",
@@ -70665,8 +70665,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494772/plitki-spb/ural-standart-u100m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494772/plitki-spb/ural-standart-u100m-300kh300.webp"],
   },
   {
     sku: "UF002M",
@@ -70680,8 +70680,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494773/plitki-spb/ural-standart-uf002m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494773/plitki-spb/ural-standart-uf002m-300kh300.webp"],
   },
   {
     sku: "UF003M",
@@ -70695,8 +70695,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494775/plitki-spb/ural-standart-uf003m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494775/plitki-spb/ural-standart-uf003m-300kh300.webp"],
   },
   {
     sku: "UF004M",
@@ -70710,8 +70710,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494776/plitki-spb/ural-standart-uf004m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494776/plitki-spb/ural-standart-uf004m-300kh300.webp"],
   },
   {
     sku: "U117M",
@@ -70890,8 +70890,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494777/plitki-spb/ural-usilennyy-u100m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494777/plitki-spb/ural-usilennyy-u100m-300kh300.webp"],
   },
   {
     sku: "UF002M",
@@ -70905,8 +70905,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494778/plitki-spb/ural-usilennyy-uf002m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494778/plitki-spb/ural-usilennyy-uf002m-300kh300.webp"],
   },
   {
     sku: "UF003M",
@@ -70920,8 +70920,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494778/plitki-spb/ural-usilennyy-uf003m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494778/plitki-spb/ural-usilennyy-uf003m-300kh300.webp"],
   },
   {
     sku: "UF004M",
@@ -70935,7 +70935,8 @@ export const importedProducts: any[] = [
     surface: "MR",
     price_retail: 0,
     price_official: 0,
-    main_image: "",
-    images: [],
-  }
+    main_image: "https://res.cloudinary.com/de1sotnld/image/upload/v1773494779/plitki-spb/ural-usilennyy-uf004m-300kh300.webp",
+    images: ["https://res.cloudinary.com/de1sotnld/image/upload/v1773494779/plitki-spb/ural-usilennyy-uf004m-300kh300.webp"],
+  },
+
 ]
