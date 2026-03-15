@@ -94,11 +94,12 @@ export function HomeContent() {
               <Link
                 key={brand.slug}
                 href={`/brands/${brand.slug}`}
-                className="group flex flex-col items-center gap-2 p-4 rounded-xl bg-background border border-border hover:border-primary/40 hover:shadow-md transition-all text-center"
+                className="group flex flex-col items-center gap-3 p-4 rounded-xl bg-background border border-border hover:border-primary/40 hover:shadow-md transition-all text-center"
               >
-                <span className="font-semibold text-sm text-foreground group-hover:text-primary transition-colors leading-tight">
-                  {brand.name}
-                </span>
+                <div className="h-10 flex items-center justify-center">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={brand.logo} alt={brand.name} className="max-h-10 max-w-full object-contain" />
+                </div>
                 <span className="text-xs text-muted-foreground leading-snug">{brand.desc}</span>
               </Link>
             ))}
