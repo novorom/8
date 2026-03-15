@@ -27,6 +27,9 @@ interface CollectionPageProps {
   params: Promise<{ collection: string }>
 }
 
+export const dynamicParams = true
+export const revalidate = 3600
+
 export async function generateStaticParams() {
   const allCollectionNames = [
     ...new Set(
@@ -86,7 +89,7 @@ function findCollectionName(slug: string): string | undefined {
 
 function getCollectionProducts(collectionName: string) {
   return products.filter(
-    (p) => p.collection === collectionName && p.slug && p.name && p.price_retail > 0
+    (p) => p.collection === collectionName && p.slug && p.name
   )
 }
 
