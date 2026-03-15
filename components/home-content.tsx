@@ -37,12 +37,12 @@ const homeFaq = [
 ]
 
 const BRANDS = [
-  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "Российский лидер, 425+ позиций" },
-  { name: "Азори", slug: "azori", desc: "Дизайнерская коллекция, 1000+ позиций" },
-  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "Российское производство, 914 позиций" },
-  { name: "Cersanit", slug: "cersanit", desc: "Польский бренд, проверенное качество" },
-  { name: "Бонапарт", slug: "bonapart", desc: "Широкий ассортимент форматов" },
-  { name: "Элетто", slug: "eletto", desc: "Декоративная и напольная плитка" },
+  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "425+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526445/plitki-spb/logos/kerama-marazzi.png" },
+  { name: "Азори", slug: "azori", desc: "1000+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526448/plitki-spb/logos/azori.png" },
+  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "914 позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526454/plitki-spb/logos/ural.jpg" },
+  { name: "Cersanit", slug: "cersanit", desc: "116+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526446/plitki-spb/logos/cersanit.png" },
+  { name: "Бонапарт", slug: "bonapart", desc: "400+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526455/plitki-spb/logos/bonapart.png" },
+  { name: "Элетто", slug: "eletto", desc: "233 позиции", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526450/plitki-spb/logos/eletto.png" },
 ]
 
 export function HomeContent() {
