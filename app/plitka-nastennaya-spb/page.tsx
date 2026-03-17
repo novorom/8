@@ -9,7 +9,7 @@ const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
 export const metadata: Metadata = {
-  title: "Настенная плитка Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Настенная плитка Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Настенная керамическая плитка Cersanit в СПб — 24 позиции для стен. Calacatta, Silvia, Effecta — склад Янино, доставка по СПб от 1 дня. Цены от 665 ₽/м².",
   alternates: { canonical: `${SITE_URL}/plitka-nastennaya-spb` },
   openGraph: {

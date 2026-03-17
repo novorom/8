@@ -5,11 +5,11 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Дом Плитки СПб",
+  title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Плитки СПб",
   description: "Создайте ванную в стиле лофт с плиткой под бетон и кирпич от Cersanit. Советы дизайна в Санкт-Петербурге. Официальный дилер в Янино.",
   alternates: { canonical: `${SITE_URL}/blog/kak-sozdat-dizajn-vannoj-v-stile-loft` },
   openGraph: { 
-    title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Дом Плитки СПб",
+    title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Плитки СПб",
     url: `${SITE_URL}/blog/kak-sozdat-dizajn-vannoj-v-stile-loft`, 
     siteName: "Плитки СПб", 
     locale: "ru_RU", 

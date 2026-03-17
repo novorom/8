@@ -9,7 +9,7 @@ const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
 export const metadata: Metadata = {
-  title: "Керамогранит 45x90 Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Керамогранит 45x90 Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Керамогранит формата 45x90 Cersanit в СПб — 12 позиций в наличии. Популярный формат для пола и стен — склад Янино, доставка по СПб от 1 дня.",
   alternates: { canonical: `${SITE_URL}/keramogranit-45x90-spb` },
   openGraph: {

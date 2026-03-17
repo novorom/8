@@ -14,7 +14,7 @@ const BETON_COLLECTIONS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Плитка под бетон Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Плитка под бетон Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Керамогранит под бетон и лофт Cersanit в СПб. Soft Concrete, Concretehouse, Lofthouse, Effecta — склад Янино, доставка по СПб от 1 дня. Стиль лофт и минимализм для пола и стен.",
   alternates: { canonical: `${SITE_URL}/plitka-pod-beton-spb` },
   openGraph: {

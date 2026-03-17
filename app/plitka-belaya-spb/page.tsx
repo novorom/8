@@ -9,7 +9,7 @@ const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 
 export const metadata: Metadata = {
-  title: "Белая плитка Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Белая плитка Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Белая плитка и керамогранит Cersanit в СПб — 32 позиции в наличии. Calacatta, Tiffany, Silvia — склад Янино, доставка по СПб от 1 дня. Цены от 780 ₽/м².",
   alternates: { canonical: `${SITE_URL}/plitka-belaya-spb` },
   openGraph: {

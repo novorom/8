@@ -17,7 +17,7 @@ const WOOD_COLLECTIONS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Плитка под дерево Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Плитка под дерево Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Керамическая плитка и керамогранит под дерево Cersanit в СПб. Woodhouse, Lofthouse, Wood Concept, Northwood — склад Янино, доставка по СПб от 1 дня. Цены от 472 ₽/м².",
   alternates: { canonical: `${SITE_URL}/plitka-pod-derevo-spb` },
   openGraph: {

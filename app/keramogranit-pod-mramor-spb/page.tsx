@@ -15,7 +15,7 @@ const MARBLE_COLLECTIONS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Керамогранит под мрамор Cersanit в СПб — купить со склада | Дом Плитки",
+  title: "Керамогранит под мрамор Cersanit в СПб — купить со склада | Плитки СПб",
   description: "Керамогранит под мрамор Cersanit в СПб. Calacatta, Deep Calacatta, Lumina Onyx, Travertino — в наличии на складе Янино. Доставка по СПб от 1 дня. Роскошный вид без хлопот.",
   alternates: { canonical: `${SITE_URL}/plitka-pod-mramor-spb` },
   openGraph: {

@@ -8,7 +8,7 @@ const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 const COLS = ["Lofthouse","Soft Concrete","Concretehouse","Wood Concept Natural","Wood Concept Prime","Woodhouse","Royal Stone","Royal stone","Slate","Pamir","Sandstone","Limestone","Northwood","Bonsai Tree","Stilo","Silvia","Desert","JackStone","Stonehouse"]
 export const metadata: Metadata = {
-  title: "Плитка для прихожей Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Плитка для прихожей Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Износостойкая плитка и керамогранит для прихожей Cersanit в СПб. Класс износостойкости PEI IV-V, класс скользкости R10+. Склад Янино, доставка от 1 дня.",
   alternates: { canonical: `${SITE_URL}/plitka-dlya-prihozhej-spb` },
   openGraph: { title: "Плитка для прихожей Cersanit в СПб", url: `${SITE_URL}/plitka-dlya-prihozhej-spb`, siteName: "Плитки СПб", locale: "ru_RU", type: "website" },

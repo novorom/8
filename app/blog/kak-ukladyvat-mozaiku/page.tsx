@@ -3,7 +3,7 @@ import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 export const metadata: Metadata = {
-  title: "Как укладывать керамическую мозаику — инструкция Cersanit | Дом Плитки СПб",
+  title: "Как укладывать керамическую мозаику — инструкция Cersanit | Плитки СПб",
   description: "Инструкция по укладке мозаики Cersanit на сетке. Подготовка поверхности, нанесение клея, затирка швов, важные советы для качественного результата.",
   alternates: { canonical: `${SITE_URL}/blog/kak-ukladyvat-mozaiku` },
   openGraph: { title: "Как укладывать керамическую мозаику", url: `${SITE_URL}/blog/kak-ukladyvat-mozaiku`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

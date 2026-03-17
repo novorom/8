@@ -3,7 +3,7 @@ import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 export const metadata: Metadata = {
-  title: "Рекомендации по затирке швов плитки — инструкция Cersanit | Дом Плитки СПб",
+  title: "Рекомендации по затирке швов плитки — инструкция Cersanit | Плитки СПб",
   description: "Как выбрать затирку для плитки, подготовить швы и нанести состав. Как удалить остатки затирки и цветные ореолы с поверхности плитки.",
   alternates: { canonical: `${SITE_URL}/blog/rekomendatsii-po-zatirke` },
   openGraph: { title: "Рекомендации по затирке швов плитки", url: `${SITE_URL}/blog/rekomendatsii-po-zatirke`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

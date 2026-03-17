@@ -8,7 +8,7 @@ const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 const COLS = ["Slate","Pamir","Sandstone","Limestone","Desert","JackStone","Stonehouse","Lofthouse","Soft Concrete","Royal Stone","Royal stone"]
 export const metadata: Metadata = {
-  title: "Плитка для балкона и лоджии Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Плитка для балкона и лоджии Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Морозостойкий керамогранит для балкона и лоджии Cersanit в СПб. Выдерживает -50°C, класс скользкости R11. Склад Янино, доставка по СПб от 1 дня.",
   alternates: { canonical: `${SITE_URL}/plitka-dlya-balkona-spb` },
   openGraph: { title: "Плитка для балкона Cersanit в СПб", url: `${SITE_URL}/plitka-dlya-balkona-spb`, siteName: "Плитки СПб", locale: "ru_RU", type: "website" },

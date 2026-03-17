@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 
 export const metadata: Metadata = {
-  title: "Страница не найдена | Дом Плитки CERSANIT",
+  title: "Страница не найдена | Плитки СПб",
   description: "Страница не найдена. Перейдите в каталог плитки Cersanit или на главную страницу магазина.",
 }
 

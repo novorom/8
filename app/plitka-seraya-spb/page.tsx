@@ -11,7 +11,7 @@ const PHONE_RAW = "+79052050900"
 const GRAY_COLORS = ["серый", "светло-серый", "темно-серый"]
 
 export const metadata: Metadata = {
-  title: "Серая плитка Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Серая плитка Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Серая плитка и керамогранит Cersanit в СПб — 64 позиции в наличии. Soft Concrete, Lofthouse, Northwood — склад Янино, доставка по СПб от 1 дня. Цены от 665 ₽/м².",
   alternates: { canonical: `${SITE_URL}/plitka-seraya-spb` },
   openGraph: {

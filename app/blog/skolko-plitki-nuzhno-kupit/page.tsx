@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Как рассчитать количество плитки — калькулятор и формулы | Дом Плитки СПб",
+  title: "Как рассчитать количество плитки — калькулятор и формулы | Плитки СПб",
   description: "Как посчитать сколько плитки нужно для ванной, кухни, пола. Формула расчёта, запас на подрезку, учёт декоров и бордюров. Бесплатный расчёт от специалиста.",
   alternates: { canonical: `${SITE_URL}/blog/skolko-plitki-nuzhno-kupit` },
   openGraph: { title: "Как рассчитать количество плитки", url: `${SITE_URL}/blog/skolko-plitki-nuzhno-kupit`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

@@ -3,7 +3,7 @@ import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 export const metadata: Metadata = {
-  title: "Как резать керамогранит: инструменты и правила | Дом Плитки СПб",
+  title: "Как резать керамогранит: инструменты и правила | Плитки СПб",
   description: "Как правильно резать керамогранит: какой инструмент выбрать, как сделать прямой и фигурный рез, как избежать сколов. Советы от официального дилера Cersanit.",
   alternates: { canonical: `${SITE_URL}/blog/kak-rezat-keramogranit` },
   openGraph: { title: "Как резать керамогранит: инструменты и советы", url: `${SITE_URL}/blog/kak-rezat-keramogranit`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

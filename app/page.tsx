@@ -13,7 +13,7 @@ const localBusinessJsonLd = {
   description: "Магазин керамической плитки и керамогранита в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Склад в Янино.",
   url: "https://plitki-spb.ru",
   telephone: "+79052050900",
-  email: "info@plitki-spb.ru",
+  email: "novorom@mail.ru",
   address: {
     "@type": "PostalAddress",
     streetAddress: "п. Янино-1",

@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Как ухаживать за керамогранитом: уборка и защита | Дом Плитки СПб",
+  title: "Как ухаживать за керамогранитом: уборка и защита | Плитки СПб",
   description: "Как правильно мыть и ухаживать за керамогранитом Cersanit. Какие средства подходят, чем нельзя чистить, как защитить швы от грязи. Советы от официального дилера.",
   alternates: { canonical: `${SITE_URL}/blog/kak-uhazhivat-za-keramogranitom` },
   openGraph: { title: "Уход за керамогранитом: как правильно мыть и чистить", url: `${SITE_URL}/blog/kak-uhazhivat-za-keramogranitom`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

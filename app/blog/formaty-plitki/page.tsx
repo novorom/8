@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Форматы плитки: как выбрать размер для комнаты | Дом Плитки СПб",
+  title: "Форматы плитки: как выбрать размер для комнаты | Плитки СПб",
   description: "30x60, 60x60, 60x120 — чем отличаются форматы и как размер плитки влияет на восприятие пространства. Советы по выбору формата для ванной, кухни и гостиной от официального дилера Cersanit.",
   alternates: { canonical: `${SITE_URL}/blog/formaty-plitki` },
   openGraph: { title: "Форматы плитки: как выбрать размер для комнаты", url: `${SITE_URL}/blog/formaty-plitki`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Как укладывать плитку своими руками — инструкция Cersanit | Дом Плитки СПб",
+  title: "Как укладывать плитку своими руками — инструкция Cersanit | Плитки СПб",
   description: "Официальная инструкция по укладке керамической плитки и керамогранита Cersanit. Подготовка основания, выбор клея, пошаговая укладка, затирка швов.",
   alternates: { canonical: `${SITE_URL}/blog/kak-ukladyvat-plitku` },
   openGraph: { title: "Как укладывать плитку своими руками", url: `${SITE_URL}/blog/kak-ukladyvat-plitku`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

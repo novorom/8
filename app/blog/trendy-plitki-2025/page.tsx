@@ -3,7 +3,7 @@ import Link from "next/link"
 import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 export const metadata: Metadata = {
-  title: "Тренды плитки 2025: что выбрать для ванной и кухни | Дом Плитки СПб",
+  title: "Тренды плитки 2025: что выбрать для ванной и кухни | Плитки СПб",
   description: "Главные тренды керамической плитки и керамогранита в 2025 году: крупный формат, природные текстуры, нейтральные тона. Что в моде и как применить в интерьере.",
   alternates: { canonical: `${SITE_URL}/blog/trendy-plitki-2025` },
   openGraph: { title: "Тренды плитки 2025", url: `${SITE_URL}/blog/trendy-plitki-2025`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

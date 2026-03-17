@@ -15,7 +15,7 @@ const STONE_COLLECTIONS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Плитка под камень Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Плитка под камень Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Керамогранит под натуральный камень Cersanit в СПб. Royal Stone, Slate, Stonehouse, Sandstone — склад Янино, доставка по СПб от 1 дня. Природная фактура без сложного ухода.",
   alternates: { canonical: `${SITE_URL}/plitka-pod-kamen-spb` },
   openGraph: {

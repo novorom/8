@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Керамогранит под дерево или ламинат — что лучше для пола? | Дом Плитки СПб",
+  title: "Керамогранит под дерево или ламинат — что лучше для пола? | Плитки СПб",
   description: "Сравниваем керамогранит под дерево и ламинат: срок службы, влагостойкость, цена, уход. Что выбрать для ванной, кухни, гостиной в 2025 году.",
   alternates: { canonical: `${SITE_URL}/blog/keramogranit-ili-laminat` },
   openGraph: { title: "Керамогранит под дерево или ламинат — что лучше?", url: `${SITE_URL}/blog/keramogranit-ili-laminat`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

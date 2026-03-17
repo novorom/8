@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Как выбрать плитку для ванной комнаты — полный гид 2025 | Дом Плитки СПб",
+  title: "Как выбрать плитку для ванной комнаты — полный гид 2025 | Плитки СПб",
   description: "Как правильно выбрать плитку для ванной: размер, цвет, фактура, скользкость. Советы по подбору коллекции Cersanit для маленькой и большой ванной. Примеры и рекомендации.",
   alternates: { canonical: `${SITE_URL}/blog/kak-vybrat-plitku-dlya-vannoj` },
   openGraph: { title: "Как выбрать плитку для ванной — полный гид", url: `${SITE_URL}/blog/kak-vybrat-plitku-dlya-vannoj`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },

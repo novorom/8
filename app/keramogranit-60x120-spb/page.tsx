@@ -7,7 +7,7 @@ const SITE_URL = "https://plitki-spb.ru"
 const PHONE = "+7 (905) 205-09-00"
 const PHONE_RAW = "+79052050900"
 export const metadata: Metadata = {
-  title: "Керамогранит 60x120 Cersanit купить в Санкт-Петербурге | Дом Плитки",
+  title: "Керамогранит 60x120 Cersanit купить в Санкт-Петербурге | Плитки СПб",
   description: "Крупноформатный керамогранит 60x120 см Cersanit в СПб. Минимум швов, эффект монолитного покрытия. Склад Янино, доставка от 1 дня.",
   alternates: { canonical: `${SITE_URL}/keramogranit-60x120-spb` },
   openGraph: { title: "Керамогранит 60x120 Cersanit в СПб", url: `${SITE_URL}/keramogranit-60x120-spb`, siteName: "Плитки СПб", locale: "ru_RU", type: "website" },

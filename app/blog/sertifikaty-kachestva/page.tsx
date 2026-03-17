@@ -3,7 +3,7 @@ import Link from "next/link"
 import { ChevronRight, ShieldCheck } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 export const metadata: Metadata = {
-  title: "Сертификаты качества и безопасности плитки Cersanit | Дом Плитки СПб",
+  title: "Сертификаты качества и безопасности плитки Cersanit | Плитки СПб",
   description: "Вся плитка и керамогранит Cersanit сертифицированы в России. Сертификат соответствия ГОСТ, пожарная безопасность, добровольная сертификация НСОПБ. Официальный дилер в СПб.",
   alternates: { canonical: `${SITE_URL}/blog/sertifikaty-kachestva` },
   openGraph: { title: "Сертификаты качества Cersanit", url: `${SITE_URL}/blog/sertifikaty-kachestva`, siteName: "Плитки СПб", locale: "ru_RU", type: "article" },
