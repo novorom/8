@@ -99,7 +99,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
   const { products } = useProducts()
 
   const allCollections = [...new Set(products.map((p) => p.collection))]
-    .filter((c) => c !== "other" && c.toLowerCase() !== "other")
+    .filter((c) => c && c.trim() && c !== "other" && c.toLowerCase() !== "other")
     .sort()
 
   const collections = allCollections.map((collName) => {
