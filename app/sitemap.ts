@@ -59,6 +59,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "blog/kak-sozdat-dizajn-vannoj-v-stile-loft",
     "blog/kerama-marazzi-kollektsii",
     "blog/azori-plitka-obzor",
+    "blog/nefrit-keramika-obzor",
     "plitka-seraya-spb",
     "plitka-belaya-spb",
     "keramogranit-matovyy-spb",
