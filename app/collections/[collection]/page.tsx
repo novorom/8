@@ -77,6 +77,9 @@ export async function generateMetadata({ params }: CollectionPageProps): Promise
 }
 
 function findCollectionName(slug: string): string | undefined {
+  let s = slug
+  try { s = decodeURIComponent(slug) } catch {}
+  s = s.toLowerCase()
   return [
     ...new Set(
       products
@@ -84,7 +87,7 @@ function findCollectionName(slug: string): string | undefined {
         .map((p) => p.collection as string)
     ),
   ].find(
-    (name) => name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "") === slug.toLowerCase()
+    (name) => name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "") === s
   )
 }
 
