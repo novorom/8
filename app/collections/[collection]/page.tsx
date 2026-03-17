@@ -46,16 +46,17 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: CollectionPageProps): Promise<Metadata> {
   const { collection } = await params
   const collectionName = findCollectionName(collection)
-  if (!collectionName) return { title: "Коллекция не найдена | Дом Плитки" }
+  if (!collectionName) return { title: "Коллекция не найдена | Плитки СПб" }
 
   const seo = getCollectionSeo(collectionName)
   const collectionProducts = getCollectionProducts(collectionName)
   const prices = collectionProducts.map(p => p.price_retail).filter(Boolean)
   const priceFrom = prices.length ? Math.min(...prices) : null
+  const brandName = collectionProducts[0]?.brand || "Плитки СПб"
 
-  const title = seo?.title || `Плитка ${collectionName} Cersanit купить в Санкт-Петербурге | Дом Плитки`
+  const title = seo?.title || `Плитка коллекция ${collectionName} ${brandName} — купить в Санкт-Петербурге | Плитки СПб`
   const description = seo?.description ||
-    `Коллекция ${collectionName} Cersanit — ${collectionProducts.length} товаров в наличии на складе Янино.${priceFrom ? ` От ${priceFrom} ₽/м².` : ""} Доставка по СПб и ЛО от 1 дня.`
+    `Коллекция ${collectionName} ${brandName} — ${collectionProducts.length} товаров в наличии на складе Янино.${priceFrom ? ` От ${priceFrom} ₽/м².` : ""} Доставка по СПб и ЛО от 1 дня.`
 
   const firstImage = collectionProducts[0]?.main_image || collectionProducts[0]?.collection_image
 
@@ -67,7 +68,7 @@ export async function generateMetadata({ params }: CollectionPageProps): Promise
       title,
       description,
       url: `${SITE_URL}/collections/${collection}`,
-      siteName: "Дом Плитки CERSANIT",
+      siteName: "Плитки СПб",
       locale: "ru_RU",
       type: "website",
       images: firstImage ? [{ url: firstImage, alt: collectionName }] : [],
@@ -149,6 +150,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
   }
 
   const collectionProducts = getCollectionProducts(collectionName)
+  const brandName = (collectionProducts[0] as any)?.brand || "Плитки СПб"
   const seo = getCollectionSeo(collectionName)
   // Собираем все интерьерные фото коллекции
   const interiorImages = [
@@ -167,8 +169,8 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: `Коллекция ${collectionName} Cersanit`,
-    description: seo?.about || `Коллекция ${collectionName} от Cersanit в наличии в Санкт-Петербурге`,
+    name: `Коллекция ${collectionName} ${brandName}`,
+    description: seo?.about || `Коллекция ${collectionName} от ${brandName} в наличии в Санкт-Петербурге`,
     url: `${SITE_URL}/collections/${collection}`,
     numberOfItems: collectionProducts.length,
     itemListElement: collectionProducts.slice(0, 10).map((p, i) => ({
@@ -207,7 +209,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       {
         "@type": "Question",
         name: `Плитка коллекции ${collectionName} есть в наличии?`,
-        acceptedAnswer: { "@type": "Answer", text: `Да, коллекция ${collectionName} от Cersanit есть в наличии на складе в Янино. Актуальные остатки уточняйте по телефону +7 (905) 205-09-00.` },
+        acceptedAnswer: { "@type": "Answer", text: `Да, коллекция ${collectionName} от ${brandName} есть в наличии на складе в Янино. Актуальные остатки уточняйте по телефону +7 (905) 205-09-00.` },
       },
       {
         "@type": "Question",
@@ -269,7 +271,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
           <h1 className="text-3xl lg:text-4xl font-bold text-white text-balance drop-shadow">
             {seo?.title
               ? seo.title.replace(" купить в СПб", "").replace(" купить в Санкт-Петербурге", "")
-              : `Коллекция ${collectionName} Cersanit`}
+              : `Коллекция ${collectionName} ${brandName}`}
           </h1>
           <div className="mt-3 flex flex-wrap gap-x-6 gap-y-1 text-white/80 text-sm">
             <span>{collectionProducts.length} позиций в наличии</span>
@@ -334,22 +336,28 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
         </div>
       )}
 
-      {/* Fallback SEO text */}
+      {/* Fallback SEO text — brand-aware, multi-brand */}
       {!seo && (
         <div className="py-12 lg:py-16 bg-muted/30">
           <div className="mx-auto max-w-4xl px-4">
             <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">
-              Коллекция {collectionName} Cersanit
+              Коллекция {collectionName} {brandName} — купить в СПб
             </h2>
             <div className="flex flex-col gap-4 text-foreground/80 leading-relaxed">
               <p>
-                Коллекция {collectionName} — высококачественная продукция польского производителя Cersanit.
-                Все товары имеют сертификаты качества и соответствуют российским стандартам.
-                {priceFrom && ` Цены от ${priceFrom.toLocaleString("ru-RU")} до ${priceTo?.toLocaleString("ru-RU")} ₽/м².`}
+                <strong>Коллекция {collectionName}</strong> от {brandName} — {collectionProducts.length} позиций в наличии на складе в Янино-1, Ленинградская область.
+                {formats.length > 0 && ` Доступные форматы: ${formats.join(", ")} см.`}
+                {priceFrom ? ` Цены от ${priceFrom.toLocaleString("ru-RU")} до ${priceTo?.toLocaleString("ru-RU")} ₽/м².` : " Уточняйте цены по телефону."}
               </p>
               <p>
-                В наличии на складе в Янино-1 (15–20 мин от КАД). Самовывоз бесплатный.
-                Доставка по СПб и ЛО 1–2 рабочих дня. Для консультации звоните: {PHONE}.
+                Вся продукция имеет сертификаты соответствия и гарантию производителя.
+                Подходит для жилых и коммерческих помещений, ванных комнат, кухонь, прихожих и открытых террас.
+              </p>
+              <p>
+                <strong>Купить коллекцию {collectionName}</strong> в Санкт-Петербурге можно в нашем магазине Плитки СПб.
+                Склад и шоурум в Янино-1 (15–20 мин от КАД по Мурманскому шоссе).
+                Самовывоз бесплатный. Доставка по СПб и Ленинградской области 1–2 рабочих дня.
+                Помогаем рассчитать количество плитки. Для консультации: {PHONE}.
               </p>
             </div>
           </div>

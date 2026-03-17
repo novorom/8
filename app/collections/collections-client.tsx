@@ -108,7 +108,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
     return {
       id: collName,
       name: collName,
-      slug: collName.toLowerCase().replace(/\s+/g, "-"),
+      slug: collName.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, ""),
       image: COLLECTION_IMAGE_OVERRIDES[collName.toUpperCase()] || collectionProducts.flatMap(p => (p.interior_images as string[] | undefined) || []).filter(Boolean)[0] || firstProduct?.collection_image || firstProduct?.main_image || "",
       product_count: collectionProducts.length,
     }

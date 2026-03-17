@@ -131,15 +131,15 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
 
     // Price filter
     result = result.filter(
-      (p) => p.price_retail === 0 || (p.price_retail >= priceRange[0] && p.price_retail <= priceRange[1])
+      (p) => { const pr = (p as any).price_retail ?? (p as any).price ?? 0; return pr === 0 || (pr >= priceRange[0] && pr <= priceRange[1]); }
     )
 
     switch (sort) {
       case "price_asc":
-        result.sort((a, b) => a.price_retail - b.price_retail)
+        result.sort((a, b) => ((a as any).price_retail ?? (a as any).price ?? 0) - ((b as any).price_retail ?? (b as any).price ?? 0))
         break
       case "price_desc":
-        result.sort((a, b) => b.price_retail - a.price_retail)
+        result.sort((a, b) => ((b as any).price_retail ?? (b as any).price ?? 0) - ((a as any).price_retail ?? (a as any).price ?? 0))
         break
       case "name":
         result.sort((a, b) => a.name.localeCompare(b.name))
