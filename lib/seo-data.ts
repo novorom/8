@@ -1,7 +1,7 @@
 // SEO content data for geo-targeted landing pages
 
-export const SITE_URL = "https://cersanit-spb.ru"
-export const COMPANY_NAME = "Дом Плитки CERSANIT"
+export const SITE_URL = "https://plitki-spb.ru"
+export const COMPANY_NAME = "Плитки СПб"
 export const PHONE = "+7 (905) 205-09-00"
 export const PHONE_RAW = "+79052050900"
 export const EMAIL = "novorom@mail.ru"

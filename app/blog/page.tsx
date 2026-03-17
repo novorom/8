@@ -5,12 +5,12 @@ import { ChevronRight } from "lucide-react"
 const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
-  title: "Блог о плитке и керамограните Cersanit | Дом Плитки СПб",
-  description: "Инструкции по укладке плитки и мозаики, советы по затирке швов, сертификаты качества Cersanit. Полезные статьи от официального дилера в Санкт-Петербурге.",
+  title: "Блог о плитке и керамограните | Плитки СПб",
+  description: "Инструкции по укладке плитки, советы по выбору и уходу, обзоры коллекций Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика. Полезные статьи от склада в Янино.",
   alternates: { canonical: `${SITE_URL}/blog` },
   openGraph: {
-    title: "Блог о плитке и керамограните Cersanit | Дом Плитки СПб",
-    description: "Инструкции по укладке, советы по уходу, сертификаты качества — полезные материалы от официального дилера Cersanit в Санкт-Петербурге.",
+    title: "Блог о плитке и керамограните | Плитки СПб",
+    description: "Инструкции по укладке, советы по уходу, сертификаты качества — полезные материалы от магазина плитки Плитки СПб, склад в Янино.",
     url: `${SITE_URL}/blog`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -31,9 +31,11 @@ const articles = [
   { href: "/blog/keramogranit-ili-laminat", title: "Керамогранит или ламинат: что лучше для пола", desc: "Сравниваем керамогранит и ламинат по долговечности, уходу, цене и внешнему виду. Что выбрать для квартиры в СПб.", date: "2025-03-15", time: "5 мин" },
   { href: "/blog/kak-uhazhivat-za-keramogranitom", title: "Как ухаживать за керамогранитом", desc: "Правила ежедневного и генерального ухода за керамогранитом Cersanit. Чем мыть, что нельзя использовать, как убрать известковый налёт.", date: "2025-03-20", time: "4 мин" },
   { href: "/blog/skolko-plitki-nuzhno-kupit", title: "Сколько плитки нужно купить: расчёт с запасом", desc: "Как рассчитать количество плитки для ванной или кухни. Формула расчёта, процент на подрезку, рекомендации по запасу.", date: "2025-03-25", time: "4 мин" },
-  { href: "/blog/keramogranit-dlya-balkona-i-terraisy", title: "Керамогранит для балкона и террасы: морозостойкий и нескользкий", desc: "Читайте на нашем сайте.", date: "2026-03-07", time: "5 мин" },
-  { href: "/blog/plitka-pod-mramor-v-interere", title: "Плитка под мрамор в интерьере: как создать роскошь без бюджета", desc: "Читайте на нашем сайте.", date: "2026-03-07", time: "5 мин" },
+  { href: "/blog/keramogranit-dlya-balkona-i-terraisy", title: "Керамогранит для балкона и террасы: морозостойкий и нескользкий", desc: "Какую плитку выбрать для балкона и террасы в Санкт-Петербурге. Морозостойкость, нескользящая поверхность, уход.", date: "2026-03-07", time: "5 мин" },
+  { href: "/blog/plitka-pod-mramor-v-interere", title: "Плитка под мрамор: лучшие коллекции 2025–2026 от всех брендов", desc: "Сравнение Calacatta Cersanit, Kerama Marazzi, Gracia Ceramica — какая плитка под мрамор лучше. Цены от 650 ₽/м².", date: "2026-03-17", time: "8 мин" },
   { href: "/blog/kak-sozdat-dizajn-vannoj-v-stile-loft", title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич", desc: "Читайте на нашем сайте.", date: "2026-03-09", time: "5 мин" },
+  { href: "/blog/kerama-marazzi-kollektsii", title: "Плитка Kerama Marazzi: лучшие коллекции и цены в СПб", desc: "Обзор лучших коллекций Kerama Marazzi: керамогранит, настенная плитка, мозаика. Более 400 позиций на складе в Янино.", date: "2026-03-17", time: "8 мин" },
+  { href: "/blog/azori-plitka-obzor", title: "Плитка Азори: коллекции РИВЕР, ПАТАГОНИЯ, САЛЬВАДОР — обзор и цены", desc: "Обзор лучших коллекций Азори с описанием и ценами. 1000+ позиций на складе Плитки СПб в Янино.", date: "2026-03-17", time: "7 мин" },
 ]
 
 export default function BlogIndex() {
@@ -43,7 +45,7 @@ export default function BlogIndex() {
       <section className="bg-primary text-primary-foreground py-12 lg:py-16">
         <div className="mx-auto max-w-7xl px-4">
           <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold">Блог о плитке и керамограните</h1>
-          <p className="mt-4 text-primary-foreground/80 text-lg max-w-2xl">Инструкции по укладке, советы по уходу, сертификаты качества — полезные материалы от официального дилера Cersanit в Санкт-Петербурге.</p>
+          <p className="mt-4 text-primary-foreground/80 text-lg max-w-2xl">Инструкции по укладке, советы по уходу, сертификаты качества — полезные материалы от магазина плитки Плитки СПб, склад в Янино.</p>
         </div>
       </section>
       <section className="py-12 lg:py-16">
