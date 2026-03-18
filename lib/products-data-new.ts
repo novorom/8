@@ -1,7 +1,7 @@
 // @ts-nocheck
 // AUTO-GENERATED — НЕ РЕДАКТИРОВАТЬ ВРУЧНУЮ
 
-export const importedProducts: any[
+export const importedProducts: any[] = [
   {
     "id": "cersanit-17773",
     "sku": "17773",
@@ -76540,4 +76540,4 @@ export const importedProducts: any[
     "id": "UF004M",
     "usage": "floor"
   }
-]
+];
