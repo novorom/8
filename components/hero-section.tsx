@@ -1,94 +1,81 @@
 "use client"
 
 import Link from "next/link"
-import { motion } from "framer-motion"
 
 export function HeroSection() {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-r from-white via-slate-50 to-white">
-
-      {/* Background */}
+    <section className="relative h-[620px] flex items-center">
+      
+      {/* BACKGROUND */}
       <div className="absolute inset-0">
         <img
-          src="https://res.cloudinary.com/de1sotnld/image/upload/v1773594838/plitki-spb/hero-main.png"
-          alt="Интерьер с керамической плиткой"
-          className="w-full h-full object-cover object-right-center scale-105"
+          src="/hero.jpg"
+          alt="Керамическая плитка"
+          className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-white/90 via-white/70 to-transparent" />
+
+        {/* ГЛАВНЫЙ FIX — ГРАДИЕНТ */}
+        <div className="absolute inset-0 bg-gradient-to-r from-white/95 via-white/85 to-transparent" />
       </div>
 
-      {/* Content */}
-      <div className="relative max-w-7xl mx-auto px-6 py-24 lg:py-28 flex items-center min-h-[520px]">
-        <div className="max-w-xl">
+      {/* CONTENT */}
+      <div className="relative z-10 max-w-6xl mx-auto px-6">
+        
+        <p className="text-sm text-blue-700 mb-4">
+          📍 Склад в Янино — Санкт-Петербург
+        </p>
 
-          <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-sm text-slate-500 mb-4 tracking-wide"
+        <h1 className="text-5xl font-bold text-gray-900 leading-tight mb-6">
+          Керамическая{" "}
+          <span className="text-blue-600">плитка</span> в СПб
+        </h1>
+
+        <p className="text-lg text-gray-700 mb-8 max-w-xl">
+          Kerama Marazzi, Cersanit, Азори, Idalgo, Gracia Ceramica и другие. 
+          Более <b>4000 позиций</b> на складе. Доставка от 1 дня.
+        </p>
+
+        {/* BUTTONS */}
+        <div className="flex gap-4 mb-10">
+          <Link
+            href="/catalog"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl font-semibold transition"
           >
-            Склад в Янино — Санкт-Петербург
-          </motion.p>
+            Смотреть каталог →
+          </Link>
 
-          <motion.h1
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-5xl lg:text-6xl font-bold tracking-tight leading-tight mb-6"
+          <Link
+            href="/collections"
+            className="border border-gray-300 px-6 py-3 rounded-xl font-semibold text-gray-700 hover:bg-gray-100 transition"
           >
-            <span className="text-slate-900">Керамическая</span>
-            <br />
-            <span className="bg-gradient-to-r from-blue-600 to-blue-500 bg-clip-text text-transparent">плитка</span>{" "}
-            <span className="text-slate-900">в СПб</span>
-          </motion.h1>
-
-          <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-slate-500 text-base leading-relaxed mb-8 max-w-md"
-          >
-            Kerama Marazzi, Cersanit, Азори, Гранитея, Idalgo, Gracia Ceramica и другие.
-            Более <span className="font-semibold text-slate-800">4000 позиций</span> на складе. Доставка от 1 дня.
-          </motion.p>
-
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="flex flex-wrap gap-4"
-          >
-            <Link
-              href="/catalog"
-              className="px-7 py-3.5 bg-gradient-to-r from-blue-600 to-blue-500 text-white rounded-xl shadow-lg hover:shadow-xl hover:scale-[1.03] transition-all duration-200 font-semibold text-sm"
-            >
-              Смотреть каталог →
-            </Link>
-
-            <Link
-              href="/collections"
-              className="px-7 py-3.5 bg-white/70 backdrop-blur-md border border-white/40 rounded-xl text-slate-800 hover:bg-white/90 hover:scale-[1.03] transition-all duration-200 font-medium text-sm"
-            >
-              Все коллекции
-            </Link>
-          </motion.div>
+            Все коллекции
+          </Link>
         </div>
-      </div>
 
-      {/* Features */}
-      <div className="relative max-w-6xl mx-auto px-6 -mt-10 pb-10">
-        <div className="backdrop-blur-xl bg-white/60 border border-white/40 shadow-xl rounded-2xl px-8 py-6 grid grid-cols-2 md:grid-cols-4 gap-6">
+        {/* FEATURES */}
+        <div className="bg-white/90 backdrop-blur rounded-2xl shadow-lg px-6 py-5 flex gap-10 w-fit">
+          <div>
+            <div className="font-semibold text-gray-900">Доставка</div>
+            <div className="text-sm text-gray-500">от 1 дня</div>
+          </div>
 
-          {[
-            { title: "Доставка", sub: "от 1 дня" },
-            { title: "Гарантия", sub: "производителя" },
-            { title: "4000+", sub: "позиций" },
-            { title: "11", sub: "брендов" },
-          ].map((f) => (
-            <div key={f.title} className="text-center">
-              <div className="text-base font-semibold text-slate-900">{f.title}</div>
-              <div className="text-sm text-slate-500">{f.sub}</div>
-            </div>
-          ))}
+          <div>
+            <div className="font-semibold text-gray-900">Гарантия</div>
+            <div className="text-sm text-gray-500">производителя</div>
+          </div>
+
+          <div>
+            <div className="font-semibold text-gray-900">4000+</div>
+            <div className="text-sm text-gray-500">позиций</div>
+          </div>
+
+          <div>
+            <div className="font-semibold text-gray-900">11</div>
+            <div className="text-sm text-gray-500">брендов</div>
+          </div>
         </div>
-      </div>
 
+      </div>
     </section>
   )
 }
