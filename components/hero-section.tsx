@@ -4,25 +4,25 @@ import Link from "next/link"
 
 export function HeroSection() {
   return (
-    <section className="relative w-full h-[620px]">
+    <section className="relative w-full">
 
-      {/* КАРТИНКА МАКЕТА */}
+      {/* КАРТИНКА 1:1 БЕЗ ОБРЕЗКИ */}
       <img
         src="/hero.jpg"
         alt="hero"
-        className="w-full h-full object-cover"
+        className="w-full h-auto block"
       />
 
-      {/* НЕВИДИМАЯ КНОПКА 1 */}
+      {/* КНОПКА "СМОТРЕТЬ КАТАЛОГ" */}
       <Link
         href="/catalog"
-        className="absolute left-[120px] top-[360px] w-[220px] h-[56px]"
+        className="absolute left-[7.5%] top-[60%] w-[22%] h-[10%]"
       />
 
-      {/* НЕВИДИМАЯ КНОПКА 2 */}
+      {/* КНОПКА "ВСЕ КОЛЛЕКЦИИ" */}
       <Link
         href="/collections"
-        className="absolute left-[360px] top-[360px] w-[220px] h-[56px]"
+        className="absolute left-[31%] top-[60%] w-[20%] h-[10%]"
       />
 
     </section>
