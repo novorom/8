@@ -1,6 +1,6 @@
 "use client"
 
-import { motion } from "framer-motion"
+
 import Link from "next/link"
 
 export function HeroSection() {
@@ -23,47 +23,31 @@ export function HeroSection() {
       {/* Main content */}
       <div className="relative max-w-7xl mx-auto px-6 py-24 lg:py-28 flex items-center min-h-[520px]">
         <div className="max-w-xl">
-          <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-            className="flex items-center gap-2 text-sm text-slate-500 mb-4 tracking-wide"
+          <p className="flex items-center gap-2 text-sm text-slate-500 mb-4 tracking-wide"
           >
             <svg className="h-3.5 w-3.5 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
               <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
             </svg>
             Склад в Янино — Санкт-Петербург
-          </motion.p>
+          </p>
 
-          <motion.h1
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.7, ease: "easeOut" }}
-            className="text-5xl lg:text-6xl font-bold leading-tight mb-6"
+          <h1 className="text-5xl lg:text-6xl font-bold leading-tight mb-6"
           >
             <span className="text-slate-800">Керамическая</span>
             <br />
             <span className="text-blue-600">плитка</span>{" "}
             <span className="text-slate-800">в СПб</span>
-          </motion.h1>
+          </h1>
 
-          <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.9, delay: 0.1 }}
-            className="text-slate-500 text-base leading-relaxed mb-8 max-w-md"
+          <p className="text-slate-500 text-base leading-relaxed mb-8 max-w-md"
           >
             Kerama Marazzi, Cersanit, Азори, Гранитея, Idalgо, Gracia Ceramica и другие.
             Более{" "}
             <span className="font-semibold text-slate-700">4000 позиций</span>{" "}
             на складе. Доставка от 1 дня.
-          </motion.p>
+          </p>
 
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1.0, delay: 0.2 }}
-            className="flex flex-wrap gap-3"
+          <div className="flex flex-wrap gap-3"
           >
             <Link
               href="/catalog"
@@ -83,11 +67,7 @@ export function HeroSection() {
 
       {/* Glassmorphism features bar */}
       <div className="relative max-w-7xl mx-auto px-6 pb-8 -mt-4">
-        <motion.div
-          initial={{ opacity: 0, y: 24 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.4 }}
-          className="backdrop-blur-md bg-white/70 border border-white/50 shadow-xl shadow-slate-200/60 rounded-2xl px-8 py-5 grid grid-cols-2 md:grid-cols-4 gap-6"
+        <div className="backdrop-blur-md bg-white/70 border border-white/50 shadow-xl shadow-slate-200/60 rounded-2xl px-8 py-5 grid grid-cols-2 md:grid-cols-4 gap-6"
         >
           {[
             { icon: "🚚", title: "Доставка", sub: "от 1 дня" },
@@ -103,7 +83,7 @@ export function HeroSection() {
               </div>
             </div>
           ))}
-        </motion.div>
+        </div>
       </div>
     </section>
   )
