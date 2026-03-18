@@ -5,7 +5,6 @@ import Link from "next/link"
 export function HeroSection() {
   return (
     <section className="relative w-full max-w-[1440px] mx-auto">
-
       <div className="relative w-full aspect-[1440/620]">
 
         <img
@@ -14,16 +13,16 @@ export function HeroSection() {
           className="absolute inset-0 w-full h-full object-cover"
         />
 
-        {/* КНОПКА 1 — РАСШИРЕНА */}
+        {/* КНОПКА 1 — ПОДНЯТА И ВЫШЕ */}
         <Link
           href="/catalog"
-          className="absolute left-[90px] top-[360px] w-[360px] h-[90px]"
+          className="absolute left-[80px] top-[340px] w-[380px] h-[110px]"
         />
 
-        {/* КНОПКА 2 — РАСШИРЕНА */}
+        {/* КНОПКА 2 — ПОДНЯТА И ВЫШЕ */}
         <Link
           href="/collections"
-          className="absolute left-[440px] top-[360px] w-[340px] h-[90px]"
+          className="absolute left-[430px] top-[340px] w-[360px] h-[110px]"
         />
 
       </div>
