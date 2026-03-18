@@ -6,7 +6,6 @@ export function HeroSection() {
   return (
     <section className="relative w-full max-w-[1440px] mx-auto">
 
-      {/* ОБЁРТКА С ПРОПОРЦИЕЙ КАК У КАРТИНКИ */}
       <div className="relative w-full aspect-[1440/620]">
 
         <img
@@ -15,16 +14,16 @@ export function HeroSection() {
           className="absolute inset-0 w-full h-full object-cover"
         />
 
-        {/* КНОПКА 1 */}
+        {/* КНОПКА 1 — РАСШИРЕНА */}
         <Link
           href="/catalog"
-          className="absolute left-[110px] top-[385px] w-[320px] h-[70px]"
+          className="absolute left-[90px] top-[360px] w-[360px] h-[90px]"
         />
 
-        {/* КНОПКА 2 */}
+        {/* КНОПКА 2 — РАСШИРЕНА */}
         <Link
           href="/collections"
-          className="absolute left-[460px] top-[385px] w-[300px] h-[70px]"
+          className="absolute left-[440px] top-[360px] w-[340px] h-[90px]"
         />
 
       </div>
