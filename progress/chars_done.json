@@ -1,0 +1,3249 @@
+{
+  "azori-00-00108694": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108696": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108692": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108633": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108602": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108600": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108598": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108678": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 1,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108672": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108674": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108595": {
+    "thickness": 9.5,
+    "color": "Серый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108591": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108593": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108419": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108412": {
+    "thickness": 9.5,
+    "color": "Серый, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108414": {
+    "thickness": 9.5,
+    "color": "Белый, серый, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108410": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108408": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108418": {
+    "thickness": 9.5,
+    "color": "Белый, серый, золотой",
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108401": {
+    "thickness": 9.5,
+    "color": "Белый, серый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108403": {
+    "thickness": 9.5,
+    "color": "Белый, серый, черный, красный",
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108405": {
+    "thickness": 9.5,
+    "color": "Белый, серый, черный, зеленый, красный",
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00108399": {
+    "thickness": 9.5,
+    "color": "Серый, черный",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108397": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003519": {
+    "thickness": 9.5,
+    "color": "Серый, черный",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-00-00003254": {
+    "thickness": 9.5,
+    "color": "Серый, зеленый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
+  },
+  "azori-00-00003246": {
+    "thickness": 9.5,
+    "color": "Синий",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003240": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003244": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003242": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003250": {
+    "thickness": 9.5,
+    "color": "Белый, серый, синий, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003248": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003221": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003223": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003447": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-00-00003161": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003145": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003151": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003149": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003153": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003147": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003445": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-00-00003171": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003177": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003173": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003175": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002211": {
+    "thickness": 9.5,
+    "color": "Серый, зеленый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002206": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.62
+  },
+  "azori-00-00002210": {
+    "thickness": 9.5,
+    "color": "Серый, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002213": {
+    "thickness": 9.5,
+    "color": "Серый, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002208": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.62
+  },
+  "azori-00-00002215": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002578": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-589002002": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-589002001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-589002003": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587433005": {
+    "thickness": 6.0,
+    "color": "Бежевый",
+    "pieces_per_box": 11,
+    "sqm_per_box": 1.59
+  },
+  "azori-509001201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002362": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509001101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-847913101": {
+    "thickness": 10.0,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-587121002": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-587131002": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-587122003": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587132003": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587122002": {
+    "color": "Белый, серый",
+    "pieces_per_box": 7
+  },
+  "azori-587132002": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-507121201": {
+    "color": "Белый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.19
+  },
+  "azori-00-00002293": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002291": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507123001": {
+    "color": "Белый, серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507133001": {
+    "color": "Белый, голубой",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-588861001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-588871001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-588862001": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-588872001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-508861201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002361": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508871101": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003262": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508493001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-587742001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587742002": {
+    "thickness": 9.5,
+    "color": "Серый, коричневый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003228": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507271201": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00002986": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507743003": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-847743101": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-587152001": {
+    "color": "Белый",
+    "pieces_per_box": 7
+  },
+  "azori-707423009": {
+    "thickness": 6.0,
+    "color": "Черный",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002428": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507151101": {
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-00-00002427": {
+    "thickness": 9.5,
+    "color": "Серый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003065": {
+    "thickness": 9.5,
+    "color": "Синий, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509041202": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002418": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509501101": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002225": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509521101": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002451": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509531101": {
+    "thickness": 9.5,
+    "color": "Бежевый, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002385": {
+    "thickness": 9.8,
+    "color": "Зеленый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509541101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002386": {
+    "thickness": 9.8,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000160": {
+    "thickness": 10.0,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-00-00000157": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-587912002": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587912001": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-588143001": {
+    "thickness": 6.0,
+    "color": "Белый",
+    "pieces_per_box": 11,
+    "sqm_per_box": 1.59
+  },
+  "azori-507911201": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002290": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509491101": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003236": {
+    "thickness": 9.5,
+    "color": "Белый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509511201": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003381": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507913001": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-587433006": {
+    "thickness": 6.0,
+    "color": "Бежевый",
+    "pieces_per_box": 11,
+    "sqm_per_box": 1.59
+  },
+  "azori-588942002": {
+    "thickness": 9.5,
+    "color": "Бежевый, зеленый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.59
+  },
+  "azori-508941201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002111": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508951101": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108395": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508943001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-588912001": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587433004": {
+    "thickness": 6.0,
+    "color": "Серый",
+    "pieces_per_box": 11
+  },
+  "azori-588912003": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 3
+  },
+  "azori-508901201": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002113": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508911101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002131": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508921101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.39
+  },
+  "azori-00-00108534": {
+    "thickness": 10.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-848913101": {
+    "thickness": 10.0,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-00-00000612": {
+    "thickness": 9.5,
+    "color": "Серый, голубой",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000616": {
+    "thickness": 9.5,
+    "color": "Серый, коричневый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000541": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002985": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000546": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000543": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108535": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-588471002": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 36,
+    "sqm_per_box": 1.59
+  },
+  "azori-588471001": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-588472002": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-588472001": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-508791201": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002450": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508471101": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108476": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508481101": {
+    "thickness": 10.2,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508473001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-508483001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-588252001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-588212001": {
+    "thickness": 10.0,
+    "color": "Белый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 0.468
+  },
+  "azori-588232001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-508211201": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002136": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508221101": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002387": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508251101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002137": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508261101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108492": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508231101": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002135": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508241101": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508253001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-508233001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-848213101": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true
+  },
+  "azori-848233101": {
+    "thickness": 10.0,
+    "color": "Коричневый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-848253101": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-587762001": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002415": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002388": {
+    "thickness": 9.8,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507361101": {
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.19
+  },
+  "azori-00-00002389": {
+    "thickness": 9.8,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507371101": {
+    "thickness": 9.8,
+    "color": "Мультиколор",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002390": {
+    "thickness": 9.8,
+    "color": "Мультиколор",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507763002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-847763101": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-586562001": {
+    "color": "Серый",
+    "pieces_per_box": 7
+  },
+  "azori-586562002": {
+    "color": "Серый",
+    "pieces_per_box": 7
+  },
+  "azori-586552002": {
+    "thickness": 8.0,
+    "color": "Синий, золотой",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-506551201": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-506561101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-587992001": {
+    "thickness": 9.5,
+    "color": "Белый, бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587972001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-507971201": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508001101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507991101": {
+    "thickness": 9.5,
+    "color": "Белый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507981101": {
+    "thickness": 9.5,
+    "color": "Белый, бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507973003": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-585082001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-585072001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003227": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505081101": {
+    "thickness": 9.8,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505181101": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-505071101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505171101": {
+    "color": "Черный",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-508851101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508841101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505083002": {
+    "thickness": 9.5,
+    "color": "Синий",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-505073002": {
+    "thickness": 9.5,
+    "color": "Бордовый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-589032001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6
+  },
+  "azori-587433003": {
+    "thickness": 6.0,
+    "color": "Бежевый",
+    "pieces_per_box": 11
+  },
+  "azori-589032003": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 3
+  },
+  "azori-509021201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002133": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509031101": {
+    "thickness": 8.0,
+    "color": "Синий",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-509051101": {
+    "thickness": 8.0,
+    "color": "Зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-849033101": {
+    "thickness": 10.0,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-585742001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-707423005": {
+    "thickness": 6.0,
+    "color": "Фиолетовый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-587423006": {
+    "thickness": 6.0,
+    "color": "Бежевый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002982": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003056": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505721101": {
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-505711101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00003066": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-845743101": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-845723101": {
+    "thickness": 10.0,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-588462001": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-588462002": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-508531201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002983": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508541101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508551101": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508561101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508463001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-848463103": {
+    "thickness": 10.0,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true
+  },
+  "azori-589042002": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-589042001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-509041201": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002984": {
+    "thickness": 9.5,
+    "color": "Белый, бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509071101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509081101": {
+    "thickness": 9.8,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509073001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-509103001": {
+    "thickness": 7.0,
+    "color": "Голубой",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.44
+  },
+  "azori-509083001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-509113001": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-588881001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-588882002": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-588882001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-508881201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00002479": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-508891101": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508931101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.39
+  },
+  "azori-848893101": {
+    "thickness": 10.0,
+    "color": "Коричневый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-507291101": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-507301101": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-588801001": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 42
+  },
+  "azori-588802001": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 13
+  },
+  "azori-508801201": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108786": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 48,
+    "sqm_per_box": 1.62
+  },
+  "azori-508811101": {
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-848803101": {
+    "thickness": 10.0,
+    "color": "Белый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "azori-584191005": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-586432002": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-584191003": {
+    "thickness": 9.0,
+    "color": "Коричневый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-584191004": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-584192003": {
+    "thickness": 9.0,
+    "color": "Коричневый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-584192004": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108776": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.62
+  },
+  "azori-00-00108777": {
+    "thickness": 9.0,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-504121101": {
+    "color": "Белый, серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.19
+  },
+  "azori-504113002": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-504123002": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-587101002": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 14,
+    "sqm_per_box": 1.4
+  },
+  "azori-587112001": {
+    "color": "Черный",
+    "pieces_per_box": 7
+  },
+  "azori-587112002": {
+    "color": "Черный",
+    "pieces_per_box": 7
+  },
+  "azori-587423003": {
+    "thickness": 8.0,
+    "color": "Черный",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-507061201": {
+    "thickness": 8.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-507113002": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507103002": {
+    "thickness": 9.5,
+    "color": "Бирюзовый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-587072001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587082001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-587072002": {
+    "thickness": 6.0,
+    "color": "Серый",
+    "pieces_per_box": 1,
+    "sqm_per_box": 3.824
+  },
+  "azori-587092001": {
+    "color": "Белый, серый",
+    "pieces_per_box": 7
+  },
+  "azori-507071101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507081101": {
+    "thickness": 9.8,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507091101": {
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.25
+  },
+  "azori-507073002": {
+    "thickness": 9.5,
+    "color": "Бордовый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507083002": {
+    "thickness": 9.5,
+    "color": "Синий",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507093002": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-589452001": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-509441201": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108760": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.62
+  },
+  "azori-509451101": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108759": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509461101": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108758": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509481101": {
+    "thickness": 10.2,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509471101": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000702": {
+    "thickness": 9.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-509551201": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108791": {
+    "thickness": 9.0,
+    "color": "Белый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509561101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108792": {
+    "thickness": 9.0,
+    "color": "Зеленый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509571101": {
+    "thickness": 9.0,
+    "color": "Коричневый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00001247": {
+    "thickness": 9.0,
+    "color": "Бирюзовый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00001248": {
+    "thickness": 9.0,
+    "color": "Белый, бирюзовый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00001243": {
+    "thickness": 9.0,
+    "color": "Бирюзовый, зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108755": {
+    "thickness": 9.0,
+    "color": "Бирюзовый, зеленый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.62
+  },
+  "azori-00-00001241": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108754": {
+    "thickness": 9.0,
+    "color": "Белый, серый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.62
+  },
+  "azori-00-00001245": {
+    "thickness": 9.5,
+    "color": "Бирюзовый, зеленый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-00-00000701": {
+    "thickness": 9.0,
+    "color": "Белый, серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00000688": {
+    "thickness": 9.0,
+    "color": "Белый, серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00000690": {
+    "thickness": 9.0,
+    "color": "Белый, серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-587891001": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-587891002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-587901001": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-587901002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-587892001": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-587892002": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-587902001": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-587902002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-508061201": {
+    "thickness": 8.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-507891101": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-507901101": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-507893002": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507903002": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507893001": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-507903001": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-00-00108784": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505641101": {
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-00-00108785": {
+    "thickness": 9.0,
+    "color": "Синий",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-505613002": {
+    "thickness": 9.5,
+    "color": "Синий",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-505793002": {
+    "thickness": 9.5,
+    "color": "Мультиколор",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-505643002": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-588271003": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588272003": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-588281001": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588281002": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588271001": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588271002": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588301001": {
+    "thickness": 10.0,
+    "color": "Коричневый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 0.9
+  },
+  "azori-588301002": {
+    "thickness": 10.0,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.9
+  },
+  "azori-588291001": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588291002": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-588282002": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588272002": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588272001": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588302002": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588292002": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588282001": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588302001": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588292001": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-508271201": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508281101": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508311101": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508301101": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508331101": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508291101": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508321101": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-508283001": {
+    "thickness": 9.5,
+    "color": "Розовый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-508303001": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-508293001": {
+    "thickness": 9.5,
+    "color": "Голубой",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-506371101": {
+    "thickness": 9.8,
+    "color": "Мультиколор",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-506373001": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-506353002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-506531101": {
+    "thickness": 9.5,
+    "color": "Бежевый, зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-506533002": {
+    "thickness": 9.5,
+    "color": "Голубой",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-586382001": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 4
+  },
+  "azori-586382002": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 7
+  },
+  "azori-707423011": {
+    "thickness": 6.0,
+    "color": "Серый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-587423007": {
+    "thickness": 6.0,
+    "color": "Серый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-506381201": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.19
+  },
+  "azori-506391101": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-506393002": {
+    "thickness": 9.5,
+    "color": "Голубой",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-583241001": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 39,
+    "sqm_per_box": 1.59
+  },
+  "azori-583242005": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-503231201": {
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-503241101": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-503243003": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-583012011": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012012": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012013": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012014": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012019": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012020": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012021": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012022": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012002": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012004": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012003": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012001": {
+    "thickness": 8.0,
+    "color": "Мультиколор",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012023": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-583012024": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-503011201": {
+    "thickness": 8.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-585591001": {
+    "thickness": 9.0,
+    "color": "Мультиколор",
+    "pieces_per_box": 26,
+    "sqm_per_box": 1.59
+  },
+  "azori-585592001": {
+    "thickness": 9.0,
+    "color": "Мультиколор",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-503203003": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-503193003": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-587423009": {
+    "thickness": 6.0,
+    "color": "Черный",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-502203002": {
+    "thickness": 9.5,
+    "color": "Черный",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-589632001": {
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-589632002": {
+    "color": "Зеленый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509631201": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-509641101": {
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-509651101": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-509661101": {
+    "thickness": 9.0,
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-707423003": {
+    "thickness": 8.0,
+    "color": "Черный",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-587423008": {
+    "thickness": 6.0,
+    "color": "Зеленый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-503941201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-503961101": {
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-503963002": {
+    "thickness": 8.0,
+    "color": "Зеленый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-00-00002402": {
+    "thickness": 8.0,
+    "color": "Белый, серый, коричневый, фиолетовый",
+    "pieces_per_box": 40,
+    "sqm_per_box": 0.9
+  },
+  "azori-00-00002400": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 40,
+    "sqm_per_box": 0.9
+  },
+  "azori-00-00002397": {
+    "thickness": 8.0,
+    "color": "Зеленый",
+    "pieces_per_box": 40,
+    "sqm_per_box": 0.9
+  },
+  "azori-506263002": {
+    "thickness": 9.5,
+    "color": "Зеленый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-837441008": {
+    "color": "Металлический",
+    "pieces_per_box": 40,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441005": {
+    "color": "Металлический",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441006": {
+    "color": "Металлический",
+    "pieces_per_box": 40,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441007": {
+    "color": "Металлический",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441001": {
+    "color": "Металлический",
+    "pieces_per_box": 40,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441002": {
+    "color": "Металлический",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441003": {
+    "color": "Металлический",
+    "pieces_per_box": 40,
+    "sqm_per_box": 1.59
+  },
+  "azori-837441004": {
+    "color": "Металлический",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.59
+  },
+  "azori-807441001": {
+    "color": "Металлический",
+    "pieces_per_box": 40,
+    "sqm_per_box": 1.59
+  },
+  "azori-807441005": {
+    "color": "Металлический",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.59
+  },
+  "azori-807441002": {
+    "color": "Металлический",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.59
+  },
+  "azori-807441003": {
+    "color": "Металлический",
+    "pieces_per_box": 40,
+    "sqm_per_box": 1.59
+  },
+  "azori-588011002": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588011001": {
+    "thickness": 8.0,
+    "color": "Мультиколор",
+    "pieces_per_box": 39,
+    "sqm_per_box": 1.59
+  },
+  "azori-588012002": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588012003": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588012004": {
+    "thickness": 8.0,
+    "color": "Белый, зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-588012001": {
+    "thickness": 8.0,
+    "color": "Мультиколор",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-508011201": {
+    "thickness": 8.0,
+    "color": "Белый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-508031101": {
+    "thickness": 8.0,
+    "color": "Синий",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-508041101": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-508021101": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-508051101": {
+    "thickness": 8.0,
+    "color": "Зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.22
+  },
+  "azori-582302001": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-502301101": {
+    "thickness": 9.0,
+    "color": "Зеленый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-502291101": {
+    "thickness": 9.0,
+    "color": "Голубой",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-502293001": {
+    "thickness": 9.5,
+    "color": "Голубой",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-503013002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-583252001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-503251201": {
+    "color": "Бежевый",
+    "pieces_per_box": 14,
+    "sqm_per_box": 1.14
+  },
+  "azori-503203002": {
+    "thickness": 9.5,
+    "color": "Черный",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-582202004": {
+    "thickness": 8.0,
+    "color": "Белый, оранжевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583022004": {
+    "thickness": 8.8,
+    "color": "Мультиколор",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-503963001": {
+    "thickness": 8.0,
+    "color": "Зеленый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-503951101": {
+    "thickness": 9.8,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-502821201": {
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-502803002": {
+    "thickness": 9.0,
+    "color": "Коричневый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-504113001": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-504123001": {
+    "color": "Белый, серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-583471001": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 16,
+    "sqm_per_box": 1.59
+  },
+  "azori-583472001": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-503471101": {
+    "thickness": 10.2,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-503391101": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-507073001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507083001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507113001": {
+    "thickness": 9.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507093001": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507103001": {
+    "thickness": 7.0,
+    "color": "Голубой",
+    "pieces_per_box": 24,
+    "sqm_per_box": 1.44
+  },
+  "azori-585541001": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 65,
+    "sqm_per_box": 1.59
+  },
+  "azori-585541002": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 39,
+    "sqm_per_box": 1.59
+  },
+  "azori-585542001": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583311001": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 39,
+    "sqm_per_box": 1.59
+  },
+  "azori-583312002": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583312003": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583312004": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-583312001": {
+    "thickness": 9.0,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.59
+  },
+  "azori-503301201": {
+    "thickness": 8.8,
+    "color": "Белый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-503311101": {
+    "thickness": 9.0,
+    "color": "Розовый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-503313001": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-504131101": {
+    "color": "Белый, голубой",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.19
+  },
+  "azori-504143001": {
+    "thickness": 6.0,
+    "color": "Белый",
+    "pieces_per_box": 11,
+    "sqm_per_box": 1.59
+  },
+  "azori-506533001": {
+    "thickness": 8.0,
+    "color": "Голубой",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-586542001": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-506541101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-506393001": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-503181101": {
+    "color": "Белый, бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-503191101": {
+    "color": "Серый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.02
+  },
+  "azori-505621101": {
+    "thickness": 9.0,
+    "color": "Фиолетовый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-505793001": {
+    "thickness": 8.0,
+    "color": "Мультиколор",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-505613001": {
+    "color": "Голубой",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-503361101": {
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.19
+  },
+  "azori-503363001": {
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-502603001": {
+    "thickness": 8.0,
+    "color": "Зеленый",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-583972001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-583972002": {
+    "thickness": 8.0,
+    "color": "Серый, голубой",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-503991101": {
+    "thickness": 9.5,
+    "color": "Белый, коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-582551001": {
+    "thickness": 8.0,
+    "color": "Синий",
+    "pieces_per_box": 65,
+    "sqm_per_box": 1.59
+  },
+  "azori-582551004": {
+    "thickness": 8.0,
+    "color": "Синий, золотой",
+    "pieces_per_box": 65,
+    "sqm_per_box": 1.59
+  },
+  "azori-582551002": {
+    "thickness": 8.0,
+    "color": "Синий",
+    "pieces_per_box": 39,
+    "sqm_per_box": 1.59
+  },
+  "azori-582552002": {
+    "thickness": 8.0,
+    "color": "Синий, золотой",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-502531201": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-582541001": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 65,
+    "sqm_per_box": 1.59
+  },
+  "azori-582541002": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 39,
+    "sqm_per_box": 1.59
+  },
+  "azori-582542001": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-502541101": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-581221101": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-581221201": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-582901002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 42,
+    "sqm_per_box": 1.59
+  },
+  "azori-582902001": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-582902002": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 13,
+    "sqm_per_box": 1.59
+  },
+  "azori-502901201": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-502891101": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-502911101": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-502913002": {
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-501342111": {
+    "thickness": 8.0,
+    "color": "Оранжевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.69
+  },
+  "azori-587122001": {
+    "color": "Белый, серый",
+    "pieces_per_box": 7
+  },
+  "azori-587132001": {
+    "color": "Белый, голубой",
+    "pieces_per_box": 7
+  },
+  "azori-586572001": {
+    "color": "Коричневый",
+    "pieces_per_box": 7
+  },
+  "azori-586572002": {
+    "color": "Коричневый",
+    "pieces_per_box": 7
+  },
+  "azori-506571101": {
+    "thickness": 9.0,
+    "color": "Коричневый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-506563001": {
+    "thickness": 8.0,
+    "color": "Голубой",
+    "pieces_per_box": 12,
+    "sqm_per_box": 1.33
+  },
+  "azori-506573001": {
+    "color": "Коричневый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-587232001": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 6,
+    "sqm_per_box": 1.59
+  },
+  "azori-507211201": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507231101": {
+    "thickness": 9.5,
+    "color": "Коричневый",
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
+  },
+  "azori-507143001": {
+    "thickness": 6.0,
+    "color": "Белый",
+    "pieces_per_box": 11,
+    "sqm_per_box": 1.59
+  },
+  "azori-505083001": {
+    "thickness": 9.5,
+    "color": "Серый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-505073001": {
+    "thickness": 9.5,
+    "color": "Бежевый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-585802001": {
+    "thickness": 9.0,
+    "color": "Белый",
+    "pieces_per_box": 13
+  },
+  "azori-707423006": {
+    "thickness": 6.0,
+    "color": "Бежевый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-587423004": {
+    "thickness": 6.0,
+    "color": "Розовый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-707423007": {
+    "thickness": 6.0,
+    "color": "Серый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-587423005": {
+    "thickness": 6.0,
+    "color": "Фиолетовый",
+    "pieces_per_box": 22,
+    "sqm_per_box": 1.59
+  },
+  "azori-505901101": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-505891101": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-505913001": {
+    "thickness": 9.5,
+    "color": "Белый",
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
+  },
+  "azori-507241201": {
+    "color": "Бежевый",
+    "pieces_per_box": 15,
+    "sqm_per_box": 1.52
+  },
+  "azori-00-00108564": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108566": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108572": {
+    "thickness": 8.5,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108578": {
+    "thickness": 8.5,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108576": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true
+  },
+  "azori-00-00108574": {
+    "thickness": 8.5,
+    "color": "Бежевый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108570": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108583": {
+    "thickness": 8.5,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108582": {
+    "thickness": 8.5,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108581": {
+    "thickness": 8.5,
+    "color": "Серый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108568": {
+    "thickness": 8.0,
+    "color": "Белый",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108580": {
+    "thickness": 8.5,
+    "color": "Белый, серый, золотой",
+    "pieces_per_box": 4,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108585": {
+    "thickness": 8.5,
+    "color": "Серый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108563": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true
+  },
+  "azori-00-00108565": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108571": {
+    "thickness": 8.5,
+    "color": "Бежевый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108577": {
+    "thickness": 8.5,
+    "color": "Бежевый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true
+  },
+  "azori-00-00108575": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108573": {
+    "thickness": 8.5,
+    "color": "Бежевый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108569": {
+    "thickness": 8.5,
+    "color": "Белый, серый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108567": {
+    "thickness": 8.5,
+    "color": "Белый",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44
+  },
+  "azori-00-00108579": {
+    "thickness": 8.5,
+    "color": "Белый, серый, золотой",
+    "pieces_per_box": 2,
+    "sqm_per_box": 1.44,
+    "frost_resistant": true
+  }
+}
