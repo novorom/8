@@ -11528,13 +11528,18 @@ export const importedProducts: any[] = [
     "collection": "САЛЬВАДОР",
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
-    "color": "Микс",
+    "color": "Бежевый",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/iblock/b55/vr4jyont9a77n1jhbf8mvf5shz9o62yc.jpg",
+    "images": [
+      "https://plitburg.ru/upload/iblock/b55/vr4jyont9a77n1jhbf8mvf5shz9o62yc.jpg"
+    ],
     "description": "Плитка 31,5*63 SALVADOR CREMA 87,71кв.м 1с — керамическая плитка коллекции САЛЬВАДОР от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 SALVADOR CREMA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 8.0,
+    "pieces_per_box": 9,
+    "sqm_per_box": 1.79
   },
   {
     "id": "azori-00-00110062",
@@ -11888,10 +11893,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/cd8/a6qu7iardcql0tt2f2siwm6ng0t5wd59.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/cd8/a6qu7iardcql0tt2f2siwm6ng0t5wd59.webp"
+    ],
     "description": "Плитка 31,5*63 CARRARA  FLOWERS 52,47кв.м 1с — керамическая плитка коллекции Каррара от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CARRARA  FLOWERS 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109617",
@@ -11922,10 +11932,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/d97/z84qqkz8dx3z2vahl9obnyg5hc5l6aje.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/d97/z84qqkz8dx3z2vahl9obnyg5hc5l6aje.webp"
+    ],
     "description": "Плитка 31,5*63 CARRARA  GEOMETRIA 52,47кв.м 1с — керамическая плитка коллекции Каррара от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CARRARA  GEOMETRIA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109618",
@@ -11956,10 +11971,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/11b/8lc5tp1i5jhw9vp4o17soatdeijmzs20.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/11b/8lc5tp1i5jhw9vp4o17soatdeijmzs20.webp"
+    ],
     "description": "Плитка 31,5*63 CARRARA BIANCO 52,47кв.м 1с — керамическая плитка коллекции Каррара от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CARRARA BIANCO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109616",
@@ -11991,10 +12011,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1272,
     "price_official": 1590,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/16d/3pqombtgvya2mjsbw0ux224t5oa533to.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/16d/3pqombtgvya2mjsbw0ux224t5oa533to.webp"
+    ],
     "description": "Декор 31,5*63 SOREL MOSAICO 6 шт 1с — керамическая плитка коллекции Сорэл от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 SOREL MOSAICO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00108602",
@@ -12008,10 +12033,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/327/pmt0pu87lld7t591lrc9p13m4cn558hk.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/327/pmt0pu87lld7t591lrc9p13m4cn558hk.webp"
+    ],
     "description": "Плитка 31,5*63 SOREL 52,47кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 SOREL 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109558",
@@ -12042,10 +12072,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/d37/gtbbw0rtqqj9xi5l9gt8oxd1tm3z6mac.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/d37/gtbbw0rtqqj9xi5l9gt8oxd1tm3z6mac.webp"
+    ],
     "description": "Плитка 31,5*63 SOREL GREY 52,47кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 SOREL GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109637",
@@ -12076,10 +12111,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/2d8/pi76e4abt3le682c602zrikegvqcw47w.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/2d8/pi76e4abt3le682c602zrikegvqcw47w.webp"
+    ],
     "description": "Плитка 31,5*63 SOREL LIGHT 52,47кв.м 1с — керамическая плитка коллекции Сорэл от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 SOREL LIGHT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109638",
@@ -12110,10 +12150,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1272,
     "price_official": 1590,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/030/9kau89xtuo5x3940vvachfkyy1jg45up.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/030/9kau89xtuo5x3940vvachfkyy1jg45up.webp"
+    ],
     "description": "Декор 31,5*63 CALACATTA OPACO 6 шт 1с — керамическая плитка коллекции Калакатта Опако от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 CALACATTA OPACO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 1,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00108672",
@@ -12127,10 +12172,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/e44/k8f3qrj9sxkiy9yivn7erptqq38smldf.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/e44/k8f3qrj9sxkiy9yivn7erptqq38smldf.webp"
+    ],
     "description": "Плитка 31,5*63 CALACATTA OPACO 52,47кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109614",
@@ -12161,10 +12211,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/082/p950qdasmbt9mqn3ja9u549x1f8zgq4r.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/082/p950qdasmbt9mqn3ja9u549x1f8zgq4r.webp"
+    ],
     "description": "Плитка 31,5*63 CALACATTA OPACO DIAMOND 52,47кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO DIAMOND 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109615",
@@ -12195,10 +12250,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1192,
     "price_official": 1490,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/842/dy9adswd876pisf5ogl1h415jc3vd7uq.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/842/dy9adswd876pisf5ogl1h415jc3vd7uq.webp"
+    ],
     "description": "Плитка 31,5*63 URBAN 52,47кв.м 1с — керамическая плитка коллекции Урбан от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 URBAN 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00109557",
@@ -12229,10 +12289,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/77b/lewyjhctrb5ot7pl5l9j61go2g3l22ho.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/77b/lewyjhctrb5ot7pl5l9j61go2g3l22ho.webp"
+    ],
     "description": "Плитка 31,5*63 URBAN CREMA 52,47кв.м 1с — керамическая плитка коллекции Урбан от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 URBAN CREMA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109639",
@@ -12263,10 +12328,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f9e/flzyqlx7ivssh3vnsod2nj9jtuzcej5o.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f9e/flzyqlx7ivssh3vnsod2nj9jtuzcej5o.webp"
+    ],
     "description": "Плитка 31,5*63 URBAN DARK 52,47кв.м 1с — керамическая плитка коллекции Урбан от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 URBAN DARK 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00109640",
@@ -12298,10 +12368,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1072,
     "price_official": 1340,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/4b6/30fh9h6ep6378wwfyrs6fpb7zsd1sy3a.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/4b6/30fh9h6ep6378wwfyrs6fpb7zsd1sy3a.webp"
+    ],
     "description": "Декор 31,5*63 FORTEZZA 6 шт 1с — керамическая плитка коллекции Фортэцца от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 FORTEZZA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00108412",
@@ -12315,10 +12390,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/bc0/hssrfotgio701m8c6r1l3fhj89uig37j.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/bc0/hssrfotgio701m8c6r1l3fhj89uig37j.webp"
+    ],
     "description": "Плитка 31,5*63 FORTEZZA ERBA 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA ERBA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109632",
@@ -12349,10 +12429,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1192,
     "price_official": 1490,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/285/ocpa71kz9gdrn1ht43f04wfd3uwlo0m0.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/285/ocpa71kz9gdrn1ht43f04wfd3uwlo0m0.webp"
+    ],
     "description": "Плитка 31,5*63 FORTEZZA FOGLIA 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA FOGLIA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109470",
@@ -12384,10 +12469,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/953/i8ufe5nrbdakm1vpm846l4arxi1s5hgb.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/953/i8ufe5nrbdakm1vpm846l4arxi1s5hgb.webp"
+    ],
     "description": "Плитка 31,5*63 FORTEZZA GREY 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109633",
@@ -12418,10 +12508,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/91e/47vjem6pvyjtlk7k7ox37j7ircjc5fes.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/91e/47vjem6pvyjtlk7k7ox37j7ircjc5fes.webp"
+    ],
     "description": "Плитка 31,5*63 FORTEZZA LIGHT 52,47кв.м 1с — керамическая плитка коллекции Фортэцца от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 FORTEZZA LIGHT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109471",
@@ -12452,10 +12547,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1072,
     "price_official": 1340,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/615/w15tudcvg844dcaye16a9n042fcxwsnd.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/615/w15tudcvg844dcaye16a9n042fcxwsnd.webp"
+    ],
     "description": "Декор 31,5*63 ACATE 6 шт 1с — керамическая плитка коллекции Акате от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 ACATE 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00108401",
@@ -12469,10 +12569,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f85/prxme7pd2365e1vonesga0g6mk34mri0.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f85/prxme7pd2365e1vonesga0g6mk34mri0.webp"
+    ],
     "description": "Плитка 31,5*63 ACATE CASCADE 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ACATE CASCADE 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109538",
@@ -12503,10 +12608,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1192,
     "price_official": 1490,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/3fb/xd71plurlvkfnq0grzkhtwe2skmmgwv3.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/3fb/xd71plurlvkfnq0grzkhtwe2skmmgwv3.webp"
+    ],
     "description": "Плитка 31,5*63 ACATE FLORA 1 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ACATE FLORA 1 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00109603",
@@ -12537,10 +12647,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1192,
     "price_official": 1490,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f39/gxm5du8ni2tin360d6y4pio0khpkl3u7.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f39/gxm5du8ni2tin360d6y4pio0khpkl3u7.webp"
+    ],
     "description": "Плитка 31,5*63 ACATE FLORA 2 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ACATE FLORA 2 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00109604",
@@ -12571,10 +12686,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/5e4/wmw8cdaa0f8gppozhqmgdgt900wox4jk.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/5e4/wmw8cdaa0f8gppozhqmgdgt900wox4jk.webp"
+    ],
     "description": "Плитка 31,5*63 ACATE GREY 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ACATE GREY 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109509",
@@ -12606,10 +12726,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/116/rx09dxvxnq11zlh3ikglmsvdkx6ih9u7.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/116/rx09dxvxnq11zlh3ikglmsvdkx6ih9u7.webp"
+    ],
     "description": "Плитка 31,5*63 ACATE LIGHT 52,47кв.м 1с — керамическая плитка коллекции Акате от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ACATE LIGHT 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109510",
@@ -12641,10 +12766,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 919,
     "price_official": 1149,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/dd1/pbwyz1uuc12wn6o46w9qy7jdtp1dq1a6.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/dd1/pbwyz1uuc12wn6o46w9qy7jdtp1dq1a6.webp"
+    ],
     "description": "Плитка 42*42  ACATE GREY 63,96 кв.м 1с — керамическая плитка коллекции Акате от Азори. Формат 42х42 см. Купить Плитка 42*42  ACATE GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 7,
+    "sqm_per_box": 1.23
   },
   {
     "id": "azori-00-00003517",
@@ -13083,10 +13213,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1072,
     "price_official": 1340,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/iblock/b28/6i7p0zt1tfd6m11botshjboys1l44ddl.jpg",
+    "images": [
+      "https://plitburg.ru/upload/iblock/b28/6i7p0zt1tfd6m11botshjboys1l44ddl.jpg"
+    ],
     "description": "Декор 31,5*63 BRICKS 6 шт 1с — керамическая плитка коллекции Брикс от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 BRICKS 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 6,
+    "sqm_per_box": 0.0
   },
   {
     "id": "azori-00-00003246",
@@ -13100,10 +13235,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/iblock/283/32xv7etvfm35349loxa61vizhakw2pun.jpg",
+    "images": [
+      "https://plitburg.ru/upload/iblock/283/32xv7etvfm35349loxa61vizhakw2pun.jpg"
+    ],
     "description": "Плитка 31,5*63 BRICKS AZUL  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 BRICKS AZUL  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109540",
@@ -13136,10 +13276,15 @@ export const importedProducts: any[] = [
     "price_retail": 1112,
     "price_official": 1390,
     "stock_yanino": 51.87,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/588/aa8xt2m6ts75ua58s9g617asoxmld0yx.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/588/aa8xt2m6ts75ua58s9g617asoxmld0yx.webp"
+    ],
     "description": "Плитка 31,5*63 BRICKS BEIGE   52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 BRICKS BEIGE   52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109497",
@@ -13171,10 +13316,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/0de/r1xupdrk1ra9ds2mlc8wwl8vbq731an1.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/0de/r1xupdrk1ra9ds2mlc8wwl8vbq731an1.webp"
+    ],
     "description": "Плитка 31,5*63 BRICKS GREEN  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 BRICKS GREEN  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109498",
@@ -13206,10 +13356,15 @@ export const importedProducts: any[] = [
     "color": "Микс",
     "price_retail": 1112,
     "price_official": 1390,
-    "main_image": null,
-    "images": [],
+    "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/0e0/5ubx734x1hyqtmk0e0sfh5rs078vmzt4.webp",
+    "images": [
+      "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/0e0/5ubx734x1hyqtmk0e0sfh5rs078vmzt4.webp"
+    ],
     "description": "Плитка 31,5*63 BRICKS GRIS  52,47кв.м 1с — керамическая плитка коллекции Брикс от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 BRICKS GRIS  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "thickness": 9.5,
+    "pieces_per_box": 8,
+    "sqm_per_box": 1.59
   },
   {
     "id": "azori-00-00109499",

@@ -306,7 +306,8 @@ def _apply_char(result: dict, char_name: str, char_value: str):
         val = val.strip().capitalize()
 
     if val is not None:
-        result["chars"][field] = val
+        if field not in result["chars"]:
+            result["chars"][field] = val
 
 
 # ─── Загрузка sitemap ─────────────────────────────────────────────────────────
@@ -457,12 +458,33 @@ def match_products_to_urls(products: list, sitemap_urls: list, target_brands: li
         best_score = 0
 
         for url, url_flat in url_norms:
+            matched_by_sku = False
             for sv in sku_variants:
+                # Более строгий поиск SKU в URL:
+                # В оригинальном URL SKU обычно разделено подчеркиваниями (00_00110060)
+                # или стоит обособленно. Ищем `sv` в `url_flat` но с проверкой:
                 if sv in url_flat:
-                    best_url = url
-                    best_score = 1.0
-                    break
-            if best_score == 1.0:
+                    # Чтобы избежать ложных срабатываний (например '110060' внутри '0401110060010751'),
+                    # проверяем в оригинальном URL с помощью регулярок
+                    
+                    # Пытаемся найти оригинальный формат в URL
+                    if sv in url.lower():
+                        matched_by_sku = True
+                        break
+                    
+                    # Если sv это числа, ищем их как отдельное число в URL, разделенное спецсимволами
+                    if sv.isdigit():
+                         # Для Азори артикулы часто в начале с подчеркиваниями, например 00_00110060
+                         # Или просто числа разделенные _ или -
+                         if re.search(r'[-_/]' + re.escape(sv) + r'[-_/]', url.lower()) or \
+                            re.search(r'[-_/]00_00' + re.escape(sv[-6:]) + r'[-_/]', url.lower()) or \
+                            re.search(r'^' + re.escape(sv) + r'[-_/]', url.split('/')[-2].lower() if len(url.split('/'))>1 else ""):
+                             matched_by_sku = True
+                             break
+                             
+            if matched_by_sku:
+                best_url = url
+                best_score = 1.0
                 break
 
             for cw in coll_words[:2]:
@@ -471,6 +493,36 @@ def match_products_to_urls(products: list, sitemap_urls: list, target_brands: li
                         best_score = 0.6
                         best_url = url
                     break
+
+        if not best_url and sku_raw:
+            # Fallback to search
+            import urllib.request
+            import urllib.parse
+            import ssl
+            from bs4 import BeautifulSoup
+            
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            
+            q = urllib.parse.quote(sku_raw)
+            search_url = f"https://plitburg.ru/search/?q={q}"
+            try:
+                req = urllib.request.Request(search_url, headers=HEADERS)
+                resp = urllib.request.urlopen(req, context=ctx, timeout=10)
+                html = resp.read().decode("utf-8")
+                soup = BeautifulSoup(html, "html.parser")
+                links = soup.find_all("a", href=True)
+                for a in links:
+                    if "/catalog/plitka/" in a["href"]:
+                        # Проверяем, что в ссылке есть наш артикул (без учета регистра/спецсимволов)
+                        h = a["href"].lower()
+                        if any(sv in h.replace("-","").replace("_","") for sv in sku_variants if len(sv)>4):
+                            best_url = BASE_URL + a["href"].split('?')[0]
+                            print(f"    🔍 Найден через поиск: {best_url}")
+                            break
+            except Exception as e:
+                pass
 
         if best_url:
             progress[pid] = best_url
