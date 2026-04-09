@@ -88,6 +88,7 @@ interface InitialCollection {
   image: string
   product_count: number
   types: string[]
+  brands: string[]
 }
 
 interface CollectionsClientProps {
@@ -119,9 +120,10 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
     const types = [...new Set(collProducts.map((p) => p.product_type))]
     const colors = [...new Set(collProducts.map((p) => p.color).filter((c): c is string => !!c))]
     const surfaces = [...new Set(collProducts.map((p) => p.surface).filter((s): s is string => !!s))]
+    const brands = [...new Set(collProducts.map((p) => p.brand).filter((b): b is string => !!b))]
     const isNew = collProducts.some((p) => p.is_new)
     const isBestseller = collProducts.some((p) => p.is_bestseller)
-    return { ...c, types, colors, surfaces, isNew, isBestseller, realCount: collProducts.length }
+    return { ...c, types, colors, surfaces, brands, isNew, isBestseller, realCount: collProducts.length }
   })
 
   // При первой загрузке используем серверные данные, чтобы не было пустой страницы
@@ -129,6 +131,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
     ...c,
     colors: [] as string[],
     surfaces: [] as string[],
+    brands: c.brands || [],
     isNew: false,
     isBestseller: false,
     realCount: c.product_count,
@@ -139,12 +142,14 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
       ? initialCollectionsWithMeta
       : collectionsWithMeta
 
+  const allBrands = [...new Set(effectiveCollectionsWithMeta.flatMap((c) => c.brands))].filter(Boolean).sort()
   const allTypes = [...new Set(collectionsWithMeta.flatMap((c) => c.types))].sort()
   const allColors = filterOptions.colors
   const allDimensions = filterOptions.dimensions
   const allDesigns = filterOptions.designs
   const allSurfaceTypes = filterOptions.surface_types
 
+  const [selectedBrands, setSelectedBrands] = useState<string[]>([])
   const [selectedTypes, setSelectedTypes] = useState<string[]>([])
   const [selectedColors, setSelectedColors] = useState<string[]>([])
   const [selectedDimensions, setSelectedDimensions] = useState<string[]>([])
@@ -158,6 +163,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
   }
 
   const activeFilterCount =
+    selectedBrands.length +
     selectedTypes.length +
     selectedColors.length +
     selectedDimensions.length +
@@ -167,6 +173,9 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
   const filtered = useMemo(() => {
     let result = [...effectiveCollectionsWithMeta]
 
+    if (selectedBrands.length > 0) {
+      result = result.filter((c) => c.brands.some((b) => selectedBrands.includes(b)))
+    }
     if (selectedTypes.length > 0) {
       result = result.filter((c) => c.types.some((t) => selectedTypes.includes(t)))
     }
@@ -201,9 +210,10 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
     }
 
     return result
-  }, [selectedTypes, selectedColors, selectedDesigns, selectedSurfaceTypes, sortBy, effectiveCollectionsWithMeta])
+  }, [selectedBrands, selectedTypes, selectedColors, selectedDesigns, selectedSurfaceTypes, sortBy, effectiveCollectionsWithMeta])
 
   const clearFilters = () => {
+    setSelectedBrands([])
     setSelectedTypes([])
     setSelectedColors([])
     setSelectedDimensions([])
@@ -213,6 +223,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
 
   const filtersContent = (
     <div className="flex flex-col gap-2">
+      <FilterSection title="Бренд" options={allBrands} selected={selectedBrands} onToggle={toggleFilter(selectedBrands, setSelectedBrands)} defaultOpen />
       <FilterSection title="Тип плитки" options={allTypes} selected={selectedTypes} onToggle={toggleFilter(selectedTypes, setSelectedTypes)} defaultOpen />
       <FilterSection title="Цвет" options={allColors} selected={selectedColors} onToggle={toggleFilter(selectedColors, setSelectedColors)} />
       <FilterSection title="Размер" options={allDimensions} selected={selectedDimensions} onToggle={toggleFilter(selectedDimensions, setSelectedDimensions)} />
@@ -283,6 +294,7 @@ export function CollectionsClient({ initialCollections = [] }: CollectionsClient
         {activeFilterCount > 0 && (
           <div className="flex flex-wrap gap-2 mb-6">
             {[
+              ...selectedBrands.map((b) => ({ val: b, toggle: toggleFilter(selectedBrands, setSelectedBrands) })),
               ...selectedTypes.map((t) => ({ val: t, toggle: toggleFilter(selectedTypes, setSelectedTypes) })),
               ...selectedColors.map((c) => ({ val: c, toggle: toggleFilter(selectedColors, setSelectedColors) })),
               ...selectedDimensions.map((d) => ({ val: d, toggle: toggleFilter(selectedDimensions, setSelectedDimensions) })),

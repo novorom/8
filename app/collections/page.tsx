@@ -12,6 +12,7 @@ export default function CollectionsPage() {
     image: string
     product_count: number
     types: string[]
+    brands: string[]
   }> = {}
 
   for (const product of products) {
@@ -35,6 +36,7 @@ export default function CollectionsPage() {
           "",
         product_count: 0,
         types: [],
+        brands: [],
       }
     }
 
@@ -42,6 +44,10 @@ export default function CollectionsPage() {
 
     if (product.product_type && !collectionsMap[name].types.includes(product.product_type)) {
       collectionsMap[name].types.push(product.product_type)
+    }
+
+    if (product.brand && !collectionsMap[name].brands.includes(product.brand)) {
+      collectionsMap[name].brands.push(product.brand)
     }
 
     // Обновляем изображение если лучше

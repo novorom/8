@@ -21,7 +21,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher бежевый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/937/s5im6kpydswxuihp3rvzv6vpougj5u8d.jpg"
   },
   {
     "id": "cersanit-17775",
@@ -42,7 +46,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Asher от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Asher светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/937/s5im6kpydswxuihp3rvzv6vpougj5u8d.jpg"
   },
   {
     "id": "cersanit-17695",
@@ -63,7 +71,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 — керамогранит коллекции Pacific от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pacific бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/9b3/an8hn68jk116yzwp7nfxj15jddp6kus7.jpg"
   },
   {
     "id": "cersanit-17697",
@@ -84,7 +96,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/bd7/lhp6muj4ql1j0q9dn57nygbaja4cd3n4.jpg"
   },
   {
     "id": "cersanit-17781",
@@ -105,7 +121,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir темно-серый рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/bd7/lhp6muj4ql1j0q9dn57nygbaja4cd3n4.jpg"
   },
   {
     "id": "cersanit-17783",
@@ -126,7 +146,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 — керамогранит коллекции Pamir от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Pamir светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/bd7/lhp6muj4ql1j0q9dn57nygbaja4cd3n4.jpg"
   },
   {
     "id": "cersanit-17699",
@@ -147,7 +171,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Цвет: Бежевый. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke бежевый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/77f/mmohv4dy7x1hps68xczx9evbwxohxbcv.jpg"
   },
   {
     "id": "cersanit-17701",
@@ -168,7 +196,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 — керамогранит коллекции Sherbrooke от Cersanit. Размер 45x90 см. Купить Глаз. керамогранит Sherbrooke многоцветный рельеф ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/77f/mmohv4dy7x1hps68xczx9evbwxohxbcv.jpg"
   },
   {
     "id": "cersanit-17785",
@@ -189,7 +221,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Spark серый ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Spark серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/2de/fnw5mtocmpvy2xcpjqtlp1s95i1wjz4i.jpg"
   },
   {
     "id": "cersanit-17787",
@@ -210,7 +246,11 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Spark синий ректификат 44,8x89,8 — керамогранит коллекции Spark от Cersanit. Цвет: Синий. Размер 45x90 см. Купить Глаз. керамогранит Spark синий ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "thickness": 8.0,
+    "frost_resistant": true,
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/2de/fnw5mtocmpvy2xcpjqtlp1s95i1wjz4i.jpg"
   },
   {
     "id": "cersanit-17777",
@@ -231,7 +271,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Ultra серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/5h5p9d7gvg4sf55xziurxj7y2kgyfftu.jpg"
   },
   {
     "id": "cersanit-17779",
@@ -252,7 +293,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 — керамогранит коллекции Ultra от Cersanit. Цвет: Серый. Размер 45x90 см. Купить Глаз. керамогранит Ultra светло-серый ректификат 44,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 3,
     "sqm_per_box": 1.206,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/5h5p9d7gvg4sf55xziurxj7y2kgyfftu.jpg"
   },
   {
     "id": "cersanit-17894",
@@ -525,7 +567,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Формат 22х90 см. Купить Глаз. керамогранит Bonsai Tree бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.174,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/944/8pfsf4ni2fk6m2b4h4h5rh7e8sxosp43.jpg"
   },
   {
     "id": "cersanit-17944",
@@ -546,7 +589,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Бежевый. Формат 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-бежевый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.174,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/944/8pfsf4ni2fk6m2b4h4h5rh7e8sxosp43.jpg"
   },
   {
     "id": "cersanit-17946",
@@ -567,7 +611,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Формат 22х90 см. Купить Глаз. керамогранит Bonsai Tree песочный рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.174,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/944/8pfsf4ni2fk6m2b4h4h5rh7e8sxosp43.jpg"
   },
   {
     "id": "cersanit-17948",
@@ -588,7 +633,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 — керамогранит коллекции Bonsai Tree от Cersanit. Цвет: Серый. Формат 22х90 см. Купить Глаз. керамогранит Bonsai Tree светло-серый рельеф ректификат 21,8x89,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.174,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/944/8pfsf4ni2fk6m2b4h4h5rh7e8sxosp43.jpg"
   },
   {
     "id": "cersanit-17936",
@@ -672,7 +718,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Natural бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Бежевый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Natural бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/253/cgh40zy19yf5bkpnt6g9xsrdwrkxrcio.jpg"
   },
   {
     "id": "cersanit-15973",
@@ -693,7 +740,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Natural песочный ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Natural песочный ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/253/cgh40zy19yf5bkpnt6g9xsrdwrkxrcio.jpg"
   },
   {
     "id": "cersanit-15975",
@@ -714,7 +762,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Natural коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Natural коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/253/cgh40zy19yf5bkpnt6g9xsrdwrkxrcio.jpg"
   },
   {
     "id": "cersanit-15977",
@@ -735,7 +784,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Natural светло-бежевый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Бежевый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-бежевый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/253/cgh40zy19yf5bkpnt6g9xsrdwrkxrcio.jpg"
   },
   {
     "id": "cersanit-15985",
@@ -756,7 +806,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Natural темно-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/253/cgh40zy19yf5bkpnt6g9xsrdwrkxrcio.jpg"
   },
   {
     "id": "cersanit-15987",
@@ -777,7 +828,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 — керамогранит коллекции Natural от Cersanit. Цвет: Коричневый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Natural светло-коричневый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/253/cgh40zy19yf5bkpnt6g9xsrdwrkxrcio.jpg"
   },
   {
     "id": "cersanit-15979",
@@ -798,7 +850,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Prime серый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Серый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Prime серый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ce/syle1r2p1ncj25tniqd3aux4aurs1pl9.jpg"
   },
   {
     "id": "cersanit-15981",
@@ -819,7 +872,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Prime светло-серый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Серый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Prime светло-серый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ce/syle1r2p1ncj25tniqd3aux4aurs1pl9.jpg"
   },
   {
     "id": "cersanit-15989",
@@ -840,7 +894,8 @@ export const importedProducts: any[] = [
     "description": "Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 — керамогранит коллекции Prime от Cersanit. Цвет: Белый. Формат 22х90 см. Купить Глаз. керамогранит Wood Concept Prime белый ректификат 21,8x89,8 0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 6,
     "sqm_per_box": 1.17,
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ce/syle1r2p1ncj25tniqd3aux4aurs1pl9.jpg"
   },
   {
     "id": "cersanit-15983",

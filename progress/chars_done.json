@@ -3245,5 +3245,85 @@
     "pieces_per_box": 2,
     "sqm_per_box": 1.44,
     "frost_resistant": true
+  },
+  "cersanit-17773": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17775": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17695": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17697": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17781": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17783": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17699": {
+    "thickness": 8.0,
+    "color": "Бежевый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17701": {
+    "thickness": 8.0,
+    "color": "Коричневый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17785": {
+    "thickness": 8.0,
+    "color": "Серый",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
+  },
+  "cersanit-17787": {
+    "thickness": 8.0,
+    "color": "Синий",
+    "pieces_per_box": 3,
+    "sqm_per_box": 1.206,
+    "frost_resistant": true,
+    "wear_class": 4
   }
 }

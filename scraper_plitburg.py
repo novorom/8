@@ -658,10 +658,11 @@ def main():
     if args.brand:
         brands = [args.brand]
     else:
-        brands = ["Нефрит-Керамика", "Азори", "Уральский гранит", "Идальго",
-                  "Gracia Ceramica", "Dako", "Гранитея"]
+        # Автоматически берем все бренды из данных
+        brands = list(set(p["brand"] for p in products if p.get("brand")))
+        print(f"📡 Автоматически определено брендов: {len(brands)}")
 
-    print(f"🎯 Бренды: {', '.join(brands)}\n")
+    print(f"🎯 Бренды для обработки: {', '.join(brands)}\n")
 
     # Загружаем sitemap
     print("📡 Загружаем sitemap...")

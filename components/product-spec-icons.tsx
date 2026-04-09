@@ -8,9 +8,9 @@ interface ProductSpecIconsProps {
   surface?: string
   rectified?: boolean
   frostResistant?: boolean
-  wearClass?: string
-  slipClass?: string
-  waterAbs?: string
+  wearClass?: string | number
+  slipClass?: string | number
+  waterAbs?: string | number
 }
 
 const IconSurface = () => (
@@ -65,7 +65,7 @@ export function ProductSpecIcons({
 }: ProductSpecIconsProps) {
   const items: SpecItem[] = []
 
-  if (surface && surface.trim()) {
+  if (surface && typeof surface === "string" && surface.trim()) {
     const label =
       surface.includes("полир") ? "Полированная" :
       surface.includes("мат") ? "Матовая" :
@@ -78,11 +78,11 @@ export function ProductSpecIcons({
   }
   if (rectified) items.push({ key: "rectified", label: "Ректификат", icon: <IconRectified /> })
   if (frostResistant) items.push({ key: "frost", label: "Морозостойкость", icon: <IconFrost /> })
-  if (wearClass && wearClass.trim())
+  if (wearClass !== undefined && wearClass !== null && String(wearClass).trim())
     items.push({ key: "wear", label: `Износостойкость кл. ${wearClass}`, icon: <IconWear /> })
-  if (slipClass && slipClass.trim())
+  if (slipClass !== undefined && slipClass !== null && String(slipClass).trim())
     items.push({ key: "slip", label: `Антискольжение ${slipClass}`, icon: <IconSlip /> })
-  if (waterAbs && waterAbs.trim())
+  if (waterAbs !== undefined && waterAbs !== null && String(waterAbs).trim())
     items.push({ key: "water", label: "Низкое водопоглощение", icon: <IconWater /> })
 
   if (items.length === 0) return null
