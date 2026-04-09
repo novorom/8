@@ -11436,7 +11436,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 RIVER 87,71кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 RIVER 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/694/nu9nkhdo1bu9jzhcms0ddkdti2jwln8o.jpg"
   },
   {
     "id": "azori-00-00110096",
@@ -11453,7 +11454,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 RIVER DECOR 87,71кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 RIVER DECOR 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/694/nu9nkhdo1bu9jzhcms0ddkdti2jwln8o.jpg"
   },
   {
     "id": "azori-00-00110098",
@@ -11470,7 +11472,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 RIVER DEEP 87,71кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 RIVER DEEP 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/694/nu9nkhdo1bu9jzhcms0ddkdti2jwln8o.jpg"
   },
   {
     "id": "azori-00-00110099",
@@ -11487,7 +11490,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42 FOREST 63,96кв.м 1с — керамическая плитка коллекции РИВЕР от Азори. Формат 42х42 см. Купить Плитка 42*42 FOREST 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/694/nu9nkhdo1bu9jzhcms0ddkdti2jwln8o.jpg"
   },
   {
     "id": "azori-00-00110023",
@@ -12252,7 +12256,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 1,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1a3/50hwigdkxsltds94sw5hg4ta9vv0bza6.jpg"
   },
   {
     "id": "azori-00-00108672",
@@ -12274,7 +12279,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1a3/50hwigdkxsltds94sw5hg4ta9vv0bza6.jpg"
   },
   {
     "id": "azori-00-00109614",
@@ -12291,7 +12297,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 CALACATTA OPACO 87,71кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a3/50hwigdkxsltds94sw5hg4ta9vv0bza6.jpg"
   },
   {
     "id": "azori-00-00108674",
@@ -12313,7 +12320,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1a3/50hwigdkxsltds94sw5hg4ta9vv0bza6.jpg"
   },
   {
     "id": "azori-00-00109615",
@@ -12330,7 +12338,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 CALACATTA OPACO DIAMOND 87,71кв.м 1с — керамическая плитка коллекции Калакатта Опако от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 CALACATTA OPACO DIAMOND 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a3/50hwigdkxsltds94sw5hg4ta9vv0bza6.jpg"
   },
   {
     "id": "azori-00-00108595",
@@ -13630,7 +13639,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a60/xxsbzntchsv3xvprbellqepzwm988g9a.jpg"
   },
   {
     "id": "azori-00-00109554",
@@ -13648,7 +13658,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ROSSO VENATO 87,71кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ROSSO VENATO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a60/xxsbzntchsv3xvprbellqepzwm988g9a.jpg"
   },
   {
     "id": "azori-00-00003223",
@@ -13670,7 +13681,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a60/xxsbzntchsv3xvprbellqepzwm988g9a.jpg"
   },
   {
     "id": "azori-00-00109475",
@@ -13688,7 +13700,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ROSSO VENATO GEOMETRIA 87,71кв.м 1с — керамическая плитка коллекции Россо Венато от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ROSSO VENATO GEOMETRIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a60/xxsbzntchsv3xvprbellqepzwm988g9a.jpg"
   },
   {
     "id": "azori-00-00003447",
@@ -13711,7 +13724,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/a60/xxsbzntchsv3xvprbellqepzwm988g9a.jpg"
   },
   {
     "id": "azori-00-00003161",
@@ -13733,7 +13747,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003145",
@@ -13755,7 +13770,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00109523",
@@ -13772,7 +13788,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO  87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003151",
@@ -13794,7 +13811,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00109524",
@@ -13811,7 +13829,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO DIAMOND 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO DIAMOND 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003155",
@@ -13828,7 +13847,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO GEOMETRIA 52,47кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO GEOMETRIA 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00109525",
@@ -13845,7 +13865,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO GEOMETRIA 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO GEOMETRIA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003149",
@@ -13867,7 +13888,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00109527",
@@ -13884,7 +13906,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO GREY 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO GREY 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003153",
@@ -13906,7 +13929,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00109526",
@@ -13923,7 +13947,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO ORIGINALE 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO ORIGINALE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003147",
@@ -13945,7 +13970,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00109528",
@@ -13962,7 +13988,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 INCISIO SILVER 87,71кв.м 1с — керамическая плитка коллекции ИНЧИСИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 INCISIO SILVER 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003445",
@@ -13984,7 +14011,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/0cb/2828o1ilmgo5ikdx4caqy8wkk9aa6gkg.jpg"
   },
   {
     "id": "azori-00-00003171",
@@ -14449,7 +14477,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-589002001",
@@ -14471,7 +14500,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-589002003",
@@ -14493,7 +14523,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-587433005",
@@ -14515,7 +14546,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 11,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-509001201",
@@ -14537,7 +14569,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-00-00002362",
@@ -14559,7 +14592,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-00-00109605",
@@ -14576,7 +14610,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 APULIA ORO 87,71кв.м 1с — керамическая плитка коллекции АПУЛИА ОРО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 APULIA ORO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-509001101",
@@ -14598,7 +14633,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-847913101",
@@ -14623,7 +14659,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/6fb/4tg9jctd4gyez1lnadbb1kt65fs5al1h.jpg"
   },
   {
     "id": "azori-587121002",
@@ -14645,7 +14682,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587131002",
@@ -14667,7 +14705,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587122003",
@@ -14689,7 +14728,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587132003",
@@ -14711,7 +14751,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587122002",
@@ -14731,7 +14772,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 ASCOLI BEIGE GEOMETRIA 6 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 ASCOLI BEIGE GEOMETRIA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 589122002,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587132002",
@@ -14753,7 +14795,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587433001",
@@ -14770,7 +14813,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Мозаика 30*30 ASCOLI BEIGE MOSAIC 11 шт — мозаика коллекции АСКОЛИ от Азори. Формат 30х30 см. Купить Мозаика 30*30 ASCOLI BEIGE MOSAIC 11 шт в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587433002",
@@ -14787,7 +14831,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Мозаика 30*30 ASCOLI GREY MOSAIC 11 шт — мозаика коллекции АСКОЛИ от Азори. Формат 30х30 см. Купить Мозаика 30*30 ASCOLI GREY MOSAIC 11 шт в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-507121201",
@@ -14808,7 +14853,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 31,5*63 ASCOLI BEIGE 50,88кв.м 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ASCOLI BEIGE 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.19
+    "sqm_per_box": 1.19,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-00-00002293",
@@ -14830,7 +14876,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-507131201",
@@ -14847,7 +14894,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ASCOLI GREY 50,88кв.м 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ASCOLI GREY 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-00-00002291",
@@ -14869,7 +14917,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-507123001",
@@ -14890,7 +14939,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 42*42  ASCOLI BEIGE 63,96 кв.м 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 42х42 см. Купить Плитка 42*42  ASCOLI BEIGE 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-507133001",
@@ -14911,7 +14961,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 42*42  ASCOLI GREY 63,96 кв.м 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 42х42 см. Купить Плитка 42*42  ASCOLI GREY 63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-588861001",
@@ -14933,7 +14984,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-588871001",
@@ -14955,7 +15007,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-588862001",
@@ -14977,7 +15030,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-588872001",
@@ -14999,7 +15053,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-508861201",
@@ -15021,7 +15076,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-00-00002361",
@@ -15043,7 +15099,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-00-00109610",
@@ -15060,7 +15117,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ATLAS LIGHT  87,71кв.м 1с — керамическая плитка коллекции АТЛАС от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ATLAS LIGHT  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-508871101",
@@ -15082,7 +15140,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-00-00003262",
@@ -15104,7 +15163,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-00-00109609",
@@ -15121,7 +15181,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ATLAS DARK  87,71кв.м 1с — керамическая плитка коллекции АТЛАС от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ATLAS DARK  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-508493001",
@@ -15143,7 +15204,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/f2c/u0punbyv9r459gms9b73dizvjf5ptwe0.jpg"
   },
   {
     "id": "azori-587742001",
@@ -15773,7 +15835,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00002418",
@@ -15796,7 +15859,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00109516",
@@ -15814,7 +15878,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 DESERT 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 DESERT 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-509501101",
@@ -15836,7 +15901,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00002225",
@@ -15859,7 +15925,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00109621",
@@ -15876,7 +15943,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 DESERT OASIS 1 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 DESERT OASIS 1 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-509521101",
@@ -15898,7 +15966,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00002451",
@@ -15921,7 +15990,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00109622",
@@ -15938,7 +16008,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 DESERT OASIS 2 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 DESERT OASIS 2 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-509531101",
@@ -15961,7 +16032,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00002385",
@@ -15983,7 +16055,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00109544",
@@ -16001,7 +16074,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 DESERT STRUTTURA 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 DESERT STRUTTURA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-509541101",
@@ -16023,7 +16097,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00002386",
@@ -16045,7 +16120,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00109545",
@@ -16063,7 +16139,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 MAPLE STRUTTURA 87,71кв.м 1с — керамическая плитка коллекции ДЕЗЕРТ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 MAPLE STRUTTURA 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00000160",
@@ -16088,7 +16165,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-00-00000157",
@@ -16113,7 +16191,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/e7d/7lwdxb2ceab3vyqtteh4umdud187rg4d.jpg"
   },
   {
     "id": "azori-587912002",
@@ -16135,7 +16214,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-587912001",
@@ -16158,7 +16238,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-588143001",
@@ -16180,7 +16261,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 11,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-507911201",
@@ -16202,7 +16284,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-00-00002290",
@@ -16225,7 +16308,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-00-00109613",
@@ -16242,7 +16326,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63  CALACATTA ROYAL  87,71кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-509491101",
@@ -16264,7 +16349,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-00-00003236",
@@ -16286,7 +16372,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-00-00109612",
@@ -16303,7 +16390,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63  CALACATTA ROYAL  STYLE 87,71кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63  CALACATTA ROYAL  STYLE 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-509511201",
@@ -16325,7 +16413,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-00-00003381",
@@ -16347,7 +16436,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-00-00109805",
@@ -16364,7 +16454,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 WOOD HONEY  87,71кв.м 1с — керамическая плитка коллекции КАЛАКАТТА РОЯЛ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 WOOD HONEY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-507913001",
@@ -16386,7 +16477,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/eqktzw1lhqavp5kvkcg0e36jaf5fjubh.jpg"
   },
   {
     "id": "azori-587433006",
@@ -16884,7 +16976,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 3,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00000616",
@@ -16906,7 +16999,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 3,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00000541",
@@ -16928,7 +17022,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00002985",
@@ -16950,7 +17045,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00109553",
@@ -16967,7 +17063,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PALLADIO IVORY  87,71кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PALLADIO IVORY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00000546",
@@ -16989,7 +17086,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00109073",
@@ -17007,7 +17105,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PALLADIO DIAMOND 52,47кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PALLADIO DIAMOND 52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00000543",
@@ -17029,7 +17128,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00108535",
@@ -17051,7 +17151,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-00-00109712",
@@ -17069,7 +17170,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PALLADIO 87,71кв.м 1с — керамическая плитка коллекции ПАЛЛАДИО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PALLADIO 87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3e3/7nu6g2hii2yxm6lypo01vj09eedn5f94.jpg"
   },
   {
     "id": "azori-588471002",
@@ -17091,7 +17193,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 36,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-588471001",
@@ -17113,7 +17216,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-588472002",
@@ -17135,7 +17239,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-588472001",
@@ -17157,7 +17262,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-508791201",
@@ -17179,7 +17285,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-00-00002450",
@@ -17201,7 +17308,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-00-00109635",
@@ -17218,7 +17326,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ROMANICO CREMA  87,71кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ROMANICO CREMA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-508471101",
@@ -17240,7 +17349,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-00-00108476",
@@ -17262,7 +17372,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-00-00109634",
@@ -17279,7 +17390,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ROMANICO BEIGE  87,71кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ROMANICO BEIGE  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-508481101",
@@ -17301,7 +17413,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-00-00109636",
@@ -17318,7 +17431,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 ROMANICO NOCE  87,71кв.м 1с — керамическая плитка коллекции РОМАНИКО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 ROMANICO NOCE  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-508473001",
@@ -17341,7 +17455,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-508483001",
@@ -17363,7 +17478,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/394/w7gfrbyilxoyien28a5510nhnyheue32.jpg"
   },
   {
     "id": "azori-588252001",
@@ -17385,7 +17501,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-588212001",
@@ -17408,7 +17525,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 0.468
+    "sqm_per_box": 0.468,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-588232001",
@@ -17430,7 +17548,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508211201",
@@ -17452,7 +17571,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00002136",
@@ -17474,7 +17594,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109965",
@@ -17492,7 +17613,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE LIGHT  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109550",
@@ -17510,7 +17632,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE LIGHT  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508221101",
@@ -17533,7 +17656,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00002387",
@@ -17556,7 +17680,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109999",
@@ -17573,7 +17698,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE LIGHT MIX  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT MIX  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109551",
@@ -17590,7 +17716,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE LIGHT MIX  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE LIGHT MIX  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508251101",
@@ -17612,7 +17739,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00002137",
@@ -17634,7 +17762,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00110088",
@@ -17651,7 +17780,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE GREY  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109548",
@@ -17668,7 +17798,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE GREY  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508261101",
@@ -17690,7 +17821,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00108492",
@@ -17712,7 +17844,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109998",
@@ -17729,7 +17862,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE GREY MIX  59,07кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY MIX  59,07кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109549",
@@ -17746,7 +17880,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE GREY MIX  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE GREY MIX  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508231101",
@@ -17769,7 +17904,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00002135",
@@ -17792,7 +17928,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109552",
@@ -17809,7 +17946,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE MOCCA  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508241101",
@@ -17832,7 +17970,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-00-00109796",
@@ -17849,7 +17988,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 HYGGE MOCCA MIX  87,71кв.м 1с — керамическая плитка коллекции ХЬЮГГЕ от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 HYGGE MOCCA MIX  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508253001",
@@ -17871,7 +18011,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-508233001",
@@ -17894,7 +18035,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-848213101",
@@ -17917,7 +18059,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-848233101",
@@ -17941,7 +18084,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-848253101",
@@ -17965,7 +18109,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/075/96fsxvfleuvhe8kmc5xhd209cgad4tsl.jpg"
   },
   {
     "id": "azori-587762001",
@@ -18307,7 +18452,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 AURA ATLANTIC FLORIS 6 шт 1с — керамическая плитка коллекции АУРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 AURA ATLANTIC FLORIS 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-586562002",
@@ -18327,7 +18473,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 AURA ATLANTIC GEOMETRIA 6 шт 1с — керамическая плитка коллекции АУРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 AURA ATLANTIC GEOMETRIA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-586552001",
@@ -18344,7 +18491,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 31,5*63 AURA MARFIL FLORIS 6 шт 1с — керамическая плитка коллекции АУРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 AURA MARFIL FLORIS 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-586552002",
@@ -18366,7 +18514,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506551201",
@@ -18388,7 +18537,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506561101",
@@ -18410,7 +18560,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506563101",
@@ -18427,7 +18578,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42 AURA ATLANTIC 63,96кв.м 1с — керамическая плитка коллекции АУРА от Азори. Формат 42х42 см. Купить Плитка 42*42 AURA ATLANTIC 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506553002",
@@ -18444,7 +18596,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42 AURA MARFIL 63,96кв.м 1с — керамическая плитка коллекции ЭКВАДОР от Азори. Формат 42х42 см. Купить Плитка 42*42 AURA MARFIL 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-587992001",
@@ -18466,7 +18619,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-587972001",
@@ -18488,7 +18642,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-507971201",
@@ -18510,7 +18665,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-508001101",
@@ -18532,7 +18688,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-507991101",
@@ -18554,7 +18711,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-507981101",
@@ -18576,7 +18734,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-507973003",
@@ -18598,7 +18757,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/829/t9p9wjm43sochhxlnpngq8xfrhfr6s76.jpg"
   },
   {
     "id": "azori-585081001",
@@ -18615,7 +18775,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7.5 MALLORCA BEIGE FLORIS 16 шт 1с — керамическая плитка коллекции МАЙОРКА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7.5 MALLORCA BEIGE FLORIS 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-585071001",
@@ -18632,7 +18793,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7.5 MALLORCA GREY FLORIS 16 шт 1с — керамическая плитка коллекции МАЙОРКА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7.5 MALLORCA GREY FLORIS 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-585082001",
@@ -18654,7 +18816,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-585072001",
@@ -18676,7 +18839,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505161201",
@@ -18693,7 +18857,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 MALLORCA BIANCO  50,88кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 MALLORCA BIANCO  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-00-00003227",
@@ -18715,7 +18880,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505081101",
@@ -18737,7 +18903,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505181101",
@@ -18758,7 +18925,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 31,5*63 MALLORCA BEIGE FLORIS  44,48кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 MALLORCA BEIGE FLORIS  44,48кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505071101",
@@ -18780,7 +18948,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505171101",
@@ -18801,7 +18970,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 31,5*63 MALLORCA GREY FLORIS 44,48кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 MALLORCA GREY FLORIS 44,48кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-508851101",
@@ -18823,7 +18993,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-508841101",
@@ -18845,7 +19016,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-00-00109534",
@@ -18862,7 +19034,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 MALLORCA MONO GREY  87,71кв.м 1с — керамическая плитка коллекции МАЙОРКА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 MALLORCA MONO GREY  87,71кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505083002",
@@ -18884,7 +19057,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505073002",
@@ -18906,7 +19080,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-589032001",
@@ -19107,7 +19282,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7,5 PANDORA CREMA ORIENT 16 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7,5 PANDORA CREMA ORIENT 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585701001",
@@ -19124,7 +19300,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7,5 PANDORA LIGHT ORIENT 16 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7,5 PANDORA LIGHT ORIENT 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585752001",
@@ -19141,7 +19318,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 31,5*63 PANDORA CREMA ORIENT 6 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 PANDORA CREMA ORIENT 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585702001",
@@ -19158,7 +19336,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 31,5*63 PANDORA LIGHT ORIENT 6 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 PANDORA LIGHT ORIENT 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585711002",
@@ -19175,7 +19354,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7,5 PANDORA GREY GEOMETRY 13 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7,5 PANDORA GREY GEOMETRY 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585741002",
@@ -19192,7 +19372,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7,5 PANDORA LATTE GEOMETRY 13 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7,5 PANDORA LATTE GEOMETRY 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585711001",
@@ -19209,7 +19390,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7.5 PANDORA GREY CHARM 16 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7.5 PANDORA GREY CHARM 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585741001",
@@ -19226,7 +19408,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7.5 PANDORA LATTE CHARM 16 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 63х7,5 см. Купить Бордюр 63*7.5 PANDORA LATTE CHARM 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585712001",
@@ -19243,7 +19426,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 31,5*63 PANDORA GREY CHARM 6 шт 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 PANDORA GREY CHARM 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-585742001",
@@ -19265,7 +19449,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-707423005",
@@ -19287,7 +19472,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-587423006",
@@ -19309,7 +19495,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505751201",
@@ -19326,7 +19513,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA CREMA  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA CREMA  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-00-00002982",
@@ -19348,7 +19536,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505701201",
@@ -19365,7 +19554,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA LIGHT  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA LIGHT  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-00-00003056",
@@ -19387,7 +19577,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505721101",
@@ -19408,7 +19599,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 31,5*63 PANDORA GRAFITE  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA GRAFITE  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505771101",
@@ -19425,7 +19617,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA GRAFITE ORNAMENT 50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA GRAFITE ORNAMENT 50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505711101",
@@ -19447,7 +19640,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505731101",
@@ -19464,7 +19658,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA GREY ORNAMENT  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA GREY ORNAMENT  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505741101",
@@ -19481,7 +19676,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA LATTE  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA LATTE  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-00-00108919",
@@ -19498,7 +19694,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA LATTE  52,47кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA LATTE  52,47кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505761101",
@@ -19515,7 +19712,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 PANDORA LATTE ORNAMENT  50,88кв.м 1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 PANDORA LATTE ORNAMENT  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-00-00003066",
@@ -19537,7 +19735,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505723002",
@@ -19554,7 +19753,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42 PANDORA GRAFITE 63,96кв.м  1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 42х42 см. Купить Плитка 42*42 PANDORA GRAFITE 63,96кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505743002",
@@ -19571,7 +19771,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42 PANDORA LATTE 63,96кв.м  1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 42х42 см. Купить Плитка 42*42 PANDORA LATTE 63,96кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-845743101",
@@ -19595,7 +19796,8 @@ export const importedProducts: any[] = [
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
     "frost_resistant": true,
-    "wear_class": 4
+    "wear_class": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-845723101",
@@ -19617,7 +19819,8 @@ export const importedProducts: any[] = [
     "pieces_per_box": 46,
     "usage": "floor",
     "thickness": 10.0,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-588462001",
@@ -19639,7 +19842,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-588462002",
@@ -19661,7 +19865,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-508531201",
@@ -19683,7 +19888,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-00-00002983",
@@ -19705,7 +19911,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-508541101",
@@ -19727,7 +19934,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-508551101",
@@ -19749,7 +19957,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-508561101",
@@ -19771,7 +19980,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-508463001",
@@ -19793,7 +20003,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-848463103",
@@ -19816,7 +20027,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/322/wgwqvluqbr25ipcofmk8ld7kuqw6sey9.jpg"
   },
   {
     "id": "azori-589042002",
@@ -20058,7 +20270,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-588882002",
@@ -20080,7 +20293,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-588882001",
@@ -20102,7 +20316,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-508881201",
@@ -20124,7 +20339,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-00-00002479",
@@ -20146,7 +20362,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-508891101",
@@ -20168,7 +20385,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-508931101",
@@ -20190,7 +20408,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.39
+    "sqm_per_box": 1.39,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-848893101",
@@ -20214,7 +20433,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/cd0/btnkl4gv3xn58w4h5fm5exu6zspgx6w3.jpg"
   },
   {
     "id": "azori-507281201",
@@ -20231,7 +20451,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 EQUADORE   50,88кв.м 1с — керамическая плитка коллекции ЭКВАДОР от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 EQUADORE   50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "azori-507291101",
@@ -20253,7 +20474,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "azori-507301101",
@@ -20275,7 +20497,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "azori-00-00108712",
@@ -20702,7 +20925,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 CASTLE 13 шт 1с — керамическая плитка коллекции КАСЛ от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 CASTLE 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d29/dn1ztj1x19ve19dpctf30vg3g2ssa0kk.jpg"
   },
   {
     "id": "azori-00-00110185",
@@ -20719,7 +20943,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 CASTLE BEIGE 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE BEIGE 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d29/dn1ztj1x19ve19dpctf30vg3g2ssa0kk.jpg"
   },
   {
     "id": "azori-00-00110184",
@@ -20736,7 +20961,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 CASTLE MARFIL 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE MARFIL 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d29/dn1ztj1x19ve19dpctf30vg3g2ssa0kk.jpg"
   },
   {
     "id": "azori-00-00110186",
@@ -20753,7 +20979,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 CASTLE ORNAMENT 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE ORNAMENT 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d29/dn1ztj1x19ve19dpctf30vg3g2ssa0kk.jpg"
   },
   {
     "id": "azori-00-00110421",
@@ -20770,7 +20997,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 CASTLE WOOD 77,76 кв.м 1с — керамическая плитка коллекции КАСЛ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 CASTLE WOOD 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d29/dn1ztj1x19ve19dpctf30vg3g2ssa0kk.jpg"
   },
   {
     "id": "azori-588801001",
@@ -20791,7 +21019,8 @@ export const importedProducts: any[] = [
     "description": "Бордюр 50,5*6,2 ALPI CARPET 42 шт 1с — керамическая плитка коллекции АЛПИ от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 ALPI CARPET 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 36,
     "usage": "wall",
-    "thickness": 9.0
+    "thickness": 9.0,
+    "collection_image": "https://plitburg.ru/upload/iblock/01f/hcbazwso9ttkxp3xnvgp8h345299srhp.jpg"
   },
   {
     "id": "azori-588802001",
@@ -20812,7 +21041,8 @@ export const importedProducts: any[] = [
     "description": "Декор 20,1*50,5 ALPI CARPET 13 шт 1с — керамическая плитка коллекции АЛПИ от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 ALPI CARPET 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 36,
     "usage": "wall",
-    "thickness": 9.0
+    "thickness": 9.0,
+    "collection_image": "https://plitburg.ru/upload/iblock/01f/hcbazwso9ttkxp3xnvgp8h345299srhp.jpg"
   },
   {
     "id": "azori-508801201",
@@ -20834,7 +21064,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/01f/hcbazwso9ttkxp3xnvgp8h345299srhp.jpg"
   },
   {
     "id": "azori-00-00108786",
@@ -20856,7 +21087,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 48,
-    "sqm_per_box": 1.62
+    "sqm_per_box": 1.62,
+    "collection_image": "https://plitburg.ru/upload/iblock/01f/hcbazwso9ttkxp3xnvgp8h345299srhp.jpg"
   },
   {
     "id": "azori-508811101",
@@ -20877,7 +21109,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 ALPI GEOMETRIA 72,96 кв.м 1с — керамическая плитка коллекции АЛПИ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 ALPI GEOMETRIA 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/01f/hcbazwso9ttkxp3xnvgp8h345299srhp.jpg"
   },
   {
     "id": "azori-848803101",
@@ -20901,7 +21134,8 @@ export const importedProducts: any[] = [
     "thickness": 10.0,
     "pieces_per_box": 4,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/01f/hcbazwso9ttkxp3xnvgp8h345299srhp.jpg"
   },
   {
     "id": "azori-584191005",
@@ -21304,7 +21538,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 VELA BEIGE STELLA 42 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 VELA BEIGE STELLA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587111002",
@@ -21321,7 +21556,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 VELA NERO STELLA 42 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 VELA NERO STELLA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587101002",
@@ -21343,7 +21579,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 14,
-    "sqm_per_box": 1.4
+    "sqm_per_box": 1.4,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587062001",
@@ -21361,7 +21598,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 VELA BEIGE CONFETTI 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA BEIGE CONFETTI 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587112001",
@@ -21381,7 +21619,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 20,1*50,5 VELA NERO CONFETTI 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA NERO CONFETTI 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587102002",
@@ -21399,7 +21638,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 VELA TIFFANI CONFETTI 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA TIFFANI CONFETTI 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587062002",
@@ -21416,7 +21656,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 VELA BEIGE STELLA 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA BEIGE STELLA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587112002",
@@ -21436,7 +21677,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 20,1*50,5 VELA NERO STELLA 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA NERO STELLA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587102001",
@@ -21453,7 +21695,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 VELA TIFFANI STELLA 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA TIFFANI STELLA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-707423001",
@@ -21470,7 +21713,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Мозаика 30*30 VELA NERO XH156  22шт — мозаика коллекции ВЕЛА от Азори. Формат 30х30 см. Купить Мозаика 30*30 VELA NERO XH156  22шт в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587423003",
@@ -21492,7 +21736,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 8.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507061201",
@@ -21515,7 +21760,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-00-00109536",
@@ -21533,7 +21779,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 VELA BEIGE  77,76 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA BEIGE  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507111101",
@@ -21551,7 +21798,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 VELA NERO  72,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA NERO  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-00-00109537",
@@ -21568,7 +21816,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 VELA NERO  77,76 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA NERO  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507101101",
@@ -21585,7 +21834,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 VELA TIFFANI  72,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA TIFFANI  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-00-00109221",
@@ -21603,7 +21853,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 VELA TIFFANI  77,76 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA TIFFANI  77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507113002",
@@ -21625,7 +21876,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507103002",
@@ -21648,7 +21900,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587071002",
@@ -21665,7 +21918,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 VELA CARMIN STELLA 42 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 VELA CARMIN STELLA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587081002",
@@ -21682,7 +21936,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 VELA INDIGO STELLA 42 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 VELA INDIGO STELLA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587091002",
@@ -21699,7 +21954,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 VELA OCHRA STELLA 42 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 VELA OCHRA STELLA 42 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587072001",
@@ -21721,7 +21977,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587082001",
@@ -21743,7 +22000,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587092002",
@@ -21760,7 +22018,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 VELA OCHRA CONFETTI 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA OCHRA CONFETTI 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587072002",
@@ -21782,7 +22041,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 6.0,
     "pieces_per_box": 1,
-    "sqm_per_box": 3.824
+    "sqm_per_box": 3.824,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587082002",
@@ -21799,7 +22059,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 VELA INDIGO STELLA 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA INDIGO STELLA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-587092001",
@@ -21819,7 +22080,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 20,1*50,5 VELA OCHRA STELLA 13 шт 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 VELA OCHRA STELLA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507071101",
@@ -21841,7 +22103,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507081101",
@@ -21863,7 +22126,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507091101",
@@ -21885,7 +22149,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 VELA OCHRA  72,96 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 VELA OCHRA  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.25
+    "sqm_per_box": 1.25,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507073002",
@@ -21907,7 +22172,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507083002",
@@ -21929,7 +22195,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507093002",
@@ -21952,7 +22219,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-589452001",
@@ -22528,7 +22796,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0df/iee95ihnlz5679t3g547yhkzbgws3o6c.jpg"
   },
   {
     "id": "azori-00-00000688",
@@ -22550,7 +22819,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/0df/iee95ihnlz5679t3g547yhkzbgws3o6c.jpg"
   },
   {
     "id": "azori-00-00000690",
@@ -22572,7 +22842,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/0df/iee95ihnlz5679t3g547yhkzbgws3o6c.jpg"
   },
   {
     "id": "azori-587891001",
@@ -22594,7 +22865,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587891002",
@@ -22616,7 +22888,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587901001",
@@ -22638,7 +22911,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587901002",
@@ -22660,7 +22934,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587892001",
@@ -22682,7 +22957,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587892002",
@@ -22704,7 +22980,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587902001",
@@ -22726,7 +23003,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-587902002",
@@ -22748,7 +23026,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-508061201",
@@ -22770,7 +23049,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-507891101",
@@ -22792,7 +23072,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-507901101",
@@ -22814,7 +23095,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-507893002",
@@ -22836,7 +23118,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-507903002",
@@ -22858,7 +23141,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-507893001",
@@ -22880,7 +23164,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-507903001",
@@ -22902,7 +23187,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/dc4/e3lmy6ffvu06kflvos0jb9g2dp1bkn1e.jpg"
   },
   {
     "id": "azori-585601004",
@@ -23172,7 +23458,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588272003",
@@ -23194,7 +23481,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588281001",
@@ -23216,7 +23504,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588281002",
@@ -23238,7 +23527,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588271001",
@@ -23260,7 +23550,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588271002",
@@ -23282,7 +23573,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588301001",
@@ -23304,7 +23596,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.0,
     "pieces_per_box": 2,
-    "sqm_per_box": 0.9
+    "sqm_per_box": 0.9,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588301002",
@@ -23326,7 +23619,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.0,
     "pieces_per_box": 6,
-    "sqm_per_box": 0.9
+    "sqm_per_box": 0.9,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588291001",
@@ -23348,7 +23642,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588291002",
@@ -23370,7 +23665,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588282002",
@@ -23392,7 +23688,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588272002",
@@ -23414,7 +23711,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588272001",
@@ -23436,7 +23734,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588302002",
@@ -23458,7 +23757,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588292002",
@@ -23480,7 +23780,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588282001",
@@ -23502,7 +23803,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588302001",
@@ -23524,7 +23826,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-588292001",
@@ -23546,7 +23849,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508271201",
@@ -23568,7 +23872,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508281101",
@@ -23590,7 +23895,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508311101",
@@ -23612,7 +23918,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508301101",
@@ -23634,7 +23941,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-00-00109220",
@@ -23651,7 +23959,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 LOUNGE MINT 77,76 кв.м 1с — керамическая плитка коллекции ЛАУНЖ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 LOUNGE MINT 77,76 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508331101",
@@ -23673,7 +23982,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508291101",
@@ -23695,7 +24005,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508321101",
@@ -23717,7 +24028,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508283001",
@@ -23739,7 +24051,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508303001",
@@ -23761,7 +24074,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-508293001",
@@ -23783,7 +24097,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/aa1/meuy6vwom84z4fav9sow7e7b0u10eua0.jpg"
   },
   {
     "id": "azori-586371001",
@@ -23800,7 +24115,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 MACBETH MOCCA 39 шт 1с — керамическая плитка коллекции МАКБЕТ от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 MACBETH MOCCA 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-586372001",
@@ -23817,7 +24133,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 MACBETH MOCCA 13 шт 1с — керамическая плитка коллекции МАКБЕТ от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 MACBETH MOCCA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506341201",
@@ -23834,7 +24151,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 MACBETH LIGHT  72,96 кв.м 1с — керамическая плитка коллекции МАКБЕТ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 MACBETH LIGHT  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506351101",
@@ -23851,7 +24169,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 MACBETH GREY  72,96 кв.м 1с — керамическая плитка коллекции МАКБЕТ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 MACBETH GREY  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506591101",
@@ -23868,7 +24187,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 MACBETH MIX MOCCA  72,96 кв.м 1с — керамическая плитка коллекции МАКБЕТ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 MACBETH MIX MOCCA  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506371101",
@@ -23890,7 +24210,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.8,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506353001",
@@ -23907,7 +24228,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 MACBETH GREY 63,84 кв.м 1с — керамическая плитка коллекции МАКБЕТ от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 MACBETH GREY 63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506373001",
@@ -23929,7 +24251,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-506353002",
@@ -23951,7 +24274,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/c81/ub33odi5rojoql9j6kfmhiszv2732qmb.jpg"
   },
   {
     "id": "azori-586601001",
@@ -23968,7 +24292,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 NUVOLA SELENA 39 шт 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 NUVOLA SELENA 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-586602001",
@@ -23985,7 +24310,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 NUVOLA SELENA 13 шт 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 NUVOLA SELENA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-586602003",
@@ -24002,7 +24328,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 NUVOLA ORNAMENT 13 шт 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 NUVOLA ORNAMENT 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506601201",
@@ -24019,7 +24346,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 NUVOLA LIGHT 72,96 кв.м 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 NUVOLA LIGHT 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506531101",
@@ -24041,7 +24369,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506533002",
@@ -24063,7 +24392,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-586381001",
@@ -24080,7 +24410,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*3.5 RIVIERA DEW 65 шт 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 50,5х3,5 см. Купить Бордюр 50,5*3.5 RIVIERA DEW 65 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-586381002",
@@ -24097,7 +24428,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*3.5 RIVIERA FAVO 65 шт 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 50,5х3,5 см. Купить Бордюр 50,5*3.5 RIVIERA FAVO 65 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-586382001",
@@ -24117,7 +24449,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 20,1*50,5 RIVIERA DEW 13 шт 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 RIVIERA DEW 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 4
+    "pieces_per_box": 4,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-586382002",
@@ -24137,7 +24470,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 20,1*50,5 RIVIERA FAVO 13 шт 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 RIVIERA FAVO 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-707423011",
@@ -24159,7 +24493,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-587423007",
@@ -24181,7 +24516,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-506381201",
@@ -24202,7 +24538,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 RIVIERA LIGHT  72,96 кв.м 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 RIVIERA LIGHT  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.19
+    "sqm_per_box": 1.19,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-506401101",
@@ -24219,7 +24556,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 RIVIERA AMBRA  72,96 кв.м 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 RIVIERA AMBRA  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-506391101",
@@ -24240,7 +24578,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 RIVIERA MIST  72,96 кв.м 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 RIVIERA MIST  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-506393002",
@@ -24262,7 +24601,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-583241001",
@@ -24284,7 +24624,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 39,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583241002",
@@ -24301,7 +24642,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50.5*6.2 SFUMATO GREY PAISLEY 39 шт 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 50,5х6,2 см. Купить Бордюр 50.5*6.2 SFUMATO GREY PAISLEY 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583241003",
@@ -24318,7 +24660,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50.5*6.2 SFUMATO GREY VISTAS 39 шт 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 50,5х6,2 см. Купить Бордюр 50.5*6.2 SFUMATO GREY VISTAS 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583242004",
@@ -24335,7 +24678,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 SFUMATO GREY VISTAS 1 13 шт 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 SFUMATO GREY VISTAS 1 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583242005",
@@ -24357,7 +24701,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583242002",
@@ -24374,7 +24719,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Панно 40,2*50,5 SFUMATO GREY FLORET (2 шт) - 6 комл 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 40,2х50,5 см. Купить Панно 40,2*50,5 SFUMATO GREY FLORET (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583242001",
@@ -24391,7 +24737,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Панно 40,2*50,5 SFUMATO GREY PAISLEY (2 шт) - 6 комл 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 40,2х50,5 см. Купить Панно 40,2*50,5 SFUMATO GREY PAISLEY (2 шт) - 6 комл 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-503231201",
@@ -24412,7 +24759,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 SFUMATO LIGHT 72,96кв.м 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 SFUMATO LIGHT 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 15,
-    "sqm_per_box": 1.22
+    "sqm_per_box": 1.22,
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-503241101",
@@ -24434,7 +24782,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-503243003",
@@ -24456,7 +24805,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583012011",
@@ -25605,7 +25955,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 40,
-    "sqm_per_box": 0.9
+    "sqm_per_box": 0.9,
+    "collection_image": "https://plitburg.ru/upload/iblock/211/mows6ehu15xiccoyhhkatf1uzi8smd3x.jpg"
   },
   {
     "id": "azori-00-00002400",
@@ -25628,7 +25979,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 40,
-    "sqm_per_box": 0.9
+    "sqm_per_box": 0.9,
+    "collection_image": "https://plitburg.ru/upload/iblock/211/mows6ehu15xiccoyhhkatf1uzi8smd3x.jpg"
   },
   {
     "id": "azori-00-00002397",
@@ -25650,7 +26002,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 40,
-    "sqm_per_box": 0.9
+    "sqm_per_box": 0.9,
+    "collection_image": "https://plitburg.ru/upload/iblock/222/8xadj53j7yefq7xzw3sni9any3a0lu08.jpg"
   },
   {
     "id": "azori-00-00002395",
@@ -25667,7 +26020,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 15,0*15,0 MATE LIGHT 72кв.м 1с — керамическая плитка коллекции МАТЭ от Азори. Формат 15,0х15,0 см. Купить Плитка 15,0*15,0 MATE LIGHT 72кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/222/8xadj53j7yefq7xzw3sni9any3a0lu08.jpg"
   },
   {
     "id": "azori-00-00110330",
@@ -25997,7 +26351,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-588011001",
@@ -26019,7 +26374,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 39,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-588012002",
@@ -26041,7 +26397,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-588012003",
@@ -26063,7 +26420,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-588012004",
@@ -26085,7 +26443,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-588012001",
@@ -26107,7 +26466,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-508011201",
@@ -26129,7 +26489,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.22
+    "sqm_per_box": 1.22,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-508031101",
@@ -26151,7 +26512,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.22
+    "sqm_per_box": 1.22,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-508041101",
@@ -26173,7 +26535,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.22
+    "sqm_per_box": 1.22,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-508021101",
@@ -26195,7 +26558,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.22
+    "sqm_per_box": 1.22,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-508051101",
@@ -26217,7 +26581,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.22
+    "sqm_per_box": 1.22,
+    "collection_image": "https://plitburg.ru/upload/iblock/f9c/4i47jzsx3mxlss45xwlk3zatkaxpsu94.jpg"
   },
   {
     "id": "azori-582302005",
@@ -26234,7 +26599,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ВАЛЬКИРИЯ  цветы 2 13шт 1с — керамическая плитка коллекции ВАЛЬКИРИЯ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ВАЛЬКИРИЯ  цветы 2 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d7d/0t7k1pbst749hetu71i0w3wmjp0999h6.jpg"
   },
   {
     "id": "azori-582302001",
@@ -26256,7 +26622,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/d7d/0t7k1pbst749hetu71i0w3wmjp0999h6.jpg"
   },
   {
     "id": "azori-502301101",
@@ -26278,7 +26645,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/d7d/0t7k1pbst749hetu71i0w3wmjp0999h6.jpg"
   },
   {
     "id": "azori-502291101",
@@ -26300,7 +26668,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/d7d/0t7k1pbst749hetu71i0w3wmjp0999h6.jpg"
   },
   {
     "id": "azori-502293001",
@@ -26322,7 +26691,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/d7d/0t7k1pbst749hetu71i0w3wmjp0999h6.jpg"
   },
   {
     "id": "azori-503013002",
@@ -26630,7 +27000,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ЛОФТ Джус 13шт 1с — керамическая плитка коллекции ЛОФТ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ЛОФТ Джус 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-583022006",
@@ -26647,7 +27018,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ЛОФТ Дольче 13шт 1с — керамическая плитка коллекции ЛОФТ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ЛОФТ Дольче 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-583022005",
@@ -26664,7 +27036,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ЛОФТ Лайт 13шт 1с — керамическая плитка коллекции ЛОФТ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ЛОФТ Лайт 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-583022004",
@@ -26686,7 +27059,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.8,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-583022003",
@@ -26703,7 +27077,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ЛОФТ Мальва 13шт 1с — керамическая плитка коллекции ЛОФТ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ЛОФТ Мальва 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-583022002",
@@ -26720,7 +27095,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ЛОФТ Сплэш 13шт 1с — керамическая плитка коллекции ЛОФТ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ЛОФТ Сплэш 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-583022001",
@@ -26737,7 +27113,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*20,1 ЛОФТ Хот 13шт 1с — керамическая плитка коллекции ЛОФТ от Азори. Формат 20,1х40,5 см. Купить Декор 40,5*20,1 ЛОФТ Хот 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ea/z5mpmjmlz3vrz6blh338i7l4s32h1tyo.jpg"
   },
   {
     "id": "azori-503963001",
@@ -26840,7 +27217,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 AVELLANO LIGHT  72,96 кв.м 1с — керамическая плитка коллекции АВЕЛЛАНО ЛАЙТ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 AVELLANO LIGHT  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/584/vajyozyn70i0dolktj3zntjfuw1eqzs5.jpg"
   },
   {
     "id": "azori-502803002",
@@ -26862,7 +27240,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/584/vajyozyn70i0dolktj3zntjfuw1eqzs5.jpg"
   },
   {
     "id": "azori-502803003",
@@ -26879,7 +27258,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42  AVELLANO TABACCO  63,96 кв.м 1с — керамическая плитка коллекции АВЕЛЛАНО ЛАЙТ от Азори. Формат 42х42 см. Купить Плитка 42*42  AVELLANO TABACCO  63,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/584/vajyozyn70i0dolktj3zntjfuw1eqzs5.jpg"
   },
   {
     "id": "azori-586411001",
@@ -27116,7 +27496,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 16,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-583391001",
@@ -27133,7 +27514,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*6,2 AREZZO BLU ALBA 104 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Формат 20,1х6,2 см. Купить Бордюр 20,1*6,2 AREZZO BLU ALBA 104 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-583371003",
@@ -27150,7 +27532,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*8 AREZZO ALBA 78 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Формат 20,1х8 см. Купить Бордюр 20,1*8 AREZZO ALBA 78 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-583472001",
@@ -27172,7 +27555,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-583392001",
@@ -27189,7 +27573,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 AREZZO BLU ALBA 13 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 AREZZO BLU ALBA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-583372001",
@@ -27206,7 +27591,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 AREZZO LIGHT ALBA 13 шт 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 AREZZO LIGHT ALBA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-503471101",
@@ -27228,7 +27614,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 10.2,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-503391101",
@@ -27249,7 +27636,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 AREZZO BLUE  72,96 кв.м 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 AREZZO BLUE  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-503381101",
@@ -27266,7 +27654,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 AREZZO ROSO  72,96 кв.м 1с — керамическая плитка коллекции АРЕЦЦО от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 AREZZO ROSO  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/462/3p02x073as8vnqo3dkq2umlln9kt1hgx.jpg"
   },
   {
     "id": "azori-507073001",
@@ -27288,7 +27677,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507083001",
@@ -27310,7 +27700,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507113001",
@@ -27332,7 +27723,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507093001",
@@ -27353,7 +27745,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 33,3*33,3 VELA OCHRA  63,84 кв.м 1с — керамическая плитка коллекции ВЕЛА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 VELA OCHRA  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-507103001",
@@ -27375,7 +27768,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 7.0,
     "pieces_per_box": 24,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/295/m08fh3230bsjicrytz9ufpajbg5hwrwh.jpg"
   },
   {
     "id": "azori-585541001",
@@ -27397,7 +27791,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 65,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-585541002",
@@ -27419,7 +27814,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 39,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-585542001",
@@ -27441,7 +27837,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-585542002",
@@ -27458,7 +27855,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 HARMONIA WAVE 13 шт 1с — керамическая плитка коллекции ГАРМОНИЯ от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 HARMONIA WAVE 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-501222302",
@@ -27475,7 +27873,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 ОРИГАМИ МОККА 63,84 кв.м. 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 ОРИГАМИ МОККА 63,84 кв.м. 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-583311001",
@@ -27497,7 +27896,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 39,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-583312002",
@@ -27519,7 +27919,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-583312003",
@@ -27541,7 +27942,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-583312004",
@@ -27563,7 +27965,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-583312001",
@@ -27585,7 +27988,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 4,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-503301201",
@@ -27607,7 +28011,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.8,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-503311101",
@@ -27629,7 +28034,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-503313001",
@@ -27651,7 +28057,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/104/2uu2mq7qxpr8n2o3lh3kksi2pm3b6zwx.jpg"
   },
   {
     "id": "azori-584141003",
@@ -27668,7 +28075,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*6,2 NAVARRA BAROCCO 91 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х6,2 см. Купить Бордюр 20,1*6,2 NAVARRA BAROCCO 91 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-584151002",
@@ -27685,7 +28093,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*6,2 NAVARRA CREMA BAROCCO 2 91 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х6,2 см. Купить Бордюр 20,1*6,2 NAVARRA CREMA BAROCCO 2 91 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-584141002",
@@ -27702,7 +28111,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 NAVARRA BAROCCO 39 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 NAVARRA BAROCCO 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-584141001",
@@ -27719,7 +28129,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 NAVARRA CARMIN ARABESCO 39 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 NAVARRA CARMIN ARABESCO 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-584131001",
@@ -27736,7 +28147,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 NAVARRA INDIGO ARABESCO 39 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 NAVARRA INDIGO ARABESCO 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-584161001",
@@ -27753,7 +28165,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*6,2 NAVARRA MOCCA ARABESCO 39 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 50,5х6,2 см. Купить Бордюр 50,5*6,2 NAVARRA MOCCA ARABESCO 39 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-584142001",
@@ -27770,7 +28183,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 NAVARRA BAROCCO 13 шт 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 NAVARRA BAROCCO 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504151201",
@@ -27787,7 +28201,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 NAVARRA CREMA BAROCCO 72,96 кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 NAVARRA CREMA BAROCCO 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504201102",
@@ -27804,7 +28219,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка  20,1*50,5 NAVARRA CARMIN ARABESCO 72,96кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Плитка  20,1*50,5 NAVARRA CARMIN ARABESCO 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504141101",
@@ -27821,7 +28237,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 NAVARRA CARMIN 72,96 кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 NAVARRA CARMIN 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504131101",
@@ -27842,7 +28259,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 NAVARRA INDIGO 72,96 кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 NAVARRA INDIGO 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.19
+    "sqm_per_box": 1.19,
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504161101",
@@ -27859,7 +28277,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 NAVARRA MOCCA 72,96 кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 NAVARRA MOCCA 72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504221102",
@@ -27876,7 +28295,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 NAVARRA MOCCA ARABESCO 72,96кв.м 1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 NAVARRA MOCCA ARABESCO 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504143001",
@@ -27898,7 +28318,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 6.0,
     "pieces_per_box": 11,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-504163001",
@@ -27915,7 +28336,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 NAVARRA MOCCA 63,84кв.м  1с — керамическая плитка коллекции НАВАРРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 NAVARRA MOCCA 63,84кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/dcs3jc1g64ru0flt5j3brb9juv5778fs.jpg"
   },
   {
     "id": "azori-506533001",
@@ -27937,7 +28359,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-586542001",
@@ -27959,7 +28382,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-586602002",
@@ -27976,7 +28400,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 NUVOLA LIGHT LABIRINT 13 шт 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 NUVOLA LIGHT LABIRINT 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-586612001",
@@ -27993,7 +28418,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 NUVOLA VERDE LABIRINT 13 шт 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 NUVOLA VERDE LABIRINT 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506541101",
@@ -28015,7 +28441,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506543001",
@@ -28032,7 +28459,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3  NUVOLA GREIGE  63,84 кв.м 1с — керамическая плитка коллекции НУВОЛА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3  NUVOLA GREIGE  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506263001",
@@ -28049,7 +28477,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33.3*33.3 VERDE универсальная  63,84кв.м 1с — керамическая плитка коллекции ПЛИТА для пола УНИВЕРСАЛЬНАЯ от Азори. Формат 33,3х33,3 см. Купить Плитка 33.3*33.3 VERDE универсальная  63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/204/ht3baap3qnt0u12bgpj3puhzkg0oqer7.jpg"
   },
   {
     "id": "azori-506403001",
@@ -28066,7 +28495,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 RIVIERA AMBRA 63,84 кв.м 1с — керамическая плитка коллекции РИВЬЕРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 RIVIERA AMBRA 63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-506393001",
@@ -28088,7 +28518,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/2bd/r5k22i53ni8n94pw6gskc1zxep87m2cd.jpg"
   },
   {
     "id": "azori-582681001",
@@ -28190,7 +28621,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 SFUMATO GREY 63,84кв.м 1с — керамическая плитка коллекции СФУМАТО ГРЭЙ от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 SFUMATO GREY 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/417/ibwb0b3a2idux69u7qe6681vvqkf3t27.jpg"
   },
   {
     "id": "azori-583161001",
@@ -28207,7 +28639,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*4,7 CHATEAU CLASSIC 130 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х4,7 см. Купить Бордюр 20,1*4,7 CHATEAU CLASSIC 130 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583161005",
@@ -28224,7 +28657,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*4,7 CHATEAU LIS 130 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х4,7 см. Купить Бордюр 20,1*4,7 CHATEAU LIS 130 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583161007",
@@ -28241,7 +28675,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*4,7 CHATEAU MOCCA CLASSIC 130 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х4,7 см. Купить Бордюр 20,1*4,7 CHATEAU MOCCA CLASSIC 130 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583161002",
@@ -28258,7 +28693,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*4,7 CHATEAU MOCCA LIS 130 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х4,7 см. Купить Бордюр 20,1*4,7 CHATEAU MOCCA LIS 130 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583161006",
@@ -28275,7 +28711,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*8 CHATEAU LIS 78 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х8 см. Купить Бордюр 20,1*8 CHATEAU LIS 78 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583161003",
@@ -28292,7 +28729,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*8 CHATEAU MOCCA LIS 78 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х8 см. Купить Бордюр 20,1*8 CHATEAU MOCCA LIS 78 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583161004",
@@ -28309,7 +28747,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 20,1*8 CHATEAU MOCCA TENDA 78 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х8 см. Купить Бордюр 20,1*8 CHATEAU MOCCA TENDA 78 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583162005",
@@ -28326,7 +28765,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 CHATEAU  LIS 13 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 CHATEAU  LIS 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583162004",
@@ -28343,7 +28783,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 CHATEAU CLASSIC 13 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 CHATEAU CLASSIC 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583162001",
@@ -28360,7 +28801,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 CHATEAU MOCCA CLASSIC 13 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 CHATEAU MOCCA CLASSIC 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583162003",
@@ -28377,7 +28819,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 CHATEAU MOCCA LIS 13 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 CHATEAU MOCCA LIS 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-583162002",
@@ -28394,7 +28837,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 CHATEAU MOCCA TENDA 13 шт 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 CHATEAU MOCCA TENDA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-503181101",
@@ -28415,7 +28859,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 CHATEAU BLUE 72,96кв.м 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 CHATEAU BLUE 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-503191101",
@@ -28436,7 +28881,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 CHATEAU MOCCA 72,96кв.м 1с — керамическая плитка коллекции ШАТО от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 CHATEAU MOCCA 72,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 6,
-    "sqm_per_box": 1.02
+    "sqm_per_box": 1.02,
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-503183002",
@@ -28453,7 +28899,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 CHATEAU BLUE 63,84кв.м 1с — керамическая плитка коллекции ШАТО от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 CHATEAU BLUE 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/947/co9nx7ttc92ka262ycyff0e8qwmgdjk1.jpg"
   },
   {
     "id": "azori-585601003",
@@ -28839,7 +29286,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*8 ERATO VETRO 26 шт 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Формат 50,5х8 см. Купить Бордюр 50,5*8 ERATO VETRO 26 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e62/344sp3vhwjfqj9lf411rfpt5njrl29dp.jpg"
   },
   {
     "id": "azori-583361002",
@@ -28856,7 +29304,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 50,5*9 ERATO LIGHT MORESCA 26 шт 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Формат 50,5х9 см. Купить Бордюр 50,5*9 ERATO LIGHT MORESCA 26 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e62/344sp3vhwjfqj9lf411rfpt5njrl29dp.jpg"
   },
   {
     "id": "azori-583352001",
@@ -28873,7 +29322,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 20,1*50,5 ERATO LIGHT MORESCA 13 шт 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Формат 20,1х50,5 см. Купить Декор 20,1*50,5 ERATO LIGHT MORESCA 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e62/344sp3vhwjfqj9lf411rfpt5njrl29dp.jpg"
   },
   {
     "id": "azori-503351201",
@@ -28890,7 +29340,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 20,1*50,5 ERATO LIGHT  72,96 кв.м 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 ERATO LIGHT  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e62/344sp3vhwjfqj9lf411rfpt5njrl29dp.jpg"
   },
   {
     "id": "azori-503361101",
@@ -28911,7 +29362,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 20,1*50,5 ERATO GREY  72,96 кв.м 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Формат 20,1х50,5 см. Купить Плитка 20,1*50,5 ERATO GREY  72,96 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.19
+    "sqm_per_box": 1.19,
+    "collection_image": "https://plitburg.ru/upload/iblock/e62/344sp3vhwjfqj9lf411rfpt5njrl29dp.jpg"
   },
   {
     "id": "azori-503363001",
@@ -28932,7 +29384,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 33,3*33,3 ERATO GREY  63,84 кв.м 1с — керамическая плитка коллекции ЭРАТО ГРЭЙ от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 ERATO GREY  63,84 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/e62/344sp3vhwjfqj9lf411rfpt5njrl29dp.jpg"
   },
   {
     "id": "azori-502603001",
@@ -28971,7 +29424,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 40,5*5 АРГО геометрия 65шт 1с — керамическая плитка коллекции АРГО от Азори. Формат 40,5х5 см. Купить Бордюр 40,5*5 АРГО геометрия 65шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e63/ajp0uc3rhmezqpivgzbnrvbsqc45sxw0.jpg"
   },
   {
     "id": "azori-583972001",
@@ -28993,7 +29447,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e63/ajp0uc3rhmezqpivgzbnrvbsqc45sxw0.jpg"
   },
   {
     "id": "azori-583972002",
@@ -29015,7 +29470,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e63/ajp0uc3rhmezqpivgzbnrvbsqc45sxw0.jpg"
   },
   {
     "id": "azori-503991101",
@@ -29037,7 +29493,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/e63/ajp0uc3rhmezqpivgzbnrvbsqc45sxw0.jpg"
   },
   {
     "id": "azori-582551003",
@@ -29054,7 +29511,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 27,8*5 КАМЛОТ ИНДИГО крэш 104 шт 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Формат 27,8х5 см. Купить Бордюр 27,8*5 КАМЛОТ ИНДИГО крэш 104 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-582551001",
@@ -29076,7 +29534,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 65,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-582551004",
@@ -29098,7 +29557,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 65,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-582551002",
@@ -29120,7 +29580,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 39,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-582552001",
@@ -29137,7 +29598,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*27,8 КАМЛОТ ИНДИГО крэш 13 шт 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Формат 27,8х40,5 см. Купить Декор 40,5*27,8 КАМЛОТ ИНДИГО крэш 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-582552002",
@@ -29159,7 +29621,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-502531201",
@@ -29181,7 +29644,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-502541102",
@@ -29198,7 +29662,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 40,5*27,8 КАМЛОТ ИНДИГО 60,84кв.м 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Формат 27,8х40,5 см. Купить Плитка 40,5*27,8 КАМЛОТ ИНДИГО 60,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-502553002",
@@ -29215,7 +29680,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 КАМЛОТ ИНДИГО 63,84кв.м. 1с — керамическая плитка коллекции КАМЛОТ ИНДИГО от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 КАМЛОТ ИНДИГО 63,84кв.м. 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd4/37peafasmfvbape816xduqehox6c1nkp.jpg"
   },
   {
     "id": "azori-582541003",
@@ -29232,7 +29698,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 27,8*5 КАМЛОТ МОККА крэш 104 шт 1с — керамическая плитка коллекции КАМЛОТ МОККА от Азори. Формат 27,8х5 см. Купить Бордюр 27,8*5 КАМЛОТ МОККА крэш 104 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-582541001",
@@ -29254,7 +29721,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 65,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-582541004",
@@ -29271,7 +29739,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 40,5*5 КАМЛОТ МОККА эйша 65шт 1с — керамическая плитка коллекции КАМЛОТ МОККА от Азори. Формат 40,5х5 см. Купить Бордюр 40,5*5 КАМЛОТ МОККА эйша 65шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-582541002",
@@ -29293,7 +29762,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 39,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-582542001",
@@ -29315,7 +29785,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-582542002",
@@ -29332,7 +29803,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*27,8 КАМЛОТ МОККА эйша 13 шт 1с — керамическая плитка коллекции КАМЛОТ МОККА от Азори. Формат 27,8х40,5 см. Купить Декор 40,5*27,8 КАМЛОТ МОККА эйша 13 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-502521201",
@@ -29349,7 +29821,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 40,5*27,8 КАМЛОТ ЛАТТЕ 60,84кв.м 1с — керамическая плитка коллекции КАМЛОТ МОККА от Азори. Формат 27,8х40,5 см. Купить Плитка 40,5*27,8 КАМЛОТ ЛАТТЕ 60,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-502541101",
@@ -29371,7 +29844,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-502543002",
@@ -29388,7 +29862,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 КАМЛОТ МОККА 63,84кв.м. 1с — керамическая плитка коллекции КАМЛОТ МОККА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 КАМЛОТ МОККА 63,84кв.м. 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a25/sxoj3kk28hgplr5xbayupkiucy6t5l74.jpg"
   },
   {
     "id": "azori-581221107",
@@ -29405,7 +29880,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 27,8*5 ОРИГАМИ МОККА-прагматика 104шт 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 27,8х5 см. Купить Бордюр 27,8*5 ОРИГАМИ МОККА-прагматика 104шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-581221109",
@@ -29422,7 +29898,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 27,8*5 ОРИГАМИ ТАБАККО-прагматика 104шт 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 27,8х5 см. Купить Бордюр 27,8*5 ОРИГАМИ ТАБАККО-прагматика 104шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-581221101",
@@ -29444,7 +29921,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-581221203",
@@ -29461,7 +29939,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*27,8 ОРИГАМИ МОККА-прагматика 13шт 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 27,8х40,5 см. Купить Декор 40,5*27,8 ОРИГАМИ МОККА-прагматика 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-581221205",
@@ -29478,7 +29957,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор 40,5*27,8 ОРИГАМИ ТАБАККО-прагматика 13шт 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 27,8х40,5 см. Купить Декор 40,5*27,8 ОРИГАМИ ТАБАККО-прагматика 13шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-581221201",
@@ -29500,7 +29980,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-501222111",
@@ -29517,7 +29998,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 40,5*27,8 ОРИГАМИ МОККА 60,84кв.м 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 27,8х40,5 см. Купить Плитка 40,5*27,8 ОРИГАМИ МОККА 60,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-501223111",
@@ -29534,7 +30016,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 40,5*27,8 ОРИГАМИ ТАБАККО 60,84кв.м 1с — керамическая плитка коллекции ОРИГАМИ от Азори. Формат 27,8х40,5 см. Купить Плитка 40,5*27,8 ОРИГАМИ ТАБАККО 60,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/759/wan3i12dlwnpijw80mbq7d4ssdt80k1i.jpg"
   },
   {
     "id": "azori-582901003",
@@ -29551,7 +30034,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 27,8*3,5 САТТИ КРОШЕ 143 шт 1с — керамическая плитка коллекции САТТИ от Азори. Формат 27,8х3,5 см. Купить Бордюр 27,8*3,5 САТТИ КРОШЕ 143 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-582901002",
@@ -29573,7 +30057,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 42,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-582902001",
@@ -29595,7 +30080,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-582902002",
@@ -29617,7 +30103,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 13,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-502901201",
@@ -29639,7 +30126,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-502891101",
@@ -29661,7 +30149,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-502911101",
@@ -29683,7 +30172,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-502913002",
@@ -29704,7 +30194,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 33.3*33.3 САТТИ МОККА 63,84кв.м 1с — керамическая плитка коллекции САТТИ от Азори. Формат 33,3х33,3 см. Купить Плитка 33.3*33.3 САТТИ МОККА 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/1e5/q1b82rvstparg36agia2e88efqpg0u2p.jpg"
   },
   {
     "id": "azori-581252103",
@@ -29845,7 +30336,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7.5 ASCOLI BEIGE CLASSICO 16 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 63х7,5 см. Купить Бордюр 63*7.5 ASCOLI BEIGE CLASSICO 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587131001",
@@ -29862,7 +30354,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Бордюр 63*7.5 ASCOLI GREY CLASSICO 16 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 63х7,5 см. Купить Бордюр 63*7.5 ASCOLI GREY CLASSICO 16 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587122001",
@@ -29882,7 +30375,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 ASCOLI BEIGE CLASSICO 6 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 ASCOLI BEIGE CLASSICO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-587132001",
@@ -29902,7 +30396,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 ASCOLI GREY CLASSICO 6 шт 1с — керамическая плитка коллекции АСКОЛИ от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 ASCOLI GREY CLASSICO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/810/xj7ftpdu729gd2af9z5foao8brvpf1kk.jpg"
   },
   {
     "id": "azori-586572001",
@@ -29922,7 +30417,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 AURA GRAFITE FLORIS 6 шт 1с — керамическая плитка коллекции АУРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 AURA GRAFITE FLORIS 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-586572002",
@@ -29942,7 +30438,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор 31,5*63 AURA GRAFITE GEOMETRIA 6 шт 1с — керамическая плитка коллекции АУРА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 AURA GRAFITE GEOMETRIA 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "pieces_per_box": 7
+    "pieces_per_box": 7,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506571101",
@@ -29964,7 +30461,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506573002",
@@ -29981,7 +30479,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 42*42 AURA GRAFITE 63,96кв.м 1с — керамическая плитка коллекции АУРА от Азори. Формат 42х42 см. Купить Плитка 42*42 AURA GRAFITE 63,96кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506563001",
@@ -30003,7 +30502,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 12,
-    "sqm_per_box": 1.33
+    "sqm_per_box": 1.33,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506573001",
@@ -30024,7 +30524,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 33,3*33,3 AURA GRAFITE 63,84кв.м 1с — керамическая плитка коллекции АУРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 AURA GRAFITE 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-506553001",
@@ -30041,7 +30542,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 AURA MARFIL 63,84кв.м 1с — керамическая плитка коллекции АУРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 AURA MARFIL 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/h4ltm9wirdawwpcutj0ozyhdfujmkshf.jpg"
   },
   {
     "id": "azori-587232001",
@@ -30063,7 +30565,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 6,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/178/zyia5h3byn68a1hj5d7mq91v06g4u5dd.jpg"
   },
   {
     "id": "azori-507211201",
@@ -30085,7 +30588,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/178/zyia5h3byn68a1hj5d7mq91v06g4u5dd.jpg"
   },
   {
     "id": "azori-507141101",
@@ -30102,7 +30606,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 IDALGO DARK 44,48кв.м 1с — керамическая плитка коллекции ИДАЛЬГО от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 IDALGO DARK 44,48кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/178/zyia5h3byn68a1hj5d7mq91v06g4u5dd.jpg"
   },
   {
     "id": "azori-507231101",
@@ -30124,7 +30629,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 8,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/178/zyia5h3byn68a1hj5d7mq91v06g4u5dd.jpg"
   },
   {
     "id": "azori-507143001",
@@ -30146,7 +30652,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 6.0,
     "pieces_per_box": 11,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/178/zyia5h3byn68a1hj5d7mq91v06g4u5dd.jpg"
   },
   {
     "id": "azori-505083001",
@@ -30168,7 +30675,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-505073001",
@@ -30190,7 +30698,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/ad5/8ljmclwxg9439p7scy709yh9ujoxihf4.jpg"
   },
   {
     "id": "azori-585802001",
@@ -30211,7 +30720,8 @@ export const importedProducts: any[] = [
     "description": "Декор 31,5*63 MARBELLA ARABESCO 6 шт 1с — керамическая плитка коллекции МАРБЕЛЛА от Азори. Формат 31,5х63 см. Купить Декор 31,5*63 MARBELLA ARABESCO 6 шт 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "thickness": 9.0,
-    "pieces_per_box": 13
+    "pieces_per_box": 13,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-707423006",
@@ -30233,7 +30743,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-587423004",
@@ -30255,7 +30766,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-707423007",
@@ -30277,7 +30789,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-587423005",
@@ -30299,7 +30812,8 @@ export const importedProducts: any[] = [
     "usage": "both",
     "thickness": 6.0,
     "pieces_per_box": 22,
-    "sqm_per_box": 1.59
+    "sqm_per_box": 1.59,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-505801202",
@@ -30316,7 +30830,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 31,5*63 MARBELLA BIANCO 44.48 кв.м 1с — керамическая плитка коллекции МАРБЕЛЛА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 MARBELLA BIANCO 44.48 кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-505901101",
@@ -30338,7 +30853,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-505891101",
@@ -30360,7 +30876,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 8.0,
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-505913001",
@@ -30382,7 +30899,8 @@ export const importedProducts: any[] = [
     "usage": "wall",
     "thickness": 9.5,
     "pieces_per_box": 7,
-    "sqm_per_box": 1.23
+    "sqm_per_box": 1.23,
+    "collection_image": "https://plitburg.ru/upload/iblock/aba/u7ik8msv0y37d2g44gjg3geldps4qxwj.jpg"
   },
   {
     "id": "azori-505723001",
@@ -30399,7 +30917,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 PANDORA GRAFITE 63,84кв.м  1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 PANDORA GRAFITE 63,84кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-505743001",
@@ -30416,7 +30935,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 PANDORA LATTE 63,84кв.м  1с — керамическая плитка коллекции ПАНДОРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 PANDORA LATTE 63,84кв.м  1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/023/2m5asphxvsle314ylr81dbq93oxj4e5f.jpg"
   },
   {
     "id": "azori-507763001",
@@ -30455,7 +30975,8 @@ export const importedProducts: any[] = [
     "description": "Плитка 31,5*63 EVORA FIBER  50,88кв.м 1с — керамическая плитка коллекции ЭВОРА от Азори. Формат 31,5х63 см. Купить Плитка 31,5*63 EVORA FIBER  50,88кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
     "pieces_per_box": 15,
-    "sqm_per_box": 1.52
+    "sqm_per_box": 1.52,
+    "collection_image": "https://plitburg.ru/upload/iblock/aae/bbfz1jx5pr0eete0et3jgo7u6pnw5ejo.jpg"
   },
   {
     "id": "azori-507733003",
@@ -30472,7 +30993,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка 33,3*33,3 EVORA 63,84кв.м 1с — керамическая плитка коллекции ЭВОРА от Азори. Формат 33,3х33,3 см. Купить Плитка 33,3*33,3 EVORA 63,84кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aae/bbfz1jx5pr0eete0et3jgo7u6pnw5ejo.jpg"
   },
   {
     "id": "azori-00-00108564",
@@ -30793,7 +31315,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108563",
@@ -30816,7 +31339,8 @@ export const importedProducts: any[] = [
     "thickness": 8.5,
     "pieces_per_box": 2,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108565",
@@ -30838,7 +31362,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108571",
@@ -30860,7 +31385,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108577",
@@ -30883,7 +31409,8 @@ export const importedProducts: any[] = [
     "thickness": 8.5,
     "pieces_per_box": 2,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108575",
@@ -30905,7 +31432,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00109982",
@@ -30922,7 +31450,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Керамогранит R 120*60 ONYX RUBY GREY 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Формат 60х120 см. Купить Керамогранит R 120*60 ONYX RUBY GREY 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00109983",
@@ -30939,7 +31468,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Керамогранит R 120*60 ONYX RUBY SILVER 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Формат 60х120 см. Купить Керамогранит R 120*60 ONYX RUBY SILVER 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108573",
@@ -30961,7 +31491,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108569",
@@ -30983,7 +31514,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00109920",
@@ -31000,7 +31532,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Керамогранит R 120*60 PULPIS DARK 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Формат 60х120 см. Купить Керамогранит R 120*60 PULPIS DARK 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00109919",
@@ -31017,7 +31550,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Керамогранит R 120*60 PULPIS LIGHT 46,08кв.м 1с — керамогранит коллекции 60*120 от Азори. Формат 60х120 см. Купить Керамогранит R 120*60 PULPIS LIGHT 46,08кв.м 1с в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108567",
@@ -31039,7 +31573,8 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "thickness": 8.5,
     "pieces_per_box": 2,
-    "sqm_per_box": 1.44
+    "sqm_per_box": 1.44,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "azori-00-00108579",
@@ -31063,7 +31598,8 @@ export const importedProducts: any[] = [
     "thickness": 8.5,
     "pieces_per_box": 2,
     "sqm_per_box": 1.44,
-    "frost_resistant": true
+    "frost_resistant": true,
+    "collection_image": "https://plitburg.ru/upload/iblock/380/blmp4blxz9jmvh0tvzr3wmvz6zqcrdis.jpg"
   },
   {
     "id": "nefrit-00-00-4-17-00-01-5107",
