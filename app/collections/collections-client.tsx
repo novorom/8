@@ -9,6 +9,12 @@ import { useProducts } from "@/lib/products-context"
 // Прокси-CDN: бесплатный сервис, конвертирует в WebP, сжимает, кэширует
 function optimizeImage(url: string | undefined | null, width = 600): string {
   if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  
+  // Многие RU-домены (plitburg, azori, cersanit) блокируют weserv.nl через Cloudflare/DDOS-Guard
+  if (url.includes(".ru")) {
+    return url
+  }
+  
   const clean = url.replace("https://", "").replace("http://", "")
   return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
 }

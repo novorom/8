@@ -8,6 +8,12 @@ import { getCollectionSeo } from "@/lib/collection-seo"
 // Прокси-CDN: бесплатный, конвертирует в WebP и кэширует
 function optimizeImage(url: string | undefined | null, width = 800): string {
   if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  
+  // Многие RU-домены (plitburg, azori, cersanit) блокируют weserv.nl через Cloudflare/DDOS-Guard
+  if (url.includes(".ru")) {
+    return url
+  }
+  
   const clean = url.replace("https://", "").replace("http://", "")
   return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
 }
