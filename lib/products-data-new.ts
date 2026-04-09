@@ -2512,7 +2512,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино белый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Авеллино белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16006",
@@ -2533,7 +2534,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16017",
@@ -2554,7 +2556,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино белый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Авеллино белый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 88,
     "sqm_per_box": 0.98,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-17004",
@@ -2575,7 +2578,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Авеллино голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16004",
@@ -2596,7 +2600,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16015",
@@ -2617,7 +2622,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино голубой структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Авеллино голубой структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 88,
     "sqm_per_box": 0.98,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-17007",
@@ -2638,7 +2644,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино серый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 15x15 см. Купить Авеллино серый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16007",
@@ -2659,7 +2666,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16018",
@@ -2680,7 +2688,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино серый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Авеллино серый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 88,
     "sqm_per_box": 0.98,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-17009",
@@ -2701,7 +2710,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино фисташковый глянцевый 15x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 15x15 см. Купить Авеллино фисташковый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16009",
@@ -2722,7 +2732,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино фисташковый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-16020",
@@ -2743,7 +2754,8 @@ export const importedProducts: any[] = [
     "description": "Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 — керамическая плитка коллекции Авеллино от Kerama Marazzi. Размер 7.4x15 см. Купить Авеллино фисташковый структура mix глянцевый 7,4x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 88,
     "sqm_per_box": 0.98,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e77/wzrhgfmwdjiwbbg7kpyuu6az5f028efp.jpg"
   },
   {
     "id": "kerama-marazzi-1328",
@@ -2751,7 +2763,7 @@ export const importedProducts: any[] = [
     "name": "Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1328",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Бежевый",
@@ -2764,7 +2776,8 @@ export const importedProducts: any[] = [
     "description": "Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Агуста бежевый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63005",
@@ -2772,7 +2785,7 @@ export const importedProducts: any[] = [
     "name": "Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63005",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Бежевый",
@@ -2785,7 +2798,8 @@ export const importedProducts: any[] = [
     "description": "Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Агуста бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1332",
@@ -2793,7 +2807,7 @@ export const importedProducts: any[] = [
     "name": "Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1332",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Белый",
@@ -2806,7 +2820,8 @@ export const importedProducts: any[] = [
     "description": "Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 9.8x9.8 см. Купить Агуста белый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63000",
@@ -2814,7 +2829,7 @@ export const importedProducts: any[] = [
     "name": "Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63000",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Белый",
@@ -2827,7 +2842,8 @@ export const importedProducts: any[] = [
     "description": "Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Белый. Размер 29.7x29.8 см. Купить Агуста белый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63011",
@@ -2835,7 +2851,7 @@ export const importedProducts: any[] = [
     "name": "Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63011",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Микс",
@@ -2848,7 +2864,8 @@ export const importedProducts: any[] = [
     "description": "Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 29.7x29.8 см. Купить Агуста оранжевый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1337",
@@ -2856,7 +2873,7 @@ export const importedProducts: any[] = [
     "name": "Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1337",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Микс",
@@ -2869,7 +2886,8 @@ export const importedProducts: any[] = [
     "description": "Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Размер 9.8x9.8 см. Купить Агуста оранжевый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63010",
@@ -2877,7 +2895,7 @@ export const importedProducts: any[] = [
     "name": "Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63010",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Розовый",
@@ -2890,7 +2908,8 @@ export const importedProducts: any[] = [
     "description": "Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 29.7x29.8 см. Купить Агуста розовый матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1336",
@@ -2898,7 +2917,7 @@ export const importedProducts: any[] = [
     "name": "Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1336",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Розовый",
@@ -2911,7 +2930,8 @@ export const importedProducts: any[] = [
     "description": "Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Розовый. Размер 9.8x9.8 см. Купить Агуста розовый матовый 30x40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1330",
@@ -2919,7 +2939,7 @@ export const importedProducts: any[] = [
     "name": "Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1330",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Серый",
@@ -2932,7 +2952,8 @@ export const importedProducts: any[] = [
     "description": "Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63003",
@@ -2940,7 +2961,7 @@ export const importedProducts: any[] = [
     "name": "Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63003",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
@@ -2953,7 +2974,8 @@ export const importedProducts: any[] = [
     "description": "Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1329",
@@ -2961,7 +2983,7 @@ export const importedProducts: any[] = [
     "name": "Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1329",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Серый",
@@ -2974,7 +2996,8 @@ export const importedProducts: any[] = [
     "description": "Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый светлый матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63002",
@@ -2982,7 +3005,7 @@ export const importedProducts: any[] = [
     "name": "Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63002",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
@@ -2995,7 +3018,8 @@ export const importedProducts: any[] = [
     "description": "Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1331",
@@ -3003,7 +3027,7 @@ export const importedProducts: any[] = [
     "name": "Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1331",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Серый",
@@ -3016,7 +3040,8 @@ export const importedProducts: any[] = [
     "description": "Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 9.8x9.8 см. Купить Агуста серый темный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63004",
@@ -3024,7 +3049,7 @@ export const importedProducts: any[] = [
     "name": "Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63004",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
@@ -3037,7 +3062,8 @@ export const importedProducts: any[] = [
     "description": "Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Агуста серый темный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63012",
@@ -3045,7 +3071,7 @@ export const importedProducts: any[] = [
     "name": "Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63012",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Синий",
@@ -3058,7 +3084,8 @@ export const importedProducts: any[] = [
     "description": "Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 29.7x29.8 см. Купить Агуста синий матовый 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1335",
@@ -3066,7 +3093,7 @@ export const importedProducts: any[] = [
     "name": "Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1335",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Синий",
@@ -3079,7 +3106,8 @@ export const importedProducts: any[] = [
     "description": "Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Синий. Размер 9.8x9.8 см. Купить Агуста синий матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-1333",
@@ -3087,7 +3115,7 @@ export const importedProducts: any[] = [
     "name": "Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7",
     "slug": "kerama-marazzi-agusta-1333",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Черный",
@@ -3100,7 +3128,8 @@ export const importedProducts: any[] = [
     "description": "Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 9.8x9.8 см. Купить Агуста черный матовый 30х40 из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-63001",
@@ -3108,7 +3137,7 @@ export const importedProducts: any[] = [
     "name": "Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6",
     "slug": "kerama-marazzi-agusta-63001",
     "brand": "Kerama Marazzi",
-    "collection": "Агуста",
+    "collection": "и керамогранита Агуста",
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Черный",
@@ -3121,7 +3150,8 @@ export const importedProducts: any[] = [
     "description": "Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Агуста от Kerama Marazzi. Цвет: Черный. Размер 29.7x29.8 см. Купить Агуста черный натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a5/7t4qofqopv9610ne7efhsrzalrzdac6u.jpg"
   },
   {
     "id": "kerama-marazzi-5304",
@@ -3142,7 +3172,8 @@ export const importedProducts: any[] = [
     "description": "Адриатика бежевый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Адриатика бежевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aeb/ckg6tu1bckhmjw4zfd201ci66i870j0v.png"
   },
   {
     "id": "kerama-marazzi-5303",
@@ -3163,7 +3194,8 @@ export const importedProducts: any[] = [
     "description": "Адриатика голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Адриатика голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aeb/ckg6tu1bckhmjw4zfd201ci66i870j0v.png"
   },
   {
     "id": "kerama-marazzi-5305",
@@ -3184,7 +3216,8 @@ export const importedProducts: any[] = [
     "description": "Адриатика зелёный глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Размер 20x20 см. Купить Адриатика зелёный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aeb/ckg6tu1bckhmjw4zfd201ci66i870j0v.png"
   },
   {
     "id": "kerama-marazzi-5306",
@@ -3205,7 +3238,8 @@ export const importedProducts: any[] = [
     "description": "Адриатика серый глянцевый 20x20x0,69 — керамическая плитка коллекции Адриатика от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Адриатика серый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/aeb/ckg6tu1bckhmjw4zfd201ci66i870j0v.png"
   },
   {
     "id": "kerama-marazzi-9011",
@@ -3227,7 +3261,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Аккорд бежевый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9010",
@@ -3249,7 +3284,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд белый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Аккорд белый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9026",
@@ -3270,7 +3306,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд бордо грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд бордо грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9030",
@@ -3291,7 +3328,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9027",
@@ -3312,7 +3350,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9028",
@@ -3333,7 +3372,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд дымчатый темный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9012",
@@ -3354,7 +3394,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд зелёный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9013",
@@ -3375,7 +3416,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд зелёный тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9023",
@@ -3396,7 +3438,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд коралловый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Размер 8.5x28.5 см. Купить Аккорд коралловый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9029",
@@ -3417,7 +3460,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Аккорд коричневый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9024",
@@ -3438,7 +3482,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд розовый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9025",
@@ -3459,7 +3504,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Розовый. Размер 8.5x28.5 см. Купить Аккорд розовый светлый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9014",
@@ -3481,7 +3527,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд серый грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9015",
@@ -3502,7 +3549,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Аккорд серый тёмный грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-9031",
@@ -3523,7 +3571,8 @@ export const importedProducts: any[] = [
     "description": "Аккорд синий грань глянцевый 8,5x28,5x0,92 — керамическая плитка коллекции Аккорд от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Аккорд синий грань глянцевый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/7b0/74y4x5s2qr8oxpy3qtu9858hbpyxguma.jpg"
   },
   {
     "id": "kerama-marazzi-7198",
@@ -3544,7 +3593,8 @@ export const importedProducts: any[] = [
     "description": "Алькала белый глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/518/f12t0nqg2asijhdds7ef5bm3fmo9u6uc.jpg"
   },
   {
     "id": "kerama-marazzi-7199",
@@ -3565,7 +3615,8 @@ export const importedProducts: any[] = [
     "description": "Алькала белый панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Алькала белый панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/518/f12t0nqg2asijhdds7ef5bm3fmo9u6uc.jpg"
   },
   {
     "id": "kerama-marazzi-7200",
@@ -3586,7 +3637,8 @@ export const importedProducts: any[] = [
     "description": "Алькала черный глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/518/f12t0nqg2asijhdds7ef5bm3fmo9u6uc.jpg"
   },
   {
     "id": "kerama-marazzi-7201",
@@ -3607,7 +3659,8 @@ export const importedProducts: any[] = [
     "description": "Алькала черный панель глянцевый 20x50x0,8 — керамическая плитка коллекции Алькала от Kerama Marazzi. Цвет: Черный. Размер 20x50 см. Купить Алькала черный панель глянцевый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/518/f12t0nqg2asijhdds7ef5bm3fmo9u6uc.jpg"
   },
   {
     "id": "kerama-marazzi-26300",
@@ -3628,7 +3681,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам бежевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-26301",
@@ -3649,7 +3703,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам бежевый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Амстердам бежевый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-26305",
@@ -3670,7 +3725,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам коричневый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-26304",
@@ -3691,7 +3747,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам коричневый светлый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-26306",
@@ -3712,7 +3769,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам коричневый темный матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Коричневый. Размер 6x28.5 см. Купить Амстердам коричневый темный матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-26303",
@@ -3733,7 +3791,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам оранжевый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Размер 6x28.5 см. Купить Амстердам оранжевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-26302",
@@ -3754,7 +3813,8 @@ export const importedProducts: any[] = [
     "description": "Амстердам розовый матовый 6x28,5x1 — керамическая плитка коллекции Амстердам от Kerama Marazzi. Цвет: Розовый. Размер 6x28.5 см. Купить Амстердам розовый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/35a/nyynh82xq04emsp5dzkwwh4ve73kk9v1.jpg"
   },
   {
     "id": "kerama-marazzi-65013",
@@ -3775,7 +3835,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Авейру мозаичный красный глянцевый 26x30x0,7 — керамическая плитка коллекции Авейру от Kerama Marazzi. Цвет: Красный. Размер 26x30 см. Купить Арабески Авейру мозаичный красный глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0b7/p19dzklx8sjl4b5ltoiwnarqo6dxn9my.jpg"
   },
   {
     "id": "kerama-marazzi-65000",
@@ -3817,7 +3878,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика бежевый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Бежевый. Размер 26x30 см. Купить Арабески Майолика бежевый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65006",
@@ -3838,7 +3900,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика бирюза глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика бирюза глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65005",
@@ -3859,7 +3922,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика голубой глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Голубой. Размер 26x30 см. Купить Арабески Майолика голубой глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65009",
@@ -3880,7 +3944,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика желтый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Размер 26x30 см. Купить Арабески Майолика желтый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65008",
@@ -3901,7 +3966,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика зеленый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Зеленый. Размер 26x30 см. Купить Арабески Майолика зеленый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65011",
@@ -3922,7 +3988,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика серый светлый глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Серый. Размер 26x30 см. Купить Арабески Майолика серый светлый глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65007",
@@ -3943,7 +4010,8 @@ export const importedProducts: any[] = [
     "description": "Арабески Майолика синий глянцевый 26x30x0,7 — керамическая плитка коллекции Арабески Майолика от Kerama Marazzi. Цвет: Синий. Размер 26x30 см. Купить Арабески Майолика синий глянцевый 26x30x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 0.59,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7c/f9wulzfngbe6mglobveacn78uzjv45uk.jpg"
   },
   {
     "id": "kerama-marazzi-65012",
@@ -4006,7 +4074,8 @@ export const importedProducts: any[] = [
     "description": "Ауленти бежевый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a53/18qn1mkovymj6mfgc2ym19mjog00nn5x.jpg"
   },
   {
     "id": "kerama-marazzi-7219",
@@ -4027,7 +4096,8 @@ export const importedProducts: any[] = [
     "description": "Ауленти бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a53/18qn1mkovymj6mfgc2ym19mjog00nn5x.jpg"
   },
   {
     "id": "kerama-marazzi-7220",
@@ -4048,7 +4118,8 @@ export const importedProducts: any[] = [
     "description": "Ауленти бежевый светлый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый светлый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a53/18qn1mkovymj6mfgc2ym19mjog00nn5x.jpg"
   },
   {
     "id": "kerama-marazzi-7212",
@@ -4069,7 +4140,8 @@ export const importedProducts: any[] = [
     "description": "Ауленти бежевый структура матовый 20x50x0,8 — керамическая плитка коллекции Ауленти от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Ауленти бежевый структура матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a53/18qn1mkovymj6mfgc2ym19mjog00nn5x.jpg"
   },
   {
     "id": "kerama-marazzi-8290",
@@ -4077,7 +4149,7 @@ export const importedProducts: any[] = [
     "name": "Баккара бежевый глянцевый 20x30x0,69",
     "slug": "kerama-marazzi-bakkara-8290",
     "brand": "Kerama Marazzi",
-    "collection": "Баккара",
+    "collection": "и керамогранита Баккара",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
@@ -4091,7 +4163,8 @@ export const importedProducts: any[] = [
     "description": "Баккара бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5b1/a80asmkwskzmsclge7l88b4swk81c7gf.jpg"
   },
   {
     "id": "kerama-marazzi-8291",
@@ -4099,7 +4172,7 @@ export const importedProducts: any[] = [
     "name": "Баккара бежевый темный глянцевый 20x30x0,69",
     "slug": "kerama-marazzi-bakkara-8291",
     "brand": "Kerama Marazzi",
-    "collection": "Баккара",
+    "collection": "и керамогранита Баккара",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
@@ -4113,7 +4186,8 @@ export const importedProducts: any[] = [
     "description": "Баккара бежевый темный глянцевый 20x30x0,69 — керамическая плитка коллекции Баккара от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Баккара бежевый темный глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5b1/a80asmkwskzmsclge7l88b4swk81c7gf.jpg"
   },
   {
     "id": "kerama-marazzi-8300",
@@ -4121,7 +4195,7 @@ export const importedProducts: any[] = [
     "name": "Баккара структура глянцевый 20x30x0,77",
     "slug": "kerama-marazzi-bakkara-8300",
     "brand": "Kerama Marazzi",
-    "collection": "Баккара",
+    "collection": "и керамогранита Баккара",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Микс",
@@ -4134,7 +4208,8 @@ export const importedProducts: any[] = [
     "description": "Баккара структура глянцевый 20x30x0,77 — керамическая плитка коллекции Баккара от Kerama Marazzi. Размер 20x30 см. Купить Баккара структура глянцевый 20x30x0,77 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 23,
     "sqm_per_box": 1.38,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5b1/a80asmkwskzmsclge7l88b4swk81c7gf.jpg"
   },
   {
     "id": "kerama-marazzi-2868",
@@ -4155,7 +4230,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй аквамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2841",
@@ -4176,7 +4252,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Баттерфляй бежевый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2828",
@@ -4198,7 +4275,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй белый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Баттерфляй белый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2839",
@@ -4219,7 +4297,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй голубой глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2829",
@@ -4240,7 +4319,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй голубой темный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Баттерфляй голубой темный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2823",
@@ -4261,7 +4341,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй красный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Красный. Размер 8.5x28.5 см. Купить Баттерфляй красный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2854",
@@ -4282,7 +4363,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй лазурь глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй лазурь глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2821",
@@ -4303,7 +4385,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй оранжевый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2856",
@@ -4324,7 +4407,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй рыжий глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй рыжий глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2834",
@@ -4345,7 +4429,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй синий глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Баттерфляй синий глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2869",
@@ -4366,7 +4451,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй ультрамарин глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй ультрамарин глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2837",
@@ -4387,7 +4473,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй фисташковый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй фисташковый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2840",
@@ -4408,7 +4495,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй фисташковый светлый глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Размер 8.5x28.5 см. Купить Баттерфляй фисташковый светлый глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-2827",
@@ -4429,7 +4517,8 @@ export const importedProducts: any[] = [
     "description": "Баттерфляй черный глянцевый 8,5x28,5x0,9 — керамическая плитка коллекции Баттерфляй от Kerama Marazzi. Цвет: Черный. Размер 8.5x28.5 см. Купить Баттерфляй черный глянцевый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/cfe/x8z8e0k3hxnpvsgizc9ib45v6dc8feqi.jpg"
   },
   {
     "id": "kerama-marazzi-15080",
@@ -4450,7 +4539,8 @@ export const importedProducts: any[] = [
     "description": "Бельканто белый грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 18,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a9/0130vjgr6mvyt2gjj6kf2wqob0cjcew0.jpg"
   },
   {
     "id": "kerama-marazzi-15079",
@@ -4471,7 +4561,8 @@ export const importedProducts: any[] = [
     "description": "Бельканто белый матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Бельканто белый матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a9/0130vjgr6mvyt2gjj6kf2wqob0cjcew0.jpg"
   },
   {
     "id": "kerama-marazzi-15152",
@@ -4492,7 +4583,8 @@ export const importedProducts: any[] = [
     "description": "Бельканто бордо матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Размер 15x40 см. Купить Бельканто бордо матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a9/0130vjgr6mvyt2gjj6kf2wqob0cjcew0.jpg"
   },
   {
     "id": "kerama-marazzi-15081",
@@ -4513,7 +4605,8 @@ export const importedProducts: any[] = [
     "description": "Бельканто черный грань матовый 15x40x0,95 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный грань матовый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 18,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a9/0130vjgr6mvyt2gjj6kf2wqob0cjcew0.jpg"
   },
   {
     "id": "kerama-marazzi-15078",
@@ -4534,7 +4627,8 @@ export const importedProducts: any[] = [
     "description": "Бельканто черный матовый 15x40x0,8 — керамическая плитка коллекции Бельканто от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Бельканто черный матовый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a9/0130vjgr6mvyt2gjj6kf2wqob0cjcew0.jpg"
   },
   {
     "id": "kerama-marazzi-6402",
@@ -4555,7 +4649,8 @@ export const importedProducts: any[] = [
     "description": "Борромео бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Борромео бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/545/zg4q00bp9xkey27skpihkihh37khegps.jpg"
   },
   {
     "id": "kerama-marazzi-6403",
@@ -4576,7 +4671,8 @@ export const importedProducts: any[] = [
     "description": "Борромео голубой матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Борромео голубой матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/545/zg4q00bp9xkey27skpihkihh37khegps.jpg"
   },
   {
     "id": "kerama-marazzi-6404",
@@ -4597,7 +4693,8 @@ export const importedProducts: any[] = [
     "description": "Борромео матовый 25x40x0,8 — керамическая плитка коллекции Борромео от Kerama Marazzi. Размер 25x40 см. Купить Борромео матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/545/zg4q00bp9xkey27skpihkihh37khegps.jpg"
   },
   {
     "id": "kerama-marazzi-26313",
@@ -4618,7 +4715,8 @@ export const importedProducts: any[] = [
     "description": "Брюссель бежевый матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Брюссель бежевый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b66/l5nd201jvqbbzxptnlp50xxqq07mdvat.jpg"
   },
   {
     "id": "kerama-marazzi-1324",
@@ -4639,7 +4737,8 @@ export const importedProducts: any[] = [
     "description": "Брюссель бежевый матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Брюссель бежевый матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b66/l5nd201jvqbbzxptnlp50xxqq07mdvat.jpg"
   },
   {
     "id": "kerama-marazzi-26312",
@@ -4660,7 +4759,8 @@ export const importedProducts: any[] = [
     "description": "Брюссель бежевый светлый матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 6x28.5 см. Купить Брюссель бежевый светлый матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b66/l5nd201jvqbbzxptnlp50xxqq07mdvat.jpg"
   },
   {
     "id": "kerama-marazzi-1325",
@@ -4681,7 +4781,8 @@ export const importedProducts: any[] = [
     "description": "Брюссель бежевый светлый матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Цвет: Бежевый. Размер 9.8x9.8 см. Купить Брюссель бежевый светлый матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b66/l5nd201jvqbbzxptnlp50xxqq07mdvat.jpg"
   },
   {
     "id": "kerama-marazzi-26314",
@@ -4702,7 +4803,8 @@ export const importedProducts: any[] = [
     "description": "Брюссель микс матовый 6x28,5x1 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Размер 6x28.5 см. Купить Брюссель микс матовый 6x28,5x1 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 0.82,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b66/l5nd201jvqbbzxptnlp50xxqq07mdvat.jpg"
   },
   {
     "id": "kerama-marazzi-1326",
@@ -4723,7 +4825,8 @@ export const importedProducts: any[] = [
     "description": "Брюссель микс матовый из 12 частей 9,8x9,8x0,7 — керамическая плитка коллекции Брюссель от Kerama Marazzi. Размер 9.8x9.8 см. Купить Брюссель микс матовый из 12 частей 9,8x9,8x0,7 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 8,
     "sqm_per_box": 0.922,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b66/l5nd201jvqbbzxptnlp50xxqq07mdvat.jpg"
   },
   {
     "id": "kerama-marazzi-60000",
@@ -4744,7 +4847,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60170",
@@ -4765,7 +4869,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60169",
@@ -4786,7 +4891,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60175",
@@ -4807,7 +4913,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый вуд 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый вуд 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60171",
@@ -4828,7 +4935,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60176",
@@ -4849,7 +4957,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60172",
@@ -4870,7 +4979,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый глянцевый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый глянцевый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60161",
@@ -4891,7 +5001,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60166",
@@ -4912,7 +5023,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый антик 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый антик 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60165",
@@ -4933,7 +5045,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый волна 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый волна 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60173",
@@ -4954,7 +5067,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый вуд 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый вуд 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60167",
@@ -4975,7 +5089,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый мозаика 20x60x0,9 — мозаика коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый мозаика 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60174",
@@ -4996,7 +5111,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый полоски 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый полоски 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-60168",
@@ -5017,7 +5133,8 @@ export const importedProducts: any[] = [
     "description": "Бьянка белый матовый чип 20x60x0,9 — керамическая плитка коллекции Бьянка от Kerama Marazzi. Цвет: Белый. Размер 20x60 см. Купить Бьянка белый матовый чип 20x60x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2a9/spsj5bq5e0ytt9q9gbt2jgysi9d5v8k1.png"
   },
   {
     "id": "kerama-marazzi-8246",
@@ -5039,7 +5156,8 @@ export const importedProducts: any[] = [
     "description": "Вилла Флоридиана бежевый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/036/pwa4iwfo5n4w6zsktwadsoyrvhs4uat5.jpg"
   },
   {
     "id": "kerama-marazzi-8245",
@@ -5060,7 +5178,8 @@ export const importedProducts: any[] = [
     "description": "Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Вилла Флоридиана бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/036/pwa4iwfo5n4w6zsktwadsoyrvhs4uat5.jpg"
   },
   {
     "id": "kerama-marazzi-8247",
@@ -5082,7 +5201,8 @@ export const importedProducts: any[] = [
     "description": "Вилла Флоридиана коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Вилла Флоридиана от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Вилла Флоридиана коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/036/pwa4iwfo5n4w6zsktwadsoyrvhs4uat5.jpg"
   },
   {
     "id": "kerama-marazzi-15084",
@@ -5103,7 +5223,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла бежевый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15077",
@@ -5124,7 +5245,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла бежевый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Вилланелла бежевый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 18,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15000",
@@ -5146,7 +5268,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла белый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15075",
@@ -5167,7 +5290,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла белый грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Белый. Размер 15x40 см. Купить Вилланелла белый грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 18,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15072",
@@ -5188,7 +5312,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла коричневый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Коричневый. Размер 15x40 см. Купить Вилланелла коричневый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15070",
@@ -5209,7 +5334,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15071",
@@ -5230,7 +5356,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла серый темный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Вилланелла серый темный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15073",
@@ -5251,7 +5378,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла черный глянцевый 15x40x0,8 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-15076",
@@ -5272,7 +5400,8 @@ export const importedProducts: any[] = [
     "description": "Вилланелла черный грань глянцевый 15x40x0,95 — керамическая плитка коллекции Вилланелла от Kerama Marazzi. Цвет: Черный. Размер 15x40 см. Купить Вилланелла черный грань глянцевый 15x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 18,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/010/izm8zjiyfy0l49g8s3mtlfus3674fi5c.jpg"
   },
   {
     "id": "kerama-marazzi-6436",
@@ -5280,7 +5409,7 @@ export const importedProducts: any[] = [
     "name": "Винетта бежевый светлый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-vinetta-6436",
     "brand": "Kerama Marazzi",
-    "collection": "Винетта",
+    "collection": "и керамогранита Винетта",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -5293,7 +5422,8 @@ export const importedProducts: any[] = [
     "description": "Винетта бежевый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Винетта от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Винетта бежевый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/43f/9ppdqqw1dp63zh954v49rgypnvgg6wxi.png"
   },
   {
     "id": "kerama-marazzi-17063",
@@ -5314,7 +5444,8 @@ export const importedProducts: any[] = [
     "description": "Витраж белый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Витраж белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6dc/ksnt4lo99zvb5h9bh76ztd77f2933n01.jpg"
   },
   {
     "id": "kerama-marazzi-17067",
@@ -5335,7 +5466,8 @@ export const importedProducts: any[] = [
     "description": "Витраж голубой глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Голубой. Размер 15x15 см. Купить Витраж голубой глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6dc/ksnt4lo99zvb5h9bh76ztd77f2933n01.jpg"
   },
   {
     "id": "kerama-marazzi-17064",
@@ -5356,7 +5488,8 @@ export const importedProducts: any[] = [
     "description": "Витраж желтый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж желтый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6dc/ksnt4lo99zvb5h9bh76ztd77f2933n01.jpg"
   },
   {
     "id": "kerama-marazzi-17066",
@@ -5377,7 +5510,8 @@ export const importedProducts: any[] = [
     "description": "Витраж оранжевый глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Размер 15x15 см. Купить Витраж оранжевый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6dc/ksnt4lo99zvb5h9bh76ztd77f2933n01.jpg"
   },
   {
     "id": "kerama-marazzi-17065",
@@ -5398,7 +5532,8 @@ export const importedProducts: any[] = [
     "description": "Витраж синий глянцевый 15x15x0,69 — керамическая плитка коллекции Витраж от Kerama Marazzi. Цвет: Синий. Размер 15x15 см. Купить Витраж синий глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6dc/ksnt4lo99zvb5h9bh76ztd77f2933n01.jpg"
   },
   {
     "id": "kerama-marazzi-20095",
@@ -5406,7 +5541,7 @@ export const importedProducts: any[] = [
     "name": "Вяз бежевый матовый 29,8x29,8x0,35",
     "slug": "kerama-marazzi-vyaz-20095",
     "brand": "Kerama Marazzi",
-    "collection": "Вяз",
+    "collection": "и керамогранита Вяз",
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Бежевый",
@@ -5419,7 +5554,8 @@ export const importedProducts: any[] = [
     "description": "Вяз бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 13,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/4v24r84foduerbyyip16f6vnp4y5m1ed.jpg"
   },
   {
     "id": "kerama-marazzi-20096",
@@ -5427,7 +5563,7 @@ export const importedProducts: any[] = [
     "name": "Вяз бежевый светлый матовый 29,8x29,8x0,35",
     "slug": "kerama-marazzi-vyaz-20096",
     "brand": "Kerama Marazzi",
-    "collection": "Вяз",
+    "collection": "и керамогранита Вяз",
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Бежевый",
@@ -5440,7 +5576,8 @@ export const importedProducts: any[] = [
     "description": "Вяз бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Вяз от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Вяз бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 13,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/6a6/4v24r84foduerbyyip16f6vnp4y5m1ed.jpg"
   },
   {
     "id": "kerama-marazzi-9001",
@@ -5462,7 +5599,8 @@ export const importedProducts: any[] = [
     "description": "Гамма белый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Гамма белый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-9007",
@@ -5483,7 +5621,8 @@ export const importedProducts: any[] = [
     "description": "Гамма кофе с молоком матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма кофе с молоком матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-9004",
@@ -5504,7 +5643,8 @@ export const importedProducts: any[] = [
     "description": "Гамма серый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Гамма серый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-9006",
@@ -5525,7 +5665,8 @@ export const importedProducts: any[] = [
     "description": "Гамма топленое молоко матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма топленое молоко матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-9005",
@@ -5546,7 +5687,8 @@ export const importedProducts: any[] = [
     "description": "Гамма фисташковый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-9003",
@@ -5567,7 +5709,8 @@ export const importedProducts: any[] = [
     "description": "Гамма фисташковый светлый матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма фисташковый светлый матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-9002",
@@ -5588,7 +5731,8 @@ export const importedProducts: any[] = [
     "description": "Гамма чёрный матовый 8,5x28,5x0,92 — керамическая плитка коллекции Гамма от Kerama Marazzi. Размер 8.5x28.5 см. Купить Гамма чёрный матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee9/j19vc4rla9ypv563zn3t9fd6dcl2w3rv.jpg"
   },
   {
     "id": "kerama-marazzi-6341",
@@ -5596,7 +5740,7 @@ export const importedProducts: any[] = [
     "name": "Гран Пале бежевый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-gran-pale-6341",
     "brand": "Kerama Marazzi",
-    "collection": "Гран Пале",
+    "collection": "и керамогранита Гран Пале",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -5609,7 +5753,8 @@ export const importedProducts: any[] = [
     "description": "Гран Пале бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0d3/1bqz668eazbrskimaytsq04wio6l2hws.jpg"
   },
   {
     "id": "kerama-marazzi-6353",
@@ -5617,7 +5762,7 @@ export const importedProducts: any[] = [
     "name": "Гран Пале бежевый панель глянцевый 25x40x0,95",
     "slug": "kerama-marazzi-gran-pale-6353",
     "brand": "Kerama Marazzi",
-    "collection": "Гран Пале",
+    "collection": "и керамогранита Гран Пале",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -5630,7 +5775,8 @@ export const importedProducts: any[] = [
     "description": "Гран Пале бежевый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Гран Пале бежевый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0d3/1bqz668eazbrskimaytsq04wio6l2hws.jpg"
   },
   {
     "id": "kerama-marazzi-6343",
@@ -5638,7 +5784,7 @@ export const importedProducts: any[] = [
     "name": "Гран Пале белый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-gran-pale-6343",
     "brand": "Kerama Marazzi",
-    "collection": "Гран Пале",
+    "collection": "и керамогранита Гран Пале",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Белый",
@@ -5651,7 +5797,8 @@ export const importedProducts: any[] = [
     "description": "Гран Пале белый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0d3/1bqz668eazbrskimaytsq04wio6l2hws.jpg"
   },
   {
     "id": "kerama-marazzi-6357",
@@ -5659,7 +5806,7 @@ export const importedProducts: any[] = [
     "name": "Гран Пале белый панель глянцевый 25x40x0,95",
     "slug": "kerama-marazzi-gran-pale-6357",
     "brand": "Kerama Marazzi",
-    "collection": "Гран Пале",
+    "collection": "и керамогранита Гран Пале",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Белый",
@@ -5672,7 +5819,8 @@ export const importedProducts: any[] = [
     "description": "Гран Пале белый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Гран Пале белый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0d3/1bqz668eazbrskimaytsq04wio6l2hws.jpg"
   },
   {
     "id": "kerama-marazzi-6342",
@@ -5680,7 +5828,7 @@ export const importedProducts: any[] = [
     "name": "Гран Пале серый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-gran-pale-6342",
     "brand": "Kerama Marazzi",
-    "collection": "Гран Пале",
+    "collection": "и керамогранита Гран Пале",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
@@ -5694,7 +5842,8 @@ export const importedProducts: any[] = [
     "description": "Гран Пале серый глянцевый 25x40x0,8 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0d3/1bqz668eazbrskimaytsq04wio6l2hws.jpg"
   },
   {
     "id": "kerama-marazzi-6354",
@@ -5702,7 +5851,7 @@ export const importedProducts: any[] = [
     "name": "Гран Пале серый панель глянцевый 25x40x0,95",
     "slug": "kerama-marazzi-gran-pale-6354",
     "brand": "Kerama Marazzi",
-    "collection": "Гран Пале",
+    "collection": "и керамогранита Гран Пале",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
@@ -5715,7 +5864,8 @@ export const importedProducts: any[] = [
     "description": "Гран Пале серый панель глянцевый 25x40x0,95 — керамическая плитка коллекции Гран Пале от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Гран Пале серый панель глянцевый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/0d3/1bqz668eazbrskimaytsq04wio6l2hws.jpg"
   },
   {
     "id": "kerama-marazzi-17000",
@@ -5737,7 +5887,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно белый глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 15x15 см. Купить Граньяно белый глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-16000",
@@ -5759,7 +5910,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-16032",
@@ -5781,7 +5933,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно белый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Граньяно белый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-17014",
@@ -5802,7 +5955,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно красный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 15x15 см. Купить Граньяно красный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-16014",
@@ -5823,7 +5977,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно красный глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Красный. Размер 7.4x15 см. Купить Граньяно красный глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-17013",
@@ -5844,7 +5999,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно чёрный глянцевый 15x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 15x15 см. Купить Граньяно чёрный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-16013",
@@ -5865,7 +6021,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно чёрный глянцевый 7,4x15x0,69 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Размер 7.4x15 см. Купить Граньяно чёрный глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-16033",
@@ -5886,7 +6043,8 @@ export const importedProducts: any[] = [
     "description": "Граньяно черный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Граньяно от Kerama Marazzi. Цвет: Черный. Размер 7.4x15 см. Купить Граньяно черный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/099/glcn15iasg8wudprk4rn4jr4pdx3ljfo.jpg"
   },
   {
     "id": "kerama-marazzi-19060",
@@ -5907,7 +6065,8 @@ export const importedProducts: any[] = [
     "description": "Граффити белый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Граффити белый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 46,
     "sqm_per_box": 0.91,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a17/ph9agstlml72q12cc3ilyufadrbmbqpf.jpg"
   },
   {
     "id": "kerama-marazzi-19066",
@@ -5928,7 +6087,8 @@ export const importedProducts: any[] = [
     "description": "Граффити серый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 46,
     "sqm_per_box": 0.91,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a17/ph9agstlml72q12cc3ilyufadrbmbqpf.jpg"
   },
   {
     "id": "kerama-marazzi-19065",
@@ -5949,7 +6109,8 @@ export const importedProducts: any[] = [
     "description": "Граффити серый светлый матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый светлый матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 46,
     "sqm_per_box": 0.91,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a17/ph9agstlml72q12cc3ilyufadrbmbqpf.jpg"
   },
   {
     "id": "kerama-marazzi-19067",
@@ -5970,7 +6131,8 @@ export const importedProducts: any[] = [
     "description": "Граффити серый темный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Серый. Размер 9.9x20 см. Купить Граффити серый темный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 46,
     "sqm_per_box": 0.91,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a17/ph9agstlml72q12cc3ilyufadrbmbqpf.jpg"
   },
   {
     "id": "kerama-marazzi-19061",
@@ -5991,7 +6153,8 @@ export const importedProducts: any[] = [
     "description": "Граффити черный матовый 9,9x20x0,8 — керамическая плитка коллекции Граффити от Kerama Marazzi. Цвет: Черный. Размер 9.9x20 см. Купить Граффити черный матовый 9,9x20x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 46,
     "sqm_per_box": 0.91,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a17/ph9agstlml72q12cc3ilyufadrbmbqpf.jpg"
   },
   {
     "id": "kerama-marazzi-9036",
@@ -6012,7 +6175,8 @@ export const importedProducts: any[] = [
     "description": "Дарсена голубой глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Дарсена от Kerama Marazzi. Цвет: Голубой. Размер 8.5x28.5 см. Купить Дарсена голубой глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/9u65p9d30rb0r5s6e1cgm2a3prro4dbp.jpg"
   },
   {
     "id": "kerama-marazzi-9034",
@@ -6033,7 +6197,8 @@ export const importedProducts: any[] = [
     "description": "Дорато белый грань матовый 8,5x28,5x0,92 — керамическая плитка коллекции Дорато от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Дорато белый грань матовый 8,5x28,5x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.97,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/854/n0uoo83fand3k6x8gid7idgvx467h7bc.jpg"
   },
   {
     "id": "kerama-marazzi-20099",
@@ -6054,7 +6219,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 13,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-20098",
@@ -6075,7 +6241,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Золотой пляж бежевый светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 13,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-20100",
@@ -6096,7 +6263,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 13,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-8262",
@@ -6117,7 +6285,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж светлый бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-8264",
@@ -6138,7 +6307,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж светлый бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж светлый бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-20097",
@@ -6159,7 +6329,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж светлый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Размер 29.8x29.8 см. Купить Золотой пляж светлый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 13,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-8263",
@@ -6180,7 +6351,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж темный бежевый матовый 20x30x0,69 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-8274",
@@ -6201,7 +6373,8 @@ export const importedProducts: any[] = [
     "description": "Золотой пляж темный бежевый структура матовый 20x30x0,86 — керамическая плитка коллекции Золотой пляж от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Золотой пляж темный бежевый структура матовый 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8c9/z2z665st1ws15mf8c2lm2du44s5id5dy.jpg"
   },
   {
     "id": "kerama-marazzi-5281",
@@ -6209,7 +6382,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп аквамарин светлый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5281",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6223,7 +6396,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп аквамарин светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп аквамарин светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5276",
@@ -6231,7 +6405,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп бежевый тёмный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5276",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
@@ -6244,7 +6418,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп бежевый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп бежевый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5055",
@@ -6252,7 +6427,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп белый глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5055",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Белый",
@@ -6266,7 +6441,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп белый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Калейдоскоп белый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5009",
@@ -6274,7 +6450,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп белый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5009",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Белый",
@@ -6288,7 +6464,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп белый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Калейдоскоп белый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5185",
@@ -6296,7 +6473,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп бирюза матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5185",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6309,7 +6486,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп бирюза матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бирюза матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5188",
@@ -6317,7 +6495,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп бордо матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5188",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6330,7 +6508,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп бордо матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп бордо матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5056",
@@ -6338,7 +6517,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп голубой глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5056",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
@@ -6351,7 +6530,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5099",
@@ -6359,7 +6539,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп голубой матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5099",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
@@ -6373,7 +6553,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп голубой матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5280",
@@ -6381,7 +6562,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп голубой светлый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5280",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
@@ -6394,7 +6575,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп голубой светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Калейдоскоп голубой светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5182",
@@ -6402,7 +6584,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп графит матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5182",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Графит",
@@ -6416,7 +6598,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп графит матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Графит. Размер 20x20 см. Купить Калейдоскоп графит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5011",
@@ -6424,7 +6607,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп желтый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5011",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6437,7 +6620,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5111",
@@ -6445,7 +6629,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп зеленый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5111",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Зеленый",
@@ -6459,7 +6643,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп зеленый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Калейдоскоп зеленый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5110",
@@ -6467,7 +6652,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп зеленый светлый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5110",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Зеленый",
@@ -6481,7 +6666,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп зеленый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Калейдоскоп зеленый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5278",
@@ -6489,7 +6675,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп зелёный тёмный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5278",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6502,7 +6688,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп зелёный тёмный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп зелёный тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5107",
@@ -6510,7 +6697,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп красный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5107",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Красный",
@@ -6524,7 +6711,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп красный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Красный. Размер 20x20 см. Купить Калейдоскоп красный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5112",
@@ -6532,7 +6720,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп лазурный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5112",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6546,7 +6734,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп лазурный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп лазурный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5057",
@@ -6554,7 +6743,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп оранжевый глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5057",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6567,7 +6756,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5187",
@@ -6575,7 +6765,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп оранжевый светлый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5187",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6588,7 +6778,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп оранжевый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5108",
@@ -6596,7 +6787,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп оранжевый темный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5108",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6610,7 +6801,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп оранжевый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп оранжевый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5183",
@@ -6618,7 +6810,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп пепельный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5183",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6632,7 +6824,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп пепельный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп пепельный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5177",
@@ -6640,7 +6833,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп персиковый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5177",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6653,7 +6846,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп персиковый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп персиковый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5181",
@@ -6661,7 +6855,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп песок матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5181",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6674,7 +6868,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп песок матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп песок матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5184",
@@ -6682,7 +6877,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп розовый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5184",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Розовый",
@@ -6695,7 +6890,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп розовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5169",
@@ -6703,7 +6899,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп розовый светлый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5169",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Розовый",
@@ -6716,7 +6912,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп розовый светлый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5186",
@@ -6724,7 +6921,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп розовый темный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5186",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Розовый",
@@ -6737,7 +6934,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп розовый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Розовый. Размер 20x20 см. Купить Калейдоскоп розовый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5179",
@@ -6745,7 +6943,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп серо-бежевый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5179",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
@@ -6759,7 +6957,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп серо-бежевый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Калейдоскоп серо-бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5012",
@@ -6767,7 +6966,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп серый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5012",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
@@ -6781,7 +6980,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп серый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Калейдоскоп серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5106",
@@ -6789,7 +6989,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп серый темный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5106",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
@@ -6803,7 +7003,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп серый темный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Калейдоскоп серый темный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5113",
@@ -6811,7 +7012,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп синий матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5113",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Синий",
@@ -6824,7 +7025,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп синий матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Калейдоскоп синий матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5275",
@@ -6832,7 +7034,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп слоновая кость матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5275",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6846,7 +7048,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп слоновая кость матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп слоновая кость матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5180",
@@ -6854,7 +7057,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп стальной матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5180",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6868,7 +7071,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп стальной матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп стальной матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5114",
@@ -6876,7 +7080,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп фиолетовый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5114",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6889,7 +7093,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп фиолетовый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп фиолетовый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5115",
@@ -6897,7 +7102,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп черный матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5115",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Черный",
@@ -6910,7 +7115,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп черный матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Цвет: Черный. Размер 20x20 см. Купить Калейдоскоп черный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-5109",
@@ -6918,7 +7124,7 @@ export const importedProducts: any[] = [
     "name": "Калейдоскоп ярко-желтый матовый 20x20x0,69",
     "slug": "kerama-marazzi-kaleydoskop-5109",
     "brand": "Kerama Marazzi",
-    "collection": "Калейдоскоп",
+    "collection": "и керамогранита Калейдоскоп",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -6932,7 +7138,8 @@ export const importedProducts: any[] = [
     "description": "Калейдоскоп ярко-желтый матовый 20x20x0,69 — керамическая плитка коллекции Калейдоскоп от Kerama Marazzi. Размер 20x20 см. Купить Калейдоскоп ярко-желтый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/693/oax3y08mutwrhulrwd00z9rqxp1z7p17.jpg"
   },
   {
     "id": "kerama-marazzi-26362",
@@ -7058,7 +7265,8 @@ export const importedProducts: any[] = [
     "description": "Каннареджо бежевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58d/uc6lfxdcdbx15qgeegu136824me582n3.png"
   },
   {
     "id": "kerama-marazzi-7240",
@@ -7079,7 +7287,8 @@ export const importedProducts: any[] = [
     "description": "Каннареджо бежевый светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Каннареджо бежевый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58d/uc6lfxdcdbx15qgeegu136824me582n3.png"
   },
   {
     "id": "kerama-marazzi-7243",
@@ -7100,7 +7309,8 @@ export const importedProducts: any[] = [
     "description": "Каннареджо зелёный светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо зелёный светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58d/uc6lfxdcdbx15qgeegu136824me582n3.png"
   },
   {
     "id": "kerama-marazzi-7254",
@@ -7121,7 +7331,8 @@ export const importedProducts: any[] = [
     "description": "Каннареджо оранжевый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Размер 20x50 см. Купить Каннареджо оранжевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58d/uc6lfxdcdbx15qgeegu136824me582n3.png"
   },
   {
     "id": "kerama-marazzi-7242",
@@ -7142,7 +7353,8 @@ export const importedProducts: any[] = [
     "description": "Каннареджо синий светлый матовый 20x50x0,8 — керамическая плитка коллекции Каннареджо от Kerama Marazzi. Цвет: Синий. Размер 20x50 см. Купить Каннареджо синий светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58d/uc6lfxdcdbx15qgeegu136824me582n3.png"
   },
   {
     "id": "kerama-marazzi-6429",
@@ -7163,7 +7375,8 @@ export const importedProducts: any[] = [
     "description": "Кантата белый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Кантата белый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ff/93egz8sdpu0b64i1csgcaox8ndqr97m7.png"
   },
   {
     "id": "kerama-marazzi-6431",
@@ -7184,7 +7397,8 @@ export const importedProducts: any[] = [
     "description": "Кантата серый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ff/93egz8sdpu0b64i1csgcaox8ndqr97m7.png"
   },
   {
     "id": "kerama-marazzi-6430",
@@ -7205,7 +7419,8 @@ export const importedProducts: any[] = [
     "description": "Кантата серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Кантата от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Кантата серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ff/93egz8sdpu0b64i1csgcaox8ndqr97m7.png"
   },
   {
     "id": "kerama-marazzi-7186",
@@ -7213,7 +7428,7 @@ export const importedProducts: any[] = [
     "name": "Кантри Шик белый матовый 20x50x0,8",
     "slug": "kerama-marazzi-kantri-shik-7186",
     "brand": "Kerama Marazzi",
-    "collection": "Кантри Шик",
+    "collection": "и керамогранита Кантри Шик",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Белый",
@@ -7226,7 +7441,8 @@ export const importedProducts: any[] = [
     "description": "Кантри Шик белый матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d1e/qeha0p0nunuxvq42zk0o8k438a25qv8u.jpg"
   },
   {
     "id": "kerama-marazzi-7191",
@@ -7234,7 +7450,7 @@ export const importedProducts: any[] = [
     "name": "Кантри Шик белый панель матовый 20x50x0,8",
     "slug": "kerama-marazzi-kantri-shik-7191",
     "brand": "Kerama Marazzi",
-    "collection": "Кантри Шик",
+    "collection": "и керамогранита Кантри Шик",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Белый",
@@ -7247,7 +7463,8 @@ export const importedProducts: any[] = [
     "description": "Кантри Шик белый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d1e/qeha0p0nunuxvq42zk0o8k438a25qv8u.jpg"
   },
   {
     "id": "kerama-marazzi-7188",
@@ -7255,7 +7472,7 @@ export const importedProducts: any[] = [
     "name": "Кантри Шик белый панель матовый декорированный 20x50x0,8",
     "slug": "kerama-marazzi-kantri-shik-7188",
     "brand": "Kerama Marazzi",
-    "collection": "Кантри Шик",
+    "collection": "и керамогранита Кантри Шик",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Белый",
@@ -7268,7 +7485,8 @@ export const importedProducts: any[] = [
     "description": "Кантри Шик белый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Белый. Размер 20x50 см. Купить Кантри Шик белый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d1e/qeha0p0nunuxvq42zk0o8k438a25qv8u.jpg"
   },
   {
     "id": "kerama-marazzi-7187",
@@ -7276,7 +7494,7 @@ export const importedProducts: any[] = [
     "name": "Кантри Шик Полоски матовый 20x50x0,8",
     "slug": "kerama-marazzi-kantri-shik-7187",
     "brand": "Kerama Marazzi",
-    "collection": "Кантри Шик",
+    "collection": "и керамогранита Кантри Шик",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
@@ -7289,7 +7507,8 @@ export const importedProducts: any[] = [
     "description": "Кантри Шик Полоски матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Размер 20x50 см. Купить Кантри Шик Полоски матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d1e/qeha0p0nunuxvq42zk0o8k438a25qv8u.jpg"
   },
   {
     "id": "kerama-marazzi-7192",
@@ -7297,7 +7516,7 @@ export const importedProducts: any[] = [
     "name": "Кантри Шик серый панель матовый 20x50x0,8",
     "slug": "kerama-marazzi-kantri-shik-7192",
     "brand": "Kerama Marazzi",
-    "collection": "Кантри Шик",
+    "collection": "и керамогранита Кантри Шик",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
@@ -7310,7 +7529,8 @@ export const importedProducts: any[] = [
     "description": "Кантри Шик серый панель матовый 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d1e/qeha0p0nunuxvq42zk0o8k438a25qv8u.jpg"
   },
   {
     "id": "kerama-marazzi-7189",
@@ -7318,7 +7538,7 @@ export const importedProducts: any[] = [
     "name": "Кантри Шик серый панель матовый декорированный 20x50x0,8",
     "slug": "kerama-marazzi-kantri-shik-7189",
     "brand": "Kerama Marazzi",
-    "collection": "Кантри Шик",
+    "collection": "и керамогранита Кантри Шик",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
@@ -7331,7 +7551,8 @@ export const importedProducts: any[] = [
     "description": "Кантри Шик серый панель матовый декорированный 20x50x0,8 — керамическая плитка коллекции Кантри Шик от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Кантри Шик серый панель матовый декорированный 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d1e/qeha0p0nunuxvq42zk0o8k438a25qv8u.jpg"
   },
   {
     "id": "kerama-marazzi-5241",
@@ -7339,7 +7560,7 @@ export const importedProducts: any[] = [
     "name": "Капри голубой глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kapri-5241",
     "brand": "Kerama Marazzi",
-    "collection": "Капри",
+    "collection": "Каприччо",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
@@ -7352,7 +7573,8 @@ export const importedProducts: any[] = [
     "description": "Капри голубой глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Голубой. Размер 20x20 см. Купить Капри голубой глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-5240",
@@ -7360,7 +7582,7 @@ export const importedProducts: any[] = [
     "name": "Капри жёлтый глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kapri-5240",
     "brand": "Kerama Marazzi",
-    "collection": "Капри",
+    "collection": "Каприччо",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -7373,7 +7595,8 @@ export const importedProducts: any[] = [
     "description": "Капри жёлтый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри жёлтый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-5242",
@@ -7381,7 +7604,7 @@ export const importedProducts: any[] = [
     "name": "Капри зелёный тёмный глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kapri-5242",
     "brand": "Kerama Marazzi",
-    "collection": "Капри",
+    "collection": "Каприччо",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -7394,7 +7617,8 @@ export const importedProducts: any[] = [
     "description": "Капри зелёный тёмный глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри зелёный тёмный глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-5238",
@@ -7402,7 +7626,7 @@ export const importedProducts: any[] = [
     "name": "Капри оранжевый глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kapri-5238",
     "brand": "Kerama Marazzi",
-    "collection": "Капри",
+    "collection": "Каприччо",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -7415,7 +7639,8 @@ export const importedProducts: any[] = [
     "description": "Капри оранжевый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри оранжевый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-5232",
@@ -7423,7 +7648,7 @@ export const importedProducts: any[] = [
     "name": "Капри светлый глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kapri-5232",
     "brand": "Kerama Marazzi",
-    "collection": "Капри",
+    "collection": "Каприччо",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
@@ -7436,7 +7661,8 @@ export const importedProducts: any[] = [
     "description": "Капри светлый глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Размер 20x20 см. Купить Капри светлый глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-5239",
@@ -7444,7 +7670,7 @@ export const importedProducts: any[] = [
     "name": "Капри синий глянцевый 20x20x0,69",
     "slug": "kerama-marazzi-kapri-5239",
     "brand": "Kerama Marazzi",
-    "collection": "Капри",
+    "collection": "Каприччо",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Синий",
@@ -7457,7 +7683,8 @@ export const importedProducts: any[] = [
     "description": "Капри синий глянцевый 20x20x0,69 — керамическая плитка коллекции Капри от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Капри синий глянцевый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-8352",
@@ -7478,7 +7705,8 @@ export const importedProducts: any[] = [
     "description": "Каприччо белый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Каприччо белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-8354",
@@ -7499,7 +7727,8 @@ export const importedProducts: any[] = [
     "description": "Каприччо коричневый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Коричневый. Размер 20x30 см. Купить Каприччо коричневый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-8353",
@@ -7520,7 +7749,8 @@ export const importedProducts: any[] = [
     "description": "Каприччо серый глянцевый 20x30x0,69 — керамическая плитка коллекции Каприччо от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Каприччо серый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/463/6jxqjzlp06cph66frr8iyrqng4op5v73.png"
   },
   {
     "id": "kerama-marazzi-191",
@@ -8241,7 +8471,8 @@ export const importedProducts: any[] = [
     "description": "Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/af9/ujf0o1vmpdjit689534kntud0eais1j5.jpg"
   },
   {
     "id": "kerama-marazzi-63006",
@@ -8262,7 +8493,8 @@ export const importedProducts: any[] = [
     "description": "Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Бежевый. Размер 29.7x29.8 см. Купить Карму бежевый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/af9/ujf0o1vmpdjit689534kntud0eais1j5.jpg"
   },
   {
     "id": "kerama-marazzi-63007",
@@ -8283,7 +8515,8 @@ export const importedProducts: any[] = [
     "description": "Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 — керамическая плитка коллекции Карму от Kerama Marazzi. Цвет: Серый. Размер 29.7x29.8 см. Купить Карму серый светлый натуральный 29,7x29,8x0,69 из 30 частей 5,2х6 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 7,
     "sqm_per_box": 0.529,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/af9/ujf0o1vmpdjit689534kntud0eais1j5.jpg"
   },
   {
     "id": "kerama-marazzi-3459",
@@ -8305,7 +8538,8 @@ export const importedProducts: any[] = [
     "description": "Кассетоне бежевый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Кассетоне бежевый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c50/jnd8igyug4a6bk76jtjamv549guda9b4.jpg"
   },
   {
     "id": "kerama-marazzi-3462",
@@ -8326,7 +8560,8 @@ export const importedProducts: any[] = [
     "description": "Кассетоне коричневый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Коричневый. Размер 30.2x30.2 см. Купить Кассетоне коричневый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c50/jnd8igyug4a6bk76jtjamv549guda9b4.jpg"
   },
   {
     "id": "kerama-marazzi-3458",
@@ -8347,7 +8582,8 @@ export const importedProducts: any[] = [
     "description": "Кассетоне серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c50/jnd8igyug4a6bk76jtjamv549guda9b4.jpg"
   },
   {
     "id": "kerama-marazzi-3461",
@@ -8368,7 +8604,8 @@ export const importedProducts: any[] = [
     "description": "Кассетоне серый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Кассетоне от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Кассетоне серый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c50/jnd8igyug4a6bk76jtjamv549guda9b4.jpg"
   },
   {
     "id": "kerama-marazzi-16051",
@@ -8389,7 +8626,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо бежевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16052",
@@ -8410,7 +8648,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо бежевый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Клемансо бежевый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16057",
@@ -8431,7 +8670,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо бирюзовый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо бирюзовый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16058",
@@ -8452,7 +8692,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо зелёный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16059",
@@ -8473,7 +8714,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо зелёный тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16055",
@@ -8494,7 +8736,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо оливковый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оливковый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16075",
@@ -8515,7 +8758,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо оранжевый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Размер 7.4x15 см. Купить Клемансо оранжевый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16053",
@@ -8536,7 +8780,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо серый грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-16054",
@@ -8557,7 +8802,8 @@ export const importedProducts: any[] = [
     "description": "Клемансо серый тёмный грань глянцевый 7,4x15x0,92 — керамическая плитка коллекции Клемансо от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Клемансо серый тёмный грань глянцевый 7,4x15x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 80,
     "sqm_per_box": 0.89,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f4d/rga0uakcqvkumkauhl4blu9950i8rpgv.jpg"
   },
   {
     "id": "kerama-marazzi-6437",
@@ -8578,7 +8824,8 @@ export const importedProducts: any[] = [
     "description": "Корредо серый светлый матовый 25x40x0,8 — керамическая плитка коллекции Корредо от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Корредо серый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f65/8daiba4qsp6egntbb02owsktrq3u2q10.jpg"
   },
   {
     "id": "kerama-marazzi-6411",
@@ -8599,7 +8846,8 @@ export const importedProducts: any[] = [
     "description": "Левада бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Левада бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4af/c9e8glemj1k3v30vlao0ipo8km68fyoo.jpg"
   },
   {
     "id": "kerama-marazzi-6410",
@@ -8620,7 +8868,8 @@ export const importedProducts: any[] = [
     "description": "Левада зеленый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4af/c9e8glemj1k3v30vlao0ipo8km68fyoo.jpg"
   },
   {
     "id": "kerama-marazzi-6409",
@@ -8641,7 +8890,8 @@ export const importedProducts: any[] = [
     "description": "Левада зеленый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Зеленый. Размер 25x40 см. Купить Левада зеленый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4af/c9e8glemj1k3v30vlao0ipo8km68fyoo.jpg"
   },
   {
     "id": "kerama-marazzi-6412",
@@ -8662,7 +8912,8 @@ export const importedProducts: any[] = [
     "description": "Левада коричневый глянцевый 25x40x0,88 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Коричневый. Размер 25x40 см. Купить Левада коричневый глянцевый 25x40x0,88 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 10,
     "sqm_per_box": 1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4af/c9e8glemj1k3v30vlao0ipo8km68fyoo.jpg"
   },
   {
     "id": "kerama-marazzi-6415",
@@ -8683,7 +8934,8 @@ export const importedProducts: any[] = [
     "description": "Левада серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Левада от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Левада серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4af/c9e8glemj1k3v30vlao0ipo8km68fyoo.jpg"
   },
   {
     "id": "kerama-marazzi-6400",
@@ -8704,7 +8956,8 @@ export const importedProducts: any[] = [
     "description": "Ломбардиа антрацит матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Антрацит. Размер 25x40 см. Купить Ломбардиа антрацит матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee2/yr861g5k8vachczwmhj8baqfckhimmyh.jpg"
   },
   {
     "id": "kerama-marazzi-6401",
@@ -8725,7 +8978,8 @@ export const importedProducts: any[] = [
     "description": "Ломбардиа бежевый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Ломбардиа бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee2/yr861g5k8vachczwmhj8baqfckhimmyh.jpg"
   },
   {
     "id": "kerama-marazzi-6397",
@@ -8746,7 +9000,8 @@ export const importedProducts: any[] = [
     "description": "Ломбардиа белый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Ломбардиа белый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee2/yr861g5k8vachczwmhj8baqfckhimmyh.jpg"
   },
   {
     "id": "kerama-marazzi-6398",
@@ -8767,7 +9022,8 @@ export const importedProducts: any[] = [
     "description": "Ломбардиа серый матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee2/yr861g5k8vachczwmhj8baqfckhimmyh.jpg"
   },
   {
     "id": "kerama-marazzi-6399",
@@ -8788,7 +9044,8 @@ export const importedProducts: any[] = [
     "description": "Ломбардиа серый темный матовый 25x40x0,8 — керамическая плитка коллекции Ломбардиа от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Ломбардиа серый темный матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ee2/yr861g5k8vachczwmhj8baqfckhimmyh.jpg"
   },
   {
     "id": "kerama-marazzi-26308",
@@ -8935,7 +9192,8 @@ export const importedProducts: any[] = [
     "description": "Маттоне бежевый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Маттоне бежевый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "kerama-marazzi-2908",
@@ -8956,7 +9214,8 @@ export const importedProducts: any[] = [
     "description": "Маттоне коричневый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Маттоне коричневый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "kerama-marazzi-2911",
@@ -8977,7 +9236,8 @@ export const importedProducts: any[] = [
     "description": "Маттоне серый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "kerama-marazzi-2912",
@@ -8998,7 +9258,8 @@ export const importedProducts: any[] = [
     "description": "Маттоне серый светлый матовый 8,5x28,5x0,9 — керамическая плитка коллекции Маттоне от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Маттоне серый светлый матовый 8,5x28,5x0,9 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 42,
     "sqm_per_box": 1.02,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/63e/2e66034xdonnqxns8kkwfmzc69x2kjmx.jpg"
   },
   {
     "id": "kerama-marazzi-8376",
@@ -9006,7 +9267,7 @@ export const importedProducts: any[] = [
     "name": "Мираколи белый глянцевый 20x30x0,69",
     "slug": "kerama-marazzi-mirakoli-8376",
     "brand": "Kerama Marazzi",
-    "collection": "Мираколи",
+    "collection": "и керамогранита Мираколи",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Белый",
@@ -9019,7 +9280,8 @@ export const importedProducts: any[] = [
     "description": "Мираколи белый глянцевый 20x30x0,69 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd1/8o26sksu5sb0xa3p2prk8yivlj2y20sx.png"
   },
   {
     "id": "kerama-marazzi-8377",
@@ -9027,7 +9289,7 @@ export const importedProducts: any[] = [
     "name": "Мираколи белый глянцевый структура 20x30x0,86",
     "slug": "kerama-marazzi-mirakoli-8377",
     "brand": "Kerama Marazzi",
-    "collection": "Мираколи",
+    "collection": "и керамогранита Мираколи",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Белый",
@@ -9040,7 +9302,8 @@ export const importedProducts: any[] = [
     "description": "Мираколи белый глянцевый структура 20x30x0,86 — керамическая плитка коллекции Мираколи от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Мираколи белый глянцевый структура 20x30x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd1/8o26sksu5sb0xa3p2prk8yivlj2y20sx.png"
   },
   {
     "id": "kerama-marazzi-9018",
@@ -9062,7 +9325,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас бежевый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-9022",
@@ -9084,7 +9348,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Монпарнас бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-9016",
@@ -9106,7 +9371,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас белый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Монпарнас белый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-9021",
@@ -9128,7 +9394,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас жёлтый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас жёлтый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-9017",
@@ -9150,7 +9417,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас зелёный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас зелёный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-9019",
@@ -9172,7 +9440,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Монпарнас синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-9020",
@@ -9194,7 +9463,8 @@ export const importedProducts: any[] = [
     "description": "Монпарнас сиреневый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Монпарнас от Kerama Marazzi. Размер 8.5x28.5 см. Купить Монпарнас сиреневый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ffa/ch4msrkd9gdvae3vbk8672ygllaenyg7.jpg"
   },
   {
     "id": "kerama-marazzi-15145",
@@ -9202,7 +9472,7 @@ export const importedProducts: any[] = [
     "name": "Монсанту бежевый светлый глянцевый 15x40x0,8",
     "slug": "kerama-marazzi-monsantu-15145",
     "brand": "Kerama Marazzi",
-    "collection": "Монсанту",
+    "collection": "и керамогранита Монсанту",
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Бежевый",
@@ -9215,7 +9485,8 @@ export const importedProducts: any[] = [
     "description": "Монсанту бежевый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту бежевый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a84/3mntwe2zmq3mvk1wtqe9mvki3rks6rvc.jpg"
   },
   {
     "id": "kerama-marazzi-15146",
@@ -9223,7 +9494,7 @@ export const importedProducts: any[] = [
     "name": "Монсанту панель бежевый светлый глянцевый 15x40x0,93",
     "slug": "kerama-marazzi-monsantu-15146",
     "brand": "Kerama Marazzi",
-    "collection": "Монсанту",
+    "collection": "и керамогранита Монсанту",
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Бежевый",
@@ -9236,7 +9507,8 @@ export const importedProducts: any[] = [
     "description": "Монсанту панель бежевый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Бежевый. Размер 15x40 см. Купить Монсанту панель бежевый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 19,
     "sqm_per_box": 1.14,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a84/3mntwe2zmq3mvk1wtqe9mvki3rks6rvc.jpg"
   },
   {
     "id": "kerama-marazzi-15148",
@@ -9244,7 +9516,7 @@ export const importedProducts: any[] = [
     "name": "Монсанту панель серый светлый глянцевый 15x40x0,93",
     "slug": "kerama-marazzi-monsantu-15148",
     "brand": "Kerama Marazzi",
-    "collection": "Монсанту",
+    "collection": "и керамогранита Монсанту",
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Серый",
@@ -9257,7 +9529,8 @@ export const importedProducts: any[] = [
     "description": "Монсанту панель серый светлый глянцевый 15x40x0,93 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту панель серый светлый глянцевый 15x40x0,93 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 19,
     "sqm_per_box": 1.14,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a84/3mntwe2zmq3mvk1wtqe9mvki3rks6rvc.jpg"
   },
   {
     "id": "kerama-marazzi-15147",
@@ -9265,7 +9538,7 @@ export const importedProducts: any[] = [
     "name": "Монсанту серый светлый глянцевый 15x40x0,8",
     "slug": "kerama-marazzi-monsantu-15147",
     "brand": "Kerama Marazzi",
-    "collection": "Монсанту",
+    "collection": "и керамогранита Монсанту",
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Серый",
@@ -9278,7 +9551,8 @@ export const importedProducts: any[] = [
     "description": "Монсанту серый светлый глянцевый 15x40x0,8 — керамическая плитка коллекции Монсанту от Kerama Marazzi. Цвет: Серый. Размер 15x40 см. Купить Монсанту серый светлый глянцевый 15x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 1.32,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a84/3mntwe2zmq3mvk1wtqe9mvki3rks6rvc.jpg"
   },
   {
     "id": "kerama-marazzi-16086",
@@ -9299,7 +9573,8 @@ export const importedProducts: any[] = [
     "description": "Монтальбано белый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Монтальбано белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fa8/i9he7u361lwrn3ts8zvik5jhqwck3egl.jpg"
   },
   {
     "id": "kerama-marazzi-16091",
@@ -9320,7 +9595,8 @@ export const importedProducts: any[] = [
     "description": "Монтальбано жёлтый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано жёлтый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fa8/i9he7u361lwrn3ts8zvik5jhqwck3egl.jpg"
   },
   {
     "id": "kerama-marazzi-16087",
@@ -9341,7 +9617,8 @@ export const importedProducts: any[] = [
     "description": "Монтальбано зелёный светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Размер 7.4x15 см. Купить Монтальбано зелёный светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 1.58,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fa8/i9he7u361lwrn3ts8zvik5jhqwck3egl.jpg"
   },
   {
     "id": "kerama-marazzi-16088",
@@ -9362,7 +9639,8 @@ export const importedProducts: any[] = [
     "description": "Монтальбано розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Монтальбано розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fa8/i9he7u361lwrn3ts8zvik5jhqwck3egl.jpg"
   },
   {
     "id": "kerama-marazzi-16090",
@@ -9383,7 +9661,8 @@ export const importedProducts: any[] = [
     "description": "Монтальбано серый матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Монтальбано серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fa8/i9he7u361lwrn3ts8zvik5jhqwck3egl.jpg"
   },
   {
     "id": "kerama-marazzi-16089",
@@ -9404,7 +9683,8 @@ export const importedProducts: any[] = [
     "description": "Монтальбано синий матовый 7,4x15x0,69 — керамическая плитка коллекции Монтальбано от Kerama Marazzi. Цвет: Синий. Размер 7.4x15 см. Купить Монтальбано синий матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fa8/i9he7u361lwrn3ts8zvik5jhqwck3egl.jpg"
   },
   {
     "id": "kerama-marazzi-6424",
@@ -9412,7 +9692,7 @@ export const importedProducts: any[] = [
     "name": "Мотиво серый светлый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-motivo-6424",
     "brand": "Kerama Marazzi",
-    "collection": "Мотиво",
+    "collection": "и керамогранита Мотиво",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
@@ -9425,7 +9705,8 @@ export const importedProducts: any[] = [
     "description": "Мотиво серый светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Мотиво от Kerama Marazzi. Цвет: Серый. Размер 25x40 см. Купить Мотиво серый светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/068/ysst3c5q6eqa6md3lgxnj236u8rejl1r.jpg"
   },
   {
     "id": "kerama-marazzi-16028",
@@ -9446,7 +9727,8 @@ export const importedProducts: any[] = [
     "description": "Мурано белый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Мурано белый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/52b33i10o17gr8a05325cwlecw8wzius.jpg"
   },
   {
     "id": "kerama-marazzi-16030",
@@ -9467,7 +9749,8 @@ export const importedProducts: any[] = [
     "description": "Мурано голубой глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Мурано голубой глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/52b33i10o17gr8a05325cwlecw8wzius.jpg"
   },
   {
     "id": "kerama-marazzi-16031",
@@ -9488,7 +9771,8 @@ export const importedProducts: any[] = [
     "description": "Мурано розовый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Мурано розовый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/52b33i10o17gr8a05325cwlecw8wzius.jpg"
   },
   {
     "id": "kerama-marazzi-16029",
@@ -9509,7 +9793,8 @@ export const importedProducts: any[] = [
     "description": "Мурано серый глянцевый 7,4x15x0,69 — керамическая плитка коллекции Мурано от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Мурано серый глянцевый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/52b33i10o17gr8a05325cwlecw8wzius.jpg"
   },
   {
     "id": "kerama-marazzi-6336",
@@ -9517,7 +9802,7 @@ export const importedProducts: any[] = [
     "name": "Пантеон бежевый матовый 25x40x0,8",
     "slug": "kerama-marazzi-panteon-6336",
     "brand": "Kerama Marazzi",
-    "collection": "Пантеон",
+    "collection": "плитки, ступеней и керамогранита Пантеон",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -9530,7 +9815,8 @@ export const importedProducts: any[] = [
     "description": "Пантеон бежевый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4aa/t22yd9h89pvfupddvdo8m2w2gy3b41bd.jpg"
   },
   {
     "id": "kerama-marazzi-6337",
@@ -9538,7 +9824,7 @@ export const importedProducts: any[] = [
     "name": "Пантеон бежевый светлый матовый 25x40x0,8",
     "slug": "kerama-marazzi-panteon-6337",
     "brand": "Kerama Marazzi",
-    "collection": "Пантеон",
+    "collection": "плитки, ступеней и керамогранита Пантеон",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -9551,7 +9837,8 @@ export const importedProducts: any[] = [
     "description": "Пантеон бежевый светлый матовый 25x40x0,8 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4aa/t22yd9h89pvfupddvdo8m2w2gy3b41bd.jpg"
   },
   {
     "id": "kerama-marazzi-6339",
@@ -9559,7 +9846,7 @@ export const importedProducts: any[] = [
     "name": "Пантеон бежевый светлый структура матовый 25x40x0,95",
     "slug": "kerama-marazzi-panteon-6339",
     "brand": "Kerama Marazzi",
-    "collection": "Пантеон",
+    "collection": "плитки, ступеней и керамогранита Пантеон",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -9572,7 +9859,8 @@ export const importedProducts: any[] = [
     "description": "Пантеон бежевый светлый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый светлый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4aa/t22yd9h89pvfupddvdo8m2w2gy3b41bd.jpg"
   },
   {
     "id": "kerama-marazzi-6338",
@@ -9580,7 +9868,7 @@ export const importedProducts: any[] = [
     "name": "Пантеон бежевый структура матовый 25x40x0,95",
     "slug": "kerama-marazzi-panteon-6338",
     "brand": "Kerama Marazzi",
-    "collection": "Пантеон",
+    "collection": "плитки, ступеней и керамогранита Пантеон",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -9593,7 +9881,8 @@ export const importedProducts: any[] = [
     "description": "Пантеон бежевый структура матовый 25x40x0,95 — керамическая плитка коллекции Пантеон от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Пантеон бежевый структура матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4aa/t22yd9h89pvfupddvdo8m2w2gy3b41bd.jpg"
   },
   {
     "id": "kerama-marazzi-9000",
@@ -9612,7 +9901,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773353761/plitki-spb/9000.webp"
     ],
     "description": "Парус белый глянцевый 8,5x28,5x0,69 — керамическая плитка коллекции _без коллекции от Kerama Marazzi. Цвет: Белый. Размер 8.5x28.5 см. Купить Парус белый глянцевый 8,5x28,5x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b81/1chgbmnww8dm6lkjtvljak6rsmlpqtmr.jpeg"
   },
   {
     "id": "kerama-marazzi-6269",
@@ -9629,7 +9919,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Парус белый матовый 25x40x0,8 — керамическая плитка коллекции Парус от Kerama Marazzi. Цвет: Белый. Размер 25x40 см. Купить Парус белый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e95/c4vikhvlrmwiotkayu5vo6pyqgwip73q.jpg"
   },
   {
     "id": "kerama-marazzi-3464",
@@ -9650,7 +9941,8 @@ export const importedProducts: any[] = [
     "description": "Пьяцца бежевый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/2uny9an66wha73gyl6lkjidc3p19mz61.jpg"
   },
   {
     "id": "kerama-marazzi-3463",
@@ -9671,7 +9963,8 @@ export const importedProducts: any[] = [
     "description": "Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Бежевый. Размер 30.2x30.2 см. Купить Пьяцца бежевый тёмный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/2uny9an66wha73gyl6lkjidc3p19mz61.jpg"
   },
   {
     "id": "kerama-marazzi-3452",
@@ -9692,7 +9985,8 @@ export const importedProducts: any[] = [
     "description": "Пьяцца серый светлый матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый светлый матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/2uny9an66wha73gyl6lkjidc3p19mz61.jpg"
   },
   {
     "id": "kerama-marazzi-3454",
@@ -9713,7 +10007,8 @@ export const importedProducts: any[] = [
     "description": "Пьяцца серый темный матовый 30,2x30,2x0,78 — керамическая плитка коллекции Пьяцца от Kerama Marazzi. Цвет: Серый. Размер 30.2x30.2 см. Купить Пьяцца серый темный матовый 30,2x30,2x0,78 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 15,
     "sqm_per_box": 1.37,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/2uny9an66wha73gyl6lkjidc3p19mz61.jpg"
   },
   {
     "id": "kerama-marazzi-7169",
@@ -9721,7 +10016,7 @@ export const importedProducts: any[] = [
     "name": "Резиденция бежевый матовый 20x50x0,8",
     "slug": "kerama-marazzi-rezidentsiya-7169",
     "brand": "Kerama Marazzi",
-    "collection": "Резиденция",
+    "collection": "и керамогранита Резиденция",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Бежевый",
@@ -9734,7 +10029,8 @@ export const importedProducts: any[] = [
     "description": "Резиденция бежевый матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Цвет: Бежевый. Размер 20x50 см. Купить Резиденция бежевый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e1b/i2iqwyhgeyx6b6j944lirnz6bf1yb21e.jpg"
   },
   {
     "id": "kerama-marazzi-7171",
@@ -9742,7 +10038,7 @@ export const importedProducts: any[] = [
     "name": "Резиденция орнамент матовый 20x50x0,8",
     "slug": "kerama-marazzi-rezidentsiya-7171",
     "brand": "Kerama Marazzi",
-    "collection": "Резиденция",
+    "collection": "и керамогранита Резиденция",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
@@ -9755,7 +10051,8 @@ export const importedProducts: any[] = [
     "description": "Резиденция орнамент матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция орнамент матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e1b/i2iqwyhgeyx6b6j944lirnz6bf1yb21e.jpg"
   },
   {
     "id": "kerama-marazzi-7176",
@@ -9763,7 +10060,7 @@ export const importedProducts: any[] = [
     "name": "Резиденция панель матовый 20x50x0,8",
     "slug": "kerama-marazzi-rezidentsiya-7176",
     "brand": "Kerama Marazzi",
-    "collection": "Резиденция",
+    "collection": "и керамогранита Резиденция",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
@@ -9776,7 +10073,8 @@ export const importedProducts: any[] = [
     "description": "Резиденция панель матовый 20x50x0,8 — керамическая плитка коллекции Резиденция от Kerama Marazzi. Размер 20x50 см. Купить Резиденция панель матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e1b/i2iqwyhgeyx6b6j944lirnz6bf1yb21e.jpg"
   },
   {
     "id": "kerama-marazzi-17057",
@@ -9797,7 +10095,8 @@ export const importedProducts: any[] = [
     "description": "Салинас бежевый глянцевый 15x15x0,82 — керамическая плитка коллекции Салинас от Kerama Marazzi. Цвет: Бежевый. Размер 15x15 см. Купить Салинас бежевый глянцевый 15x15x0,82 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1f8/gqep00w95kp5r9vf9hmdp9y6prup1tyd.jpg"
   },
   {
     "id": "kerama-marazzi-17070",
@@ -9818,7 +10117,8 @@ export const importedProducts: any[] = [
     "description": "Сантана зеленый темный глянцевый 15x15x0,69 — керамическая плитка коллекции Сантана от Kerama Marazzi. Цвет: Зеленый. Размер 15x15 см. Купить Сантана зеленый темный глянцевый 15x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 48,
     "sqm_per_box": 1.08,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/152/dw5a5zmnym4pxchc1tm357pgu2y9vs4v.jpg"
   },
   {
     "id": "kerama-marazzi-19075",
@@ -9839,7 +10139,8 @@ export const importedProducts: any[] = [
     "description": "Сеттиньяно белый грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Белый. Размер 9.9x20 см. Купить Сеттиньяно белый грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.792,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b01/ipmbhe43226gmjjzw38od73himvry84x.jpg"
   },
   {
     "id": "kerama-marazzi-19077",
@@ -9860,7 +10161,8 @@ export const importedProducts: any[] = [
     "description": "Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Размер 9.9x20 см. Купить Сеттиньяно зелёный грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.792,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b01/ipmbhe43226gmjjzw38od73himvry84x.jpg"
   },
   {
     "id": "kerama-marazzi-19076",
@@ -9881,7 +10183,8 @@ export const importedProducts: any[] = [
     "description": "Сеттиньяно синий грань глянцевый 9,9x20x0,92 — керамическая плитка коллекции Сеттиньяно от Kerama Marazzi. Цвет: Синий. Размер 9.9x20 см. Купить Сеттиньяно синий грань глянцевый 9,9x20x0,92 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 40,
     "sqm_per_box": 0.792,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b01/ipmbhe43226gmjjzw38od73himvry84x.jpg"
   },
   {
     "id": "kerama-marazzi-16085",
@@ -9902,7 +10205,8 @@ export const importedProducts: any[] = [
     "description": "Сиена серый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Сиена от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Сиена серый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/480/3bpm3gswxq78jsdlzx3oog8awhkqt8yr.jpg"
   },
   {
     "id": "kerama-marazzi-6372",
@@ -9910,7 +10214,7 @@ export const importedProducts: any[] = [
     "name": "Сияние бежевый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-siyanie-6372",
     "brand": "Kerama Marazzi",
-    "collection": "Сияние",
+    "collection": "и керамогранита Сияние",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -9923,7 +10227,8 @@ export const importedProducts: any[] = [
     "description": "Сияние бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/568/yt1qtzqxymy01ne1hulqhhohnnn21hbz.jpg"
   },
   {
     "id": "kerama-marazzi-6375",
@@ -9931,7 +10236,7 @@ export const importedProducts: any[] = [
     "name": "Сияние бежевый структура глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-siyanie-6375",
     "brand": "Kerama Marazzi",
-    "collection": "Сияние",
+    "collection": "и керамогранита Сияние",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -9945,7 +10250,8 @@ export const importedProducts: any[] = [
     "description": "Сияние бежевый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сияние бежевый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/568/yt1qtzqxymy01ne1hulqhhohnnn21hbz.jpg"
   },
   {
     "id": "kerama-marazzi-6373",
@@ -9953,7 +10259,7 @@ export const importedProducts: any[] = [
     "name": "Сияние голубой глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-siyanie-6373",
     "brand": "Kerama Marazzi",
-    "collection": "Сияние",
+    "collection": "и керамогранита Сияние",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Голубой",
@@ -9966,7 +10272,8 @@ export const importedProducts: any[] = [
     "description": "Сияние голубой глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/568/yt1qtzqxymy01ne1hulqhhohnnn21hbz.jpg"
   },
   {
     "id": "kerama-marazzi-6376",
@@ -9974,7 +10281,7 @@ export const importedProducts: any[] = [
     "name": "Сияние голубой структура глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-siyanie-6376",
     "brand": "Kerama Marazzi",
-    "collection": "Сияние",
+    "collection": "и керамогранита Сияние",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Голубой",
@@ -9987,7 +10294,8 @@ export const importedProducts: any[] = [
     "description": "Сияние голубой структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Цвет: Голубой. Размер 25x40 см. Купить Сияние голубой структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/568/yt1qtzqxymy01ne1hulqhhohnnn21hbz.jpg"
   },
   {
     "id": "kerama-marazzi-6374",
@@ -9995,7 +10303,7 @@ export const importedProducts: any[] = [
     "name": "Сияние светлый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-siyanie-6374",
     "brand": "Kerama Marazzi",
-    "collection": "Сияние",
+    "collection": "и керамогранита Сияние",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Микс",
@@ -10008,7 +10316,8 @@ export const importedProducts: any[] = [
     "description": "Сияние светлый глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/568/yt1qtzqxymy01ne1hulqhhohnnn21hbz.jpg"
   },
   {
     "id": "kerama-marazzi-6377",
@@ -10016,7 +10325,7 @@ export const importedProducts: any[] = [
     "name": "Сияние светлый структура глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-siyanie-6377",
     "brand": "Kerama Marazzi",
-    "collection": "Сияние",
+    "collection": "и керамогранита Сияние",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Микс",
@@ -10030,7 +10339,8 @@ export const importedProducts: any[] = [
     "description": "Сияние светлый структура глянцевый 25x40x0,8 — керамическая плитка коллекции Сияние от Kerama Marazzi. Размер 25x40 см. Купить Сияние светлый структура глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/568/yt1qtzqxymy01ne1hulqhhohnnn21hbz.jpg"
   },
   {
     "id": "kerama-marazzi-7256",
@@ -10038,7 +10348,7 @@ export const importedProducts: any[] = [
     "name": "Скарпа серый матовый 20x50x0,8",
     "slug": "kerama-marazzi-skarpa-7256",
     "brand": "Kerama Marazzi",
-    "collection": "Скарпа",
+    "collection": "и керамогранита Скарпа",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
@@ -10051,7 +10361,8 @@ export const importedProducts: any[] = [
     "description": "Скарпа серый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e05/q2g9yt0pgzpemf677oe7a5yd9f6pyw28.png"
   },
   {
     "id": "kerama-marazzi-7258",
@@ -10059,7 +10370,7 @@ export const importedProducts: any[] = [
     "name": "Скарпа серый матовый структура 20x50x0,89",
     "slug": "kerama-marazzi-skarpa-7258",
     "brand": "Kerama Marazzi",
-    "collection": "Скарпа",
+    "collection": "и керамогранита Скарпа",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
@@ -10072,7 +10383,8 @@ export const importedProducts: any[] = [
     "description": "Скарпа серый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e05/q2g9yt0pgzpemf677oe7a5yd9f6pyw28.png"
   },
   {
     "id": "kerama-marazzi-7255",
@@ -10080,7 +10392,7 @@ export const importedProducts: any[] = [
     "name": "Скарпа серый светлый матовый 20x50x0,8",
     "slug": "kerama-marazzi-skarpa-7255",
     "brand": "Kerama Marazzi",
-    "collection": "Скарпа",
+    "collection": "и керамогранита Скарпа",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
@@ -10093,7 +10405,8 @@ export const importedProducts: any[] = [
     "description": "Скарпа серый светлый матовый 20x50x0,8 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый 20x50x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e05/q2g9yt0pgzpemf677oe7a5yd9f6pyw28.png"
   },
   {
     "id": "kerama-marazzi-7257",
@@ -10101,7 +10414,7 @@ export const importedProducts: any[] = [
     "name": "Скарпа серый светлый матовый структура 20x50x0,89",
     "slug": "kerama-marazzi-skarpa-7257",
     "brand": "Kerama Marazzi",
-    "collection": "Скарпа",
+    "collection": "и керамогранита Скарпа",
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
@@ -10114,7 +10427,8 @@ export const importedProducts: any[] = [
     "description": "Скарпа серый светлый матовый структура 20x50x0,89 — керамическая плитка коллекции Скарпа от Kerama Marazzi. Цвет: Серый. Размер 20x50 см. Купить Скарпа серый светлый матовый структура 20x50x0,89 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.2,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e05/q2g9yt0pgzpemf677oe7a5yd9f6pyw28.png"
   },
   {
     "id": "kerama-marazzi-6355",
@@ -10122,7 +10436,7 @@ export const importedProducts: any[] = [
     "name": "Сорбонна бежевый матовый 25x40x0,8",
     "slug": "kerama-marazzi-sorbonna-6355",
     "brand": "Kerama Marazzi",
-    "collection": "Сорбонна",
+    "collection": "и керамогранита Сорбонна",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -10135,7 +10449,8 @@ export const importedProducts: any[] = [
     "description": "Сорбонна бежевый матовый 25x40x0,8 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый матовый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/10a/y3zc8b7q91yb3fn59litxn7w38xod2ns.jpg"
   },
   {
     "id": "kerama-marazzi-6356",
@@ -10143,7 +10458,7 @@ export const importedProducts: any[] = [
     "name": "Сорбонна бежевый панель матовый 25x40x0,95",
     "slug": "kerama-marazzi-sorbonna-6356",
     "brand": "Kerama Marazzi",
-    "collection": "Сорбонна",
+    "collection": "и керамогранита Сорбонна",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -10156,7 +10471,8 @@ export const importedProducts: any[] = [
     "description": "Сорбонна бежевый панель матовый 25x40x0,95 — керамическая плитка коллекции Сорбонна от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Сорбонна бежевый панель матовый 25x40x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 9,
     "sqm_per_box": 0.9,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/10a/y3zc8b7q91yb3fn59litxn7w38xod2ns.jpg"
   },
   {
     "id": "kerama-marazzi-8373",
@@ -10177,7 +10493,8 @@ export const importedProducts: any[] = [
     "description": "Спинелли серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Спинелли от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Спинелли серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d03/5wfm04xfyw9afpudxvjsnctf6yez6w13.png"
   },
   {
     "id": "kerama-marazzi-5288",
@@ -10185,7 +10502,7 @@ export const importedProducts: any[] = [
     "name": "Стемма бежевый глянцевый 20x20x0,86",
     "slug": "kerama-marazzi-stemma-5288",
     "brand": "Kerama Marazzi",
-    "collection": "Стемма",
+    "collection": "и керамогранита Стемма",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
@@ -10198,7 +10515,8 @@ export const importedProducts: any[] = [
     "description": "Стемма бежевый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Стемма бежевый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 0.8,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f60/kaqdbs9rodjlz560hxrj4d6hbwca029o.jpg"
   },
   {
     "id": "kerama-marazzi-5287",
@@ -10206,7 +10524,7 @@ export const importedProducts: any[] = [
     "name": "Стемма белый глянцевый 20x20x0,86",
     "slug": "kerama-marazzi-stemma-5287",
     "brand": "Kerama Marazzi",
-    "collection": "Стемма",
+    "collection": "и керамогранита Стемма",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Белый",
@@ -10219,7 +10537,8 @@ export const importedProducts: any[] = [
     "description": "Стемма белый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Стемма белый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 0.8,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f60/kaqdbs9rodjlz560hxrj4d6hbwca029o.jpg"
   },
   {
     "id": "kerama-marazzi-5290",
@@ -10227,7 +10546,7 @@ export const importedProducts: any[] = [
     "name": "Стемма зеленый темный глянцевый 20x20x0,86",
     "slug": "kerama-marazzi-stemma-5290",
     "brand": "Kerama Marazzi",
-    "collection": "Стемма",
+    "collection": "и керамогранита Стемма",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Зеленый",
@@ -10240,7 +10559,8 @@ export const importedProducts: any[] = [
     "description": "Стемма зеленый темный глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Зеленый. Размер 20x20 см. Купить Стемма зеленый темный глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 0.8,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f60/kaqdbs9rodjlz560hxrj4d6hbwca029o.jpg"
   },
   {
     "id": "kerama-marazzi-5289",
@@ -10248,7 +10568,7 @@ export const importedProducts: any[] = [
     "name": "Стемма коричневый глянцевый 20x20x0,86",
     "slug": "kerama-marazzi-stemma-5289",
     "brand": "Kerama Marazzi",
-    "collection": "Стемма",
+    "collection": "и керамогранита Стемма",
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Коричневый",
@@ -10261,7 +10581,8 @@ export const importedProducts: any[] = [
     "description": "Стемма коричневый глянцевый 20x20x0,86 — керамическая плитка коллекции Стемма от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Стемма коричневый глянцевый 20x20x0,86 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 20,
     "sqm_per_box": 0.8,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f60/kaqdbs9rodjlz560hxrj4d6hbwca029o.jpg"
   },
   {
     "id": "kerama-marazzi-5229",
@@ -10282,7 +10603,8 @@ export const importedProducts: any[] = [
     "description": "Суррей бежевый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Суррей бежевый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 0.88,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/755/9u1gzoa2i9rzkytg4cfg4bi54vrqi3af.jpg"
   },
   {
     "id": "kerama-marazzi-5226",
@@ -10303,7 +10625,8 @@ export const importedProducts: any[] = [
     "description": "Суррей белый глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Цвет: Белый. Размер 20x20 см. Купить Суррей белый глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 0.88,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/755/9u1gzoa2i9rzkytg4cfg4bi54vrqi3af.jpg"
   },
   {
     "id": "kerama-marazzi-5227",
@@ -10324,7 +10647,8 @@ export const importedProducts: any[] = [
     "description": "Суррей глянцевый 20x20x0,83 — керамическая плитка коллекции Суррей от Kerama Marazzi. Размер 20x20 см. Купить Суррей глянцевый 20x20x0,83 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 22,
     "sqm_per_box": 0.88,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/755/9u1gzoa2i9rzkytg4cfg4bi54vrqi3af.jpg"
   },
   {
     "id": "kerama-marazzi-20074",
@@ -10345,7 +10669,8 @@ export const importedProducts: any[] = [
     "description": "Темари бежевый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20009",
@@ -10366,7 +10691,8 @@ export const importedProducts: any[] = [
     "description": "Темари бежевый светлый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый светлый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20075",
@@ -10387,7 +10713,8 @@ export const importedProducts: any[] = [
     "description": "Темари бежевый темный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Бежевый. Размер 29.8x29.8 см. Купить Темари бежевый темный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20003",
@@ -10408,7 +10735,8 @@ export const importedProducts: any[] = [
     "description": "Темари белый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20059",
@@ -10429,7 +10757,8 @@ export const importedProducts: any[] = [
     "description": "Темари белый матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Белый. Размер 29.8x29.8 см. Купить Темари белый матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20070",
@@ -10450,7 +10779,8 @@ export const importedProducts: any[] = [
     "description": "Темари бирюза матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюза матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20090",
@@ -10472,7 +10802,8 @@ export const importedProducts: any[] = [
     "description": "Темари бирюзовый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари бирюзовый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20057",
@@ -10493,7 +10824,8 @@ export const importedProducts: any[] = [
     "description": "Темари бледно-голубой глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Голубой. Размер 29.8x29.8 см. Купить Темари бледно-голубой глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20016",
@@ -10514,7 +10846,8 @@ export const importedProducts: any[] = [
     "description": "Темари голубой глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Голубой. Размер 29.8x29.8 см. Купить Темари голубой глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20053",
@@ -10535,7 +10868,8 @@ export const importedProducts: any[] = [
     "description": "Темари графит глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20064",
@@ -10556,7 +10890,8 @@ export const importedProducts: any[] = [
     "description": "Темари графит матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Графит. Размер 29.8x29.8 см. Купить Темари графит матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20051",
@@ -10577,7 +10912,8 @@ export const importedProducts: any[] = [
     "description": "Темари дымчатый глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20052",
@@ -10598,7 +10934,8 @@ export const importedProducts: any[] = [
     "description": "Темари дымчатый темный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари дымчатый темный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20005",
@@ -10619,7 +10956,8 @@ export const importedProducts: any[] = [
     "description": "Темари красный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Красный. Размер 29.8x29.8 см. Купить Темари красный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20054",
@@ -10640,7 +10978,8 @@ export const importedProducts: any[] = [
     "description": "Темари лайм глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари лайм глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20058",
@@ -10661,7 +11000,8 @@ export const importedProducts: any[] = [
     "description": "Темари серебро глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Размер 29.8x29.8 см. Купить Темари серебро глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20013",
@@ -10682,7 +11022,8 @@ export const importedProducts: any[] = [
     "description": "Темари синий глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Синий. Размер 29.8x29.8 см. Купить Темари синий глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20004",
@@ -10703,7 +11044,8 @@ export const importedProducts: any[] = [
     "description": "Темари черный глянцевый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный глянцевый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-20071",
@@ -10724,7 +11066,8 @@ export const importedProducts: any[] = [
     "description": "Темари черный матовый 29,8x29,8x0,35 — керамическая плитка коллекции Темари от Kerama Marazzi. Цвет: Черный. Размер 29.8x29.8 см. Купить Темари черный матовый 29,8x29,8x0,35 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 12,
     "sqm_per_box": 1.066,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/a96/lkpoyaeyyebdm8744jb1tiqgve5eg8dv.jpg"
   },
   {
     "id": "kerama-marazzi-8063",
@@ -10746,7 +11089,8 @@ export const importedProducts: any[] = [
     "description": "Тигр белый матовый 20x30x0,69 — керамическая плитка коллекции Тигр от Kerama Marazzi. Цвет: Белый. Размер 20x30 см. Купить Тигр белый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/bed/el5cthydxd1gttc2i442gs9faxfoy15i.jpg"
   },
   {
     "id": "kerama-marazzi-16082",
@@ -10767,7 +11111,8 @@ export const importedProducts: any[] = [
     "description": "Тортона бежевый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Бежевый. Размер 7.4x15 см. Купить Тортона бежевый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-16084",
@@ -10788,7 +11133,8 @@ export const importedProducts: any[] = [
     "description": "Тортона белый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Белый. Размер 7.4x15 см. Купить Тортона белый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-16080",
@@ -10809,7 +11155,8 @@ export const importedProducts: any[] = [
     "description": "Тортона голубой светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Голубой. Размер 7.4x15 см. Купить Тортона голубой светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-16079",
@@ -10830,7 +11177,8 @@ export const importedProducts: any[] = [
     "description": "Тортона зеленый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Зеленый. Размер 7.4x15 см. Купить Тортона зеленый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-16078",
@@ -10851,7 +11199,8 @@ export const importedProducts: any[] = [
     "description": "Тортона розовый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-16077",
@@ -10872,7 +11221,8 @@ export const importedProducts: any[] = [
     "description": "Тортона розовый светлый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Розовый. Размер 7.4x15 см. Купить Тортона розовый светлый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-16081",
@@ -10893,7 +11243,8 @@ export const importedProducts: any[] = [
     "description": "Тортона серый матовый 7,4x15x0,69 — керамическая плитка коллекции Тортона от Kerama Marazzi. Цвет: Серый. Размер 7.4x15 см. Купить Тортона серый матовый 7,4x15x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 96,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/951/ot1pes3t2ejca6voyqsvqbj9u1rfzwy2.jpg"
   },
   {
     "id": "kerama-marazzi-9038",
@@ -10914,7 +11265,8 @@ export const importedProducts: any[] = [
     "description": "Тракай бежевый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9040",
@@ -10935,7 +11287,8 @@ export const importedProducts: any[] = [
     "description": "Тракай бежевый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Бежевый. Размер 8.5x28.5 см. Купить Тракай бежевый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9043",
@@ -10956,7 +11309,8 @@ export const importedProducts: any[] = [
     "description": "Тракай бордо глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Размер 8.5x28.5 см. Купить Тракай бордо глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9041",
@@ -10977,7 +11331,8 @@ export const importedProducts: any[] = [
     "description": "Тракай зеленый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Зеленый. Размер 8.5x28.5 см. Купить Тракай зеленый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9039",
@@ -10998,7 +11353,8 @@ export const importedProducts: any[] = [
     "description": "Тракай коричневый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9042",
@@ -11019,7 +11375,8 @@ export const importedProducts: any[] = [
     "description": "Тракай коричневый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Коричневый. Размер 8.5x28.5 см. Купить Тракай коричневый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9037",
@@ -11040,7 +11397,8 @@ export const importedProducts: any[] = [
     "description": "Тракай серый светлый глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый светлый глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9045",
@@ -11061,7 +11419,8 @@ export const importedProducts: any[] = [
     "description": "Тракай серый темный глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Серый. Размер 8.5x28.5 см. Купить Тракай серый темный глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-9044",
@@ -11082,7 +11441,8 @@ export const importedProducts: any[] = [
     "description": "Тракай синий глянцевый 8,5x28,5x0,85 — керамическая плитка коллекции Тракай от Kerama Marazzi. Цвет: Синий. Размер 8.5x28.5 см. Купить Тракай синий глянцевый 8,5x28,5x0,85 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 44,
     "sqm_per_box": 1.07,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/58c/hxo3q2tzddk9ddiyw6bk7408chwq2kgk.jpg"
   },
   {
     "id": "kerama-marazzi-8304",
@@ -11111,7 +11471,7 @@ export const importedProducts: any[] = [
     "name": "Туф бежевый светлый глянцевый 20x30x0,69",
     "slug": "kerama-marazzi-tuf-8340",
     "brand": "Kerama Marazzi",
-    "collection": "Туф",
+    "collection": "и керамогранита Туф",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
@@ -11124,7 +11484,8 @@ export const importedProducts: any[] = [
     "description": "Туф бежевый светлый глянцевый 20x30x0,69 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый глянцевый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9de/aqcj46aoih0xrndxzx5p8r9imdt9aqrz.jpg"
   },
   {
     "id": "kerama-marazzi-8347",
@@ -11132,7 +11493,7 @@ export const importedProducts: any[] = [
     "name": "Туф бежевый светлый грань глянцевый 20x30x0,95",
     "slug": "kerama-marazzi-tuf-8347",
     "brand": "Kerama Marazzi",
-    "collection": "Туф",
+    "collection": "и керамогранита Туф",
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
@@ -11145,7 +11506,8 @@ export const importedProducts: any[] = [
     "description": "Туф бежевый светлый грань глянцевый 20x30x0,95 — керамическая плитка коллекции Туф от Kerama Marazzi. Цвет: Бежевый. Размер 20x30 см. Купить Туф бежевый светлый грань глянцевый 20x30x0,95 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 19,
     "sqm_per_box": 1.14,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9de/aqcj46aoih0xrndxzx5p8r9imdt9aqrz.jpg"
   },
   {
     "id": "kerama-marazzi-8348",
@@ -11166,7 +11528,8 @@ export const importedProducts: any[] = [
     "description": "Ферони серый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/08a/c4bu1dxcccg3dlcd4ifks5v9ar3d4bfd.jpg"
   },
   {
     "id": "kerama-marazzi-8349",
@@ -11187,7 +11550,8 @@ export const importedProducts: any[] = [
     "description": "Ферони серый светлый матовый 20x30x0,69 — керамическая плитка коллекции Ферони от Kerama Marazzi. Цвет: Серый. Размер 20x30 см. Купить Ферони серый светлый матовый 20x30x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 25,
     "sqm_per_box": 1.5,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/08a/c4bu1dxcccg3dlcd4ifks5v9ar3d4bfd.jpg"
   },
   {
     "id": "kerama-marazzi-6330",
@@ -11195,7 +11559,7 @@ export const importedProducts: any[] = [
     "name": "Фоскари бежевый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-foskari-6330",
     "brand": "Kerama Marazzi",
-    "collection": "Фоскари",
+    "collection": "и керамогранита Фоскари",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
@@ -11209,7 +11573,8 @@ export const importedProducts: any[] = [
     "description": "Фоскари бежевый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Бежевый. Размер 25x40 см. Купить Фоскари бежевый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/2ls6tbcs3bg5ld2mlas6zlnu291yuoxs.jpg"
   },
   {
     "id": "kerama-marazzi-6327",
@@ -11217,7 +11582,7 @@ export const importedProducts: any[] = [
     "name": "Фоскари бирюзовый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-foskari-6327",
     "brand": "Kerama Marazzi",
-    "collection": "Фоскари",
+    "collection": "и керамогранита Фоскари",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Микс",
@@ -11230,7 +11595,8 @@ export const importedProducts: any[] = [
     "description": "Фоскари бирюзовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Размер 25x40 см. Купить Фоскари бирюзовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/2ls6tbcs3bg5ld2mlas6zlnu291yuoxs.jpg"
   },
   {
     "id": "kerama-marazzi-6329",
@@ -11238,7 +11604,7 @@ export const importedProducts: any[] = [
     "name": "Фоскари розовый глянцевый 25x40x0,8",
     "slug": "kerama-marazzi-foskari-6329",
     "brand": "Kerama Marazzi",
-    "collection": "Фоскари",
+    "collection": "и керамогранита Фоскари",
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Розовый",
@@ -11251,7 +11617,8 @@ export const importedProducts: any[] = [
     "description": "Фоскари розовый глянцевый 25x40x0,8 — керамическая плитка коллекции Фоскари от Kerama Marazzi. Цвет: Розовый. Размер 25x40 см. Купить Фоскари розовый глянцевый 25x40x0,8 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 11,
     "sqm_per_box": 1.1,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/2ls6tbcs3bg5ld2mlas6zlnu291yuoxs.jpg"
   },
   {
     "id": "kerama-marazzi-16073",
@@ -11293,7 +11660,8 @@ export const importedProducts: any[] = [
     "description": "Чементо антрацит матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Антрацит. Размер 20x20 см. Купить Чементо антрацит матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "kerama-marazzi-5296",
@@ -11314,7 +11682,8 @@ export const importedProducts: any[] = [
     "description": "Чементо бежевый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Бежевый. Размер 20x20 см. Купить Чементо бежевый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "kerama-marazzi-5300",
@@ -11335,7 +11704,8 @@ export const importedProducts: any[] = [
     "description": "Чементо зелёный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Размер 20x20 см. Купить Чементо зелёный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "kerama-marazzi-5297",
@@ -11356,7 +11726,8 @@ export const importedProducts: any[] = [
     "description": "Чементо коричневый тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Коричневый. Размер 20x20 см. Купить Чементо коричневый тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "kerama-marazzi-5295",
@@ -11377,7 +11748,8 @@ export const importedProducts: any[] = [
     "description": "Чементо серый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "kerama-marazzi-5294",
@@ -11398,7 +11770,8 @@ export const importedProducts: any[] = [
     "description": "Чементо серый светлый матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Серый. Размер 20x20 см. Купить Чементо серый светлый матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "kerama-marazzi-5298",
@@ -11419,7 +11792,8 @@ export const importedProducts: any[] = [
     "description": "Чементо синий тёмный матовый 20x20x0,69 — керамическая плитка коллекции Чементо от Kerama Marazzi. Цвет: Синий. Размер 20x20 см. Купить Чементо синий тёмный матовый 20x20x0,69 в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 26,
     "sqm_per_box": 1.04,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/8a3/qf75t1rkm6zuyx0ry7k8ahoo6rnai62j.png"
   },
   {
     "id": "azori-00-00110097",
@@ -32572,7 +32946,7 @@ export const importedProducts: any[] = [
     "description": "Плитка Alan — керамическая плитка коллекции Alan от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 0,
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/f35/8ul9vo2ruparuzlmlubbhkraoy3xx634.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/89c/9n65jhlnbsvl6l5d825bpgia2r39tixu.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-06-1023",
@@ -32592,7 +32966,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Alan Crocus — керамическая плитка коллекции Saboya от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 0,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/89c/9n65jhlnbsvl6l5d825bpgia2r39tixu.jpg"
   },
   {
     "id": "nefrit-04-00-1-18-03-06-1019-0",
@@ -32612,7 +32987,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Декор Alan — керамическая плитка коллекции Alan от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
     "pieces_per_box": 4,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/89c/9n65jhlnbsvl6l5d825bpgia2r39tixu.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-11-1675",
@@ -32940,7 +33316,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Autumn — керамическая плитка коллекции Autumn от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/fd2/8rdpxz02kqoox3m74eft8yj4xdu55dtp.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/17a/3pui02ur84yr9ea2v2p6x1fowzpiky8n.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-06-1022",
@@ -32959,7 +33335,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773827891/plitki-spb/nefrit-kollektsiya-autumn-00-00-5-18-01-06-1022.png"
     ],
     "description": "Плитка Autumn — керамическая плитка коллекции Autumn от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/17a/3pui02ur84yr9ea2v2p6x1fowzpiky8n.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-06-1022-0",
@@ -32978,7 +33355,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773827897/plitki-spb/nefrit-kollektsiya-autumn-04-01-1-18-03-06-1022-0.png"
     ],
     "description": "Декор Autumn — керамическая плитка коллекции Autumn от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/17a/3pui02ur84yr9ea2v2p6x1fowzpiky8n.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-06-1419",
@@ -33434,8 +33812,7 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828032/plitki-spb/nefrit-kollektsiya-lira-00-00-5-18-00-06-1680.png"
     ],
     "description": "Плитка Лира — керамическая плитка коллекции Лира от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/810/r04olgass9p1f4qoi4mo8gp5tjp0ah1d.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-07-00-5-18-00-06-1681",
@@ -33530,8 +33907,7 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828060/plitki-spb/nefrit-kollektsiya-livan-00-00-5-18-00-06-1268.png"
     ],
     "description": "Плитка Ливан — керамическая плитка коллекции Ливан от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/deb/v3fz9i3w1m3ykgylatc9f59jy8nwuym1.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-18-01-06-1268",
@@ -33588,7 +33964,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828078/plitki-spb/nefrit-kollektsiya-liya-00-00-5-18-00-11-1237.png"
     ],
     "description": "Плитка Лия — керамическая плитка коллекции Лия от Нефрит-Керамика. Размер Лия  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e37/ibukfo0t1c6zc3jzrpruk85kgay60khk.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-11-1237",
@@ -33607,7 +33984,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828085/plitki-spb/nefrit-kollektsiya-liya-00-00-5-18-01-11-1237.png"
     ],
     "description": "Плитка Лия — керамическая плитка коллекции Лия от Нефрит-Керамика. Размер Лия  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e37/ibukfo0t1c6zc3jzrpruk85kgay60khk.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-31-11-1249",
@@ -33626,7 +34004,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828090/plitki-spb/nefrit-kollektsiya-liya-00-00-5-18-31-11-1249.png"
     ],
     "description": "Плитка Лия — керамическая плитка коллекции Лия от Нефрит-Керамика. Размер Лия  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e37/ibukfo0t1c6zc3jzrpruk85kgay60khk.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-11-1237-1",
@@ -33645,7 +34024,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828096/plitki-spb/nefrit-kollektsiya-liya-04-01-1-18-03-11-1237-1.png"
     ],
     "description": "Декор Лия Лия Сафи — керамическая плитка коллекции Лия от Нефрит-Керамика. Размер Лия Сафи см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e37/ibukfo0t1c6zc3jzrpruk85kgay60khk.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-11-1238-0",
@@ -33664,7 +34044,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828102/plitki-spb/nefrit-kollektsiya-liya-04-01-1-18-03-11-1238-0.png"
     ],
     "description": "Декор Лия — керамическая плитка коллекции Лия от Нефрит-Керамика. Размер Лия  см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e37/ibukfo0t1c6zc3jzrpruk85kgay60khk.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-11-1077",
@@ -33684,7 +34065,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Madra — керамическая плитка коллекции Madra от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/c30/mmeje4xffs3qyxv364j6o3ymqq52553n.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/d8d/k2xy2jp2qav2jo639q82801ad2mxovz1.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-15-1077",
@@ -33703,7 +34084,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828113/plitki-spb/nefrit-kollektsiya-madra-00-00-5-18-01-15-1077.png"
     ],
     "description": "Плитка Madra — керамическая плитка коллекции Madra от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d8d/k2xy2jp2qav2jo639q82801ad2mxovz1.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-11-1097",
@@ -33722,7 +34104,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828118/plitki-spb/nefrit-kollektsiya-madra-00-00-5-18-01-11-1097.png"
     ],
     "description": "Плитка Madra — керамическая плитка коллекции Madra от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d8d/k2xy2jp2qav2jo639q82801ad2mxovz1.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-11-1098",
@@ -33741,7 +34124,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828124/plitki-spb/nefrit-kollektsiya-madra-00-00-5-18-01-11-1098.png"
     ],
     "description": "Плитка Madra — керамическая плитка коллекции Madra от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d8d/k2xy2jp2qav2jo639q82801ad2mxovz1.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-06-1425",
@@ -33913,7 +34297,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/cdf/hlthg757mnynt7yjxw1rltz3s7s0ky3o.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-06-1070",
@@ -33932,7 +34316,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828184/plitki-spb/nefrit-kollektsiya-olsen-00-00-5-18-01-06-1070.png"
     ],
     "description": "Плитка Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-00-00-4-18-00-06-1071",
@@ -33951,7 +34336,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828190/plitki-spb/nefrit-kollektsiya-olsen-00-00-4-18-00-06-1071.png"
     ],
     "description": "Плитка Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-00-00-4-18-00-10-1072",
@@ -33970,7 +34356,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828196/plitki-spb/nefrit-kollektsiya-olsen-00-00-4-18-00-10-1072.png"
     ],
     "description": "Плитка Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-00-00-4-18-00-10-1073",
@@ -33989,7 +34376,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828202/plitki-spb/nefrit-kollektsiya-olsen-00-00-4-18-00-10-1073.png"
     ],
     "description": "Плитка Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-00-00-4-18-00-10-1074",
@@ -34008,7 +34396,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828209/plitki-spb/nefrit-kollektsiya-olsen-00-00-4-18-00-10-1074.png"
     ],
     "description": "Плитка Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-06-1070-1",
@@ -34027,7 +34416,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828215/plitki-spb/nefrit-kollektsiya-olsen-04-01-1-18-03-06-1070-1.png"
     ],
     "description": "Декор Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-06-1070-2",
@@ -34046,7 +34436,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828220/plitki-spb/nefrit-kollektsiya-olsen-04-01-1-18-03-06-1070-2.png"
     ],
     "description": "Декор Олсен — керамическая плитка коллекции Олсен от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3f4/mngm2crexulvvs3vndif3vsofxhf0uii.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-06-1023",
@@ -34066,7 +34457,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Crocus — керамическая плитка коллекции Crocus от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/d33/qejunw8tl4qy8kwrtyfz6zuj7irtwl3g.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/051/m7vxjjj2s99pnimt4xpu56a2z31ne60f.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-11-1024",
@@ -34085,7 +34476,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828258/plitki-spb/nefrit-kollektsiya-crocus-00-00-5-18-00-11-1024.png"
     ],
     "description": "Плитка Crocus — керамическая плитка коллекции Crocus от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/051/m7vxjjj2s99pnimt4xpu56a2z31ne60f.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-15-1024",
@@ -34104,7 +34496,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828264/plitki-spb/nefrit-kollektsiya-crocus-00-00-5-18-01-15-1024.png"
     ],
     "description": "Плитка Crocus — керамическая плитка коллекции Crocus от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/051/m7vxjjj2s99pnimt4xpu56a2z31ne60f.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-06-1023-0",
@@ -34123,7 +34516,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828269/plitki-spb/nefrit-kollektsiya-crocus-04-01-1-18-03-06-1023-0.png"
     ],
     "description": "Декор Crocus — керамическая плитка коллекции Crocus от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/051/m7vxjjj2s99pnimt4xpu56a2z31ne60f.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-06-1082",
@@ -34143,7 +34537,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Saboya — керамическая плитка коллекции Saboya от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/8c4/x5rlanmh5q7naqloyrqvgnrc02veo0kt.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/dac/6k10q5arj8dp42h202m9ghx7dxvwdjzu.jpg"
   },
   {
     "id": "nefrit-04-01-1-18-03-06-1082-0",
@@ -34162,7 +34556,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828286/plitki-spb/nefrit-kollektsiya-saboya-04-01-1-18-03-06-1082-0.png"
     ],
     "description": "Декор Saboya — керамическая плитка коллекции Saboya от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dac/6k10q5arj8dp42h202m9ghx7dxvwdjzu.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-06-1885",
@@ -34333,8 +34728,7 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828338/plitki-spb/nefrit-kollektsiya-tau-00-00-5-18-00-11-1272.png"
     ],
     "description": "Плитка Тау — керамическая плитка коллекции Тау от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/54a/3wm0iwpkjdfzzbsoza5hh761ktsmtqnq.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-18-01-11-1272",
@@ -34657,7 +35051,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828436/plitki-spb/nefrit-kollektsiya-fyorns-00-00-5-18-00-00-1600.png"
     ],
     "description": "Плитка Фёрнс — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-11-1601",
@@ -34676,7 +35071,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828442/plitki-spb/nefrit-kollektsiya-fyorns-00-00-5-18-00-11-1601.png"
     ],
     "description": "Плитка Фёрнс — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-81-1603",
@@ -34695,7 +35091,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828447/plitki-spb/nefrit-kollektsiya-fyorns-00-00-5-18-00-81-1603.png"
     ],
     "description": "Плитка Фёрнс — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-07-00-5-18-00-81-1604",
@@ -34714,7 +35111,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828452/plitki-spb/nefrit-kollektsiya-fyorns-07-00-5-18-00-81-1604.png"
     ],
     "description": "Декор Фёрнс — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить дек.массив в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-07-00-5-18-00-81-1605",
@@ -34733,7 +35131,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828459/plitki-spb/nefrit-kollektsiya-fyorns-07-00-5-18-00-81-1605.png"
     ],
     "description": "Декор Фёрнс — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить дек.массив в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-06-01-1-46-05-15-1600-1",
@@ -34752,7 +35151,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828466/plitki-spb/nefrit-kollektsiya-fyorns-06-01-1-46-05-15-1600-1.png"
     ],
     "description": "комплект — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-05-01-1-63-05-15-1602-0",
@@ -34771,7 +35171,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828471/plitki-spb/nefrit-kollektsiya-fyorns-05-01-1-63-05-15-1602-0.png"
     ],
     "description": "бордюр — керамическая плитка коллекции Фёрнс от Нефрит-Керамика. Размер Фёрнс  см. Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6f/8b61ndmgbqgrlfsmjcexwmwblu9kroz8.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-20-3010",
@@ -34790,8 +35191,7 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828476/plitki-spb/nefrit-kollektsiya-khilton-00-00-5-18-00-20-3010.png"
     ],
     "description": "Плитка Хилтон — керамическая плитка коллекции Хилтон от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/302/au3zcw0sc0re20fg0dlkl2plp7t5uo8s.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-18-00-15-3011",
@@ -34849,7 +35249,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Hugo — керамическая плитка коллекции Hugo от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/2f0/bjolg3ud7a751p1imr29m7f6ndremxjr.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/c6a/0lf2wota47kzqzqic0rvxw853uwxib1p.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-06-1088",
@@ -34868,7 +35268,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828504/plitki-spb/nefrit-kollektsiya-hugo-00-00-5-18-01-06-1088.png"
     ],
     "description": "Плитка Hugo — керамическая плитка коллекции Hugo от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c6a/0lf2wota47kzqzqic0rvxw853uwxib1p.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-01-06-1089",
@@ -34887,7 +35288,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828510/plitki-spb/nefrit-kollektsiya-hugo-00-00-5-18-01-06-1089.png"
     ],
     "description": "Плитка Hugo — керамическая плитка коллекции Hugo от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c6a/0lf2wota47kzqzqic0rvxw853uwxib1p.jpg"
   },
   {
     "id": "nefrit-00-00-5-18-00-61-1465",
@@ -35123,7 +35525,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-18-00-02-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -35134,7 +35536,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828582/plitki-spb/nefrit-odnotonnaya-00-00-4-18-00-02-000.png"
     ],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-00-11-2720",
@@ -35381,8 +35784,7 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828656/plitki-spb/nefrit-kollektsiya-venera-00-00-5-17-00-06-1209.png"
     ],
     "description": "Плитка Venera — керамическая плитка коллекции Venera от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/044/3nir7lc27jar16wn0en3zv6x1q249fbk.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-17-01-15-1209",
@@ -36048,7 +36450,7 @@ export const importedProducts: any[] = [
     ],
     "description": "Плитка Light — керамическая плитка коллекции Light от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/e29/5gqklo10n4gkbtjzo4ufdkadyty8mh0o.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-00-00-4-17-01-11-1043",
@@ -36067,7 +36469,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828858/plitki-spb/nefrit-kollektsiya-light-00-00-4-17-01-11-1043.png"
     ],
     "description": "Плитка Light — керамическая плитка коллекции Light от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-00-00-4-17-00-11-1044",
@@ -36086,7 +36489,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773828863/plitki-spb/nefrit-kollektsiya-light-00-00-4-17-00-11-1044.png"
     ],
     "description": "Плитка Light — керамическая плитка коллекции Light от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-00-11-1214",
@@ -36656,8 +37060,7 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829040/plitki-spb/nefrit-kollektsiya-miass-00-00-5-17-00-06-1263.png"
     ],
     "description": "Плитка Миасс — керамическая плитка коллекции Миасс от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/e92/67hjordqu4mtlfilpenmncbizq5flsi6.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-17-01-06-1263",
@@ -37227,7 +37630,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829213/plitki-spb/nefrit-kollektsiya-portelu-00-00-5-17-00-23-1211.png"
     ],
     "description": "Плитка Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-00-00-5-17-01-23-1212",
@@ -37246,7 +37650,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829219/plitki-spb/nefrit-kollektsiya-portelu-00-00-5-17-01-23-1212.png"
     ],
     "description": "Плитка Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-00-00-5-17-00-06-1211",
@@ -37265,7 +37670,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829225/plitki-spb/nefrit-kollektsiya-portelu-00-00-5-17-00-06-1211.png"
     ],
     "description": "Плитка Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-00-00-5-17-01-06-1212",
@@ -37284,7 +37690,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829230/plitki-spb/nefrit-kollektsiya-portelu-00-00-5-17-01-06-1212.png"
     ],
     "description": "Плитка Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-04-01-1-17-03-23-1211-0",
@@ -37303,7 +37710,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829236/plitki-spb/nefrit-kollektsiya-portelu-04-01-1-17-03-23-1211-0.png"
     ],
     "description": "Декор Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-04-01-1-17-03-23-1213-0",
@@ -37322,7 +37730,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829241/plitki-spb/nefrit-kollektsiya-portelu-04-01-1-17-03-23-1213-0.png"
     ],
     "description": "Декор Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-04-01-1-17-03-06-1211-0",
@@ -37341,7 +37750,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829247/plitki-spb/nefrit-kollektsiya-portelu-04-01-1-17-03-06-1211-0.png"
     ],
     "description": "Декор Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-04-01-1-17-03-06-1213-0",
@@ -37360,7 +37770,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773829253/plitki-spb/nefrit-kollektsiya-portelu-04-01-1-17-03-06-1213-0.png"
     ],
     "description": "Декор Портелу — керамическая плитка коллекции Портелу от Нефрит-Керамика. Размер Портелу  см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fe0/gslauxb8zq6h7dpcp0y3rjy8h7jsfqsv.jpeg"
   },
   {
     "id": "nefrit-00-00-5-17-00-06-865",
@@ -38738,8 +39149,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Тресса — керамическая плитка коллекции Тресса от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/c57/qyzqkunokrf586x6jw465jlcuhz6nekx.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-17-01-15-1027",
@@ -38807,7 +39217,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-00-06-3051",
@@ -38824,7 +39235,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-01-06-3050",
@@ -38841,7 +39253,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-00-11-3050",
@@ -38858,7 +39271,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-00-11-3051",
@@ -38875,7 +39289,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-01-11-3050",
@@ -38892,7 +39307,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-04-01-1-17-03-06-3050-0",
@@ -38909,7 +39325,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-04-01-1-17-03-11-3050-0",
@@ -38926,7 +39343,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Фореста — керамическая плитка коллекции Фореста от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/55b/k1lroa70yuhrc1lmr519nver9rdshvac.jpg"
   },
   {
     "id": "nefrit-00-00-5-17-00-00-2723",
@@ -39257,7 +39675,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-5-17-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -39266,7 +39684,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-17-00-00-000",
@@ -39274,7 +39693,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-17-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -39283,7 +39702,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-00-06-460",
@@ -39300,8 +39720,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Пастораль — керамическая плитка коллекции Пастораль (Амелия) от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/928/coz9q4xg71jsp5zdd099yhexcsingo9a.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-05-01-1-97-05-06-465-0",
@@ -39386,8 +39805,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Аликанте — керамическая плитка коллекции Аликанте от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/acc/mbvxvrw7m3yczc87c5utv2wm7powuako.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-10-01-11-119",
@@ -39523,8 +39941,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Альбори — керамическая плитка коллекции Альбори от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/9a6/4zwfbqjcddlt0vg5bczjz1p8l4nn3ghp.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-10-01-06-1040",
@@ -39830,7 +40247,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Болеро — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-00-00-4-10-01-04-112",
@@ -39847,7 +40265,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Болеро — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-03-65-122-1",
@@ -39864,7 +40283,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Болеро — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-03-65-122-2",
@@ -39881,7 +40301,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Болеро — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-04-04-162-1",
@@ -39898,7 +40319,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Болеро Орхидея — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-04-04-162-2",
@@ -39915,7 +40337,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Болеро Орхидея — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-05-01-1-37-03-65-122-0",
@@ -39932,7 +40355,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Болеро от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c8d/g63m0nnmmrq2tj5xs1jvjarb7ffvl2h8.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-00-06-1002",
@@ -39949,8 +40373,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Брилон — керамическая плитка коллекции Брилон от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/c9d/lne199akqmehcjq1mlx8y4crff9oa95s.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-10-01-06-1002",
@@ -40613,7 +41036,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Дрим — керамическая плитка коллекции Дрим от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a6/8ttq1frp9foinm30osstrbvy35be61cs.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-01-51-3080",
@@ -40630,7 +41054,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Дрим — керамическая плитка коллекции Дрим от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a6/8ttq1frp9foinm30osstrbvy35be61cs.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-01-61-3080",
@@ -40647,7 +41072,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Дрим — керамическая плитка коллекции Дрим от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a6/8ttq1frp9foinm30osstrbvy35be61cs.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-31-51-3081",
@@ -40664,7 +41090,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Дрим — керамическая плитка коллекции Дрим от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a6/8ttq1frp9foinm30osstrbvy35be61cs.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-31-61-3081",
@@ -40681,7 +41108,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Дрим — керамическая плитка коллекции Дрим от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a6/8ttq1frp9foinm30osstrbvy35be61cs.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-03-51-3080-0",
@@ -40698,7 +41126,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Дрим — керамическая плитка коллекции Дрим от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a6/8ttq1frp9foinm30osstrbvy35be61cs.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-00-20-1038",
@@ -40715,8 +41144,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Итан — керамическая плитка коллекции Итан от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/0d8/px0yilmcesmcnjz2oiqk7112myre5qza.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-10-01-15-1038",
@@ -40818,8 +41246,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Касл — керамическая плитка коллекции Эмбер от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/b32/cqsqei1y58ec5mdh38qrrfc9apcaok0t.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-10-01-18-1055",
@@ -41143,7 +41570,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Меланж — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-11-11-440",
@@ -41160,7 +41588,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Меланж — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-10-61-440",
@@ -41177,7 +41606,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Меланж — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-11-61-440",
@@ -41194,7 +41624,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Меланж — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-09-00-5-10-30-11-440",
@@ -41211,7 +41642,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "мозаика — мозаика коллекции Меланж от Нефрит-Керамика.  Купить мозаика в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-09-00-5-10-30-61-440",
@@ -41228,7 +41660,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "мозаика — мозаика коллекции Меланж от Нефрит-Керамика.  Купить мозаика в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "both"
+    "usage": "both",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-06-01-1-45-04-11-440-0",
@@ -41245,7 +41678,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-06-01-1-45-04-61-440-0",
@@ -41262,7 +41696,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-05-01-1-47-03-11-440-0",
@@ -41279,7 +41714,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-05-01-1-47-03-61-440-0",
@@ -41296,7 +41732,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Меланж от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/166/mtiwp2wpgkrl9un84t1l1uc8avobgev4.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-03-06-1057-0",
@@ -41313,8 +41750,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Мемори — керамическая плитка коллекции Мемори от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/b5c/ap6rsjiiiy8aoq0h8m22r1bzo0fnae1u.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-04-01-1-10-03-18-1057-0",
@@ -41569,8 +42005,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Онли — керамическая плитка коллекции Онли от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/58a/v41y5wznfeyd6f61yagr2ozyegzd34x2.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-4-10-00-06-1068",
@@ -41842,8 +42277,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Тайлер — керамическая плитка коллекции Тайлер от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/a1e/7axozgd9ezohxuxn2nps3dochg241pjb.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-5-10-01-06-1091",
@@ -42064,7 +42498,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фреш — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-11-47-330",
@@ -42082,7 +42517,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фреш — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-11-51-330",
@@ -42099,7 +42535,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фреш — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-11-04-330",
@@ -42116,7 +42553,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фреш — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-04-01-1-10-04-04-330-0",
@@ -42133,7 +42571,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Фреш — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-06-01-1-23-04-04-332-0",
@@ -42150,7 +42589,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-06-01-1-23-04-04-331-0",
@@ -42167,7 +42607,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-06-01-1-64-04-51-333-0",
@@ -42184,7 +42625,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-06-01-1-64-04-21-160-0",
@@ -42201,7 +42643,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-05-01-1-77-05-51-333-0",
@@ -42218,7 +42661,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-05-01-1-77-05-47-160-0",
@@ -42235,7 +42679,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-05-01-1-77-05-04-330-0",
@@ -42252,7 +42697,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Фреш от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c65/3mfjztr062a86wjc47buxcfwheuw6uds.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-00-11-1059",
@@ -42287,7 +42733,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эмбер — керамическая плитка коллекции Эмбер от Нефрит-Керамика.  Купить дек.массив в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d54/viesyvzpis0gm6p2nxugwq92b1yrjoqg.jpg"
   },
   {
     "id": "nefrit-07-00-5-10-00-10-1061",
@@ -42304,7 +42751,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эмбер — керамическая плитка коллекции Эмбер от Нефрит-Керамика.  Купить дек.массив в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d54/viesyvzpis0gm6p2nxugwq92b1yrjoqg.jpg"
   },
   {
     "id": "nefrit-00-00-5-10-00-11-3040",
@@ -42380,7 +42828,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-5-10-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -42389,7 +42837,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-10-00-00-000",
@@ -42397,7 +42846,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-10-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -42406,7 +42855,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-10-00-01-000",
@@ -42414,7 +42864,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-10-00-01-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -42423,7 +42873,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-5-09-00-15-100",
@@ -42729,7 +43180,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кензо — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-00-00-4-09-01-15-054",
@@ -42747,7 +43199,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кензо — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-185-0",
@@ -42764,7 +43217,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кензо Арабески — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-21-185-0",
@@ -42781,7 +43235,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кензо Арабески — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-075-1",
@@ -42798,7 +43253,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кензо — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-075-2",
@@ -42815,7 +43271,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кензо — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-05-01-1-76-03-15-075-0",
@@ -42832,7 +43289,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Кензо от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/fb6/gdm29d0s2ufle3nulvtn6b8f9umfj3k6.jpg"
   },
   {
     "id": "nefrit-00-00-4-09-00-21-046",
@@ -42849,7 +43307,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Piano — керамическая плитка коллекции Piano от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-00-00-4-09-01-15-046",
@@ -42866,7 +43325,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Piano — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-00-00-4-09-01-04-046",
@@ -42883,7 +43343,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Piano — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-081-1",
@@ -42900,7 +43361,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Piano — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-081-2",
@@ -42917,7 +43379,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Piano — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-04-01-1-09-03-04-081-1",
@@ -42934,7 +43397,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Piano — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-04-01-1-09-03-04-081-2",
@@ -42951,7 +43415,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Piano — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-05-01-1-56-03-15-081-0",
@@ -42968,7 +43433,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-05-01-1-56-03-04-081-0",
@@ -42985,7 +43451,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Piano от Нефрит-Керамика. Размер Piano СНЯТА С ПРОИЗ-ВА см. Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2ea/7hey4it05ca4o92ytwcgac2w0ou8bj2a.jpeg"
   },
   {
     "id": "nefrit-00-00-5-09-00-11-365",
@@ -43240,7 +43707,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-00-00-5-09-01-15-1020",
@@ -43257,7 +43725,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-00-00-5-09-00-06-1020",
@@ -43274,7 +43743,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-00-00-5-09-01-06-1020",
@@ -43291,7 +43761,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-1020-1",
@@ -43308,7 +43779,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-1020-2",
@@ -43325,7 +43797,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-06-1020-1",
@@ -43342,7 +43815,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-06-1020-2",
@@ -43359,7 +43833,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-15-1021-1",
@@ -43376,7 +43851,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-03-06-1021-1",
@@ -43393,7 +43869,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Эрмида — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-05-01-1-56-03-15-1020-1",
@@ -43410,7 +43887,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-05-01-1-56-03-15-1020-2",
@@ -43427,7 +43905,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-05-01-1-56-03-06-1020-1",
@@ -43444,7 +43923,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-05-01-1-56-03-06-1020-2",
@@ -43461,7 +43941,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Эрмида от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/5a5/bmiydpnw3ui3frrt11ytbtyv3d4wm9dx.jpg"
   },
   {
     "id": "nefrit-00-00-4-09-00-00-000",
@@ -43469,7 +43950,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-09-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -43478,7 +43959,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-00-1479",
@@ -43631,7 +44113,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-47-098",
@@ -43648,7 +44131,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-61-098",
@@ -43665,7 +44149,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-04-098",
@@ -43682,7 +44167,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-47-100-1",
@@ -43699,7 +44185,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-47-100-2",
@@ -43716,7 +44203,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-47-100-3",
@@ -43733,7 +44221,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-04-100-1",
@@ -43750,7 +44239,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-04-100-2",
@@ -43767,7 +44257,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-04-100-3",
@@ -43784,7 +44275,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Аллегро — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-05-01-1-56-03-47-100-1",
@@ -43801,7 +44293,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-05-01-1-56-03-04-100-1",
@@ -43818,7 +44311,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-05-01-1-52-03-47-100-1",
@@ -43835,7 +44329,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-05-01-1-52-03-04-100-1",
@@ -43852,7 +44347,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Аллегро от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ac0/v1l5gzo3yybos3v1mkbqupe5qxhhdu60.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-01-15-720",
@@ -43869,7 +44365,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Ваниль — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-15-720-1",
@@ -43886,7 +44383,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Ваниль — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-15-720-2",
@@ -43903,7 +44401,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Ваниль — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-21-720-1",
@@ -43920,7 +44419,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Ваниль — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-04-01-1-08-03-21-720-2",
@@ -43937,7 +44437,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Ваниль — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-05-01-1-36-03-15-720-0",
@@ -43954,7 +44455,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-05-01-1-36-03-21-720-0",
@@ -43971,7 +44473,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Ваниль от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/70b/sgmjx3c5b6v1tmv5k8v8sswfixts3cw5.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-11-2745",
@@ -44396,7 +44899,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кураж 2 — керамическая плитка коллекции Кураж 3 от Нефрит-Керамика. Размер Кураж 2 см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-11-45-004",
@@ -44413,7 +44917,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кураж 2 — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика. Размер Кураж 2 см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-11-35-004",
@@ -44430,7 +44935,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кураж 2 — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика. Размер Кураж 2 см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-11-81-004",
@@ -44447,7 +44953,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кураж 2 — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика. Размер Кураж 2 см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-11-55-004",
@@ -44464,7 +44971,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кураж 2 — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика. Размер Кураж 2 см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-11-04-004",
@@ -44481,7 +44989,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Кураж 2 — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика. Размер Кураж 2 см. Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-00-45-050-0",
@@ -44498,7 +45007,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кураж 2 Монро — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-00-35-050-0",
@@ -44515,7 +45025,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кураж 2 Монро — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-00-81-050-0",
@@ -44532,7 +45043,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кураж 2 Монро — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-00-55-050-0",
@@ -44549,7 +45061,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кураж 2 Монро — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-04-01-1-09-00-04-050-0",
@@ -44566,7 +45079,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Кураж 2 Монро — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-05-01-1-76-00-45-050-0",
@@ -44583,7 +45097,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-05-01-1-76-00-35-050-0",
@@ -44600,7 +45115,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-05-01-1-76-00-81-050-0",
@@ -44617,7 +45133,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-05-01-1-76-00-55-050-0",
@@ -44634,7 +45151,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-05-01-1-76-00-04-050-0",
@@ -44651,7 +45169,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Кураж 2 от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/02e/hp6wv8qlv7bpe6yvuw9xpfy6ore1btvy.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-11-65-2030",
@@ -44771,7 +45290,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-00-11-3025",
@@ -44788,7 +45308,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-06-3025",
@@ -44806,7 +45327,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-61-3025",
@@ -44823,7 +45345,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-85-3025",
@@ -44841,7 +45364,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-33-3025",
@@ -44859,7 +45383,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-35-3025",
@@ -44877,7 +45402,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-01-45-3025",
@@ -44894,7 +45420,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-04-00-1-08-05-10-3025-0",
@@ -44911,7 +45438,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Kids — керамическая плитка коллекции Kids от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-06-00-1-52-05-01-3026-0",
@@ -44928,7 +45456,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Kids от Нефрит-Керамика. Размер Kids Safari см. Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-06-00-1-52-05-01-3027-0",
@@ -44945,7 +45474,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Kids от Нефрит-Керамика. Размер Kids Sky см. Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-06-00-1-52-05-01-3028-0",
@@ -44962,7 +45492,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "комплект — керамическая плитка коллекции Kids от Нефрит-Керамика. Размер Kids Flora см. Купить комплект в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b5c/e3dp7frosqlj854m5t0pic0ywolwz296.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-21-249",
@@ -45200,7 +45731,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Одри — керамическая плитка коллекции Одри от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/lku2cv9rnuyllg0c07bewavt75ovygb7.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-01-06-2910",
@@ -45217,7 +45749,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Одри — керамическая плитка коллекции Одри от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/lku2cv9rnuyllg0c07bewavt75ovygb7.jpg"
   },
   {
     "id": "nefrit-07-00-5-08-00-06-2911",
@@ -45234,7 +45767,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Одри — керамическая плитка коллекции Одри от Нефрит-Керамика.  Купить дек.массив в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/lku2cv9rnuyllg0c07bewavt75ovygb7.jpg"
   },
   {
     "id": "nefrit-07-00-5-08-00-06-2912",
@@ -45251,7 +45785,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Одри — керамическая плитка коллекции Одри от Нефрит-Керамика.  Купить дек.массив в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/lku2cv9rnuyllg0c07bewavt75ovygb7.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-10-06-1015",
@@ -45268,7 +45803,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-00-00-5-08-11-06-1015",
@@ -45285,7 +45821,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-00-00-5-08-10-06-1016",
@@ -45302,7 +45839,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-00-00-5-08-10-17-1015",
@@ -45319,7 +45857,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-00-00-5-08-11-17-1015",
@@ -45336,7 +45875,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-00-00-5-08-10-17-1016",
@@ -45353,7 +45893,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-05-01-1-62-04-06-1015-0",
@@ -45370,7 +45911,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-05-01-1-62-04-17-1015-0",
@@ -45387,7 +45929,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "бордюр — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить бордюр в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-04-01-1-08-03-06-1017-1",
@@ -45404,7 +45947,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-04-01-1-08-03-06-1017-2",
@@ -45421,7 +45965,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-04-01-1-08-04-06-1015-0",
@@ -45438,7 +45983,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-04-01-1-08-03-17-1017-1",
@@ -45455,7 +46001,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-04-01-1-08-03-17-1017-2",
@@ -45472,7 +46019,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-04-01-1-08-04-17-1015-0",
@@ -45489,7 +46037,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Декор Преза — керамическая плитка коллекции Преза от Нефрит-Керамика.  Купить вставка дек. в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/320/zvlzazhfwx6wqhw0dqg05w44ppbnqqmw.jpeg"
   },
   {
     "id": "nefrit-00-00-5-08-00-00-2730",
@@ -45506,7 +46055,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фьюжен — керамическая плитка коллекции Фьюжен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e31/lkeccw9jbseqnvrtl8kj8nibqwm4p6sc.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-01-06-2730",
@@ -45523,7 +46073,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фьюжен — керамическая плитка коллекции Фьюжен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e31/lkeccw9jbseqnvrtl8kj8nibqwm4p6sc.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-00-2731",
@@ -45540,7 +46091,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фьюжен — керамическая плитка коллекции Фьюжен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e31/lkeccw9jbseqnvrtl8kj8nibqwm4p6sc.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-00-2732",
@@ -45557,7 +46109,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фьюжен — керамическая плитка коллекции Фьюжен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e31/lkeccw9jbseqnvrtl8kj8nibqwm4p6sc.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-00-2733",
@@ -45574,7 +46127,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Фьюжен — керамическая плитка коллекции Фьюжен от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e31/lkeccw9jbseqnvrtl8kj8nibqwm4p6sc.jpg"
   },
   {
     "id": "nefrit-00-00-5-08-00-23-500",
@@ -45701,7 +46255,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-08-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -45710,7 +46264,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-08-00-01-4000",
@@ -45718,7 +46273,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-08-00-01-4000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -45727,7 +46282,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-06-00-00-000",
@@ -45735,7 +46291,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-06-00-00-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -45744,7 +46300,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-06-00-02-000",
@@ -45752,7 +46309,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Однотонная",
     "slug": "nefrit-odnotonnaya-00-00-4-06-00-02-000",
     "brand": "Нефрит-Керамика",
-    "collection": "Однотонная",
+    "collection": "Однотонная 3",
     "product_type": "Керамическая плитка",
     "format": "Однотонная",
     "color": "Микс",
@@ -45762,7 +46319,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Однотонная — керамическая плитка коллекции Однотонная от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/898/yz666plh26vy6ehnpu8p7jsjt77kzk2k.jpg"
   },
   {
     "id": "nefrit-00-00-4-06-00-11-5010",
@@ -45779,8 +46337,7 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Джей — керамическая плитка коллекции Джей от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/649/a7q58vosvm0mj3zhe1ajrc5my72v1ugo.jpg"
+    "usage": "wall"
   },
   {
     "id": "nefrit-00-00-4-06-00-06-5010",
@@ -45849,7 +46406,7 @@ export const importedProducts: any[] = [
     "images": [],
     "description": "Плитка Троя — керамическая плитка коллекции Троя от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
     "usage": "wall",
-    "collection_image": "https://plitburg.ru/upload/iblock/b31/tvtvvc4s6brn3xicgvsi6fsnqm5u2q9m.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/781/t125i70sebv6vt4s1d50hfo7itg1g7it.jpg"
   },
   {
     "id": "nefrit-00-00-4-06-10-06-1215",
@@ -45866,7 +46423,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Троя — керамическая плитка коллекции Троя от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/781/t125i70sebv6vt4s1d50hfo7itg1g7it.jpg"
   },
   {
     "id": "nefrit-00-00-4-06-00-11-730",
@@ -45884,7 +46442,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Гармония — керамическая плитка коллекции Гармония от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/659/qgs3isf3h002s7roqksgl8xif2v20104.jpg"
   },
   {
     "id": "nefrit-00-00-4-06-00-11-3805",
@@ -45919,7 +46478,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "Плитка Инта — керамическая плитка коллекции Инта от Нефрит-Керамика.  Купить облиц.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f26/44n2zft602y802jis4euw97jul2o5ssq.jpg"
   },
   {
     "id": "nefrit-12-00-4-00-04-01-1572",
@@ -46943,7 +47503,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841518/plitki-spb/nefrit-constance-12-00-4-21-10-11-1513-4.webp"
     ],
     "description": "Плитка Constance — керамическая плитка коллекции Constance от Нефрит-Керамика. Размер Constance Beige glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-12-00-4-21-10-11-1570",
@@ -46966,7 +47527,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841528/plitki-spb/nefrit-constance-12-00-4-21-10-11-1570-4.webp"
     ],
     "description": "Плитка Constance Krakle Beige glossy — керамическая плитка коллекции Krakle от Нефрит-Керамика. Размер Krakle Bage glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-11-1570",
@@ -46989,7 +47551,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841537/plitki-spb/nefrit-constance-12-00-4-07-20-11-1570-4.webp"
     ],
     "description": "Плитка Constance — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Krakle Beige glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-65-1515",
@@ -47012,7 +47575,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841545/plitki-spb/nefrit-constance-12-00-4-07-21-65-1515-4.webp"
     ],
     "description": "Плитка Constance — керамическая плитка коллекции Constance от Нефрит-Керамика. Размер Метро Mono Blue glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f3d/xhm5zkv5m5vwy5c8jqirxyzzkgw3b3ex.jpg"
   },
   {
     "id": "nefrit-12-00-4-21-10-10-1563",
@@ -47288,7 +47852,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841711/plitki-spb/nefrit-metro-12-00-4-07-20-00-2535-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Marble Bianco glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-11-2535",
@@ -47311,7 +47876,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841720/plitki-spb/nefrit-metro-12-00-4-07-20-11-2535-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Marble Gold glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-11-1567",
@@ -47334,7 +47900,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841729/plitki-spb/nefrit-metro-12-00-4-07-20-11-1567-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Kler Beige glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-11-1510",
@@ -47357,7 +47924,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841771/plitki-spb/nefrit-metro-12-00-4-07-20-11-1510-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Dec Beige glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-06-1510",
@@ -47380,7 +47948,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841780/plitki-spb/nefrit-metro-12-00-4-07-20-06-1510-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Dec Grey glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-85-1510",
@@ -47403,7 +47972,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841789/plitki-spb/nefrit-metro-12-00-4-07-21-85-1510-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Dec Green glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-47-1510",
@@ -47426,7 +47996,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841797/plitki-spb/nefrit-metro-12-00-4-07-21-47-1510-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика.  Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-65-1510",
@@ -47449,7 +48020,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841806/plitki-spb/nefrit-metro-12-00-4-07-21-65-1510-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Dec Blue glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-00-1525",
@@ -47472,7 +48044,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841815/plitki-spb/nefrit-metro-12-00-4-07-20-00-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono White glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-06-1525",
@@ -47495,7 +48068,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841824/plitki-spb/nefrit-metro-12-00-4-07-20-06-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Grey glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-20-12-1525",
@@ -47518,7 +48092,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841832/plitki-spb/nefrit-metro-12-00-4-07-20-12-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Beige glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-04-1525",
@@ -47541,7 +48116,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841841/plitki-spb/nefrit-metro-12-00-4-07-21-04-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Black glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-45-1525",
@@ -47564,7 +48140,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841850/plitki-spb/nefrit-metro-12-00-4-07-21-45-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Red glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-47-1525",
@@ -47587,7 +48164,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841859/plitki-spb/nefrit-metro-12-00-4-07-21-47-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика.  Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-65-1525",
@@ -47610,7 +48188,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841868/plitki-spb/nefrit-metro-12-00-4-07-21-65-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Blue glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-07-21-85-1525",
@@ -47633,7 +48212,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773841877/plitki-spb/nefrit-metro-12-00-4-07-21-85-1525-4.webp"
     ],
     "description": "Плитка Metro — керамическая плитка коллекции Metro от Нефрит-Керамика. Размер Metro Mono Green glossy см. Купить М/ф керам.плитка в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c9c/7piknwqad7i4yj3h0goolmc7700e3g6w.jpg"
   },
   {
     "id": "nefrit-12-00-4-21-10-00-2589",
@@ -53440,7 +54020,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108447",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53451,7 +54031,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/6d2/327c0osotjiuy77e6doisrmumyg17e2z.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108445",
@@ -53459,7 +54040,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108445",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53470,7 +54051,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/5c8/wmii3p00k69kl1vudaegi41zczvnuzkd.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108453",
@@ -53478,7 +54060,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108453",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53489,7 +54071,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/bdc/1ln465fxnin11fmqwblqb3xkxm42zroo.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108468",
@@ -53497,7 +54080,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108468",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53508,7 +54091,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/bdc/fkv25d0737ubccmrb9978g4rbjbaqapc.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108451",
@@ -53516,7 +54100,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108451",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53527,7 +54111,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/edd/plb8krgjnm27m40r4erasbd1s9tbcsc7.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108457",
@@ -53535,7 +54120,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108457",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53546,7 +54131,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/288/lfrnaessivwu43z1z5da2bt29g09n37j.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108459",
@@ -53554,7 +54140,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108459",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53565,7 +54151,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/446/gkk692t23br6iomy2u35k0g75s9msca0.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108449",
@@ -53573,7 +54160,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108449",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53584,7 +54171,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/2bc/pak69p58ypcyw2hf3h1eavq3bbqq18at.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108455",
@@ -53592,7 +54180,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108455",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53603,7 +54191,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/23c/rbm6xrp46x8w0ma1q4lmo61n9rr7u36s.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108466",
@@ -53611,7 +54200,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Limestone ректификат",
     "slug": "eletto-kollektsiya-limestone-laymstoun-00-00108466",
     "brand": "Элетто",
-    "collection": "LIMESTONE (Лаймстоун)",
+    "collection": "Limestone (Лаймстоун)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53622,7 +54211,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/408/31l4fmlzigqi0nj9qp7xo7722ja17uk2.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LIMESTONE (Лаймстоун) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/d4d/2smng4magg3c52hre6ehryuavqngz4jw.jpg"
   },
   {
     "id": "eletto-00-00108501",
@@ -53630,7 +54220,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Lunario ректификат",
     "slug": "eletto-kollektsiya-lunario-lunario-00-00108501",
     "brand": "Элетто",
-    "collection": "LUNARIO (Лунарио)",
+    "collection": "Lunario (Лунарио)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53641,7 +54231,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/cc3/rqdb2fvmwxw0i95aj1irfmz5n4z8uxdv.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LUNARIO (Лунарио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a7/cu2r1bbx1pfpqrh2rr8nqtz48wxu5wkk.jpg"
   },
   {
     "id": "eletto-00-00108497",
@@ -53649,7 +54240,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Lunario ректификат",
     "slug": "eletto-kollektsiya-lunario-lunario-00-00108497",
     "brand": "Элетто",
-    "collection": "LUNARIO (Лунарио)",
+    "collection": "Lunario (Лунарио)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53660,7 +54251,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/5b5/8s4atnqtzdvzjmorxg981z5mqjb4423o.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LUNARIO (Лунарио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a7/cu2r1bbx1pfpqrh2rr8nqtz48wxu5wkk.jpg"
   },
   {
     "id": "eletto-00-00108495",
@@ -53668,7 +54260,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Lunario ректификат",
     "slug": "eletto-kollektsiya-lunario-lunario-00-00108495",
     "brand": "Элетто",
-    "collection": "LUNARIO (Лунарио)",
+    "collection": "Lunario (Лунарио)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53679,7 +54271,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/206/4qndbq63fv6lme3gthti3btwzgjyx7m7.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LUNARIO (Лунарио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a7/cu2r1bbx1pfpqrh2rr8nqtz48wxu5wkk.jpg"
   },
   {
     "id": "eletto-00-00108499",
@@ -53687,7 +54280,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Lunario ректификат",
     "slug": "eletto-kollektsiya-lunario-lunario-00-00108499",
     "brand": "Элетто",
-    "collection": "LUNARIO (Лунарио)",
+    "collection": "Lunario (Лунарио)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53698,7 +54291,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/72d/f9ua1gy60pq0w1a4oimh3glks1ys6mj0.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LUNARIO (Лунарио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a7/cu2r1bbx1pfpqrh2rr8nqtz48wxu5wkk.jpg"
   },
   {
     "id": "eletto-00-00108461",
@@ -53706,7 +54300,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Foresta ректификат",
     "slug": "eletto-kollektsiya-foresta-foresta-00-00108461",
     "brand": "Элетто",
-    "collection": "FORESTA (Фореста)",
+    "collection": "Foresta (Фореста)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53717,7 +54311,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/879/1r13v9nj60aejnolk3rkpar7ofngu645.jpg"
     ],
     "description": "484х700 ректификат — керамическая плитка коллекции FORESTA (Фореста) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/88b/rvn22cj82k2y1cgsiqs91lzt6iikvzn3.jpg"
   },
   {
     "id": "eletto-00-00108434",
@@ -53725,7 +54320,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Foresta ректификат",
     "slug": "eletto-kollektsiya-foresta-foresta-00-00108434",
     "brand": "Элетто",
-    "collection": "FORESTA (Фореста)",
+    "collection": "Foresta (Фореста)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53737,7 +54332,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/ac8/0t9s0amstzans9lumnpany2yject10c2.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FORESTA (Фореста) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/88b/rvn22cj82k2y1cgsiqs91lzt6iikvzn3.jpg"
   },
   {
     "id": "eletto-00-00108470",
@@ -53745,7 +54341,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Foresta ректификат",
     "slug": "eletto-kollektsiya-foresta-foresta-00-00108470",
     "brand": "Элетто",
-    "collection": "FORESTA (Фореста)",
+    "collection": "Foresta (Фореста)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53756,7 +54352,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/1a1/ltkfbkdl9q1lthnc9kbvrd5rlfp41gfb.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FORESTA (Фореста) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/88b/rvn22cj82k2y1cgsiqs91lzt6iikvzn3.jpg"
   },
   {
     "id": "eletto-00-00108472",
@@ -53764,7 +54361,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Foresta ректификат",
     "slug": "eletto-kollektsiya-foresta-foresta-00-00108472",
     "brand": "Элетто",
-    "collection": "FORESTA (Фореста)",
+    "collection": "Foresta (Фореста)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53775,7 +54372,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/c02/3mil0id5838vholy0m5rz99jrhmd858g.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FORESTA (Фореста) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/88b/rvn22cj82k2y1cgsiqs91lzt6iikvzn3.jpg"
   },
   {
     "id": "eletto-00-00108436",
@@ -53783,7 +54381,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Foresta ректификат",
     "slug": "eletto-kollektsiya-foresta-foresta-00-00108436",
     "brand": "Элетто",
-    "collection": "FORESTA (Фореста)",
+    "collection": "Foresta (Фореста)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53795,7 +54393,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/e19/q5bptbxva09e7b6q3g6av3s2y380yh7s.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FORESTA (Фореста) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/88b/rvn22cj82k2y1cgsiqs91lzt6iikvzn3.jpg"
   },
   {
     "id": "eletto-00-00108474",
@@ -53803,7 +54402,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Foresta ректификат",
     "slug": "eletto-kollektsiya-foresta-foresta-00-00108474",
     "brand": "Элетто",
-    "collection": "FORESTA (Фореста)",
+    "collection": "Foresta (Фореста)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53815,7 +54414,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/eb1/wi90zjbp7ltu811qhwjbjib1so9lgxkd.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FORESTA (Фореста) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/88b/rvn22cj82k2y1cgsiqs91lzt6iikvzn3.jpg"
   },
   {
     "id": "eletto-00-00108316",
@@ -53823,7 +54423,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Couture ректификат",
     "slug": "eletto-kollektsiya-couture-kutyur-00-00108316",
     "brand": "Элетто",
-    "collection": "COUTURE (Кутюр)",
+    "collection": "Couture (Кутюр)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53834,7 +54434,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/586/0qopqrzk4p6bb15zwlksim21vnc645bt.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции COUTURE (Кутюр) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/00f/vcq5fhrfz3o1m05vjsf3dzeet33dgzlc.jpg"
   },
   {
     "id": "eletto-00-00108318",
@@ -53842,7 +54443,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Couture ректификат",
     "slug": "eletto-kollektsiya-couture-kutyur-00-00108318",
     "brand": "Элетто",
-    "collection": "COUTURE (Кутюр)",
+    "collection": "Couture (Кутюр)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53853,7 +54454,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/df5/c49cpgyu8rlroolymreoqyomn9amxiw0.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции COUTURE (Кутюр) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/00f/vcq5fhrfz3o1m05vjsf3dzeet33dgzlc.jpg"
   },
   {
     "id": "eletto-00-00108393",
@@ -53861,7 +54463,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Couture ректификат",
     "slug": "eletto-kollektsiya-couture-kutyur-00-00108393",
     "brand": "Элетто",
-    "collection": "COUTURE (Кутюр)",
+    "collection": "Couture (Кутюр)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53872,7 +54474,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/5a8/63lr4zyldzeptn1jak41ni1p363wh7jq.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции COUTURE (Кутюр) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/00f/vcq5fhrfz3o1m05vjsf3dzeet33dgzlc.jpg"
   },
   {
     "id": "eletto-00-00108312",
@@ -53880,7 +54483,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Couture ректификат",
     "slug": "eletto-kollektsiya-couture-kutyur-00-00108312",
     "brand": "Элетто",
-    "collection": "COUTURE (Кутюр)",
+    "collection": "Couture (Кутюр)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53891,7 +54494,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/e7d/ol5an5n4la94n4tg985fex842dfjgxgw.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции COUTURE (Кутюр) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/00f/vcq5fhrfz3o1m05vjsf3dzeet33dgzlc.jpg"
   },
   {
     "id": "eletto-00-00108314",
@@ -53899,7 +54503,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Couture ректификат",
     "slug": "eletto-kollektsiya-couture-kutyur-00-00108314",
     "brand": "Элетто",
-    "collection": "COUTURE (Кутюр)",
+    "collection": "Couture (Кутюр)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53910,7 +54514,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/ed9/7dq7e7n8strrn0grmnepkc3sn12f4z2f.jpg"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции COUTURE (Кутюр) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/00f/vcq5fhrfz3o1m05vjsf3dzeet33dgzlc.jpg"
   },
   {
     "id": "eletto-588512001",
@@ -53918,7 +54523,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Basalt ректификат",
     "slug": "eletto-kollektsiya-basalt-bazált-588512001",
     "brand": "Элетто",
-    "collection": "BASALT (Базáльт)",
+    "collection": "Basalt (Базáльт)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53929,7 +54534,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370126/plitki-spb/588512001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4c9/0vj34z30fx3ok40tlyb0gtgynx2bvl43.jpg"
   },
   {
     "id": "eletto-508511201",
@@ -53937,7 +54543,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Basalt ректификат",
     "slug": "eletto-kollektsiya-basalt-bazált-508511201",
     "brand": "Элетто",
-    "collection": "BASALT (Базáльт)",
+    "collection": "Basalt (Базáльт)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53948,7 +54554,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370139/plitki-spb/508511201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4c9/0vj34z30fx3ok40tlyb0gtgynx2bvl43.jpg"
   },
   {
     "id": "eletto-508511101",
@@ -53956,7 +54563,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Basalt ректификат",
     "slug": "eletto-kollektsiya-basalt-bazált-508511101",
     "brand": "Элетто",
-    "collection": "BASALT (Базáльт)",
+    "collection": "Basalt (Базáльт)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53967,7 +54574,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370152/plitki-spb/508511101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4c9/0vj34z30fx3ok40tlyb0gtgynx2bvl43.jpg"
   },
   {
     "id": "eletto-509261101",
@@ -53975,7 +54583,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Basalt ректификат",
     "slug": "eletto-kollektsiya-basalt-bazált-509261101",
     "brand": "Элетто",
-    "collection": "BASALT (Базáльт)",
+    "collection": "Basalt (Базáльт)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -53986,7 +54594,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370164/plitki-spb/509261101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4c9/0vj34z30fx3ok40tlyb0gtgynx2bvl43.jpg"
   },
   {
     "id": "eletto-509271101",
@@ -53994,7 +54603,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Basalt ректификат",
     "slug": "eletto-kollektsiya-basalt-bazált-509271101",
     "brand": "Элетто",
-    "collection": "BASALT (Базáльт)",
+    "collection": "Basalt (Базáльт)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54005,7 +54614,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370176/plitki-spb/509271101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BASALT (Базáльт) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4c9/0vj34z30fx3ok40tlyb0gtgynx2bvl43.jpg"
   },
   {
     "id": "eletto-508513001",
@@ -54013,7 +54623,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Basalt",
     "slug": "eletto-kollektsiya-basalt-bazált-508513001",
     "brand": "Элетто",
-    "collection": "BASALT (Базáльт)",
+    "collection": "Basalt (Базáльт)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54024,7 +54634,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370188/plitki-spb/508513001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции BASALT (Базáльт) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/4c9/0vj34z30fx3ok40tlyb0gtgynx2bvl43.jpg"
   },
   {
     "id": "eletto-589132002",
@@ -54032,7 +54643,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy ректификат",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-589132002",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54043,7 +54654,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370200/plitki-spb/589132002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-589132001",
@@ -54051,7 +54663,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy ректификат",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-589132001",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54062,7 +54674,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370213/plitki-spb/589132001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-588143003",
@@ -54070,7 +54683,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-588143003",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54081,7 +54694,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370225/plitki-spb/588143003.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-509131101",
@@ -54089,7 +54703,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy ректификат",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-509131101",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54100,7 +54714,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370237/plitki-spb/509131101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-509241101",
@@ -54108,7 +54723,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy ректификат",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-509241101",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54119,7 +54734,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370250/plitki-spb/509241101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-509133001",
@@ -54127,7 +54743,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-509133001",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54138,7 +54754,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370259/plitki-spb/509133001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-849133101",
@@ -54146,7 +54763,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta fantasy",
     "slug": "eletto-kollektsiya-calacatta-fantasy-kalakátta-fentezi-849133101",
     "brand": "Элетто",
-    "collection": "CALACATTA FANTASY (Калакáтта Фэ́нтэзи)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54157,7 +54774,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370272/plitki-spb/849133101.webp"
     ],
     "description": "600х600 — керамическая плитка коллекции CALACATTA FANTASY (Калакáтта Фэ́нтэзи) от Элетто. Купить 600х600 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-589122002",
@@ -54165,7 +54783,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey ректификат",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-589122002",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54176,7 +54794,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370284/plitki-spb/589122002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-589122001",
@@ -54184,7 +54803,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey ректификат",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-589122001",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54195,7 +54814,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370296/plitki-spb/589122001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-588143004",
@@ -54203,7 +54823,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-588143004",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54214,7 +54834,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370308/plitki-spb/588143004.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-509121101",
@@ -54222,7 +54843,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey ректификат",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-509121101",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54233,7 +54854,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370320/plitki-spb/509121101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-509231101",
@@ -54241,7 +54863,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey ректификат",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-509231101",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54252,7 +54874,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370332/plitki-spb/509231101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-509123001",
@@ -54260,7 +54883,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-509123001",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54271,7 +54894,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370344/plitki-spb/509123001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-849123101",
@@ -54279,7 +54903,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta grey",
     "slug": "eletto-kollektsiya-calacatta-grey-kalakátta-grey-849123101",
     "brand": "Элетто",
-    "collection": "CALACATTA GREY (Калакáтта Грэй)",
+    "collection": "Calacatta Grey (Калакáтта Грэй)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54290,7 +54914,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370356/plitki-spb/849123101.webp"
     ],
     "description": "600х600 — керамическая плитка коллекции CALACATTA GREY (Калакáтта Грэй) от Элетто. Купить 600х600 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ab/c3dnrqvq0sofq6ufga4p8j7lwr5ypwkv.jpg"
   },
   {
     "id": "eletto-589092001",
@@ -54298,7 +54923,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Grey portogallo ректификат",
     "slug": "eletto-kollektsiya-grey-portogallo-grey-portogállo-589092001",
     "brand": "Элетто",
-    "collection": "GREY PORTOGALLO (Грэй Портогáлло)",
+    "collection": "Grey Portogallo (Грэй Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54309,7 +54934,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370368/plitki-spb/589092001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/637/03wmag6zqpydhbzbztd33ex958q721bm.jpg"
   },
   {
     "id": "eletto-588143005",
@@ -54317,7 +54943,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Grey portogallo",
     "slug": "eletto-kollektsiya-grey-portogallo-grey-portogállo-588143005",
     "brand": "Элетто",
-    "collection": "GREY PORTOGALLO (Грэй Портогáлло)",
+    "collection": "Grey Portogallo (Грэй Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54328,7 +54954,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370382/plitki-spb/588143005.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/637/03wmag6zqpydhbzbztd33ex958q721bm.jpg"
   },
   {
     "id": "eletto-509091201",
@@ -54336,7 +54963,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Grey portogallo ректификат",
     "slug": "eletto-kollektsiya-grey-portogallo-grey-portogállo-509091201",
     "brand": "Элетто",
-    "collection": "GREY PORTOGALLO (Грэй Портогáлло)",
+    "collection": "Grey Portogallo (Грэй Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54347,7 +54974,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370394/plitki-spb/509091201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/637/03wmag6zqpydhbzbztd33ex958q721bm.jpg"
   },
   {
     "id": "eletto-509211101",
@@ -54355,7 +54983,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Grey portogallo ректификат",
     "slug": "eletto-kollektsiya-grey-portogallo-grey-portogállo-509211101",
     "brand": "Элетто",
-    "collection": "GREY PORTOGALLO (Грэй Портогáлло)",
+    "collection": "Grey Portogallo (Грэй Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54366,7 +54994,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370406/plitki-spb/509211101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/637/03wmag6zqpydhbzbztd33ex958q721bm.jpg"
   },
   {
     "id": "eletto-509093001",
@@ -54374,7 +55003,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Grey portogallo",
     "slug": "eletto-kollektsiya-grey-portogallo-grey-portogállo-509093001",
     "brand": "Элетто",
-    "collection": "GREY PORTOGALLO (Грэй Портогáлло)",
+    "collection": "Grey Portogallo (Грэй Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54385,7 +55014,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370418/plitki-spb/509093001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции GREY PORTOGALLO (Грэй Портогáлло) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/637/03wmag6zqpydhbzbztd33ex958q721bm.jpg"
   },
   {
     "id": "eletto-588382002",
@@ -54393,7 +55023,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo ректификат",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-588382002",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54404,7 +55034,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370429/plitki-spb/588382002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-588382001",
@@ -54412,7 +55043,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo ректификат",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-588382001",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54423,7 +55054,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370442/plitki-spb/588382001.webp"
     ],
     "description": "484х700 ректификат — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-588143006",
@@ -54431,7 +55063,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-588143006",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54442,7 +55074,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370455/plitki-spb/588143006.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-508381201",
@@ -54450,7 +55083,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo ректификат",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-508381201",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54461,7 +55094,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370468/plitki-spb/508381201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-508391101",
@@ -54469,7 +55103,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo ректификат",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-508391101",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54480,7 +55114,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370480/plitki-spb/508391101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-509221101",
@@ -54488,7 +55123,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo ректификат",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-509221101",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54499,7 +55134,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370492/plitki-spb/509221101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-508383001",
@@ -54507,7 +55143,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Rosa portogallo",
     "slug": "eletto-kollektsiya-rosa-portogallo-roza-portogállo-508383001",
     "brand": "Элетто",
-    "collection": "ROSA PORTOGALLO (Ро́за Портогáлло)",
+    "collection": "Rosa Portogallo (Ро́за Портогáлло)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54518,7 +55154,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370504/plitki-spb/508383001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции ROSA PORTOGALLO (Ро́за Портогáлло) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f51/p53c2c73yaxlcozprabysz4vmrqb1ksj.jpg"
   },
   {
     "id": "eletto-586892001",
@@ -54526,7 +55163,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta ректификат",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-586892001",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54537,7 +55174,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370517/plitki-spb/586892001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-586482002",
@@ -54545,7 +55183,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta ректификат",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-586482002",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54556,7 +55194,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370530/plitki-spb/586482002.webp"
     ],
     "description": "484х1400 ректификат — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 484х1400 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-586482001",
@@ -54564,7 +55203,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta ректификат",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-586482001",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54575,7 +55214,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370542/plitki-spb/586482001.webp"
     ],
     "description": "484х700 ректификат — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-588143002",
@@ -54583,7 +55223,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-588143002",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54594,7 +55234,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370555/plitki-spb/588143002.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-506891201",
@@ -54602,7 +55243,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta ректификат",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-506891201",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54613,7 +55254,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370567/plitki-spb/506891201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-506901101",
@@ -54621,7 +55263,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta ректификат",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-506901101",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54632,7 +55274,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370579/plitki-spb/506901101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-506483002",
@@ -54640,7 +55283,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta",
     "slug": "eletto-kollektsiya-calacatta-kalakátta-506483002",
     "brand": "Элетто",
-    "collection": "CALACATTA (Калакáтта)",
+    "collection": "Calacatta Fantasy (Калакáтта Фэ́нтэзи)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54651,7 +55294,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370591/plitki-spb/506483002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции CALACATTA (Калакáтта) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/392/0bb6asc0180pxinbn88kn99biftwpd58.jpg"
   },
   {
     "id": "eletto-588502001",
@@ -54659,7 +55303,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Fletto ректификат",
     "slug": "eletto-kollektsiya-fletto-flétto-588502001",
     "brand": "Элетто",
-    "collection": "FLETTO (Флéтто)",
+    "collection": "Fletto (Флéтто)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54670,7 +55314,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370603/plitki-spb/588502001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/989/htpdub0n3106v1sx025ktorsch9u88nf.jpg"
   },
   {
     "id": "eletto-588502002",
@@ -54678,7 +55323,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Fletto ректификат",
     "slug": "eletto-kollektsiya-fletto-flétto-588502002",
     "brand": "Элетто",
-    "collection": "FLETTO (Флéтто)",
+    "collection": "Fletto (Флéтто)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54689,7 +55334,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370615/plitki-spb/588502002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/989/htpdub0n3106v1sx025ktorsch9u88nf.jpg"
   },
   {
     "id": "eletto-508501201",
@@ -54697,7 +55343,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Fletto ректификат",
     "slug": "eletto-kollektsiya-fletto-flétto-508501201",
     "brand": "Элетто",
-    "collection": "FLETTO (Флéтто)",
+    "collection": "Fletto (Флéтто)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54708,7 +55354,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370629/plitki-spb/508501201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/989/htpdub0n3106v1sx025ktorsch9u88nf.jpg"
   },
   {
     "id": "eletto-508721101",
@@ -54716,7 +55363,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Fletto ректификат",
     "slug": "eletto-kollektsiya-fletto-flétto-508721101",
     "brand": "Элетто",
-    "collection": "FLETTO (Флéтто)",
+    "collection": "Fletto (Флéтто)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54727,7 +55374,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370640/plitki-spb/508721101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции FLETTO (Флéтто) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/989/htpdub0n3106v1sx025ktorsch9u88nf.jpg"
   },
   {
     "id": "eletto-508503001",
@@ -54735,7 +55383,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Fletto",
     "slug": "eletto-kollektsiya-fletto-flétto-508503001",
     "brand": "Элетто",
-    "collection": "FLETTO (Флéтто)",
+    "collection": "Fletto (Флéтто)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54746,7 +55394,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370652/plitki-spb/508503001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции FLETTO (Флéтто) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/989/htpdub0n3106v1sx025ktorsch9u88nf.jpg"
   },
   {
     "id": "eletto-588402002",
@@ -54765,7 +55414,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370665/plitki-spb/588402002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LEVANTO NERO (Левáнто Нéро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/13e/7pqf95fcswjmaapx3yje3aqp1nkshwzd.jpg"
   },
   {
     "id": "eletto-588402001",
@@ -54784,7 +55434,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370677/plitki-spb/588402001.webp"
     ],
     "description": "484х700 ректификат — керамическая плитка коллекции LEVANTO NERO (Левáнто Нéро) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/13e/7pqf95fcswjmaapx3yje3aqp1nkshwzd.jpg"
   },
   {
     "id": "eletto-508401201",
@@ -54803,7 +55454,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370689/plitki-spb/508401201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции LEVANTO NERO (Левáнто Нéро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/13e/7pqf95fcswjmaapx3yje3aqp1nkshwzd.jpg"
   },
   {
     "id": "eletto-587842006",
@@ -54811,7 +55463,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-587842006",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54822,7 +55474,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370701/plitki-spb/587842006.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-587842005",
@@ -54830,7 +55483,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-587842005",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54842,7 +55495,8 @@ export const importedProducts: any[] = [
     ],
     "description": "484х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
     "sqm_per_box": 4,
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-587842001",
@@ -54850,7 +55504,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-587842001",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54861,7 +55515,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370726/plitki-spb/587842001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-587842002",
@@ -54869,7 +55524,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-587842002",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54880,7 +55535,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370738/plitki-spb/587842002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-508361101",
@@ -54888,7 +55544,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-508361101",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54899,7 +55555,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370750/plitki-spb/508361101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-508371101",
@@ -54907,7 +55564,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-508371101",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54918,7 +55575,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370762/plitki-spb/508371101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-508191101",
@@ -54926,7 +55584,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-508191101",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54937,7 +55595,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370775/plitki-spb/508191101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-507841201",
@@ -54945,7 +55604,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala ректификат",
     "slug": "eletto-kollektsiya-gala-gála-507841201",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54956,7 +55615,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370787/plitki-spb/507841201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-507843001",
@@ -54964,7 +55624,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala",
     "slug": "eletto-kollektsiya-gala-gála-507843001",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54975,7 +55635,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370799/plitki-spb/507843001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-508363001",
@@ -54983,7 +55644,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Gala",
     "slug": "eletto-kollektsiya-gala-gála-508363001",
     "brand": "Элетто",
-    "collection": "GALA (Гáла)",
+    "collection": "Gala (Гáла)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -54994,7 +55655,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370812/plitki-spb/508363001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции GALA (Гáла) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c06/5e86m00usfq494us82kkdwuia7wp2gx0.jpg"
   },
   {
     "id": "eletto-587882001",
@@ -55002,7 +55664,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro ректификат",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-587882001",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55013,7 +55675,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370824/plitki-spb/587882001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-588182001",
@@ -55021,7 +55684,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro ректификат",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-588182001",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55032,7 +55695,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370833/plitki-spb/588182001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-587882002",
@@ -55040,7 +55704,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro ректификат",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-587882002",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55051,7 +55715,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370846/plitki-spb/587882002.webp"
     ],
     "description": "484х700 ректификат — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 484х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-507881201",
@@ -55059,7 +55724,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro ректификат",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-507881201",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55070,7 +55735,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370858/plitki-spb/507881201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-508181101",
@@ -55078,7 +55744,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro ректификат",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-508181101",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55089,7 +55755,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370871/plitki-spb/508181101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-508131101",
@@ -55097,7 +55764,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro ректификат",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-508131101",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55108,7 +55775,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370883/plitki-spb/508131101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-507883001",
@@ -55116,7 +55784,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Calacatta oro",
     "slug": "eletto-kollektsiya-calacatta-oro-kalakátta-óro-507883001",
     "brand": "Элетто",
-    "collection": "CALACATTA ORO (Калакáтта Óро)",
+    "collection": "Calacatta Oro (Калакáтта Óро)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55127,7 +55795,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370897/plitki-spb/507883001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции CALACATTA ORO (Калакáтта Óро) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/b84/f8p43579512gx0zjx3kp9eh8byvqf72r.jpg"
   },
   {
     "id": "eletto-588112001",
@@ -55135,7 +55804,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Black & gold ректификат",
     "slug": "eletto-kollektsiya-black-gold-blek-end-gold-588112001",
     "brand": "Элетто",
-    "collection": "BLACK & GOLD (Блэ́к энд Го́лд)",
+    "collection": "Black & Gold (Блэ́к Энд Го́лд)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55146,7 +55815,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370910/plitki-spb/588112001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ba1/hej7ll4g7s15llske6ut08p36eduuip2.jpg"
   },
   {
     "id": "eletto-588112002",
@@ -55154,7 +55824,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Black & gold ректификат",
     "slug": "eletto-kollektsiya-black-gold-blek-end-gold-588112002",
     "brand": "Элетто",
-    "collection": "BLACK & GOLD (Блэ́к энд Го́лд)",
+    "collection": "Black & Gold (Блэ́к Энд Го́лд)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55165,7 +55835,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370922/plitki-spb/588112002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ba1/hej7ll4g7s15llske6ut08p36eduuip2.jpg"
   },
   {
     "id": "eletto-508111201",
@@ -55173,7 +55844,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Black & gold ректификат",
     "slug": "eletto-kollektsiya-black-gold-blek-end-gold-508111201",
     "brand": "Элетто",
-    "collection": "BLACK & GOLD (Блэ́к энд Го́лд)",
+    "collection": "Black & Gold (Блэ́к Энд Го́лд)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55184,7 +55855,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370934/plitki-spb/508111201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ba1/hej7ll4g7s15llske6ut08p36eduuip2.jpg"
   },
   {
     "id": "eletto-508171101",
@@ -55192,7 +55864,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Black & gold ректификат",
     "slug": "eletto-kollektsiya-black-gold-blek-end-gold-508171101",
     "brand": "Элетто",
-    "collection": "BLACK & GOLD (Блэ́к энд Го́лд)",
+    "collection": "Black & Gold (Блэ́к Энд Го́лд)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55203,7 +55875,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370942/plitki-spb/508171101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ba1/hej7ll4g7s15llske6ut08p36eduuip2.jpg"
   },
   {
     "id": "eletto-508113001",
@@ -55211,7 +55884,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Black & gold",
     "slug": "eletto-kollektsiya-black-gold-blek-end-gold-508113001",
     "brand": "Элетто",
-    "collection": "BLACK & GOLD (Блэ́к энд Го́лд)",
+    "collection": "Black & Gold (Блэ́к Энд Го́лд)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55222,7 +55895,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370951/plitki-spb/508113001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции BLACK & GOLD (Блэ́к энд Го́лд) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/ba1/hej7ll4g7s15llske6ut08p36eduuip2.jpg"
   },
   {
     "id": "eletto-588122001",
@@ -55230,7 +55904,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Bianco covelano ректификат",
     "slug": "eletto-kollektsiya-bianco-covelano-byanko-kovelláno-588122001",
     "brand": "Элетто",
-    "collection": "BIANCO COVELANO (Бья́нко Ковеллáно)",
+    "collection": "Bianco Covelano (Бья́нко Ковеллáно)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55241,7 +55915,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370963/plitki-spb/588122001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3eb/hukv6w4zvnioefgsvrnmm9eemq74tbu8.jpg"
   },
   {
     "id": "eletto-588152001",
@@ -55249,7 +55924,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Bianco covelano ректификат",
     "slug": "eletto-kollektsiya-bianco-covelano-byanko-kovelláno-588152001",
     "brand": "Элетто",
-    "collection": "BIANCO COVELANO (Бья́нко Ковеллáно)",
+    "collection": "Bianco Covelano (Бья́нко Ковеллáно)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55260,7 +55935,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370975/plitki-spb/588152001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3eb/hukv6w4zvnioefgsvrnmm9eemq74tbu8.jpg"
   },
   {
     "id": "eletto-508121201",
@@ -55268,7 +55944,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Bianco covelano ректификат",
     "slug": "eletto-kollektsiya-bianco-covelano-byanko-kovelláno-508121201",
     "brand": "Элетто",
-    "collection": "BIANCO COVELANO (Бья́нко Ковеллáно)",
+    "collection": "Bianco Covelano (Бья́нко Ковеллáно)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55279,7 +55955,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773370987/plitki-spb/508121201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3eb/hukv6w4zvnioefgsvrnmm9eemq74tbu8.jpg"
   },
   {
     "id": "eletto-508151101",
@@ -55287,7 +55964,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Bianco covelano ректификат",
     "slug": "eletto-kollektsiya-bianco-covelano-byanko-kovelláno-508151101",
     "brand": "Элетто",
-    "collection": "BIANCO COVELANO (Бья́нко Ковеллáно)",
+    "collection": "Bianco Covelano (Бья́нко Ковеллáно)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55298,7 +55975,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371000/plitki-spb/508151101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3eb/hukv6w4zvnioefgsvrnmm9eemq74tbu8.jpg"
   },
   {
     "id": "eletto-508123001",
@@ -55306,7 +55984,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Bianco covelano",
     "slug": "eletto-kollektsiya-bianco-covelano-byanko-kovelláno-508123001",
     "brand": "Элетто",
-    "collection": "BIANCO COVELANO (Бья́нко Ковеллáно)",
+    "collection": "Bianco Covelano (Бья́нко Ковеллáно)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55317,7 +55995,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371011/plitki-spb/508123001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции BIANCO COVELANO (Бья́нко Ковеллáно) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/3eb/hukv6w4zvnioefgsvrnmm9eemq74tbu8.jpg"
   },
   {
     "id": "eletto-586942001",
@@ -55325,7 +56004,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-586942001",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55336,7 +56015,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371024/plitki-spb/586942001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-586912001",
@@ -55344,7 +56024,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-586912001",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55355,7 +56035,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371037/plitki-spb/586912001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506941201",
@@ -55363,7 +56044,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-506941201",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55374,7 +56055,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371050/plitki-spb/506941201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506961101",
@@ -55382,7 +56064,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-506961101",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55393,7 +56075,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371063/plitki-spb/506961101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506951101",
@@ -55401,7 +56084,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-506951101",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55412,7 +56095,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371075/plitki-spb/506951101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506911201",
@@ -55420,7 +56104,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-506911201",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55431,7 +56115,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371085/plitki-spb/506911201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506931101",
@@ -55439,7 +56124,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-506931101",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55450,7 +56135,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371098/plitki-spb/506931101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506921101",
@@ -55458,7 +56144,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya ректификат",
     "slug": "eletto-kollektsiya-malwiya-málviya-506921101",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55469,7 +56155,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371110/plitki-spb/506921101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506943001",
@@ -55477,7 +56164,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya",
     "slug": "eletto-kollektsiya-malwiya-málviya-506943001",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55488,7 +56175,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371121/plitki-spb/506943001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506913001",
@@ -55496,7 +56184,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya",
     "slug": "eletto-kollektsiya-malwiya-málviya-506913001",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55507,7 +56195,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371133/plitki-spb/506913001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506943002",
@@ -55515,7 +56204,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya",
     "slug": "eletto-kollektsiya-malwiya-málviya-506943002",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55526,7 +56215,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371145/plitki-spb/506943002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506913002",
@@ -55534,7 +56224,7 @@ export const importedProducts: any[] = [
     "name": "Плитка Malwiya",
     "slug": "eletto-kollektsiya-malwiya-málviya-506913002",
     "brand": "Элетто",
-    "collection": "MALWIYA (Мáльвия)",
+    "collection": "Malwiya (Мáльвия)",
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
@@ -55545,7 +56235,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371157/plitki-spb/506913002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции MALWIYA (Мáльвия) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/956/lzvupju2bepmcjlnhbmbrhgpgmx4g4xt.jpg"
   },
   {
     "id": "eletto-506111102",
@@ -55564,7 +56255,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371169/plitki-spb/506111102.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506181102",
@@ -55583,7 +56275,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371182/plitki-spb/506181102.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506161202",
@@ -55602,7 +56295,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371194/plitki-spb/506161202.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506171201",
@@ -55621,7 +56315,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371207/plitki-spb/506171201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506101102",
@@ -55640,7 +56335,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371219/plitki-spb/506101102.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506151102",
@@ -55659,7 +56355,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371231/plitki-spb/506151102.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506131202",
@@ -55678,7 +56375,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371244/plitki-spb/506131202.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506141102",
@@ -55697,7 +56395,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371257/plitki-spb/506141102.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506113001",
@@ -55716,7 +56415,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371269/plitki-spb/506113001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506103001",
@@ -55735,7 +56435,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371280/plitki-spb/506103001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506113002",
@@ -55754,7 +56455,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371292/plitki-spb/506113002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-506103002",
@@ -55773,7 +56475,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371305/plitki-spb/506103002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции ODENSE (Óдэнс) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/db1/xcc4vx5jpcnx0yulc08ug5yzawoz4fj6.jpg"
   },
   {
     "id": "eletto-587472001",
@@ -55792,7 +56495,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371317/plitki-spb/587472001.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-587462002",
@@ -55811,7 +56515,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371328/plitki-spb/587462002.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-507461201",
@@ -55830,7 +56535,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371339/plitki-spb/507461201.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-507501101",
@@ -55849,7 +56555,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371349/plitki-spb/507501101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-507471101",
@@ -55868,7 +56575,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371360/plitki-spb/507471101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-507511101",
@@ -55887,7 +56595,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371370/plitki-spb/507511101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-507491101",
@@ -55906,7 +56615,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371380/plitki-spb/507491101.webp"
     ],
     "description": "242х700 ректификат — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 242х700 ректификат в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-507473001",
@@ -55925,7 +56635,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371392/plitki-spb/507473001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции IDILIO (Иди́лио) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e1/1vk9d8vozt225mk252riyzibqkwwxv4l.jpg"
   },
   {
     "id": "eletto-587562002",
@@ -55944,7 +56655,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371404/plitki-spb/587562002.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-587562001",
@@ -55963,7 +56675,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371416/plitki-spb/587562001.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-587572002",
@@ -55982,7 +56695,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371428/plitki-spb/587572002.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-587572001",
@@ -56001,7 +56715,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371440/plitki-spb/587572001.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-707603001",
@@ -56020,7 +56735,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371453/plitki-spb/707603001.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-587603001",
@@ -56039,7 +56755,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371464/plitki-spb/587603001.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-507561201",
@@ -56058,7 +56775,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371476/plitki-spb/507561201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-507571101",
@@ -56077,7 +56795,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371488/plitki-spb/507571101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-507563001",
@@ -56096,7 +56815,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371499/plitki-spb/507563001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-507573001",
@@ -56115,7 +56835,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371507/plitki-spb/507573001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции TERRAZZO (Террáццо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/f82/p0fhqv4v011woo6d8129ho3zx5b5t57j.jpg"
   },
   {
     "id": "eletto-507701101",
@@ -56134,7 +56855,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371518/plitki-spb/507701101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TESSUTO (Тессу́то) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/990/yhdim2qp5slj194w7q222860hm78vp3x.jpg"
   },
   {
     "id": "eletto-507721101",
@@ -56153,7 +56875,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371529/plitki-spb/507721101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TESSUTO (Тессу́то) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/990/yhdim2qp5slj194w7q222860hm78vp3x.jpg"
   },
   {
     "id": "eletto-507681201",
@@ -56172,7 +56895,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371540/plitki-spb/507681201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TESSUTO (Тессу́то) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/990/yhdim2qp5slj194w7q222860hm78vp3x.jpg"
   },
   {
     "id": "eletto-507703001",
@@ -56191,7 +56915,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371551/plitki-spb/507703001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции TESSUTO (Тессу́то) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/990/yhdim2qp5slj194w7q222860hm78vp3x.jpg"
   },
   {
     "id": "eletto-587662001",
@@ -56210,7 +56935,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371564/plitki-spb/587662001.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-587662002",
@@ -56229,7 +56955,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371576/plitki-spb/587662002.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-587672001",
@@ -56248,7 +56975,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371588/plitki-spb/587672001.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-587672002",
@@ -56267,7 +56995,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371601/plitki-spb/587672002.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-507661201",
@@ -56286,7 +57015,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371612/plitki-spb/507661201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-507671201",
@@ -56305,7 +57035,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371623/plitki-spb/507671201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-507663001",
@@ -56324,7 +57055,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371634/plitki-spb/507663001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-507673001",
@@ -56343,7 +57075,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371646/plitki-spb/507673001.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции TREVI (Трéви) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/245/ushp286fi9cooodcj4slsak0u1gg0r5f.jpg"
   },
   {
     "id": "eletto-586782003",
@@ -56362,7 +57095,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371657/plitki-spb/586782003.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2f/povej5gxiy0jubd862rjwkqvvm92yhtb.jpg"
   },
   {
     "id": "eletto-707603002",
@@ -56381,7 +57115,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371666/plitki-spb/707603002.webp"
     ],
     "description": "300х300 — керамическая плитка коллекции OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 300х300 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2f/povej5gxiy0jubd862rjwkqvvm92yhtb.jpg"
   },
   {
     "id": "eletto-506781201",
@@ -56400,7 +57135,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371678/plitki-spb/506781201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2f/povej5gxiy0jubd862rjwkqvvm92yhtb.jpg"
   },
   {
     "id": "eletto-506783001",
@@ -56419,7 +57155,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371688/plitki-spb/506783001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2f/povej5gxiy0jubd862rjwkqvvm92yhtb.jpg"
   },
   {
     "id": "eletto-506783002",
@@ -56438,7 +57175,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371699/plitki-spb/506783002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции OLD TJIKKO (Óлд Ти́кко) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2f/povej5gxiy0jubd862rjwkqvvm92yhtb.jpg"
   },
   {
     "id": "eletto-586081001",
@@ -56455,7 +57193,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х80 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х80 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-586091001",
@@ -56472,7 +57211,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х80 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х80 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-586082001",
@@ -56489,7 +57229,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "502х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 502х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-586092001",
@@ -56506,7 +57247,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "502х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 502х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506081101",
@@ -56525,7 +57267,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371739/plitki-spb/506081101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506301101",
@@ -56544,7 +57287,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371749/plitki-spb/506301101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506091101",
@@ -56563,7 +57307,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371759/plitki-spb/506091101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506291101",
@@ -56582,7 +57327,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371770/plitki-spb/506291101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506121201",
@@ -56601,7 +57347,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371781/plitki-spb/506121201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506083001",
@@ -56620,7 +57367,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371791/plitki-spb/506083001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-506093001",
@@ -56639,7 +57387,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371801/plitki-spb/506093001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции AGRA (Áгра) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/9df/wo1dyos5uexd2htfa25l5dm0qfp9plss.jpg"
   },
   {
     "id": "eletto-586502001",
@@ -56656,7 +57405,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506501201",
@@ -56675,7 +57425,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371818/plitki-spb/506501201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506791101",
@@ -56692,7 +57443,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506503001",
@@ -56711,7 +57463,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371835/plitki-spb/506503001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506503002",
@@ -56730,7 +57483,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371847/plitki-spb/506503002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506771201",
@@ -56749,7 +57503,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371859/plitki-spb/506771201.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506801101",
@@ -56768,7 +57523,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371870/plitki-spb/506801101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506811101",
@@ -56787,7 +57543,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371882/plitki-spb/506811101.webp"
     ],
     "description": "251х709 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506493001",
@@ -56806,7 +57563,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371892/plitki-spb/506493001.webp"
     ],
     "description": "333х333 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-506493002",
@@ -56825,7 +57583,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371904/plitki-spb/506493002.webp"
     ],
     "description": "420х420 — керамическая плитка коллекции COMMESSO (Коммéссо) от Элетто. Купить 420х420 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/e10/6mr5tuq7vbspa9z7colk1excsw2zbjko.jpg"
   },
   {
     "id": "eletto-586071002",
@@ -56842,7 +57601,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "2127х62 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 2127х62 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586071001",
@@ -56859,7 +57619,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "2127х62 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 2127х62 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586061001",
@@ -56876,7 +57637,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "2127х62 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 2127х62 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586061003",
@@ -56893,7 +57655,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "2127х62 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 2127х62 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586072001",
@@ -56910,7 +57673,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586072002",
@@ -56927,7 +57691,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586072003",
@@ -56944,7 +57709,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586072004",
@@ -56961,7 +57727,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586062001",
@@ -56978,7 +57745,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586062002",
@@ -56995,7 +57763,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586062003",
@@ -57012,7 +57781,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-586062004",
@@ -57029,7 +57799,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506231201",
@@ -57048,7 +57819,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773371988/plitki-spb/506231201.webp"
     ],
     "description": "201х405 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 201х405 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506201201",
@@ -57067,7 +57839,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773372000/plitki-spb/506201201.webp"
     ],
     "description": "201х405 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 201х405 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506241201",
@@ -57086,7 +57859,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773372011/plitki-spb/506241201.webp"
     ],
     "description": "201х505 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 201х505 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506211201",
@@ -57105,7 +57879,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773372022/plitki-spb/506211201.webp"
     ],
     "description": "201х505 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 201х505 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506071201",
@@ -57122,7 +57897,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506221101",
@@ -57139,7 +57915,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506281101",
@@ -57156,7 +57933,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "251х709 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 251х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506073001",
@@ -57173,7 +57951,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "333х333 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-506063001",
@@ -57190,7 +57969,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "333х333 — керамическая плитка коллекции PROVENCE (Провáнс) от Элетто. Купить 333х333 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/047/8edfzutw8n0s3az5b1ueg1x4gy4kzxgh.jpg"
   },
   {
     "id": "eletto-00-00108872",
@@ -57209,7 +57989,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/3b0/o40vjbypi7w3v4neofx7j78wsuoga60g.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции WOOD (ВУД) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c91/mbp5xdbymqmnvq8n8qqbaey3plb14j1v.jpg"
   },
   {
     "id": "eletto-00-00108870",
@@ -57228,7 +58009,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/520/f4zd1akzhdk5872j3oqtr4d1jj59b3a2.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции WOOD (ВУД) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c91/mbp5xdbymqmnvq8n8qqbaey3plb14j1v.jpg"
   },
   {
     "id": "eletto-00-00108868",
@@ -57247,7 +58029,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/ae4/u62epjv9jcsfo5q17kbu65veveb1dq4a.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции WOOD (ВУД) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c91/mbp5xdbymqmnvq8n8qqbaey3plb14j1v.jpg"
   },
   {
     "id": "eletto-00-00108866",
@@ -57266,7 +58049,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/b44/nl1pitrd9w8kkpegs5sj97y4ihc0ndoi.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции WOOD (ВУД) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/c91/mbp5xdbymqmnvq8n8qqbaey3plb14j1v.jpg"
   },
   {
     "id": "eletto-00-00108648",
@@ -57285,7 +58069,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/c93/xew5sqymxhsfeo0drt97qkg7qcwqqovp.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции CARTAGENA (КАРТАХЕНА) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/908/5y6ios2pj82im2qncgm91yc0wwtg7dx0.jpg"
   },
   {
     "id": "eletto-00-00108650",
@@ -57305,7 +58090,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/d45/fqxoy36xee3173tcir6afjd86oqppv9n.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции CARTAGENA (КАРТАХЕНА) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/908/5y6ios2pj82im2qncgm91yc0wwtg7dx0.jpg"
   },
   {
     "id": "eletto-00-00108652",
@@ -57324,7 +58110,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/882/10cbzbk58aoqwnl0z20mmivch22eif1t.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции CARTAGENA (КАРТАХЕНА) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/908/5y6ios2pj82im2qncgm91yc0wwtg7dx0.jpg"
   },
   {
     "id": "eletto-00-00108654",
@@ -57341,7 +58128,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "150х150 — керамическая плитка коллекции CARTAGENA (КАРТАХЕНА) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/908/5y6ios2pj82im2qncgm91yc0wwtg7dx0.jpg"
   },
   {
     "id": "eletto-00-00108656",
@@ -57360,7 +58148,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/ade/hut77ds27ekhgnncm0545tui0xb2zmxm.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции CARTAGENA (КАРТАХЕНА) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/908/5y6ios2pj82im2qncgm91yc0wwtg7dx0.jpg"
   },
   {
     "id": "eletto-00-00108853",
@@ -57379,7 +58168,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/18e/la16oqumse2z5l9137yjda21va1sl8zy.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108849",
@@ -57398,7 +58188,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/013/5ysjh2am2ryypk6t3lvfr8i4xbx74wr1.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108861",
@@ -57417,7 +58208,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/f7a/b6qvdjmbp627quydc1xw9i9b4d1k4wp4.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108863",
@@ -57436,7 +58228,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/050/uvpfb8bhb09wo1xzziz2l3hxmb3x8lsw.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108859",
@@ -57455,7 +58248,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/514/m1bw5tc4annb5o0ldica0b8cgh4ta7jr.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108851",
@@ -57474,7 +58268,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/f34/c49zbxis2wgoagivy93cq1rw3pekvx30.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108857",
@@ -57493,7 +58288,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/2a1/hkwgg7jgvvvi0dhkx0vz48g1s4cew0d3.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108847",
@@ -57510,7 +58306,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108855",
@@ -57529,7 +58326,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/00b/j3h8t2ogyznnoi5565k81zlbvfz71tko.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции MATE (МАТЭ) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/474/2zb8fzk91seh7bctt7mtsa8u32rim53v.jpg"
   },
   {
     "id": "eletto-00-00108635",
@@ -57548,7 +58346,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/308/m73zyj9s4qt58dq3ogfptg0ewwxg45if.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции SOLLER (СОЛЛЭР) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd8/rbwhkno1xe1wfvrzsqb0yuq782k1p1wj.jpg"
   },
   {
     "id": "eletto-00-00108641",
@@ -57567,7 +58366,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/069/jcfin0sii0034ms0ksfi4rzs3q2jiuc6.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции SOLLER (СОЛЛЭР) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd8/rbwhkno1xe1wfvrzsqb0yuq782k1p1wj.jpg"
   },
   {
     "id": "eletto-00-00108645",
@@ -57586,7 +58386,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/0d8/c7xvpnydwdi987365q7wo51ssabda8ai.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции SOLLER (СОЛЛЭР) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd8/rbwhkno1xe1wfvrzsqb0yuq782k1p1wj.jpg"
   },
   {
     "id": "eletto-00-00108639",
@@ -57605,7 +58406,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/42c/bef9894ldfs6l3tsgl6jipyo9ovt11zi.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции SOLLER (СОЛЛЭР) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd8/rbwhkno1xe1wfvrzsqb0yuq782k1p1wj.jpg"
   },
   {
     "id": "eletto-00-00108643",
@@ -57624,7 +58426,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/d55/6rzq85522ubc3c5d1ydr7pbvz9011h07.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции SOLLER (СОЛЛЭР) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd8/rbwhkno1xe1wfvrzsqb0yuq782k1p1wj.jpg"
   },
   {
     "id": "eletto-00-00108637",
@@ -57643,7 +58446,8 @@ export const importedProducts: any[] = [
       "https://eletto.com.ru/upload/iblock/8b8/rtreo7xvw0hp0d4kwh8brjnjwhhmounw.jpg"
     ],
     "description": "150х150 — керамическая плитка коллекции SOLLER (СОЛЛЭР) от Элетто. Купить 150х150 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/dd8/rbwhkno1xe1wfvrzsqb0yuq782k1p1wj.jpg"
   },
   {
     "id": "eletto-837451009",
@@ -57660,7 +58464,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "12х700 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 12х700 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-837451005",
@@ -57677,7 +58482,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "12х700 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 12х700 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-837451006",
@@ -57694,7 +58500,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "20х700 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 20х700 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-837451007",
@@ -57711,7 +58518,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "12х709 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 12х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-837451008",
@@ -57730,7 +58538,8 @@ export const importedProducts: any[] = [
       "https://res.cloudinary.com/de1sotnld/image/upload/v1773372247/plitki-spb/837451008.webp"
     ],
     "description": "20х709 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 20х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-837451003",
@@ -57747,7 +58556,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "12х709 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 12х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-807451007",
@@ -57764,7 +58574,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "22х700 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 22х700 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-807451006",
@@ -57781,7 +58592,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "12х709 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 12х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "eletto-807451008",
@@ -57798,7 +58610,8 @@ export const importedProducts: any[] = [
     "main_image": null,
     "images": [],
     "description": "22х709 — керамическая плитка коллекции БОРДЮРЫ МЕТАЛЛИЧЕСКИЕ от Элетто. Купить 22х709 в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "wall"
+    "usage": "wall",
+    "collection_image": "https://plitburg.ru/upload/iblock/79e/g67j6jlxpjysxppn2m6md9wco9bhszw3.jpg"
   },
   {
     "id": "dako-e-3020-mr-600x600x9",
@@ -57890,7 +58703,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Harmony 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844273/plitki-spb/dako-harmony-e-3010-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a55/3f9mge869zdgu20d2iik81o8qtaxvebj.jpg"
   },
   {
     "id": "dako-e-3011-mr-600x600x9",
@@ -57919,7 +58733,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Harmony 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844292/plitki-spb/dako-harmony-e-3011-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a55/3f9mge869zdgu20d2iik81o8qtaxvebj.jpg"
   },
   {
     "id": "dako-e-3012-mr-600x600x9",
@@ -57947,7 +58762,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Harmony 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844311/plitki-spb/dako-harmony-e-3012-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a55/3f9mge869zdgu20d2iik81o8qtaxvebj.jpg"
   },
   {
     "id": "dako-e-3013-mr-600x600x9",
@@ -57976,7 +58792,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Harmony 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844334/plitki-spb/dako-harmony-e-3013-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a55/3f9mge869zdgu20d2iik81o8qtaxvebj.jpg"
   },
   {
     "id": "dako-e-3014-mr-600x600x9",
@@ -58137,7 +58954,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Prime 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844430/plitki-spb/dako-prime-e-3040-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/d83/yap6wltundll8kh9xl74xr7rv6u7w8yw.jpg"
   },
   {
     "id": "dako-e-3041-mr-600x600x9",
@@ -58162,7 +58980,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Prime 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844443/plitki-spb/dako-prime-e-3041-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/d83/yap6wltundll8kh9xl74xr7rv6u7w8yw.jpg"
   },
   {
     "id": "dako-e-3042-mr-600x600x9",
@@ -58191,7 +59010,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Unicom 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844457/plitki-spb/dako-unicom-e-3042-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f15/q5mkkhimpt3co908fd15g3y53ui1tv2k.jpg"
   },
   {
     "id": "dako-e-3043-mr-600x600x9",
@@ -58220,7 +59040,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Unicom 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844475/plitki-spb/dako-unicom-e-3043-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f15/q5mkkhimpt3co908fd15g3y53ui1tv2k.jpg"
   },
   {
     "id": "dako-e-3032-mr-600x600x9",
@@ -58345,7 +59166,8 @@ export const importedProducts: any[] = [
     "thickness": 9,
     "images": [],
     "description": "Legend 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/11d/ha8pymxqwdl26u0ed3aqyumcxj3v9911.jpg"
   },
   {
     "id": "dako-e-5001-mr-600x600x9",
@@ -58361,7 +59183,8 @@ export const importedProducts: any[] = [
     "thickness": 9,
     "images": [],
     "description": "Legend 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/11d/ha8pymxqwdl26u0ed3aqyumcxj3v9911.jpg"
   },
   {
     "id": "dako-e-5002-mr-600x600x9",
@@ -58389,7 +59212,8 @@ export const importedProducts: any[] = [
     ],
     "description": "SUpreme 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844543/plitki-spb/dako-supreme-e-5002-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e5/lf2krad7o47l85w4gdl8tqnrkzh1054u.jpg"
   },
   {
     "id": "dako-e-5003-mr-600x600x9",
@@ -58416,7 +59240,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Supreme 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844563/plitki-spb/dako-supreme-e-5003-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e5/lf2krad7o47l85w4gdl8tqnrkzh1054u.jpg"
   },
   {
     "id": "dako-e-5004-mr-600x600x9",
@@ -58476,7 +59301,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Season 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844584/plitki-spb/dako-season-e-5006-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/319/s5ty9jctl4mhpk8thmrr5sxmwcjunimo.jpg"
   },
   {
     "id": "dako-e-5007-mr-600x600x9",
@@ -58504,7 +59330,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Season 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844604/plitki-spb/dako-season-e-5007-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/319/s5ty9jctl4mhpk8thmrr5sxmwcjunimo.jpg"
   },
   {
     "id": "dako-e-5008-mr-600x600x9",
@@ -58617,7 +59444,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Extreme 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844662/plitki-spb/dako-extreme-e-5012-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/69e/lpibhlzl5yromxo8nrkp01pf2ur3nq9g.jpg"
   },
   {
     "id": "dako-e-5013-mr-600x600x9",
@@ -58645,7 +59473,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Extreme 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844680/plitki-spb/dako-extreme-e-5013-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/69e/lpibhlzl5yromxo8nrkp01pf2ur3nq9g.jpg"
   },
   {
     "id": "dako-e-5014-mr-600x600x9",
@@ -58897,7 +59726,8 @@ export const importedProducts: any[] = [
     ],
     "description": "Terrazzo 600x600x9 — керамогранит Dako. Купить в Санкт-Петербурге с доставкой со склада Янино.",
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1773844792/plitki-spb/dako-terrazzo-e-7001-mr-600x600x9.webp",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1cf/az7jmaj3f1aiva52x8m15vc9swkddqa9.jpg"
   },
   {
     "id": "dako-e-5024-mr-600x600x9",
@@ -59151,7 +59981,7 @@ export const importedProducts: any[] = [
     "description": "Купить Камень Бежевый 300х600 в Санкт-Петербурге. Коллекция Allaki Аллаки. Формат 300х600 см. Цвет: Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G202-Allaki Beige.",
     "id": "G202-Allaki Beige",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/510/en8u17ol2t9717bg7hujvlm6rl3xkqpb.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/aac/1htuwdujehfjosyn17q7z2be2e0vh21q.jpg"
   },
   {
     "sku": "Камень-600х600",
@@ -59175,7 +60005,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Камень Бежевый 600х600 в Санкт-Петербурге. Коллекция Allaki Аллаки. Формат 600х600 см. Цвет: Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: Камень-600х600.",
     "id": "Камень-600х600",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/aac/1htuwdujehfjosyn17q7z2be2e0vh21q.jpg"
   },
   {
     "sku": "Камень-1200х600",
@@ -59199,7 +60030,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Камень Бежевый 1200х600 в Санкт-Петербурге. Коллекция Allaki Аллаки. Формат 1200х600 см. Цвет: Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: Камень-1200х600.",
     "id": "Камень-1200х600",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/aac/1htuwdujehfjosyn17q7z2be2e0vh21q.jpg"
   },
   {
     "sku": "G203-Allaki Grey",
@@ -59223,7 +60055,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Камень Серый 300х600 в Санкт-Петербурге. Коллекция Allaki Аллаки. Формат 300х600 см. Цвет: Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G203-Allaki Grey.",
     "id": "G203-Allaki Grey",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/aac/1htuwdujehfjosyn17q7z2be2e0vh21q.jpg"
   },
   {
     "sku": "G212-Arkaim Beige",
@@ -59248,7 +60081,7 @@ export const importedProducts: any[] = [
     "description": "Купить Лофт Бежевый 600х600 в Санкт-Петербурге. Коллекция Arkaim Аркаим. Формат 600х600 см. Цвет: Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G212-Arkaim Beige.",
     "id": "G212-Arkaim Beige",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/3a4/thsuj96il0oyjff1w5ik0h3avrm1zstb.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/801/nvq01lpxnqnrces5yyr353uvljmiyswu.jpg"
   },
   {
     "sku": "Лофт-1200х600",
@@ -59272,7 +60105,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Бежевый 1200х600 в Санкт-Петербурге. Коллекция Arkaim Аркаим. Формат 1200х600 см. Цвет: Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: Лофт-1200х600.",
     "id": "Лофт-1200х600",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/801/nvq01lpxnqnrces5yyr353uvljmiyswu.jpg"
   },
   {
     "sku": "G213-Arkaim Grey",
@@ -59296,7 +60130,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Серый 600х600 в Санкт-Петербурге. Коллекция Arkaim Аркаим. Формат 600х600 см. Цвет: Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G213-Arkaim Grey.",
     "id": "G213-Arkaim Grey",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/801/nvq01lpxnqnrces5yyr353uvljmiyswu.jpg"
   },
   {
     "sku": "G214-Arkaim Brown",
@@ -59320,7 +60155,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Коричневый 600х600 в Санкт-Петербурге. Коллекция Arkaim Аркаим. Формат 600х600 см. Цвет: Коричневый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G214-Arkaim Brown.",
     "id": "G214-Arkaim Brown",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/801/nvq01lpxnqnrces5yyr353uvljmiyswu.jpg"
   },
   {
     "sku": "G215-Arkaim Black",
@@ -59344,7 +60180,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Черный 600х600 в Санкт-Петербурге. Коллекция Arkaim Аркаим. Формат 600х600 см. Цвет: Черный. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G215-Arkaim Black.",
     "id": "G215-Arkaim Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/801/nvq01lpxnqnrces5yyr353uvljmiyswu.jpg"
   },
   {
     "sku": "G222-Iremel Beige",
@@ -59464,8 +60301,7 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Белый 300х600 в Санкт-Петербурге. Коллекция Iset Исеть. Формат 300х600 см. Цвет: Белый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G231-Iset Elegant.",
     "id": "G231-Iset Elegant",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/d16/h79bwzd7cveqonti7r0blhxcj3af33hv.jpg"
+    "usage": "floor"
   },
   {
     "sku": "Мрамор-600х600",
@@ -59538,7 +60374,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Серый 600х600 в Санкт-Петербурге. Коллекция Kirety Киреты. Формат 600х600 см. Цвет: Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G243-Kirety Grey.",
     "id": "G243-Kirety Grey",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/2bb/5o46ed0wkykr82zdktp4ib4ibk27uzlr.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/c0f/jp8a4egch8bxbc9cs7ijfvzg0dlwqsxe.jpg"
   },
   {
     "sku": "G244-Kirety Brown",
@@ -59562,7 +60398,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Коричневый 600х600 в Санкт-Петербурге. Коллекция Kirety Киреты. Формат 600х600 см. Цвет: Коричневый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G244-Kirety Brown.",
     "id": "G244-Kirety Brown",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c0f/jp8a4egch8bxbc9cs7ijfvzg0dlwqsxe.jpg"
   },
   {
     "sku": "G245-Kirety Black",
@@ -59586,7 +60423,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Черный 600х600 в Санкт-Петербурге. Коллекция Kirety Киреты. Формат 600х600 см. Цвет: Черный. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G245-Kirety Black.",
     "id": "G245-Kirety Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c0f/jp8a4egch8bxbc9cs7ijfvzg0dlwqsxe.jpg"
   },
   {
     "sku": "G246-Kirety Green",
@@ -59610,7 +60448,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Зеленый 600х600 в Санкт-Петербурге. Коллекция Kirety Киреты. Формат 600х600 см. Цвет: Зеленый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G246-Kirety Green.",
     "id": "G246-Kirety Green",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c0f/jp8a4egch8bxbc9cs7ijfvzg0dlwqsxe.jpg"
   },
   {
     "sku": "G253-Koiva Grey",
@@ -59659,7 +60498,7 @@ export const importedProducts: any[] = [
     "description": "Купить Лофт Белый, Серый 300х600 в Санкт-Петербурге. Коллекция Kondjak Конжак. Формат 300х600 см. Цвет: Белый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G261-Kondjak Elegant.",
     "id": "G261-Kondjak Elegant",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/f03/09j1xhpvyrvyvwo2urv6a2e3i80x1l90.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/685/56m6cd5j9ar8cqnzuc2t3dt18s2nn8z9.jpg"
   },
   {
     "sku": "Лофт-600х600",
@@ -59683,7 +60522,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Белый, Серый 600х600 в Санкт-Петербурге. Коллекция Kondjak Конжак. Формат 600х600 см. Цвет: Белый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: Лофт-600х600.",
     "id": "Лофт-600х600",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/685/56m6cd5j9ar8cqnzuc2t3dt18s2nn8z9.jpg"
   },
   {
     "sku": "G263-Kondjak Grey",
@@ -59707,7 +60547,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Серый 300х600 в Санкт-Петербурге. Коллекция Kondjak Конжак. Формат 300х600 см. Цвет: Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G263-Kondjak Grey.",
     "id": "G263-Kondjak Grey",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/685/56m6cd5j9ar8cqnzuc2t3dt18s2nn8z9.jpg"
   },
   {
     "sku": "G265-Kondjak Black",
@@ -59731,7 +60572,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Черный, Серый 300х600 в Санкт-Петербурге. Коллекция Kondjak Конжак. Формат 300х600 см. Цвет: Черный, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G265-Kondjak Black.",
     "id": "G265-Kondjak Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/685/56m6cd5j9ar8cqnzuc2t3dt18s2nn8z9.jpg"
   },
   {
     "sku": "G270-Kukazar White",
@@ -59756,7 +60598,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Белый, Бежевый 600х600 в Санкт-Петербурге. Коллекция Kukazar Куказар. Формат 600х600 см. Цвет: Белый, Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G270-Kukazar White.",
     "id": "G270-Kukazar White",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/3bc/1wmtw4gt3j1d4zl0p7b17x0mox2xyxcn.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/0aa/wqmm7sa66p4na4skqklakw8baoq1xt8m.jpg"
   },
   {
     "sku": "G272-Kukazar Beige",
@@ -59780,7 +60622,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Белый, Бежевый 600х600 в Санкт-Петербурге. Коллекция Kukazar Куказар. Формат 600х600 см. Цвет: Белый, Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G272-Kukazar Beige.",
     "id": "G272-Kukazar Beige",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0aa/wqmm7sa66p4na4skqklakw8baoq1xt8m.jpg"
   },
   {
     "sku": "G281-Payer Elegant",
@@ -59805,7 +60648,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Белый 600х600 в Санкт-Петербурге. Коллекция Payer Пайер. Формат 600х600 см. Цвет: Белый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G281-Payer Elegant.",
     "id": "G281-Payer Elegant",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/4d5/j41ldqsfkwj025nkhydqmj4atjhv7n22.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/eb0/qnt4raj33505omjemr3xj6b9u0ebllfh.jpg"
   },
   {
     "sku": "G282-Payer Beige",
@@ -59829,7 +60672,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Белый, бежевый, Серый 600х600 в Санкт-Петербурге. Коллекция Payer Пайер. Формат 600х600 см. Цвет: Белый, бежевый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G282-Payer Beige.",
     "id": "G282-Payer Beige",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eb0/qnt4raj33505omjemr3xj6b9u0ebllfh.jpg"
   },
   {
     "sku": "G283-Payer Grey",
@@ -59853,7 +60697,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Белый, бежевый, Серый 600х600 в Санкт-Петербурге. Коллекция Payer Пайер. Формат 600х600 см. Цвет: Белый, бежевый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G283-Payer Grey.",
     "id": "G283-Payer Grey",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eb0/qnt4raj33505omjemr3xj6b9u0ebllfh.jpg"
   },
   {
     "sku": "G285-Payer Black",
@@ -59877,7 +60722,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Черный 300х600 в Санкт-Петербурге. Коллекция Payer Пайер. Формат 300х600 см. Цвет: Черный. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G285-Payer Black.",
     "id": "G285-Payer Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eb0/qnt4raj33505omjemr3xj6b9u0ebllfh.jpg"
   },
   {
     "sku": "G292-Shikhan Beige",
@@ -59974,7 +60820,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Белый 300х600 в Санкт-Петербурге. Коллекция Sinara Синара. Формат 300х600 см. Цвет: Белый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G311-Sinara Elegant.",
     "id": "G311-Sinara Elegant",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/7a4/7gamqzv5gnontrs26rigj0hkcoyuzx62.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/3af/se5go4zf8hrshb2x7o2vngjbvvswjgmm.jpg"
   },
   {
     "sku": "G312-Sinara Beige",
@@ -59998,7 +60844,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Бежевый, Серый 300х600 в Санкт-Петербурге. Коллекция Sinara Синара. Формат 300х600 см. Цвет: Бежевый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G312-Sinara Beige.",
     "id": "G312-Sinara Beige",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3af/se5go4zf8hrshb2x7o2vngjbvvswjgmm.jpg"
   },
   {
     "sku": "G314-Sinara Brown",
@@ -60022,7 +60869,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Коричневый, Серый 300х600 в Санкт-Петербурге. Коллекция Sinara Синара. Формат 300х600 см. Цвет: Коричневый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G314-Sinara Brown.",
     "id": "G314-Sinara Brown",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3af/se5go4zf8hrshb2x7o2vngjbvvswjgmm.jpg"
   },
   {
     "sku": "G315-Sinara Black",
@@ -60046,7 +60894,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Черный 300х600 в Санкт-Петербурге. Коллекция Sinara Синара. Формат 300х600 см. Цвет: Черный. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G315-Sinara Black.",
     "id": "G315-Sinara Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3af/se5go4zf8hrshb2x7o2vngjbvvswjgmm.jpg"
   },
   {
     "sku": "G316-Sinara Green",
@@ -60070,7 +60919,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Зеленый 300х600 в Санкт-Петербурге. Коллекция Sinara Синара. Формат 300х600 см. Цвет: Зеленый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G316-Sinara Green.",
     "id": "G316-Sinara Green",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3af/se5go4zf8hrshb2x7o2vngjbvvswjgmm.jpg"
   },
   {
     "sku": "G317-Sinara Bronze",
@@ -60094,7 +60944,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Бронзовый, Коричневый 300х600 в Санкт-Петербурге. Коллекция Sinara Синара. Формат 300х600 см. Цвет: Бронзовый, Коричневый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G317-Sinara Bronze.",
     "id": "G317-Sinara Bronze",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3af/se5go4zf8hrshb2x7o2vngjbvvswjgmm.jpg"
   },
   {
     "sku": "G322-Sugomak Beige",
@@ -60119,7 +60970,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Бежевый, Серый 300х600 в Санкт-Петербурге. Коллекция Sugomak Сугомак. Формат 300х600 см. Цвет: Бежевый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G322-Sugomak Beige.",
     "id": "G322-Sugomak Beige",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/739/u53f5c60mrlks9f7jzymirntozin1leh.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/6ad/jep8tc80xwlq4k5iq6a33ti6wl6jxbop.jpg"
   },
   {
     "sku": "G324-Sugomak Brown",
@@ -60143,7 +60994,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Коричневый 300х600 в Санкт-Петербурге. Коллекция Sugomak Сугомак. Формат 300х600 см. Цвет: Коричневый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G324-Sugomak Brown.",
     "id": "G324-Sugomak Brown",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/6ad/jep8tc80xwlq4k5iq6a33ti6wl6jxbop.jpg"
   },
   {
     "sku": "G327-Sugomak Bronze",
@@ -60167,7 +61019,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Бронзовый 300х600 в Санкт-Петербурге. Коллекция Sugomak Сугомак. Формат 300х600 см. Цвет: Бронзовый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G327-Sugomak Bronze.",
     "id": "G327-Sugomak Bronze",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/6ad/jep8tc80xwlq4k5iq6a33ti6wl6jxbop.jpg"
   },
   {
     "sku": "G330-Sungul White",
@@ -60192,7 +61045,7 @@ export const importedProducts: any[] = [
     "description": "Купить Камень Белый, Серый 300х600 в Санкт-Петербурге. Коллекция Sungul Сунгуль. Формат 300х600 см. Цвет: Белый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G330-Sungul White.",
     "id": "G330-Sungul White",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/9a2/3r64c8ba6vgrq7cdtp99olhvs73pm1qm.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/205/72mbpva23gy18i4xotqih6zso0gubvyu.jpg"
   },
   {
     "sku": "G332-Sungul Beige",
@@ -60216,7 +61069,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Камень Бежевый, Серый 300х600 в Санкт-Петербурге. Коллекция Sungul Сунгуль. Формат 300х600 см. Цвет: Бежевый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G332-Sungul Beige.",
     "id": "G332-Sungul Beige",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/205/72mbpva23gy18i4xotqih6zso0gubvyu.jpg"
   },
   {
     "sku": "G340-Taganay White",
@@ -60241,7 +61095,7 @@ export const importedProducts: any[] = [
     "description": "Купить Лофт Белый, Серый 300х600 в Санкт-Петербурге. Коллекция Taganay Таганай. Формат 300х600 см. Цвет: Белый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G340-Taganay White.",
     "id": "G340-Taganay White",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/442/ehzhk7ftgxe29irsdkw6v5d0j0bxedpl.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/3aa/8zsu9hnbh80z3x8ft0aqisje9ixa9lyq.jpg"
   },
   {
     "sku": "G341-Taganay Elegant",
@@ -60265,7 +61119,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Белый, Серый 300х600 в Санкт-Петербурге. Коллекция Taganay Таганай. Формат 300х600 см. Цвет: Белый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G341-Taganay Elegant.",
     "id": "G341-Taganay Elegant",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3aa/8zsu9hnbh80z3x8ft0aqisje9ixa9lyq.jpg"
   },
   {
     "sku": "G342-Taganay Beige",
@@ -60289,7 +61144,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Бежевый, желтый 600х600 в Санкт-Петербурге. Коллекция Taganay Таганай. Формат 600х600 см. Цвет: Бежевый, желтый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G342-Taganay Beige.",
     "id": "G342-Taganay Beige",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3aa/8zsu9hnbh80z3x8ft0aqisje9ixa9lyq.jpg"
   },
   {
     "sku": "G343-Taganay Grey",
@@ -60313,7 +61169,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Серый 300х600 в Санкт-Петербурге. Коллекция Taganay Таганай. Формат 300х600 см. Цвет: Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G343-Taganay Grey.",
     "id": "G343-Taganay Grey",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3aa/8zsu9hnbh80z3x8ft0aqisje9ixa9lyq.jpg"
   },
   {
     "sku": "G345-Taganay Black",
@@ -60337,7 +61194,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Лофт Черный, Серый 300х600 в Санкт-Петербурге. Коллекция Taganay Таганай. Формат 300х600 см. Цвет: Черный, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G345-Taganay Black.",
     "id": "G345-Taganay Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3aa/8zsu9hnbh80z3x8ft0aqisje9ixa9lyq.jpg"
   },
   {
     "sku": "G351-Turgoyak Elegant",
@@ -60410,7 +61268,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Бежевый 300х600 в Санкт-Петербурге. Коллекция Uvildy Увильды. Формат 300х600 см. Цвет: Бежевый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G362-Uvildy Beige.",
     "id": "G362-Uvildy Beige",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/546/6ndkn97qbgu89pjadkmik4by3akd55nv.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/ef9/o1sy9837r96azm7hwktooo5shflhq3pf.jpg"
   },
   {
     "sku": "G363-Uvildy Grey",
@@ -60434,7 +61292,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Серый 300х600 в Санкт-Петербурге. Коллекция Uvildy Увильды. Формат 300х600 см. Цвет: Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G363-Uvildy Grey.",
     "id": "G363-Uvildy Grey",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef9/o1sy9837r96azm7hwktooo5shflhq3pf.jpg"
   },
   {
     "sku": "G371-Yurma Elegant",
@@ -60458,7 +61317,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Камень Белый 300х600 в Санкт-Петербурге. Коллекция Yurma Юрма. Формат 300х600 см. Цвет: Белый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G371-Yurma Elegant.",
     "id": "G371-Yurma Elegant",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/421/hilvd2xhkv1gobl1mcz6dlgbws1p363k.jpg"
   },
   {
     "sku": "G385-Karatash Black",
@@ -60483,7 +61343,7 @@ export const importedProducts: any[] = [
     "description": "Купить Мрамор Черный 300х600 в Санкт-Петербурге. Коллекция Karatash Караташ. Формат 300х600 см. Цвет: Черный. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G385-Karatash Black.",
     "id": "G385-Karatash Black",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/050/esix82y3fnnqt454bhajwvfq96b5mryt.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/adc/ug9dkttg1egp1zyo10dn6u1b59of8b1r.jpg"
   },
   {
     "sku": "G388-Karatash Green-Black",
@@ -60505,7 +61365,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Черный, Зеленый 300х600 в Санкт-Петербурге. Коллекция Karatash Караташ. Формат 300х600 см. Цвет: Черный, Зеленый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G388-Karatash Green-Black.",
     "id": "G388-Karatash Green-Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/adc/ug9dkttg1egp1zyo10dn6u1b59of8b1r.jpg"
   },
   {
     "sku": "G389-Karatash Blue-Black",
@@ -60529,7 +61390,8 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Черноый, Синий 300х600 в Санкт-Петербурге. Коллекция Karatash Караташ. Формат 300х600 см. Цвет: Черноый, Синий. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G389-Karatash Blue-Black.",
     "id": "G389-Karatash Blue-Black",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/adc/ug9dkttg1egp1zyo10dn6u1b59of8b1r.jpg"
   },
   {
     "sku": "G390-Neiva White",
@@ -60553,8 +61415,7 @@ export const importedProducts: any[] = [
     "is_bestseller": false,
     "description": "Купить Мрамор Белый, Серый 600х600 в Санкт-Петербурге. Коллекция Neiva Нейва. Формат 600х600 см. Цвет: Белый, Серый. Гранитея — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: G390-Neiva White.",
     "id": "G390-Neiva White",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/074/9lzautlp2qegoo85jrywtonouafrg5fn.jpg"
+    "usage": "floor"
   },
   {
     "sku": "G391-Neiva Elegant",
@@ -60724,7 +61585,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Nordland beige PG 01 в Санкт-Петербурге. Коллекция Nordland. Формат 125х500 см. Цвет: Бежевый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001099.",
     "id": "010400001099",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4e9/z9o061ox5n1lqdofel46q2dfjx28zngt.jpg"
   },
   {
     "sku": "010400001101",
@@ -60750,7 +61612,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Nordland beige PG 02 в Санкт-Петербурге. Коллекция Nordland. Формат 125х500 см. Цвет: Бежевый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001101.",
     "id": "010400001101",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4e9/z9o061ox5n1lqdofel46q2dfjx28zngt.jpg"
   },
   {
     "sku": "010400001103",
@@ -60776,7 +61639,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Nordland beige PG 03 в Санкт-Петербурге. Коллекция Nordland. Формат 125х500 см. Цвет: Коричневый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001103.",
     "id": "010400001103",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4e9/z9o061ox5n1lqdofel46q2dfjx28zngt.jpg"
   },
   {
     "sku": "010400001105",
@@ -60802,7 +61666,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Nordland grey PG 01 в Санкт-Петербурге. Коллекция Nordland. Формат 125х500 см. Цвет: Серый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001105.",
     "id": "010400001105",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4e9/z9o061ox5n1lqdofel46q2dfjx28zngt.jpg"
   },
   {
     "sku": "010400000878",
@@ -60810,7 +61675,7 @@ export const importedProducts: any[] = [
     "name": "Nut beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nut",
+    "collection": "Nut (Нут)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "125х500",
@@ -60829,7 +61694,7 @@ export const importedProducts: any[] = [
     "description": "Купить Nut beige PG 01 в Санкт-Петербурге. Коллекция Nut. Формат 125х500 см. Цвет: Бежевый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000878.",
     "id": "010400000878",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/5e0/cgrgfwvbm0m724ve9blibng3nxw2m6vt.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/ddd/fplnsy212ya0y5u0ap57qohw77nuxw51.jpg"
   },
   {
     "sku": "010400000880",
@@ -60837,7 +61702,7 @@ export const importedProducts: any[] = [
     "name": "Nut grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nut",
+    "collection": "Nut (Нут)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "125х500",
@@ -60855,7 +61720,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Nut grey PG 01 в Санкт-Петербурге. Коллекция Nut. Формат 125х500 см. Цвет: Серый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000880.",
     "id": "010400000880",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ddd/fplnsy212ya0y5u0ap57qohw77nuxw51.jpg"
   },
   {
     "sku": "010400000882",
@@ -60863,7 +61729,7 @@ export const importedProducts: any[] = [
     "name": "Nut brown PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nut",
+    "collection": "Nut (Нут)",
     "color": "Коричневый",
     "surface": "Матовая",
     "format": "125х500",
@@ -60881,7 +61747,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Nut brown PG 01 в Санкт-Петербурге. Коллекция Nut. Формат 125х500 см. Цвет: Коричневый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000882.",
     "id": "010400000882",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ddd/fplnsy212ya0y5u0ap57qohw77nuxw51.jpg"
   },
   {
     "sku": "010400000872",
@@ -60889,7 +61756,7 @@ export const importedProducts: any[] = [
     "name": "Oak beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Oak",
+    "collection": "Oak (Оак)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "125х500",
@@ -60908,7 +61775,7 @@ export const importedProducts: any[] = [
     "description": "Купить Oak beige PG 01 в Санкт-Петербурге. Коллекция Oak. Формат 125х500 см. Цвет: Бежевый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000872.",
     "id": "010400000872",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/7cc/awgd9jcug1s6ma2tb4laevlf2wrv81x0.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/9c6/xtf00cosvbegxpiaavssgg3njdud1jv4.jpg"
   },
   {
     "sku": "010400000874",
@@ -60916,7 +61783,7 @@ export const importedProducts: any[] = [
     "name": "Oak grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Oak",
+    "collection": "Oak (Оак)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "125х500",
@@ -60934,7 +61801,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Oak grey PG 01 в Санкт-Петербурге. Коллекция Oak. Формат 125х500 см. Цвет: Серый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000874.",
     "id": "010400000874",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/9c6/xtf00cosvbegxpiaavssgg3njdud1jv4.jpg"
   },
   {
     "sku": "010400000876",
@@ -60942,7 +61810,7 @@ export const importedProducts: any[] = [
     "name": "Oak brown PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Oak",
+    "collection": "Oak (Оак)",
     "color": "Коричневый",
     "surface": "Матовая",
     "format": "125х500",
@@ -60960,7 +61828,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Oak brown PG 01 в Санкт-Петербурге. Коллекция Oak. Формат 125х500 см. Цвет: Коричневый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000876.",
     "id": "010400000876",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/9c6/xtf00cosvbegxpiaavssgg3njdud1jv4.jpg"
   },
   {
     "sku": "010400001095",
@@ -60987,7 +61856,7 @@ export const importedProducts: any[] = [
     "description": "Купить Orsa beige PG 01 в Санкт-Петербурге. Коллекция Orsa. Формат 125х500 см. Цвет: Бежевый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001095.",
     "id": "010400001095",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/924/ur01ne1ujdsbgb17syja8g1komcgboza.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/e3e/khoaifnj2gtqv7g8m2fdtzlgl7se15sm.jpg"
   },
   {
     "sku": "010400001039",
@@ -60995,7 +61864,7 @@ export const importedProducts: any[] = [
     "name": "Oslo beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Oslo",
+    "collection": "Oslo (Осло)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "125х500",
@@ -61014,7 +61883,7 @@ export const importedProducts: any[] = [
     "description": "Купить Oslo beige PG 01 в Санкт-Петербурге. Коллекция Oslo. Формат 125х500 см. Цвет: Бежевый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001039.",
     "id": "010400001039",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/0b6/sw9ax1hc3mtr4lzls1wwz77g19sxagv7.png"
+    "collection_image": "https://plitburg.ru/upload/iblock/379/z7318pv2ywqw6afvxjossd80kbzpvqgw.jpg"
   },
   {
     "sku": "010400001313",
@@ -61038,7 +61907,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.875,
     "description": "Купить Smoke grey PG 01 в Санкт-Петербурге. Коллекция Smoke. Формат 125х500 см. Цвет: Серый. В упаковке 14 шт (0.875 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001313.",
     "id": "010400001313",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/d47/g725l5c3t3vp1f1pz8zw09ho3t0bvtct.jpg"
   },
   {
     "sku": "010400001093",
@@ -61088,7 +61958,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Сапфир св КГ 01 v2 в Санкт-Петербурге. Коллекция Сапфир. Формат 400х400 см. Цвет: Белый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001355.",
     "id": "010400001355",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/237/qofs6u3499nrl7m0mci46obih5krp26d.jpg"
   },
   {
     "sku": "010100001249",
@@ -61190,8 +62061,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Amber brown PG 01 в Санкт-Петербурге. Коллекция Amber 200х600. Формат 200х600 см. Цвет: Коричневый. В упаковке 10 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001409.",
     "id": "010400001409",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/0bb/6xbv38o18wq11yzmqx1l41r9i1be1mb1.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010400001343",
@@ -61374,7 +62244,7 @@ export const importedProducts: any[] = [
     "description": "Купить Dreif grey PG 01 в Санкт-Петербурге. Коллекция Dreif 200х600. Формат 200х600 см. Цвет: Серый. В упаковке 10 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001405.",
     "id": "010400001405",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/519/l61x7iiwije4vtjp8b5udigwzqm2vbf4.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/358/lc7uc5ubp33uscwk8ng9bbw5w68qa7qu.jpg"
   },
   {
     "sku": "010400001329",
@@ -61546,7 +62416,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Linen beige PG 01 в Санкт-Петербурге. Коллекция Linen 200х600. Формат 200х600 см. Цвет: Бежевый. В упаковке 10 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001415.",
     "id": "010400001415",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/179/w5s2pil7x59svro94rll03aafttwebs9.jpg"
   },
   {
     "sku": "010400001331",
@@ -61622,8 +62493,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Truffle brown PG 01 в Санкт-Петербурге. Коллекция Truffle 200х600. Формат 200х600 см. Цвет: Коричневый. В упаковке 10 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001411.",
     "id": "010400001411",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/cea/agomg7i001td5bz6kooh10vuwqgpd8j1.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010400001397",
@@ -61650,7 +62520,7 @@ export const importedProducts: any[] = [
     "description": "Купить Way beige PG 01 в Санкт-Петербурге. Коллекция Way 200х600. Формат 200х600 см. Цвет: Бежевый. В упаковке 10 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001397.",
     "id": "010400001397",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/6e9/pg4wsuufva4ngwo4tueqmcwqkpbhfkxe.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/bf9/b4lg8x3pgeilgigvotsoo6zohtzne16h.jpg"
   },
   {
     "sku": "010101003795",
@@ -61729,7 +62599,7 @@ export const importedProducts: any[] = [
     "description": "Купить Аника беж КГ 01 в Санкт-Петербурге. Коллекция Аника. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000689.",
     "id": "010400000689",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/607/ky2ciueil0ic7pxpxdfcy5etovor7cpz.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/ebf/92ycq8ozbvoxsdhpsp3hnj1e2mwug5da.jpg"
   },
   {
     "sku": "010400001296",
@@ -61755,7 +62625,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Аника беж КГ 01 в Санкт-Петербурге. Коллекция Аника. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001296.",
     "id": "010400001296",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ebf/92ycq8ozbvoxsdhpsp3hnj1e2mwug5da.jpg"
   },
   {
     "sku": "010100000864",
@@ -61781,7 +62652,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Аника беж верх 01 в Санкт-Петербурге. Коллекция Аника. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000864.",
     "id": "010100000864",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ebf/92ycq8ozbvoxsdhpsp3hnj1e2mwug5da.jpg"
   },
   {
     "sku": "010100000868",
@@ -61807,7 +62679,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Аника беж низ 02 в Санкт-Петербурге. Коллекция Аника. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000868.",
     "id": "010100000868",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ebf/92ycq8ozbvoxsdhpsp3hnj1e2mwug5da.jpg"
   },
   {
     "sku": "010100001580",
@@ -61834,7 +62707,7 @@ export const importedProducts: any[] = [
     "description": "Купить Арко бел верх 01 в Санкт-Петербурге. Коллекция Арко. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001580.",
     "id": "010100001580",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/97c/4b8tb700rpsvux5l2kc94qgilcxyv36x.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/a51/kvr7tss341abz3tu5msnqzhi6yj7zmk8.jpg"
   },
   {
     "sku": "010100001581",
@@ -61860,7 +62733,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Арко бел низ 02 в Санкт-Петербурге. Коллекция Арко. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001581.",
     "id": "010100001581",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a51/kvr7tss341abz3tu5msnqzhi6yj7zmk8.jpg"
   },
   {
     "sku": "010100001582",
@@ -61886,7 +62760,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Арко бел низ 03 в Санкт-Петербурге. Коллекция Арко. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001582.",
     "id": "010100001582",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a51/kvr7tss341abz3tu5msnqzhi6yj7zmk8.jpg"
   },
   {
     "sku": "010100001583",
@@ -61912,7 +62787,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Арко сер низ 04 в Санкт-Петербурге. Коллекция Арко. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001583.",
     "id": "010100001583",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a51/kvr7tss341abz3tu5msnqzhi6yj7zmk8.jpg"
   },
   {
     "sku": "010100001190",
@@ -61938,7 +62814,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Аура св верх 01 в Санкт-Петербурге. Коллекция Аура. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001190.",
     "id": "010100001190",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c1f/n2nuz96hg8i0e2vsmfcdzq3hfh6z6nai.jpg"
   },
   {
     "sku": "010100001192",
@@ -61964,7 +62841,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Аура тем низ 02 в Санкт-Петербурге. Коллекция Аура. Формат 250х400 см. Цвет: Коричневый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001192.",
     "id": "010100001192",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c1f/n2nuz96hg8i0e2vsmfcdzq3hfh6z6nai.jpg"
   },
   {
     "sku": "010100001194",
@@ -61990,7 +62868,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Аура тем низ 03 в Санкт-Петербурге. Коллекция Аура. Формат 250х400 см. Цвет: Коричневый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001194.",
     "id": "010100001194",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c1f/n2nuz96hg8i0e2vsmfcdzq3hfh6z6nai.jpg"
   },
   {
     "sku": "010400001037",
@@ -62017,7 +62896,7 @@ export const importedProducts: any[] = [
     "description": "Купить Гармония беж КГ 01 в Санкт-Петербурге. Коллекция Гармония. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001037.",
     "id": "010400001037",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/535/wrxr1uq8j26jssy9lr0i59iojgqjlwvp.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/025/y8xxq3j225h0tm5uhcub8z54sv0sgwtf.jpg"
   },
   {
     "sku": "010400001304",
@@ -62043,7 +62922,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Гармония беж КГ 01 v2 в Санкт-Петербурге. Коллекция Гармония. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001304.",
     "id": "010400001304",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/025/y8xxq3j225h0tm5uhcub8z54sv0sgwtf.jpg"
   },
   {
     "sku": "010100001276",
@@ -62069,7 +62949,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Гармония беж верх 01 в Санкт-Петербурге. Коллекция Гармония. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001276.",
     "id": "010100001276",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/025/y8xxq3j225h0tm5uhcub8z54sv0sgwtf.jpg"
   },
   {
     "sku": "010100001278",
@@ -62095,7 +62976,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Гармония беж низ 02 в Санкт-Петербурге. Коллекция Гармония. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001278.",
     "id": "010100001278",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/025/y8xxq3j225h0tm5uhcub8z54sv0sgwtf.jpg"
   },
   {
     "sku": "010100001280",
@@ -62121,7 +63003,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Гармония беж низ 03 в Санкт-Петербурге. Коллекция Гармония. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001280.",
     "id": "010100001280",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/025/y8xxq3j225h0tm5uhcub8z54sv0sgwtf.jpg"
   },
   {
     "sku": "010401002142",
@@ -62147,7 +63030,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Кордеса беж КГ 01 в Санкт-Петербурге. Коллекция Глория. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010401002142.",
     "id": "010401002142",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7d/it7697qw4f0qe2zfkdtey8endgorxp1f.jpg"
   },
   {
     "sku": "010101003932",
@@ -62173,7 +63057,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Кордеса беж верх 01 в Санкт-Петербурге. Коллекция Глория. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101003932.",
     "id": "010101003932",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f7d/it7697qw4f0qe2zfkdtey8endgorxp1f.jpg"
   },
   {
     "sku": "010101003749",
@@ -62199,7 +63084,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Камелия чер низ 02 в Санкт-Петербурге. Коллекция Камелия. Формат 250х400 см. Цвет: Черный. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101003749.",
     "id": "010101003749",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ee/2tvhqzb1bb4e5pqh8ezbgx7j6wop3e9m.jpg"
   },
   {
     "sku": "010101003776",
@@ -62225,7 +63111,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Камелия бел верх 01 в Санкт-Петербурге. Коллекция Камелия. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101003776.",
     "id": "010101003776",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0ee/2tvhqzb1bb4e5pqh8ezbgx7j6wop3e9m.jpg"
   },
   {
     "sku": "010400001117",
@@ -62252,7 +63139,7 @@ export const importedProducts: any[] = [
     "description": "Купить Капелла бел КГ 01 в Санкт-Петербурге. Коллекция Капелла. Формат 400х400 см. Цвет: Белый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001117.",
     "id": "010400001117",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/941/6qvqqce26vxfa8qc17izwislpkap5arw.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/b31/mporfj7jxrzmwtc03lxkzif3kht6pjuf.jpg"
   },
   {
     "sku": "010400001365",
@@ -62276,7 +63163,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Капелла бел КГ 01 v2 в Санкт-Петербурге. Коллекция Капелла. Формат 400х400 см. Цвет: Белый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001365.",
     "id": "010400001365",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b31/mporfj7jxrzmwtc03lxkzif3kht6pjuf.jpg"
   },
   {
     "sku": "010100001554",
@@ -62302,7 +63190,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Капелла бел верх 01 в Санкт-Петербурге. Коллекция Капелла. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001554.",
     "id": "010100001554",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b31/mporfj7jxrzmwtc03lxkzif3kht6pjuf.jpg"
   },
   {
     "sku": "010100001555",
@@ -62328,7 +63217,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Капелла бел низ 02 в Санкт-Петербурге. Коллекция Капелла. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001555.",
     "id": "010100001555",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b31/mporfj7jxrzmwtc03lxkzif3kht6pjuf.jpg"
   },
   {
     "sku": "010100001556",
@@ -62354,7 +63244,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Капелла бел низ 03 в Санкт-Петербурге. Коллекция Капелла. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001556.",
     "id": "010100001556",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b31/mporfj7jxrzmwtc03lxkzif3kht6pjuf.jpg"
   },
   {
     "sku": "010100001557",
@@ -62380,7 +63271,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Капелла кор низ 04 в Санкт-Петербурге. Коллекция Капелла. Формат 250х400 см. Цвет: Коричневый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001557.",
     "id": "010100001557",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b31/mporfj7jxrzmwtc03lxkzif3kht6pjuf.jpg"
   },
   {
     "sku": "010401002140",
@@ -62406,7 +63298,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Картье сер КГ 01 в Санкт-Петербурге. Коллекция Картье. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010401002140.",
     "id": "010401002140",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0c4/1k1rcovl04ko81rxg1gix9svymskvo1m.jpg"
   },
   {
     "sku": "010101003924",
@@ -62432,7 +63325,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Картье сер верх 01 в Санкт-Петербурге. Коллекция Картье. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101003924.",
     "id": "010101003924",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0c4/1k1rcovl04ko81rxg1gix9svymskvo1m.jpg"
   },
   {
     "sku": "010101003926",
@@ -62458,7 +63352,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Картье сер низ 02 в Санкт-Петербурге. Коллекция Картье. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101003926.",
     "id": "010101003926",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0c4/1k1rcovl04ko81rxg1gix9svymskvo1m.jpg"
   },
   {
     "sku": "010400000970",
@@ -62484,7 +63379,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Конфетти микс КГ 01 в Санкт-Петербурге. Коллекция Конфетти. Формат 400х400 см. Цвет: Мульти. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000970.",
     "id": "010400000970",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010400000972",
@@ -62510,7 +63406,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Конфетти сер КГ 02 в Санкт-Петербурге. Коллекция Конфетти. Формат 400х400 см. Цвет: Серый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000972.",
     "id": "010400000972",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010400001383",
@@ -62536,7 +63433,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Конфетти микс КГ 01 v2 в Санкт-Петербурге. Коллекция Конфетти. Формат 400х400 см. Цвет: Мульти. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001383.",
     "id": "010400001383",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010100001196",
@@ -62562,7 +63460,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Конфетти зел верх 01 в Санкт-Петербурге. Коллекция Конфетти. Формат 250х400 см. Цвет: Зеленый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001196.",
     "id": "010100001196",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010100001198",
@@ -62588,7 +63487,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Конфетти гол верх 01 в Санкт-Петербурге. Коллекция Конфетти. Формат 250х400 см. Цвет: Голубой. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001198.",
     "id": "010100001198",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010100001200",
@@ -62614,7 +63514,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Конфетти зел низ 02 в Санкт-Петербурге. Коллекция Конфетти. Формат 250х400 см. Цвет: Зеленый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001200.",
     "id": "010100001200",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010100001202",
@@ -62640,7 +63541,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Конфетти син низ 02 в Санкт-Петербурге. Коллекция Конфетти. Формат 250х400 см. Цвет: Синий. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001202.",
     "id": "010100001202",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010100001204",
@@ -62666,7 +63568,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Конфетти микс низ 03 в Санкт-Петербурге. Коллекция Конфетти. Формат 250х400 см. Цвет: Мульти. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001204.",
     "id": "010100001204",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/425/zvdwo7gxl4gc25nltb9uc7m73eiwci3q.jpg"
   },
   {
     "sku": "010100001092",
@@ -62693,7 +63596,7 @@ export const importedProducts: any[] = [
     "description": "Купить Лейла гол низ 02 в Санкт-Петербурге. Коллекция Лейла. Формат 250х400 см. Цвет: Голубой. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001092.",
     "id": "010100001092",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c30/3z3j93rwwb5zw9c13n3czk7h80h0bpja.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/pj5oicgh5tkylsmsycbncg2w1rb1mfei.jpg"
   },
   {
     "sku": "010100001094",
@@ -62719,7 +63622,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Лейла гол низ 03 в Санкт-Петербурге. Коллекция Лейла. Формат 250х400 см. Цвет: Голубой. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001094.",
     "id": "010100001094",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/pj5oicgh5tkylsmsycbncg2w1rb1mfei.jpg"
   },
   {
     "sku": "010400000842",
@@ -62745,7 +63649,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Лейла св КГ 01 в Санкт-Петербурге. Коллекция Лейла. Формат 450х450 см. Цвет: Белый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000842.",
     "id": "010400000842",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/pj5oicgh5tkylsmsycbncg2w1rb1mfei.jpg"
   },
   {
     "sku": "010100001086",
@@ -62771,7 +63676,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Лейла св верх 01 в Санкт-Петербурге. Коллекция Лейла. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001086.",
     "id": "010100001086",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/pj5oicgh5tkylsmsycbncg2w1rb1mfei.jpg"
   },
   {
     "sku": "010100001088",
@@ -62797,7 +63703,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Лейла сер низ 02 в Санкт-Петербурге. Коллекция Лейла. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001088.",
     "id": "010100001088",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/pj5oicgh5tkylsmsycbncg2w1rb1mfei.jpg"
   },
   {
     "sku": "010100001090",
@@ -62823,7 +63730,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Лейла сер низ 03 в Санкт-Петербурге. Коллекция Лейла. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001090.",
     "id": "010100001090",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f8e/pj5oicgh5tkylsmsycbncg2w1rb1mfei.jpg"
   },
   {
     "sku": "010100001143",
@@ -62849,7 +63757,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Леона св верх 01 в Санкт-Петербурге. Коллекция Леона. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001143.",
     "id": "010100001143",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef4/x5fnn54x7mxr9v1jmf87jb8p1gs0lrv2.jpg"
   },
   {
     "sku": "010100001145",
@@ -62875,7 +63784,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Леона св низ 02 в Санкт-Петербурге. Коллекция Леона. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001145.",
     "id": "010100001145",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef4/x5fnn54x7mxr9v1jmf87jb8p1gs0lrv2.jpg"
   },
   {
     "sku": "010100001147",
@@ -62901,7 +63811,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Леона св низ 03 в Санкт-Петербурге. Коллекция Леона. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001147.",
     "id": "010100001147",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef4/x5fnn54x7mxr9v1jmf87jb8p1gs0lrv2.jpg"
   },
   {
     "sku": "010100001148",
@@ -62928,7 +63839,7 @@ export const importedProducts: any[] = [
     "description": "Купить Лилит св верх 01 в Санкт-Петербурге. Коллекция Лилит. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001148.",
     "id": "010100001148",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c30/mmeje4xffs3qyxv364j6o3ymqq52553n.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/6b5/kvpdyvc6hbzg258602p8k2xennx9obrj.jpg"
   },
   {
     "sku": "010100001150",
@@ -62954,7 +63865,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Лилит сер низ 02 в Санкт-Петербурге. Коллекция Лилит. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001150.",
     "id": "010100001150",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/6b5/kvpdyvc6hbzg258602p8k2xennx9obrj.jpg"
   },
   {
     "sku": "010100001152",
@@ -62980,7 +63892,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Лилит сер низ 03 в Санкт-Петербурге. Коллекция Лилит. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001152.",
     "id": "010100001152",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/6b5/kvpdyvc6hbzg258602p8k2xennx9obrj.jpg"
   },
   {
     "sku": "010400001035",
@@ -63007,7 +63920,7 @@ export const importedProducts: any[] = [
     "description": "Купить Микс беж КГ 01 в Санкт-Петербурге. Коллекция Микс. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001035.",
     "id": "010400001035",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/650/lcnh06ge9is8lm7j7jwnu2uoyxtzg8fy.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/e34/syl4nwaqcu63sa8uqueyrjk6f4oe4o3h.jpg"
   },
   {
     "sku": "010400001363",
@@ -63033,7 +63946,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Микс беж КГ 01 v2 в Санкт-Петербурге. Коллекция Микс. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001363.",
     "id": "010400001363",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e34/syl4nwaqcu63sa8uqueyrjk6f4oe4o3h.jpg"
   },
   {
     "sku": "010100001268",
@@ -63059,7 +63973,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Микс бел верх 01 в Санкт-Петербурге. Коллекция Микс. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001268.",
     "id": "010100001268",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e34/syl4nwaqcu63sa8uqueyrjk6f4oe4o3h.jpg"
   },
   {
     "sku": "010100001270",
@@ -63085,7 +64000,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Микс бел низ 02 в Санкт-Петербурге. Коллекция Микс. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001270.",
     "id": "010100001270",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e34/syl4nwaqcu63sa8uqueyrjk6f4oe4o3h.jpg"
   },
   {
     "sku": "010100001272",
@@ -63111,7 +64027,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Микс беж низ 03 в Санкт-Петербурге. Коллекция Микс. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001272.",
     "id": "010100001272",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e34/syl4nwaqcu63sa8uqueyrjk6f4oe4o3h.jpg"
   },
   {
     "sku": "010100001274",
@@ -63137,7 +64054,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Микс беж низ 04 в Санкт-Петербурге. Коллекция Микс. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001274.",
     "id": "010100001274",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e34/syl4nwaqcu63sa8uqueyrjk6f4oe4o3h.jpg"
   },
   {
     "sku": "010400000691",
@@ -63164,7 +64082,7 @@ export const importedProducts: any[] = [
     "description": "Купить Милана св КГ 01 в Санкт-Петербурге. Коллекция Милана. Формат 400х400 см. Цвет: Белый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000691.",
     "id": "010400000691",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c0c/saveeuwlizx6ym024830bru2zewaejkl.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/514/szhllffcazxor3nxayk1xo9pyqvwp3g1.jpg"
   },
   {
     "sku": "010400000693",
@@ -63190,7 +64108,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Милана сер КГ 01 в Санкт-Петербурге. Коллекция Милана. Формат 400х400 см. Цвет: Серый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000693.",
     "id": "010400000693",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/514/szhllffcazxor3nxayk1xo9pyqvwp3g1.jpg"
   },
   {
     "sku": "010400001298",
@@ -63214,7 +64133,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Милана св КГ 01 v2 в Санкт-Петербурге. Коллекция Милана. Формат 400х400 см. Цвет: Белый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001298.",
     "id": "010400001298",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/514/szhllffcazxor3nxayk1xo9pyqvwp3g1.jpg"
   },
   {
     "sku": "010400001302",
@@ -63238,7 +64158,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Милана сер КГ 01 v2 в Санкт-Петербурге. Коллекция Милана. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001302.",
     "id": "010400001302",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/514/szhllffcazxor3nxayk1xo9pyqvwp3g1.jpg"
   },
   {
     "sku": "010100000874",
@@ -63264,7 +64185,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Милана св верх 01 в Санкт-Петербурге. Коллекция Милана. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000874.",
     "id": "010100000874",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/514/szhllffcazxor3nxayk1xo9pyqvwp3g1.jpg"
   },
   {
     "sku": "010100000876",
@@ -63290,7 +64212,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Милана сер низ 01 в Санкт-Петербурге. Коллекция Милана. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000876.",
     "id": "010100000876",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/514/szhllffcazxor3nxayk1xo9pyqvwp3g1.jpg"
   },
   {
     "sku": "010400001200",
@@ -63317,7 +64240,7 @@ export const importedProducts: any[] = [
     "description": "Купить Милки беж КГ 01 в Санкт-Петербурге. Коллекция Милки. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001200.",
     "id": "010400001200",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/cba/hbmobcgskq4si2r52ufvctsm2ck5klf7.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg"
   },
   {
     "sku": "010400001292",
@@ -63343,7 +64266,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Милки беж КГ 01 в Санкт-Петербурге. Коллекция Милки. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001292.",
     "id": "010400001292",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg"
   },
   {
     "sku": "010100001592",
@@ -63369,7 +64293,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Милки беж верх 01 в Санкт-Петербурге. Коллекция Милки. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001592.",
     "id": "010100001592",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg"
   },
   {
     "sku": "010100001594",
@@ -63393,7 +64318,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Милки беж низ 02 в Санкт-Петербурге. Коллекция Милки. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001594.",
     "id": "010100001594",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg"
   },
   {
     "sku": "010100001596",
@@ -63419,7 +64345,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Милки беж низ 03 в Санкт-Петербурге. Коллекция Милки. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001596.",
     "id": "010100001596",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg"
   },
   {
     "sku": "010100001598",
@@ -63445,7 +64372,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Милки беж низ 04 в Санкт-Петербурге. Коллекция Милки. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001598.",
     "id": "010100001598",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg"
   },
   {
     "sku": "010400000960",
@@ -63472,7 +64400,7 @@ export const importedProducts: any[] = [
     "description": "Купить Муза беж КГ 01 в Санкт-Петербурге. Коллекция Муза. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000960.",
     "id": "010400000960",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/500/37gb4h6pf6af04rlwr2xiwa871tak495.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/24a/7lctt0m6ufykozkii2y3dxybrixcpv4i.jpg"
   },
   {
     "sku": "010400001381",
@@ -63498,7 +64426,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Муза беж КГ 01 v2 в Санкт-Петербурге. Коллекция Муза. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001381.",
     "id": "010400001381",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/24a/7lctt0m6ufykozkii2y3dxybrixcpv4i.jpg"
   },
   {
     "sku": "010100001161",
@@ -63524,7 +64453,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Муза бел верх 01 в Санкт-Петербурге. Коллекция Муза. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001161.",
     "id": "010100001161",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/24a/7lctt0m6ufykozkii2y3dxybrixcpv4i.jpg"
   },
   {
     "sku": "010100001163",
@@ -63550,7 +64480,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Муза беж низ 02 в Санкт-Петербурге. Коллекция Муза. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001163.",
     "id": "010100001163",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/24a/7lctt0m6ufykozkii2y3dxybrixcpv4i.jpg"
   },
   {
     "sku": "010100001165",
@@ -63576,7 +64507,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Муза беж низ 03 в Санкт-Петербурге. Коллекция Муза. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001165.",
     "id": "010100001165",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/24a/7lctt0m6ufykozkii2y3dxybrixcpv4i.jpg"
   },
   {
     "sku": "010100001553",
@@ -63602,7 +64534,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Муза беж низ 04 в Санкт-Петербурге. Коллекция Муза. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001553.",
     "id": "010100001553",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/24a/7lctt0m6ufykozkii2y3dxybrixcpv4i.jpg"
   },
   {
     "sku": "010400001031",
@@ -63755,7 +64688,7 @@ export const importedProducts: any[] = [
     "description": "Купить Нова сер КГ 01 в Санкт-Петербурге. Коллекция Нова. Формат 400х400 см. Цвет: Серый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001121.",
     "id": "010400001121",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/107/jfl6dag5c157p8kcwr7o1r1izfex02ed.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/cd8/mergy7jmi8zo2yeht79d0vwpckyg48ph.jpg"
   },
   {
     "sku": "010400001387",
@@ -63781,7 +64714,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Нова сер КГ 01 v2 в Санкт-Петербурге. Коллекция Нова. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001387.",
     "id": "010400001387",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/cd8/mergy7jmi8zo2yeht79d0vwpckyg48ph.jpg"
   },
   {
     "sku": "010100001571",
@@ -63807,7 +64741,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Нова бел верх 01 в Санкт-Петербурге. Коллекция Нова. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001571.",
     "id": "010100001571",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/cd8/mergy7jmi8zo2yeht79d0vwpckyg48ph.jpg"
   },
   {
     "sku": "010100001572",
@@ -63833,7 +64768,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Нова бел низ 02 в Санкт-Петербурге. Коллекция Нова. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001572.",
     "id": "010100001572",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/cd8/mergy7jmi8zo2yeht79d0vwpckyg48ph.jpg"
   },
   {
     "sku": "010100001573",
@@ -63859,7 +64795,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Нова сер низ 03 в Санкт-Петербурге. Коллекция Нова. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001573.",
     "id": "010100001573",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/cd8/mergy7jmi8zo2yeht79d0vwpckyg48ph.jpg"
   },
   {
     "sku": "010100001574",
@@ -63885,7 +64822,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Нова сер низ 04 в Санкт-Петербурге. Коллекция Нова. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001574.",
     "id": "010100001574",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/cd8/mergy7jmi8zo2yeht79d0vwpckyg48ph.jpg"
   },
   {
     "sku": "010100001262",
@@ -64016,7 +64954,7 @@ export const importedProducts: any[] = [
     "description": "Купить Ритм сер верх 01 в Санкт-Петербурге. Коллекция Ритм. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001558.",
     "id": "010100001558",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c79/hbrpkezvbwy65qctkhz0b09r9kp8j0ex.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/d60/xtn9if97tr2a2jjoza7rgzz034u7k73k.jpg"
   },
   {
     "sku": "010100001559",
@@ -64042,7 +64980,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Ритм сер низ 02 в Санкт-Петербурге. Коллекция Ритм. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001559.",
     "id": "010100001559",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/d60/xtn9if97tr2a2jjoza7rgzz034u7k73k.jpg"
   },
   {
     "sku": "010100001560",
@@ -64068,7 +65007,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Ритм сер низ 03 в Санкт-Петербурге. Коллекция Ритм. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001560.",
     "id": "010100001560",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/d60/xtn9if97tr2a2jjoza7rgzz034u7k73k.jpg"
   },
   {
     "sku": "010100001131",
@@ -64121,7 +65061,7 @@ export const importedProducts: any[] = [
     "description": "Купить Спин бел низ 02 в Санкт-Петербурге. Коллекция Спин. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001568.",
     "id": "010100001568",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/8eb/uusmr77uip9fpyzlfrj3c413ixyrudiw.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/17a/qvl0zgv9q0wwucxzu12pstu39mqjd2v7.jpg"
   },
   {
     "sku": "010100001569",
@@ -64147,7 +65087,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Спин бел низ 03 в Санкт-Петербурге. Коллекция Спин. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001569.",
     "id": "010100001569",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/17a/qvl0zgv9q0wwucxzu12pstu39mqjd2v7.jpg"
   },
   {
     "sku": "010100001570",
@@ -64173,7 +65114,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Спин бел низ 04 в Санкт-Петербурге. Коллекция Спин. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001570.",
     "id": "010100001570",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/17a/qvl0zgv9q0wwucxzu12pstu39mqjd2v7.jpg"
   },
   {
     "sku": "010100001564",
@@ -64200,7 +65142,7 @@ export const importedProducts: any[] = [
     "description": "Купить Стрим сер верх 01 в Санкт-Петербурге. Коллекция Стрим. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001564.",
     "id": "010100001564",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/adf/d5hnllg6n94c8p04wcbeimnh0j7d21iv.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/3fb/2ugow3j8anbjxldhym28xz2ctjnb3xu3.jpg"
   },
   {
     "sku": "010100001565",
@@ -64226,7 +65168,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Стрим сер низ 02 в Санкт-Петербурге. Коллекция Стрим. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001565.",
     "id": "010100001565",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3fb/2ugow3j8anbjxldhym28xz2ctjnb3xu3.jpg"
   },
   {
     "sku": "010100001566",
@@ -64252,7 +65195,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Стрим сер низ 03 в Санкт-Петербурге. Коллекция Стрим. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001566.",
     "id": "010100001566",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3fb/2ugow3j8anbjxldhym28xz2ctjnb3xu3.jpg"
   },
   {
     "sku": "010100001567",
@@ -64278,7 +65222,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Стрим син низ 04 в Санкт-Петербурге. Коллекция Стрим. Формат 250х400 см. Цвет: Синий. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001567.",
     "id": "010100001567",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3fb/2ugow3j8anbjxldhym28xz2ctjnb3xu3.jpg"
   },
   {
     "sku": "010400001084",
@@ -64304,7 +65249,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Тоффи беж КГ 01 в Санкт-Петербурге. Коллекция Тоффи. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001084.",
     "id": "010400001084",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg"
   },
   {
     "sku": "010400001389",
@@ -64330,7 +65276,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Тоффи беж КГ 01 v2 в Санкт-Петербурге. Коллекция Тоффи. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001389.",
     "id": "010400001389",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg"
   },
   {
     "sku": "010100001463",
@@ -64356,7 +65303,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тоффи беж верх 01 в Санкт-Петербурге. Коллекция Тоффи. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001463.",
     "id": "010100001463",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg"
   },
   {
     "sku": "010100001465",
@@ -64382,7 +65330,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тоффи кор низ 02 в Санкт-Петербурге. Коллекция Тоффи. Формат 250х400 см. Цвет: Коричневый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001465.",
     "id": "010100001465",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg"
   },
   {
     "sku": "010100001467",
@@ -64408,7 +65357,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тоффи беж низ 03 в Санкт-Петербурге. Коллекция Тоффи. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001467.",
     "id": "010100001467",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg"
   },
   {
     "sku": "010100001469",
@@ -64434,7 +65384,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тоффи беж низ 04 в Санкт-Петербурге. Коллекция Тоффи. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001469.",
     "id": "010100001469",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg"
   },
   {
     "sku": "010400001119",
@@ -64460,7 +65411,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Треви беж КГ 01 в Санкт-Петербурге. Коллекция Треви. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001119.",
     "id": "010400001119",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a29/edfcgfpd0rcqbtw79q2141ctsmlhotrm.jpg"
   },
   {
     "sku": "010400001367",
@@ -64486,7 +65438,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Треви беж КГ 01 v2 в Санкт-Петербурге. Коллекция Треви. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001367.",
     "id": "010400001367",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a29/edfcgfpd0rcqbtw79q2141ctsmlhotrm.jpg"
   },
   {
     "sku": "010100001561",
@@ -64512,7 +65465,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Треви беж низ 02 в Санкт-Петербурге. Коллекция Треви. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001561.",
     "id": "010100001561",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a29/edfcgfpd0rcqbtw79q2141ctsmlhotrm.jpg"
   },
   {
     "sku": "010100001562",
@@ -64538,7 +65492,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Треви беж низ 03 в Санкт-Петербурге. Коллекция Треви. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001562.",
     "id": "010100001562",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a29/edfcgfpd0rcqbtw79q2141ctsmlhotrm.jpg"
   },
   {
     "sku": "010100001563",
@@ -64564,7 +65519,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Треви беж низ 04 в Санкт-Петербурге. Коллекция Треви. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001563.",
     "id": "010100001563",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a29/edfcgfpd0rcqbtw79q2141ctsmlhotrm.jpg"
   },
   {
     "sku": "010400001202",
@@ -64589,7 +65545,7 @@ export const importedProducts: any[] = [
     "description": "Купить Тренд сер КГ 01 в Санкт-Петербурге. Коллекция Тренд. Формат 400х400 см. Цвет: Серый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001202.",
     "id": "010400001202",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/b41/8ml7fnu64jllguu2hhie0nko3wr52tgh.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/339/pkkfr8b5slzv2tj7si6zc84xqx9db3gl.jpg"
   },
   {
     "sku": "010400001294",
@@ -64615,7 +65571,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Тренд сер КГ 01 в Санкт-Петербурге. Коллекция Тренд. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001294.",
     "id": "010400001294",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/339/pkkfr8b5slzv2tj7si6zc84xqx9db3gl.jpg"
   },
   {
     "sku": "010100001600",
@@ -64641,7 +65598,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тренд сер верх 01 в Санкт-Петербурге. Коллекция Тренд. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001600.",
     "id": "010100001600",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/339/pkkfr8b5slzv2tj7si6zc84xqx9db3gl.jpg"
   },
   {
     "sku": "010100001602",
@@ -64667,7 +65625,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тренд микс низ 02 в Санкт-Петербурге. Коллекция Тренд. Формат 250х400 см. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001602.",
     "id": "010100001602",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/339/pkkfr8b5slzv2tj7si6zc84xqx9db3gl.jpg"
   },
   {
     "sku": "010100001604",
@@ -64693,7 +65652,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тренд сер низ 03 в Санкт-Петербурге. Коллекция Тренд. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001604.",
     "id": "010100001604",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/339/pkkfr8b5slzv2tj7si6zc84xqx9db3gl.jpg"
   },
   {
     "sku": "010100001606",
@@ -64719,7 +65679,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Тренд беж низ 04 в Санкт-Петербурге. Коллекция Тренд. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001606.",
     "id": "010100001606",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/339/pkkfr8b5slzv2tj7si6zc84xqx9db3gl.jpg"
   },
   {
     "sku": "010400001262",
@@ -64874,7 +65835,7 @@ export const importedProducts: any[] = [
     "description": "Купить Флора беж КГ 02 в Санкт-Петербурге. Коллекция Флора. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001208.",
     "id": "010400001208",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/24c/vgkqcd4ai1707aycetjvfzzql4521m6i.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/e2a/hjrb16twxw35x26w2ixa8shjeedidg37.jpg"
   },
   {
     "sku": "010400001391",
@@ -64900,7 +65861,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Флора беж КГ 02 v2 в Санкт-Петербурге. Коллекция Флора. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001391.",
     "id": "010400001391",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2a/hjrb16twxw35x26w2ixa8shjeedidg37.jpg"
   },
   {
     "sku": "010100001175",
@@ -64926,7 +65888,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Флора беж верх 01 в Санкт-Петербурге. Коллекция Флора. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001175.",
     "id": "010100001175",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2a/hjrb16twxw35x26w2ixa8shjeedidg37.jpg"
   },
   {
     "sku": "010100001177",
@@ -64952,7 +65915,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Флора зел низ 02 в Санкт-Петербурге. Коллекция Флора. Формат 250х400 см. Цвет: Зеленый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001177.",
     "id": "010100001177",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e2a/hjrb16twxw35x26w2ixa8shjeedidg37.jpg"
   },
   {
     "sku": "010100001575",
@@ -64979,7 +65943,7 @@ export const importedProducts: any[] = [
     "description": "Купить Форм сер верх 01 в Санкт-Петербурге. Коллекция Форм. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001575.",
     "id": "010100001575",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/f6a/95tw6x6kwqbgo926rwvm025jqwolc37p.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/edd/uauf90hiqhpt76sxdlutfkgtt36ddh4x.jpg"
   },
   {
     "sku": "010100001576",
@@ -65005,7 +65969,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Форм сер низ 02 в Санкт-Петербурге. Коллекция Форм. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001576.",
     "id": "010100001576",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/edd/uauf90hiqhpt76sxdlutfkgtt36ddh4x.jpg"
   },
   {
     "sku": "010100001577",
@@ -65031,7 +65996,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Форм сер низ 03 в Санкт-Петербурге. Коллекция Форм. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001577.",
     "id": "010100001577",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/edd/uauf90hiqhpt76sxdlutfkgtt36ddh4x.jpg"
   },
   {
     "sku": "010400001198",
@@ -65263,7 +66229,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Чарли св низ 01 в Санкт-Петербурге. Коллекция Чарли. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001180.",
     "id": "010100001180",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/226/39crwpl6v0wu6egasuftws740ffzrfu3.jpg"
   },
   {
     "sku": "010100001182",
@@ -65289,7 +66256,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Чарли чер низ 02 в Санкт-Петербурге. Коллекция Чарли. Формат 250х400 см. Цвет: Черный. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001182.",
     "id": "010100001182",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/226/39crwpl6v0wu6egasuftws740ffzrfu3.jpg"
   },
   {
     "sku": "010400001115",
@@ -65316,7 +66284,7 @@ export const importedProducts: any[] = [
     "description": "Купить Эдем бел КГ 01 в Санкт-Петербурге. Коллекция Эдем. Формат 400х400 см. Цвет: Белый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001115.",
     "id": "010400001115",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/106/xoh74300pfgreos6s67vsenu324ndssz.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/29a/mssu7ipj9tqvno9dyskzj8zt7c0f9fe9.jpg"
   },
   {
     "sku": "010400001385",
@@ -65340,7 +66308,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Эдем сер КГ 01 v2 в Санкт-Петербурге. Коллекция Эдем. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001385.",
     "id": "010400001385",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/29a/mssu7ipj9tqvno9dyskzj8zt7c0f9fe9.jpg"
   },
   {
     "sku": "010100001549",
@@ -65366,7 +66335,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эдем бел верх 01 в Санкт-Петербурге. Коллекция Эдем. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001549.",
     "id": "010100001549",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/29a/mssu7ipj9tqvno9dyskzj8zt7c0f9fe9.jpg"
   },
   {
     "sku": "010100001550",
@@ -65392,7 +66362,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эдем бел низ 02 в Санкт-Петербурге. Коллекция Эдем. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001550.",
     "id": "010100001550",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/29a/mssu7ipj9tqvno9dyskzj8zt7c0f9fe9.jpg"
   },
   {
     "sku": "010100001551",
@@ -65418,7 +66389,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эдем бел низ 03 в Санкт-Петербурге. Коллекция Эдем. Формат 250х400 см. Цвет: Белый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001551.",
     "id": "010100001551",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/29a/mssu7ipj9tqvno9dyskzj8zt7c0f9fe9.jpg"
   },
   {
     "sku": "010100001552",
@@ -65444,7 +66416,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эдем сер низ 04 в Санкт-Петербурге. Коллекция Эдем. Формат 250х400 см. Цвет: Серый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001552.",
     "id": "010100001552",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/29a/mssu7ipj9tqvno9dyskzj8zt7c0f9fe9.jpg"
   },
   {
     "sku": "010400000966",
@@ -65471,7 +66444,7 @@ export const importedProducts: any[] = [
     "description": "Купить Эфа беж КГ 01 в Санкт-Петербурге. Коллекция Эфа. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000966.",
     "id": "010400000966",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/f73/pkx80p32v3q0zkbzajr78lldro18xa7a.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/960/n0bc0d6sytlqvouc7vi3tbs0q1y87max.jpg"
   },
   {
     "sku": "010400000968",
@@ -65497,7 +66470,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Эфа беж КГ 02 в Санкт-Петербурге. Коллекция Эфа. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000968.",
     "id": "010400000968",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/960/n0bc0d6sytlqvouc7vi3tbs0q1y87max.jpg"
   },
   {
     "sku": "010400001417",
@@ -65523,7 +66497,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Эфа беж КГ 02 v2 в Санкт-Петербурге. Коллекция Эфа. Формат 400х400 см. Цвет: Бежевый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001417.",
     "id": "010400001417",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/960/n0bc0d6sytlqvouc7vi3tbs0q1y87max.jpg"
   },
   {
     "sku": "010100001184",
@@ -65549,7 +66524,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эфа беж верх 01 в Санкт-Петербурге. Коллекция Эфа. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001184.",
     "id": "010100001184",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/960/n0bc0d6sytlqvouc7vi3tbs0q1y87max.jpg"
   },
   {
     "sku": "010100001186",
@@ -65575,7 +66551,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эфа беж низ 02 в Санкт-Петербурге. Коллекция Эфа. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001186.",
     "id": "010100001186",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/960/n0bc0d6sytlqvouc7vi3tbs0q1y87max.jpg"
   },
   {
     "sku": "010100001188",
@@ -65601,7 +66578,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.4,
     "description": "Купить Эфа беж низ 03 в Санкт-Петербурге. Коллекция Эфа. Формат 250х400 см. Цвет: Бежевый. В упаковке 14 шт (1.4 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001188.",
     "id": "010100001188",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/960/n0bc0d6sytlqvouc7vi3tbs0q1y87max.jpg"
   },
   {
     "sku": "010100001752",
@@ -65713,7 +66691,7 @@ export const importedProducts: any[] = [
     "name": "Aqua white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Aqua",
+    "collection": "Aqua (Аква)",
     "color": "Белый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -65732,7 +66710,7 @@ export const importedProducts: any[] = [
     "description": "Купить Aqua white wall 01 в Санкт-Петербурге. Коллекция Aqua. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001536.",
     "id": "010100001536",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/88a/qo9rguzlzxy16f96lv5xrr816ey11k0q.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/bac/dga1tfbqieqn3d1pf1t381q1zc18w539.jpg"
   },
   {
     "sku": "010100001631",
@@ -65766,7 +66744,7 @@ export const importedProducts: any[] = [
     "name": "Bianca white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Bianca",
+    "collection": "Bianca (Бьянка)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -65784,7 +66762,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.9,
     "description": "Купить Bianca white decor 01 в Санкт-Петербурге. Коллекция Bianca. Формат 250х600 см. Цвет: Белый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000088.",
     "id": "010300000088",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/db9/exn1fds2i2p2jbgs3iamy4dqcca1pp6w.jpg"
   },
   {
     "sku": "010400000478",
@@ -65792,7 +66771,7 @@ export const importedProducts: any[] = [
     "name": "Bianca white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Bianca",
+    "collection": "Bianca (Бьянка)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "450х450",
@@ -65810,7 +66789,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Bianca white PG 01 в Санкт-Петербурге. Коллекция Bianca. Формат 450х450 см. Цвет: Белый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000478.",
     "id": "010400000478",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/db9/exn1fds2i2p2jbgs3iamy4dqcca1pp6w.jpg"
   },
   {
     "sku": "010100000407",
@@ -65818,7 +66798,7 @@ export const importedProducts: any[] = [
     "name": "Bianca white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Bianca",
+    "collection": "Bianca (Бьянка)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -65836,7 +66816,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Bianca white wall 01 в Санкт-Петербурге. Коллекция Bianca. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000407.",
     "id": "010100000407",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/db9/exn1fds2i2p2jbgs3iamy4dqcca1pp6w.jpg"
   },
   {
     "sku": "010100000408",
@@ -65844,7 +66825,7 @@ export const importedProducts: any[] = [
     "name": "Bianca white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Bianca",
+    "collection": "Bianca (Бьянка)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -65862,7 +66843,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Bianca white wall 02 в Санкт-Петербурге. Коллекция Bianca. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000408.",
     "id": "010100000408",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/db9/exn1fds2i2p2jbgs3iamy4dqcca1pp6w.jpg"
   },
   {
     "sku": "010100001310",
@@ -65870,7 +66852,7 @@ export const importedProducts: any[] = [
     "name": "Blum white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Blum",
+    "collection": "Blum (Блум)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -65888,7 +66870,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Blum white wall 01 в Санкт-Петербурге. Коллекция Blum. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001310.",
     "id": "010100001310",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1de/d9ezteqf3h5t036jq9v98hko8lnyymdp.jpg"
   },
   {
     "sku": "010400001212",
@@ -65915,7 +66898,7 @@ export const importedProducts: any[] = [
     "description": "Купить Bravo grey PG 01 в Санкт-Петербурге. Коллекция Bravo. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001212.",
     "id": "010400001212",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/aa8/p4w5wsgh0h7iedqril96typwe7f3xtbn.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/885/198f25k5ztt96yjq4adbptts9nznv2cr.jpg"
   },
   {
     "sku": "010100001612",
@@ -65941,7 +66924,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Bravo grey wall 01 в Санкт-Петербурге. Коллекция Bravo. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001612.",
     "id": "010100001612",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/885/198f25k5ztt96yjq4adbptts9nznv2cr.jpg"
   },
   {
     "sku": "010100001613",
@@ -65967,7 +66951,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Bravo grey wall 02 в Санкт-Петербурге. Коллекция Bravo. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001613.",
     "id": "010100001613",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/885/198f25k5ztt96yjq4adbptts9nznv2cr.jpg"
   },
   {
     "sku": "010100001614",
@@ -65993,7 +66978,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Bravo grey wall 03 в Санкт-Петербурге. Коллекция Bravo. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001614.",
     "id": "010100001614",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/885/198f25k5ztt96yjq4adbptts9nznv2cr.jpg"
   },
   {
     "sku": "010100001636",
@@ -66027,7 +67013,7 @@ export const importedProducts: any[] = [
     "name": "Cameo grey decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Cameo",
+    "collection": "Cameo (Камео)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -66054,7 +67040,7 @@ export const importedProducts: any[] = [
     "name": "Cameo grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Cameo",
+    "collection": "Cameo (Камео)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "450х450",
@@ -66072,7 +67058,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Cameo grey PG 01 в Санкт-Петербурге. Коллекция Cameo. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001111.",
     "id": "010400001111",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e78/c2qzuike6lac7g2z6jjc9menipg5kypc.jpg"
   },
   {
     "sku": "010100001542",
@@ -66080,7 +67067,7 @@ export const importedProducts: any[] = [
     "name": "Cameo grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Cameo",
+    "collection": "Cameo (Камео)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -66098,7 +67085,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Cameo grey wall 01 в Санкт-Петербурге. Коллекция Cameo. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001542.",
     "id": "010100001542",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e78/c2qzuike6lac7g2z6jjc9menipg5kypc.jpg"
   },
   {
     "sku": "010100001543",
@@ -66106,7 +67094,7 @@ export const importedProducts: any[] = [
     "name": "Cameo grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Cameo",
+    "collection": "Cameo (Камео)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -66124,7 +67112,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Cameo grey wall 02 в Санкт-Петербурге. Коллекция Cameo. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001543.",
     "id": "010100001543",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e78/c2qzuike6lac7g2z6jjc9menipg5kypc.jpg"
   },
   {
     "sku": "010300000089",
@@ -66132,7 +67121,7 @@ export const importedProducts: any[] = [
     "name": "Celia white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Celia",
+    "collection": "Celia (Сэлиа)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66150,7 +67139,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.9,
     "description": "Купить Celia white decor 01 в Санкт-Петербурге. Коллекция Celia. Формат 250х600 см. Цвет: Белый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000089.",
     "id": "010300000089",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/45f/cgq71vc70eaajopaeqa9pf1nekxy96a3.jpg"
   },
   {
     "sku": "010300000090",
@@ -66158,7 +67148,7 @@ export const importedProducts: any[] = [
     "name": "Celia white panno 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Celia",
+    "collection": "Celia (Сэлиа)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "500х600",
@@ -66176,7 +67166,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.9,
     "description": "Купить Celia white panno 01 в Санкт-Петербурге. Коллекция Celia. Формат 500х600 см. Цвет: Белый. В упаковке 3 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000090.",
     "id": "010300000090",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/45f/cgq71vc70eaajopaeqa9pf1nekxy96a3.jpg"
   },
   {
     "sku": "010100000410",
@@ -66184,7 +67175,7 @@ export const importedProducts: any[] = [
     "name": "Celia white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Celia",
+    "collection": "Celia (Сэлиа)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66202,7 +67193,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Celia white wall 01 в Санкт-Петербурге. Коллекция Celia. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000410.",
     "id": "010100000410",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/45f/cgq71vc70eaajopaeqa9pf1nekxy96a3.jpg"
   },
   {
     "sku": "010100000411",
@@ -66210,7 +67202,7 @@ export const importedProducts: any[] = [
     "name": "Celia white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Celia",
+    "collection": "Celia (Сэлиа)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66228,7 +67220,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Celia white wall 02 в Санкт-Петербурге. Коллекция Celia. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000411.",
     "id": "010100000411",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/45f/cgq71vc70eaajopaeqa9pf1nekxy96a3.jpg"
   },
   {
     "sku": "010200000123",
@@ -66236,7 +67229,7 @@ export const importedProducts: any[] = [
     "name": "Ceramic white border 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х60",
@@ -66254,7 +67247,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.3,
     "description": "Купить Ceramic white border 02 в Санкт-Петербурге. Коллекция Lira. Формат 250х60 см. Цвет: Белый. В упаковке 20 шт (0.3 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010200000123.",
     "id": "010200000123",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010300000210",
@@ -66262,7 +67256,7 @@ export const importedProducts: any[] = [
     "name": "Ceramic white plinth 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "200х250",
@@ -66280,7 +67274,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.9,
     "description": "Купить Ceramic white plinth 02 в Санкт-Петербурге. Коллекция Lira. Формат 200х250 см. Цвет: Белый. В упаковке 18 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000210.",
     "id": "010300000210",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010100001477",
@@ -66515,7 +67510,7 @@ export const importedProducts: any[] = [
     "description": "Купить Galaxy pink decor 01 в Санкт-Петербурге. Коллекция Galaxy. Формат 250х600 см. Цвет: Розовый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000222.",
     "id": "010300000222",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/700/298iz5w54l1luum37ktfm8f6ce2wmvl3.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/99d/55a83u1miipgmqi5cv6lkakpdpqemfu8.jpg"
   },
   {
     "sku": "010100001210",
@@ -66541,7 +67536,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Galaxy pink wall 01 в Санкт-Петербурге. Коллекция Galaxy. Формат 250х600 см. Цвет: Розовый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001210.",
     "id": "010100001210",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/99d/55a83u1miipgmqi5cv6lkakpdpqemfu8.jpg"
   },
   {
     "sku": "010100001211",
@@ -66567,7 +67563,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Galaxy light pink mosaic wall 02 в Санкт-Петербурге. Коллекция Galaxy. Формат 250х600 см. Цвет: Розовый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001211.",
     "id": "010100001211",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/99d/55a83u1miipgmqi5cv6lkakpdpqemfu8.jpg"
   },
   {
     "sku": "010100001635",
@@ -66593,7 +67590,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Hugo white wall 01 в Санкт-Петербурге. Коллекция Hugo. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001635.",
     "id": "010100001635",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c6a/0lf2wota47kzqzqic0rvxw853uwxib1p.jpg"
   },
   {
     "sku": "010100001533",
@@ -66601,7 +67599,7 @@ export const importedProducts: any[] = [
     "name": "Ideal white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ideal",
+    "collection": "Ideal (Идеал)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66620,7 +67618,7 @@ export const importedProducts: any[] = [
     "description": "Купить Ideal white wall 01 в Санкт-Петербурге. Коллекция Ideal. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001533.",
     "id": "010100001533",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/38c/5u9o4gaj5svol3zt15yd46hivu2vcd31.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/c6f/ihwk1nba31eb0ktnlptdvtlz0cmqo9r8.jpg"
   },
   {
     "sku": "010100001534",
@@ -66628,7 +67626,7 @@ export const importedProducts: any[] = [
     "name": "Ideal white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ideal",
+    "collection": "Ideal (Идеал)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66646,7 +67644,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Ideal white wall 02 в Санкт-Петербурге. Коллекция Ideal. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001534.",
     "id": "010100001534",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c6f/ihwk1nba31eb0ktnlptdvtlz0cmqo9r8.jpg"
   },
   {
     "sku": "010100001521",
@@ -66654,7 +67653,7 @@ export const importedProducts: any[] = [
     "name": "Joy white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Joy",
+    "collection": "Joy (Джой)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66673,7 +67672,7 @@ export const importedProducts: any[] = [
     "description": "Купить Joy white wall 01 в Санкт-Петербурге. Коллекция Joy. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001521.",
     "id": "010100001521",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/44d/6pet9ksvytldc2ure4mutkozq6cwvmu7.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/34a/thdvrvdkadvroq3ubz4dd1sregply54i.jpg"
   },
   {
     "sku": "010100001523",
@@ -66681,7 +67680,7 @@ export const importedProducts: any[] = [
     "name": "Joy multi wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Joy",
+    "collection": "Joy (Джой)",
     "color": "Мульти",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66699,7 +67698,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Joy multi wall 02 в Санкт-Петербурге. Коллекция Joy. Формат 250х600 см. Цвет: Мульти. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001523.",
     "id": "010100001523",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/34a/thdvrvdkadvroq3ubz4dd1sregply54i.jpg"
   },
   {
     "sku": "010100001524",
@@ -66707,7 +67707,7 @@ export const importedProducts: any[] = [
     "name": "Joy beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Joy",
+    "collection": "Joy (Джой)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66725,7 +67725,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Joy beige wall 03 в Санкт-Петербурге. Коллекция Joy. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001524.",
     "id": "010100001524",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/34a/thdvrvdkadvroq3ubz4dd1sregply54i.jpg"
   },
   {
     "sku": "010100001525",
@@ -66733,7 +67734,7 @@ export const importedProducts: any[] = [
     "name": "Joy beige wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Joy",
+    "collection": "Joy (Джой)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66751,7 +67752,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Joy beige wall 04 в Санкт-Петербурге. Коллекция Joy. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001525.",
     "id": "010100001525",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/34a/thdvrvdkadvroq3ubz4dd1sregply54i.jpg"
   },
   {
     "sku": "010100001460",
@@ -66777,8 +67779,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Katana white wall 01 в Санкт-Петербурге. Коллекция Katana. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001460.",
     "id": "010100001460",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/724/d12yh3o6tdnc7heb0j4sae9n1u7kyxe8.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010100001461",
@@ -66838,7 +67839,7 @@ export const importedProducts: any[] = [
     "name": "Lane grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lane",
+    "collection": "Lane (Лейн)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -66857,7 +67858,7 @@ export const importedProducts: any[] = [
     "description": "Купить Lane grey wall 01 в Санкт-Петербурге. Коллекция Lane. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001539.",
     "id": "010100001539",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/450/stliz64gae0hha5s2mjryxxhkhxz4uri.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/e3f/vsm5615i1n38cof071gjoefddex85bq1.jpg"
   },
   {
     "sku": "010100001540",
@@ -66865,7 +67866,7 @@ export const importedProducts: any[] = [
     "name": "Lane grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lane",
+    "collection": "Lane (Лейн)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -66883,7 +67884,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Lane grey wall 02 в Санкт-Петербурге. Коллекция Lane. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001540.",
     "id": "010100001540",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e3f/vsm5615i1n38cof071gjoefddex85bq1.jpg"
   },
   {
     "sku": "010100001541",
@@ -66891,7 +67893,7 @@ export const importedProducts: any[] = [
     "name": "Lane grey wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lane",
+    "collection": "Lane (Лейн)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -66909,7 +67911,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Lane grey wall 03 в Санкт-Петербурге. Коллекция Lane. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001541.",
     "id": "010100001541",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e3f/vsm5615i1n38cof071gjoefddex85bq1.jpg"
   },
   {
     "sku": "010300000221",
@@ -66917,7 +67920,7 @@ export const importedProducts: any[] = [
     "name": "Lira beige decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66935,7 +67938,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.9,
     "description": "Купить Lira beige decor 01 в Санкт-Петербурге. Коллекция Lira. Формат 250х600 см. Цвет: Бежевый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000221.",
     "id": "010300000221",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010400000982",
@@ -66943,7 +67947,7 @@ export const importedProducts: any[] = [
     "name": "Lira beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "450х450",
@@ -66961,7 +67965,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Lira beige PG 01 в Санкт-Петербурге. Коллекция Lira. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000982.",
     "id": "010400000982",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010100001206",
@@ -66969,7 +67974,7 @@ export const importedProducts: any[] = [
     "name": "Lira light beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -66987,7 +67992,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Lira light beige wall 01 в Санкт-Петербурге. Коллекция Lira. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001206.",
     "id": "010100001206",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010100001207",
@@ -66995,7 +68001,7 @@ export const importedProducts: any[] = [
     "name": "Lira beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67013,7 +68019,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Lira beige wall 02 в Санкт-Петербурге. Коллекция Lira. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001207.",
     "id": "010100001207",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010100001208",
@@ -67021,7 +68028,7 @@ export const importedProducts: any[] = [
     "name": "Lira beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lira",
+    "collection": "Lira (Лира)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67039,7 +68046,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Lira beige wall 03 в Санкт-Петербурге. Коллекция Lira. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001208.",
     "id": "010100001208",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2e6/a40c12mi6yjc5usn01e066fovq2iqg7g.jpg"
   },
   {
     "sku": "010100001670",
@@ -67169,7 +68177,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Mist grey wall 01 в Санкт-Петербурге. Коллекция Mist. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001632.",
     "id": "010100001632",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4cf/3lh598cpw0z20gnibtjun3leom50jx2k.jpg"
   },
   {
     "sku": "010100001633",
@@ -67195,7 +68204,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Mist grey wall 02 в Санкт-Петербурге. Коллекция Mist. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001633.",
     "id": "010100001633",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4cf/3lh598cpw0z20gnibtjun3leom50jx2k.jpg"
   },
   {
     "sku": "010100001529",
@@ -67203,7 +68213,7 @@ export const importedProducts: any[] = [
     "name": "Modello white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Modello",
+    "collection": "Modello (Моделло)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67222,7 +68232,7 @@ export const importedProducts: any[] = [
     "description": "Купить Modello white wall 01 в Санкт-Петербурге. Коллекция Modello. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001529.",
     "id": "010100001529",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/fde/49mlbmnendjyh5ikxlxas2xawf0r1zhc.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/853/c4x22y8j2blvcr5xc2f53gwdiiisgzza.jpg"
   },
   {
     "sku": "010100001530",
@@ -67230,7 +68240,7 @@ export const importedProducts: any[] = [
     "name": "Modello white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Modello",
+    "collection": "Modello (Моделло)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67248,7 +68258,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Modello white wall 02 в Санкт-Петербурге. Коллекция Modello. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001530.",
     "id": "010100001530",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/853/c4x22y8j2blvcr5xc2f53gwdiiisgzza.jpg"
   },
   {
     "sku": "010100001531",
@@ -67256,7 +68267,7 @@ export const importedProducts: any[] = [
     "name": "Modello grey wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Modello",
+    "collection": "Modello (Моделло)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67274,7 +68285,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Modello grey wall 03 в Санкт-Петербурге. Коллекция Modello. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001531.",
     "id": "010100001531",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/853/c4x22y8j2blvcr5xc2f53gwdiiisgzza.jpg"
   },
   {
     "sku": "010100001532",
@@ -67282,7 +68294,7 @@ export const importedProducts: any[] = [
     "name": "Modello grey wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Modello",
+    "collection": "Modello (Моделло)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67300,7 +68312,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Modello grey wall 04 в Санкт-Петербурге. Коллекция Modello. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001532.",
     "id": "010100001532",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/853/c4x22y8j2blvcr5xc2f53gwdiiisgzza.jpg"
   },
   {
     "sku": "010100001487",
@@ -67326,7 +68339,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Monocolor sugar white wall 01 в Санкт-Петербурге. Коллекция Monocolor sugar 250х600. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001487.",
     "id": "010100001487",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8a/mul2nsckgnhk9j3ujuycgzhqfazdewn3.jpg"
   },
   {
     "sku": "010100001537",
@@ -67352,7 +68366,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Monocolor sugar white wall 02 в Санкт-Петербурге. Коллекция Monocolor sugar 250х600. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001537.",
     "id": "010100001537",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8a/mul2nsckgnhk9j3ujuycgzhqfazdewn3.jpg"
   },
   {
     "sku": "010100001538",
@@ -67378,7 +68393,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Monocolor sugar blue wall 01 в Санкт-Петербурге. Коллекция Monocolor sugar 250х600. Формат 250х600 см. Цвет: Голубой. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001538.",
     "id": "010100001538",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8a/mul2nsckgnhk9j3ujuycgzhqfazdewn3.jpg"
   },
   {
     "sku": "010400001109",
@@ -67386,7 +68402,7 @@ export const importedProducts: any[] = [
     "name": "Moonrise white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Moonrise",
+    "collection": "Moonrise (Мунрайз)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "450х450",
@@ -67405,7 +68421,7 @@ export const importedProducts: any[] = [
     "description": "Купить Moonrise white PG 01 в Санкт-Петербурге. Коллекция Moonrise. Формат 450х450 см. Цвет: Белый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001109.",
     "id": "010400001109",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/f48/m8kfs63hiehzxkosinag1c59b00wcvcn.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/c2b/aej5cex6t03njtxnj4ben3j6vh19d727.jpg"
   },
   {
     "sku": "010100001545",
@@ -67413,7 +68429,7 @@ export const importedProducts: any[] = [
     "name": "Moonrise white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Moonrise",
+    "collection": "Moonrise (Мунрайз)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67431,7 +68447,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Moonrise white wall 01 в Санкт-Петербурге. Коллекция Moonrise. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001545.",
     "id": "010100001545",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c2b/aej5cex6t03njtxnj4ben3j6vh19d727.jpg"
   },
   {
     "sku": "010100001546",
@@ -67439,7 +68456,7 @@ export const importedProducts: any[] = [
     "name": "Moonrise white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Moonrise",
+    "collection": "Moonrise (Мунрайз)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67457,7 +68474,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Moonrise white wall 02 в Санкт-Петербурге. Коллекция Moonrise. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001546.",
     "id": "010100001546",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c2b/aej5cex6t03njtxnj4ben3j6vh19d727.jpg"
   },
   {
     "sku": "010100001547",
@@ -67465,7 +68483,7 @@ export const importedProducts: any[] = [
     "name": "Moonrise white wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Moonrise",
+    "collection": "Moonrise (Мунрайз)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67483,7 +68501,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Moonrise white wall 03 в Санкт-Петербурге. Коллекция Moonrise. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001547.",
     "id": "010100001547",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c2b/aej5cex6t03njtxnj4ben3j6vh19d727.jpg"
   },
   {
     "sku": "010100001548",
@@ -67491,7 +68510,7 @@ export const importedProducts: any[] = [
     "name": "Moonrise grey wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Moonrise",
+    "collection": "Moonrise (Мунрайз)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -67509,7 +68528,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Moonrise grey wall 04 в Санкт-Петербурге. Коллекция Moonrise. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001548.",
     "id": "010100001548",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c2b/aej5cex6t03njtxnj4ben3j6vh19d727.jpg"
   },
   {
     "sku": "010100001518",
@@ -67517,7 +68537,7 @@ export const importedProducts: any[] = [
     "name": "Pinto beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Pinto",
+    "collection": "Pinto (Пинто)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -67536,7 +68556,7 @@ export const importedProducts: any[] = [
     "description": "Купить Pinto beige wall 01 в Санкт-Петербурге. Коллекция Pinto. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001518.",
     "id": "010100001518",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/dc9/9okge85feq3s2t8k0921tnq6v6cxu5mn.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/5f8/o8w27kcv101fe5yxz0hh08lstrtech5w.jpg"
   },
   {
     "sku": "010100001519",
@@ -67544,7 +68564,7 @@ export const importedProducts: any[] = [
     "name": "Pinto beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Pinto",
+    "collection": "Pinto (Пинто)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -67562,7 +68582,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Pinto beige wall 02 в Санкт-Петербурге. Коллекция Pinto. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001519.",
     "id": "010100001519",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/5f8/o8w27kcv101fe5yxz0hh08lstrtech5w.jpg"
   },
   {
     "sku": "010100001520",
@@ -67570,7 +68591,7 @@ export const importedProducts: any[] = [
     "name": "Pinto beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Pinto",
+    "collection": "Pinto (Пинто)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -67588,7 +68609,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Pinto beige wall 03 в Санкт-Петербурге. Коллекция Pinto. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001520.",
     "id": "010100001520",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/5f8/o8w27kcv101fe5yxz0hh08lstrtech5w.jpg"
   },
   {
     "sku": "010100001637",
@@ -67622,7 +68644,7 @@ export const importedProducts: any[] = [
     "name": "Quarta beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Quarta",
+    "collection": "Quarta (Кварта)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -67641,7 +68663,7 @@ export const importedProducts: any[] = [
     "description": "Купить Quarta beige PG 01 в Санкт-Петербурге. Коллекция Quarta. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000484.",
     "id": "010400000484",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/63f/lwz9fn3uiayo1lx5judj9kgjv6h1unu4.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/7f9/g90dvh5j07izhew4x8vxssjhpmb1slxy.jpg"
   },
   {
     "sku": "010100000417",
@@ -67649,7 +68671,7 @@ export const importedProducts: any[] = [
     "name": "Quarta beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Quarta",
+    "collection": "Quarta (Кварта)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -67667,7 +68689,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Quarta beige wall 01 в Санкт-Петербурге. Коллекция Quarta. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000417.",
     "id": "010100000417",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/7f9/g90dvh5j07izhew4x8vxssjhpmb1slxy.jpg"
   },
   {
     "sku": "010100000418",
@@ -67675,7 +68698,7 @@ export const importedProducts: any[] = [
     "name": "Quarta beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Quarta",
+    "collection": "Quarta (Кварта)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -67693,7 +68716,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Quarta beige wall 02 в Санкт-Петербурге. Коллекция Quarta. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000418.",
     "id": "010100000418",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/7f9/g90dvh5j07izhew4x8vxssjhpmb1slxy.jpg"
   },
   {
     "sku": "010100000419",
@@ -67701,7 +68725,7 @@ export const importedProducts: any[] = [
     "name": "Quarta beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Quarta",
+    "collection": "Quarta (Кварта)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -67719,7 +68743,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Quarta beige wall 03 в Санкт-Петербурге. Коллекция Quarta. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000419.",
     "id": "010100000419",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/7f9/g90dvh5j07izhew4x8vxssjhpmb1slxy.jpg"
   },
   {
     "sku": "010100000420",
@@ -67727,7 +68752,7 @@ export const importedProducts: any[] = [
     "name": "Quarta brown wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Quarta",
+    "collection": "Quarta (Кварта)",
     "color": "Коричневый",
     "surface": "Матовая",
     "format": "250х600",
@@ -67745,7 +68770,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Quarta brown wall 04 в Санкт-Петербурге. Коллекция Quarta. Формат 250х600 см. Цвет: Коричневый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000420.",
     "id": "010100000420",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/7f9/g90dvh5j07izhew4x8vxssjhpmb1slxy.jpg"
   },
   {
     "sku": "010400001097",
@@ -67753,7 +68779,7 @@ export const importedProducts: any[] = [
     "name": "Rhodes beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Rhodes",
+    "collection": "Rhodes (Родес)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -67772,7 +68798,7 @@ export const importedProducts: any[] = [
     "description": "Купить Rhodes beige PG 01 в Санкт-Петербурге. Коллекция Rhodes. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001097.",
     "id": "010400001097",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c07/pol4xvkmlhy622ci68vvcby6g8u4fe07.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/703/mmzw6pemtsahjz53qryii9vzmx3oni7x.jpg"
   },
   {
     "sku": "010100001526",
@@ -67780,7 +68806,7 @@ export const importedProducts: any[] = [
     "name": "Rhodes beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Rhodes",
+    "collection": "Rhodes (Родес)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -67798,7 +68824,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Rhodes beige wall 02 в Санкт-Петербурге. Коллекция Rhodes. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001526.",
     "id": "010100001526",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/703/mmzw6pemtsahjz53qryii9vzmx3oni7x.jpg"
   },
   {
     "sku": "010100001527",
@@ -67806,7 +68833,7 @@ export const importedProducts: any[] = [
     "name": "Rhodes beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Rhodes",
+    "collection": "Rhodes (Родес)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -67824,7 +68851,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Rhodes beige wall 03 в Санкт-Петербурге. Коллекция Rhodes. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001527.",
     "id": "010100001527",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/703/mmzw6pemtsahjz53qryii9vzmx3oni7x.jpg"
   },
   {
     "sku": "010100001528",
@@ -67832,7 +68860,7 @@ export const importedProducts: any[] = [
     "name": "Rhodes beige wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Rhodes",
+    "collection": "Rhodes (Родес)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "250х600",
@@ -67850,7 +68878,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Rhodes beige wall 04 в Санкт-Петербурге. Коллекция Rhodes. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001528.",
     "id": "010100001528",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/703/mmzw6pemtsahjz53qryii9vzmx3oni7x.jpg"
   },
   {
     "sku": "010400000986",
@@ -67858,7 +68887,7 @@ export const importedProducts: any[] = [
     "name": "Scarlett white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Scarlett",
+    "collection": "Scarlett (Скартлет)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "450х450",
@@ -67877,7 +68906,7 @@ export const importedProducts: any[] = [
     "description": "Купить Scarlett white PG 01 в Санкт-Петербурге. Коллекция Scarlett. Формат 450х450 см. Цвет: Белый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000986.",
     "id": "010400000986",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/286/ui5xvq1geikrpp8rpcbh87ytil1m2o89.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/caa/taribrmgaeua35zkjq5kg8lcnid9g22f.jpg"
   },
   {
     "sku": "010100001221",
@@ -67885,7 +68914,7 @@ export const importedProducts: any[] = [
     "name": "Scarlett white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Scarlett",
+    "collection": "Scarlett (Скартлет)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -67903,7 +68932,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Scarlett white wall 01 в Санкт-Петербурге. Коллекция Scarlett. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001221.",
     "id": "010100001221",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/caa/taribrmgaeua35zkjq5kg8lcnid9g22f.jpg"
   },
   {
     "sku": "010100001634",
@@ -68041,7 +69071,7 @@ export const importedProducts: any[] = [
     "name": "Sweety white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Simply",
+    "collection": "Simply (Симпли)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -68068,7 +69098,7 @@ export const importedProducts: any[] = [
     "name": "Simply white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Simply",
+    "collection": "Simply (Симпли)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -68086,7 +69116,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Simply white wall 01 в Санкт-Петербурге. Коллекция Simply. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001522.",
     "id": "010100001522",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/19b/ifdodh9bls30qhl0x4qqs61pmernx8ct.jpg"
   },
   {
     "sku": "010100001312",
@@ -68094,7 +69125,7 @@ export const importedProducts: any[] = [
     "name": "Sputnik white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Sputnik",
+    "collection": "Sputnik (Спутник)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68112,7 +69143,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Sputnik white wall 01 в Санкт-Петербурге. Коллекция Sputnik. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001312.",
     "id": "010100001312",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a2/x8tr2732pchc483wfm9hoaz93nvpe8ue.png"
   },
   {
     "sku": "010100001313",
@@ -68120,7 +69152,7 @@ export const importedProducts: any[] = [
     "name": "Sputnik white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Sputnik",
+    "collection": "Sputnik (Спутник)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68138,7 +69170,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Sputnik white wall 02 в Санкт-Петербурге. Коллекция Sputnik. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001313.",
     "id": "010100001313",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a2/x8tr2732pchc483wfm9hoaz93nvpe8ue.png"
   },
   {
     "sku": "010100001314",
@@ -68146,7 +69179,7 @@ export const importedProducts: any[] = [
     "name": "Sputnik beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Sputnik",
+    "collection": "Sputnik (Спутник)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68164,7 +69197,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Sputnik beige wall 03 в Санкт-Петербурге. Коллекция Sputnik. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001314.",
     "id": "010100001314",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1a2/x8tr2732pchc483wfm9hoaz93nvpe8ue.png"
   },
   {
     "sku": "010400000988",
@@ -68172,7 +69206,7 @@ export const importedProducts: any[] = [
     "name": "Supreme grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "450х450",
@@ -68191,7 +69225,7 @@ export const importedProducts: any[] = [
     "description": "Купить Supreme grey PG 01 в Санкт-Петербурге. Коллекция Supreme. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000988.",
     "id": "010400000988",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/30f/fk9e8ehebtedx6l2za91rbfmw3hsl83c.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010100001225",
@@ -68199,7 +69233,7 @@ export const importedProducts: any[] = [
     "name": "Supreme grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68217,7 +69251,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Supreme grey wall 01 в Санкт-Петербурге. Коллекция Supreme. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001225.",
     "id": "010100001225",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010100001226",
@@ -68225,7 +69260,7 @@ export const importedProducts: any[] = [
     "name": "Supreme grey mosaic wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68243,7 +69278,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Supreme grey mosaic wall 02 в Санкт-Петербурге. Коллекция Supreme. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001226.",
     "id": "010100001226",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010100001227",
@@ -68251,7 +69287,7 @@ export const importedProducts: any[] = [
     "name": "Supreme multi wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Мульти",
     "surface": "Матовая",
     "format": "250х600",
@@ -68269,7 +69305,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Supreme multi wall 03 в Санкт-Петербурге. Коллекция Supreme. Формат 250х600 см. Цвет: Мульти. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001227.",
     "id": "010100001227",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010100001228",
@@ -68277,7 +69314,7 @@ export const importedProducts: any[] = [
     "name": "Supreme beige wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68295,7 +69332,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Supreme beige wall 04 в Санкт-Петербурге. Коллекция Supreme. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001228.",
     "id": "010100001228",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010100001229",
@@ -68303,7 +69341,7 @@ export const importedProducts: any[] = [
     "name": "Supreme beige wall 05",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68321,7 +69359,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Supreme beige wall 05 в Санкт-Петербурге. Коллекция Supreme. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001229.",
     "id": "010100001229",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010100001535",
@@ -68329,7 +69368,7 @@ export const importedProducts: any[] = [
     "name": "Supreme beige wall 06",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Supreme",
+    "collection": "Supreme (Супреме)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68347,7 +69386,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Supreme beige wall 06 в Санкт-Петербурге. Коллекция Supreme. Формат 250х600 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001535.",
     "id": "010100001535",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/ief3hp6t57ra62q8hhkx8mz4t14jywxe.jpg"
   },
   {
     "sku": "010400001210",
@@ -68485,7 +69525,7 @@ export const importedProducts: any[] = [
     "name": "Terrazzo grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Terrazzo",
+    "collection": "Terrazzo (Терраццо)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "250х600",
@@ -68504,7 +69544,7 @@ export const importedProducts: any[] = [
     "description": "Купить Terrazzo grey wall 01 в Санкт-Петербурге. Коллекция Terrazzo. Формат 250х600 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001544.",
     "id": "010100001544",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/63c/z7aqjg77it9ghqvvkmbjohz2lppkxq1r.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/ea4/g6u9x55vjpc925xd8zsqhuqx0rytr13s.jpg"
   },
   {
     "sku": "010400001214",
@@ -68642,7 +69682,7 @@ export const importedProducts: any[] = [
     "name": "Vinde  multi wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Vinde",
+    "collection": "Vinde (Винд)",
     "color": "Мульти",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -68660,7 +69700,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Vinde  multi wall 01 в Санкт-Петербурге. Коллекция Vinde. Формат 250х600 см. Цвет: Мульти. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000421.",
     "id": "010100000421",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3cc/opsja8s7gwsle9h311wq57n8gvzss8zk.jpg"
   },
   {
     "sku": "010100000422",
@@ -68668,7 +69709,7 @@ export const importedProducts: any[] = [
     "name": "Vinde  multi wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Vinde",
+    "collection": "Vinde (Винд)",
     "color": "Мульти",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -68686,7 +69727,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Vinde  multi wall 02 в Санкт-Петербурге. Коллекция Vinde. Формат 250х600 см. Цвет: Мульти. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000422.",
     "id": "010100000422",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3cc/opsja8s7gwsle9h311wq57n8gvzss8zk.jpg"
   },
   {
     "sku": "010100000423",
@@ -68694,7 +69736,7 @@ export const importedProducts: any[] = [
     "name": "Celia white wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Vinde",
+    "collection": "Vinde (Винд)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "250х600",
@@ -68712,7 +69754,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Celia white wall 03 в Санкт-Петербурге. Коллекция Vinde. Формат 250х600 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000423.",
     "id": "010100000423",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3cc/opsja8s7gwsle9h311wq57n8gvzss8zk.jpg"
   },
   {
     "sku": "010100001736",
@@ -68739,7 +69782,7 @@ export const importedProducts: any[] = [
     "description": "Купить Bruno white wall 01 в Санкт-Петербурге. Коллекция Bruno 300x600. Формат 300х600 см. Цвет: Белый. В упаковке 8 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001736.",
     "id": "010100001736",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/3ca/mnk7y0qoe2ysaae4hi6k1j3n49p1nvkk.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/024/de1831perj0dk2l521ez8wb92c42fl8m.jpg"
   },
   {
     "sku": "010100001737",
@@ -68765,7 +69808,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Bruno white wall 02 в Санкт-Петербурге. Коллекция Bruno 300x600. Формат 300х600 см. Цвет: Белый. В упаковке 8 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001737.",
     "id": "010100001737",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/024/de1831perj0dk2l521ez8wb92c42fl8m.jpg"
   },
   {
     "sku": "010100001738",
@@ -68791,7 +69835,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Bruno brown wall 03 в Санкт-Петербурге. Коллекция Bruno 300x600. Формат 300х600 см. Цвет: Коричневый. В упаковке 8 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001738.",
     "id": "010100001738",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/024/de1831perj0dk2l521ez8wb92c42fl8m.jpg"
   },
   {
     "sku": "010300000241",
@@ -68799,7 +69844,7 @@ export const importedProducts: any[] = [
     "name": "Blanc white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Blanc",
+    "collection": "Blanc (Бланк)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68817,7 +69862,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 0.9,
     "description": "Купить Blanc white decor 01 в Санкт-Петербурге. Коллекция Blanc. Формат 300х500 см. Цвет: Белый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000241.",
     "id": "010300000241",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6a/sfzkgvp7ttvkzs4zzlccsh31p38x7bq1.jpg"
   },
   {
     "sku": "010100001389",
@@ -68825,7 +69871,7 @@ export const importedProducts: any[] = [
     "name": "Blanc white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Blanc",
+    "collection": "Blanc (Бланк)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68843,7 +69889,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Blanc white wall 01 в Санкт-Петербурге. Коллекция Blanc. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001389.",
     "id": "010100001389",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6a/sfzkgvp7ttvkzs4zzlccsh31p38x7bq1.jpg"
   },
   {
     "sku": "010100001390",
@@ -68851,7 +69898,7 @@ export const importedProducts: any[] = [
     "name": "Blanc white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Blanc",
+    "collection": "Blanc (Бланк)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68869,7 +69916,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Blanc white wall 02 в Санкт-Петербурге. Коллекция Blanc. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001390.",
     "id": "010100001390",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b6a/sfzkgvp7ttvkzs4zzlccsh31p38x7bq1.jpg"
   },
   {
     "sku": "010100001408",
@@ -68877,7 +69925,7 @@ export const importedProducts: any[] = [
     "name": "Donna white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Donna",
+    "collection": "Donna (Донна)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68896,7 +69944,7 @@ export const importedProducts: any[] = [
     "description": "Купить Donna white wall 01 в Санкт-Петербурге. Коллекция Donna. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001408.",
     "id": "010100001408",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/a56/z5ggb5xv8et89bhngi32cfjz4g4ow58u.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/c3b/2z6k0srkyusqcqm4muiofq2ege0jooo0.jpg"
   },
   {
     "sku": "010100001409",
@@ -68904,7 +69952,7 @@ export const importedProducts: any[] = [
     "name": "Donna white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Donna",
+    "collection": "Donna (Донна)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68922,7 +69970,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Donna white wall 02 в Санкт-Петербурге. Коллекция Donna. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001409.",
     "id": "010100001409",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c3b/2z6k0srkyusqcqm4muiofq2ege0jooo0.jpg"
   },
   {
     "sku": "010100001410",
@@ -68930,7 +69979,7 @@ export const importedProducts: any[] = [
     "name": "Donna beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Donna",
+    "collection": "Donna (Донна)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68948,7 +69997,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Donna beige wall 03 в Санкт-Петербурге. Коллекция Donna. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001410.",
     "id": "010100001410",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c3b/2z6k0srkyusqcqm4muiofq2ege0jooo0.jpg"
   },
   {
     "sku": "010100001411",
@@ -68956,7 +70006,7 @@ export const importedProducts: any[] = [
     "name": "Donna beige wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Donna",
+    "collection": "Donna (Донна)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х500",
@@ -68974,7 +70024,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Donna beige wall 04 в Санкт-Петербурге. Коллекция Donna. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001411.",
     "id": "010100001411",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c3b/2z6k0srkyusqcqm4muiofq2ege0jooo0.jpg"
   },
   {
     "sku": "010301002098",
@@ -68982,7 +70033,7 @@ export const importedProducts: any[] = [
     "name": "Elegance grey decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Elegance",
+    "collection": "Elegance (Элиганс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69001,7 +70052,7 @@ export const importedProducts: any[] = [
     "description": "Купить Elegance grey decor 01 в Санкт-Петербурге. Коллекция Elegance. Формат 300х500 см. Цвет: Серый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002098.",
     "id": "010301002098",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/eb5/v0gmvt69ketnx8zhn3hjqrcynpjbkgep.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/716/qmho3zan7re10slm4500f1cvmud0bouc.jpg"
   },
   {
     "sku": "010401002474",
@@ -69009,7 +70060,7 @@ export const importedProducts: any[] = [
     "name": "Elegance grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Elegance",
+    "collection": "Elegance (Элиганс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "450х450",
@@ -69027,7 +70078,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Elegance grey PG 01 в Санкт-Петербурге. Коллекция Elegance. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010401002474.",
     "id": "010401002474",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/716/qmho3zan7re10slm4500f1cvmud0bouc.jpg"
   },
   {
     "sku": "010100000349",
@@ -69035,7 +70087,7 @@ export const importedProducts: any[] = [
     "name": "Elegance grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Elegance",
+    "collection": "Elegance (Элиганс)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69053,7 +70105,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Elegance grey wall 01 в Санкт-Петербурге. Коллекция Elegance. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000349.",
     "id": "010100000349",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/716/qmho3zan7re10slm4500f1cvmud0bouc.jpg"
   },
   {
     "sku": "010100000350",
@@ -69061,7 +70114,7 @@ export const importedProducts: any[] = [
     "name": "Elegance grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Elegance",
+    "collection": "Elegance (Элиганс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69079,7 +70132,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Elegance grey wall 02 в Санкт-Петербурге. Коллекция Elegance. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000350.",
     "id": "010100000350",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/716/qmho3zan7re10slm4500f1cvmud0bouc.jpg"
   },
   {
     "sku": "010100000351",
@@ -69087,7 +70141,7 @@ export const importedProducts: any[] = [
     "name": "Elegance grey wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Elegance",
+    "collection": "Elegance (Элиганс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69105,7 +70159,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Elegance grey wall 03 в Санкт-Петербурге. Коллекция Elegance. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000351.",
     "id": "010100000351",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/716/qmho3zan7re10slm4500f1cvmud0bouc.jpg"
   },
   {
     "sku": "010100000352",
@@ -69113,7 +70168,7 @@ export const importedProducts: any[] = [
     "name": "Elegance grey wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Elegance",
+    "collection": "Elegance (Элиганс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69131,7 +70186,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Elegance grey wall 04 в Санкт-Петербурге. Коллекция Elegance. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100000352.",
     "id": "010100000352",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/716/qmho3zan7re10slm4500f1cvmud0bouc.jpg"
   },
   {
     "sku": "010300000242",
@@ -69139,7 +70195,7 @@ export const importedProducts: any[] = [
     "name": "Industry white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Industry",
+    "collection": "Industry (Индоcтри)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69158,7 +70214,7 @@ export const importedProducts: any[] = [
     "description": "Купить Industry white decor 01 в Санкт-Петербурге. Коллекция Industry. Формат 300х500 см. Цвет: Белый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000242.",
     "id": "010300000242",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/8a6/1wqa8d6a0f8suqmo3vi8b5ahqsg05l5c.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/ef0/p1k4fimeczotnug1ypi2a3qw8cl1srel.jpg"
   },
   {
     "sku": "010400001069",
@@ -69166,7 +70222,7 @@ export const importedProducts: any[] = [
     "name": "Industry grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Industry",
+    "collection": "Industry (Индоcтри)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "450х450",
@@ -69184,7 +70240,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Industry grey PG 01 в Санкт-Петербурге. Коллекция Industry. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001069.",
     "id": "010400001069",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef0/p1k4fimeczotnug1ypi2a3qw8cl1srel.jpg"
   },
   {
     "sku": "010100001391",
@@ -69192,7 +70249,7 @@ export const importedProducts: any[] = [
     "name": "Industry white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Industry",
+    "collection": "Industry (Индоcтри)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69210,7 +70267,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Industry white wall 01 в Санкт-Петербурге. Коллекция Industry. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001391.",
     "id": "010100001391",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef0/p1k4fimeczotnug1ypi2a3qw8cl1srel.jpg"
   },
   {
     "sku": "010100001392",
@@ -69218,7 +70276,7 @@ export const importedProducts: any[] = [
     "name": "Industry grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Industry",
+    "collection": "Industry (Индоcтри)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69236,7 +70294,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Industry grey wall 02 в Санкт-Петербурге. Коллекция Industry. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001392.",
     "id": "010100001392",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef0/p1k4fimeczotnug1ypi2a3qw8cl1srel.jpg"
   },
   {
     "sku": "010100001393",
@@ -69244,7 +70303,7 @@ export const importedProducts: any[] = [
     "name": "Industry grey wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Industry",
+    "collection": "Industry (Индоcтри)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69262,7 +70321,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Industry grey wall 03 в Санкт-Петербурге. Коллекция Industry. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001393.",
     "id": "010100001393",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ef0/p1k4fimeczotnug1ypi2a3qw8cl1srel.jpg"
   },
   {
     "sku": "010300000243",
@@ -69270,7 +70330,7 @@ export const importedProducts: any[] = [
     "name": "Libretto white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Libretto",
+    "collection": "Libretto (Либрэтуу)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69289,7 +70349,7 @@ export const importedProducts: any[] = [
     "description": "Купить Libretto white decor 01 в Санкт-Петербурге. Коллекция Libretto. Формат 300х500 см. Цвет: Белый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000243.",
     "id": "010300000243",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/f41/drg33tfww7pf1b9o4nuxza9xwzwsesw7.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/86a/vgg8ubm5wgbeyw5cjhfkfoic1u3dqi8h.jpg"
   },
   {
     "sku": "010100001398",
@@ -69297,7 +70357,7 @@ export const importedProducts: any[] = [
     "name": "Libretto white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Libretto",
+    "collection": "Libretto (Либрэтуу)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69315,7 +70375,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Libretto white wall 02 в Санкт-Петербурге. Коллекция Libretto. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001398.",
     "id": "010100001398",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/86a/vgg8ubm5wgbeyw5cjhfkfoic1u3dqi8h.jpg"
   },
   {
     "sku": "010300000244",
@@ -69323,7 +70384,7 @@ export const importedProducts: any[] = [
     "name": "Magma grey decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Magma",
+    "collection": "Magma (Магмэ)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69342,7 +70403,7 @@ export const importedProducts: any[] = [
     "description": "Купить Magma grey decor 01 в Санкт-Петербурге. Коллекция Magma. Формат 300х500 см. Цвет: Серый. В упаковке 6 шт (0.9 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000244.",
     "id": "010300000244",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/d0f/88efkwieuhpaol33y5i0cclih5hnx0qe.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/eee/wqw31ksl2qx7oo0hc648pssja4apglzw.jpg"
   },
   {
     "sku": "010400001073",
@@ -69350,7 +70411,7 @@ export const importedProducts: any[] = [
     "name": "Magma grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Magma",
+    "collection": "Magma (Магмэ)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "450х450",
@@ -69368,7 +70429,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Magma grey PG 01 в Санкт-Петербурге. Коллекция Magma. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001073.",
     "id": "010400001073",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eee/wqw31ksl2qx7oo0hc648pssja4apglzw.jpg"
   },
   {
     "sku": "010100001399",
@@ -69376,7 +70438,7 @@ export const importedProducts: any[] = [
     "name": "Magma grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Magma",
+    "collection": "Magma (Магмэ)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69394,7 +70456,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Magma grey wall 01 в Санкт-Петербурге. Коллекция Magma. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001399.",
     "id": "010100001399",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eee/wqw31ksl2qx7oo0hc648pssja4apglzw.jpg"
   },
   {
     "sku": "010100001400",
@@ -69402,7 +70465,7 @@ export const importedProducts: any[] = [
     "name": "Magma grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Magma",
+    "collection": "Magma (Магмэ)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69420,7 +70483,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Magma grey wall 02 в Санкт-Петербурге. Коллекция Magma. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001400.",
     "id": "010100001400",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eee/wqw31ksl2qx7oo0hc648pssja4apglzw.jpg"
   },
   {
     "sku": "010100001401",
@@ -69428,7 +70492,7 @@ export const importedProducts: any[] = [
     "name": "Magma grey wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Magma",
+    "collection": "Magma (Магмэ)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69446,7 +70510,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Magma grey wall 03 в Санкт-Петербурге. Коллекция Magma. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001401.",
     "id": "010100001401",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/eee/wqw31ksl2qx7oo0hc648pssja4apglzw.jpg"
   },
   {
     "sku": "010100001394",
@@ -69454,7 +70519,7 @@ export const importedProducts: any[] = [
     "name": "Marmaris white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marmaris",
+    "collection": "Marmaris (Мэрмэрис)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69473,7 +70538,7 @@ export const importedProducts: any[] = [
     "description": "Купить Marmaris white wall 01 в Санкт-Петербурге. Коллекция Marmaris. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001394.",
     "id": "010100001394",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/73b/ho9pgnd2e872mj2p6z7g4ttsff50oaec.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/67c/1rik2kyu2kh9fp0xev381iqz846v4wg1.jpg"
   },
   {
     "sku": "010100001395",
@@ -69481,7 +70546,7 @@ export const importedProducts: any[] = [
     "name": "Marmaris white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marmaris",
+    "collection": "Marmaris (Мэрмэрис)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69499,7 +70564,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Marmaris white wall 02 в Санкт-Петербурге. Коллекция Marmaris. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001395.",
     "id": "010100001395",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/67c/1rik2kyu2kh9fp0xev381iqz846v4wg1.jpg"
   },
   {
     "sku": "010100001396",
@@ -69507,7 +70573,7 @@ export const importedProducts: any[] = [
     "name": "Marmaris beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marmaris",
+    "collection": "Marmaris (Мэрмэрис)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69525,7 +70591,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Marmaris beige wall 03 в Санкт-Петербурге. Коллекция Marmaris. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001396.",
     "id": "010100001396",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/67c/1rik2kyu2kh9fp0xev381iqz846v4wg1.jpg"
   },
   {
     "sku": "010100001397",
@@ -69533,7 +70600,7 @@ export const importedProducts: any[] = [
     "name": "Marmaris beige wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marmaris",
+    "collection": "Marmaris (Мэрмэрис)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69551,7 +70618,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Marmaris beige wall 04 в Санкт-Петербурге. Коллекция Marmaris. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001397.",
     "id": "010100001397",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/67c/1rik2kyu2kh9fp0xev381iqz846v4wg1.jpg"
   },
   {
     "sku": "010100001402",
@@ -69559,7 +70627,7 @@ export const importedProducts: any[] = [
     "name": "Nature white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nature",
+    "collection": "Nature (Нейчер)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69577,7 +70645,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Nature white wall 01 в Санкт-Петербурге. Коллекция Nature. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001402.",
     "id": "010100001402",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c31/p3rpave40b9hqc1yjdy6cz03rzrowai6.jpg"
   },
   {
     "sku": "010100001403",
@@ -69585,7 +70654,7 @@ export const importedProducts: any[] = [
     "name": "Nature white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nature",
+    "collection": "Nature (Нейчер)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69603,7 +70672,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Nature white wall 02 в Санкт-Петербурге. Коллекция Nature. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001403.",
     "id": "010100001403",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c31/p3rpave40b9hqc1yjdy6cz03rzrowai6.jpg"
   },
   {
     "sku": "010100001404",
@@ -69611,7 +70681,7 @@ export const importedProducts: any[] = [
     "name": "Nature white wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nature",
+    "collection": "Nature (Нейчер)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69629,7 +70699,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Nature white wall 04 в Санкт-Петербурге. Коллекция Nature. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001404.",
     "id": "010100001404",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c31/p3rpave40b9hqc1yjdy6cz03rzrowai6.jpg"
   },
   {
     "sku": "010100001405",
@@ -69637,7 +70708,7 @@ export const importedProducts: any[] = [
     "name": "Nature beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nature",
+    "collection": "Nature (Нейчер)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69655,7 +70726,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Nature beige wall 03 в Санкт-Петербурге. Коллекция Nature. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001405.",
     "id": "010100001405",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c31/p3rpave40b9hqc1yjdy6cz03rzrowai6.jpg"
   },
   {
     "sku": "010100001412",
@@ -69663,7 +70735,7 @@ export const importedProducts: any[] = [
     "name": "Ribeira white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ribeira",
+    "collection": "Ribeira (Рибейра)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69682,7 +70754,7 @@ export const importedProducts: any[] = [
     "description": "Купить Ribeira white wall 01 в Санкт-Петербурге. Коллекция Ribeira. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001412.",
     "id": "010100001412",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/1cc/slx6njw0vj0fvj5vuiol8n9vprupfams.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/2d2/gs91hu42rjm73xaagx9jwlxd69pfj6de.jpg"
   },
   {
     "sku": "010100001413",
@@ -69690,7 +70762,7 @@ export const importedProducts: any[] = [
     "name": "Ribeira white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ribeira",
+    "collection": "Ribeira (Рибейра)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69708,7 +70780,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Ribeira white wall 02 в Санкт-Петербурге. Коллекция Ribeira. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001413.",
     "id": "010100001413",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2d2/gs91hu42rjm73xaagx9jwlxd69pfj6de.jpg"
   },
   {
     "sku": "010100001414",
@@ -69716,7 +70789,7 @@ export const importedProducts: any[] = [
     "name": "Ribeira white wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ribeira",
+    "collection": "Ribeira (Рибейра)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69734,7 +70807,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Ribeira white wall 03 в Санкт-Петербурге. Коллекция Ribeira. Формат 300х500 см. Цвет: Белый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001414.",
     "id": "010100001414",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2d2/gs91hu42rjm73xaagx9jwlxd69pfj6de.jpg"
   },
   {
     "sku": "010100001415",
@@ -69742,7 +70816,7 @@ export const importedProducts: any[] = [
     "name": "Ribeira grey wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ribeira",
+    "collection": "Ribeira (Рибейра)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х500",
@@ -69760,7 +70834,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Ribeira grey wall 04 в Санкт-Петербурге. Коллекция Ribeira. Формат 300х500 см. Цвет: Серый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001415.",
     "id": "010100001415",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2d2/gs91hu42rjm73xaagx9jwlxd69pfj6de.jpg"
   },
   {
     "sku": "010400001075",
@@ -69768,7 +70843,7 @@ export const importedProducts: any[] = [
     "name": "Tibet beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Tibet",
+    "collection": "Tibet (Тибет)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -69787,7 +70862,7 @@ export const importedProducts: any[] = [
     "description": "Купить Tibet beige PG 01 в Санкт-Петербурге. Коллекция Tibet. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001075.",
     "id": "010400001075",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/eba/2u7p00j6s9qnyx0aq32cjldavd9wkx22.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/3de/7tng2dm8xuw921ibyhw1fisdrfdwkd75.jpg"
   },
   {
     "sku": "010100001416",
@@ -69795,7 +70870,7 @@ export const importedProducts: any[] = [
     "name": "Tibet beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Tibet",
+    "collection": "Tibet (Тибет)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69813,7 +70888,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Tibet beige wall 01 в Санкт-Петербурге. Коллекция Tibet. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001416.",
     "id": "010100001416",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3de/7tng2dm8xuw921ibyhw1fisdrfdwkd75.jpg"
   },
   {
     "sku": "010100001417",
@@ -69821,7 +70897,7 @@ export const importedProducts: any[] = [
     "name": "Tibet beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Tibet",
+    "collection": "Tibet (Тибет)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69839,7 +70915,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Tibet beige wall 02 в Санкт-Петербурге. Коллекция Tibet. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001417.",
     "id": "010100001417",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3de/7tng2dm8xuw921ibyhw1fisdrfdwkd75.jpg"
   },
   {
     "sku": "010100001418",
@@ -69847,7 +70924,7 @@ export const importedProducts: any[] = [
     "name": "Tibet beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Tibet",
+    "collection": "Tibet (Тибет)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х500",
@@ -69865,7 +70942,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.2,
     "description": "Купить Tibet beige wall 03 в Санкт-Петербурге. Коллекция Tibet. Формат 300х500 см. Цвет: Бежевый. В упаковке 8 шт (1.2 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001418.",
     "id": "010100001418",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3de/7tng2dm8xuw921ibyhw1fisdrfdwkd75.jpg"
   },
   {
     "sku": "010100001730",
@@ -70099,8 +71177,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Dubai beige wall 02 в Санкт-Петербурге. Коллекция Dubai. Формат 300х600 см. Цвет: Бежевый. В упаковке 8 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001756.",
     "id": "010100001756",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/7b3/xmuf1nyqw0z7up38hsc1ukkci8q383aa.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010100001757",
@@ -70308,7 +71385,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Linea beige wall 01 в Санкт-Петербурге. Коллекция Linea. Формат 300х600 см. Цвет: Бежевый. В упаковке 8 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001743.",
     "id": "010100001743",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b7b/iyoz6egl1fiuc2xzc08te9c7t02mgyjh.jpg"
   },
   {
     "sku": "010100001744",
@@ -70334,7 +71412,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Linea beige wall 02 в Санкт-Петербурге. Коллекция Linea. Формат 300х600 см. Цвет: Бежевый. В упаковке 8 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001744.",
     "id": "010100001744",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b7b/iyoz6egl1fiuc2xzc08te9c7t02mgyjh.jpg"
   },
   {
     "sku": "010100001749",
@@ -70496,7 +71575,7 @@ export const importedProducts: any[] = [
     "name": "Olezia grey light PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Olezia",
+    "collection": "Olezia (Олезиа)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "600х600",
@@ -70514,7 +71593,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Olezia grey light PG 01 в Санкт-Петербурге. Коллекция Olezia. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001291.",
     "id": "010403001291",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/318/4aicijpoxz47vk7g0yozqu4weap63lin.jpg"
   },
   {
     "sku": "010101004962",
@@ -70522,7 +71602,7 @@ export const importedProducts: any[] = [
     "name": "Olezia grey light wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Olezia",
+    "collection": "Olezia (Олезиа)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -70540,7 +71620,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Olezia grey light wall 01 в Санкт-Петербурге. Коллекция Olezia. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004962.",
     "id": "010101004962",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/318/4aicijpoxz47vk7g0yozqu4weap63lin.jpg"
   },
   {
     "sku": "010101004963",
@@ -70548,7 +71629,7 @@ export const importedProducts: any[] = [
     "name": "Olezia grey light wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Olezia",
+    "collection": "Olezia (Олезиа)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -70566,7 +71647,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Olezia grey light wall 02 в Санкт-Петербурге. Коллекция Olezia. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004963.",
     "id": "010101004963",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/318/4aicijpoxz47vk7g0yozqu4weap63lin.jpg"
   },
   {
     "sku": "010101004982",
@@ -70574,7 +71656,7 @@ export const importedProducts: any[] = [
     "name": "Aneta grey light wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Aneta",
+    "collection": "Aneta (Анета)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -70592,7 +71674,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Aneta grey light wall 01 в Санкт-Петербурге. Коллекция Aneta. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004982.",
     "id": "010101004982",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ca/utas2c0hthgk71b0l5don4pkh4k0u8r7.jpg"
   },
   {
     "sku": "010101004983",
@@ -70600,7 +71683,7 @@ export const importedProducts: any[] = [
     "name": "Aneta grey light wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Aneta",
+    "collection": "Aneta (Анета)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -70618,7 +71701,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Aneta grey light wall 02 в Санкт-Петербурге. Коллекция Aneta. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004983.",
     "id": "010101004983",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/1ca/utas2c0hthgk71b0l5don4pkh4k0u8r7.jpg"
   },
   {
     "sku": "010100001296",
@@ -70626,7 +71710,7 @@ export const importedProducts: any[] = [
     "name": "Aspen beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Aspen",
+    "collection": "Aspen (Аспен)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х900",
@@ -70645,7 +71729,7 @@ export const importedProducts: any[] = [
     "description": "Купить Aspen beige wall 01 в Санкт-Петербурге. Коллекция Aspen. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001296.",
     "id": "010100001296",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/607/ky2ciueil0ic7pxpxdfcy5etovor7cpz.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/56c/murr83agey1pi95oornpeklk94q6h2n0.jpg"
   },
   {
     "sku": "010100001297",
@@ -70653,7 +71737,7 @@ export const importedProducts: any[] = [
     "name": "Aspen beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Aspen",
+    "collection": "Aspen (Аспен)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х900",
@@ -70671,7 +71755,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Aspen beige wall 02 в Санкт-Петербурге. Коллекция Aspen. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001297.",
     "id": "010100001297",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/56c/murr83agey1pi95oornpeklk94q6h2n0.jpg"
   },
   {
     "sku": "010300000232",
@@ -70679,7 +71764,7 @@ export const importedProducts: any[] = [
     "name": "Astrid light beige decor 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Astrid",
+    "collection": "Astrid (Астрид)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -70698,7 +71783,7 @@ export const importedProducts: any[] = [
     "description": "Купить Astrid light beige decor 02 в Санкт-Петербурге. Коллекция Astrid. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000232.",
     "id": "010300000232",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/b41/8ml7fnu64jllguu2hhie0nko3wr52tgh.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/9c2/yjx1qeiapon7x1pjyns509excap79w42.jpg"
   },
   {
     "sku": "010300000238",
@@ -70706,7 +71791,7 @@ export const importedProducts: any[] = [
     "name": "Astrid light beige decor 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Astrid",
+    "collection": "Astrid (Астрид)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -70724,7 +71809,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Astrid light beige decor 03 в Санкт-Петербурге. Коллекция Astrid. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000238.",
     "id": "010300000238",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/9c2/yjx1qeiapon7x1pjyns509excap79w42.jpg"
   },
   {
     "sku": "010100001294",
@@ -70732,7 +71818,7 @@ export const importedProducts: any[] = [
     "name": "Astrid light beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Astrid",
+    "collection": "Astrid (Астрид)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -70750,7 +71836,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Astrid light beige wall 01 в Санкт-Петербурге. Коллекция Astrid. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001294.",
     "id": "010100001294",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/9c2/yjx1qeiapon7x1pjyns509excap79w42.jpg"
   },
   {
     "sku": "010100001295",
@@ -70758,7 +71845,7 @@ export const importedProducts: any[] = [
     "name": "Astrid light beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Astrid",
+    "collection": "Astrid (Астрид)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -70776,7 +71863,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Astrid light beige wall 02 в Санкт-Петербурге. Коллекция Astrid. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001295.",
     "id": "010100001295",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/9c2/yjx1qeiapon7x1pjyns509excap79w42.jpg"
   },
   {
     "sku": "010100001689",
@@ -70992,7 +72080,7 @@ export const importedProducts: any[] = [
     "name": "Chateau beige decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Chateau",
+    "collection": "Chateau (Шато)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71010,7 +72098,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Chateau beige decor 01 в Санкт-Петербурге. Коллекция Chateau. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002118.",
     "id": "010301002118",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/71wivf1zhmrwrn4p95fmm3zbrkw1twxb.jpg"
   },
   {
     "sku": "010301002119",
@@ -71018,7 +72107,7 @@ export const importedProducts: any[] = [
     "name": "Chateau beige decor 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Chateau",
+    "collection": "Chateau (Шато)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71036,7 +72125,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Chateau beige decor 02 в Санкт-Петербурге. Коллекция Chateau. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002119.",
     "id": "010301002119",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/71wivf1zhmrwrn4p95fmm3zbrkw1twxb.jpg"
   },
   {
     "sku": "010403001279",
@@ -71044,7 +72134,7 @@ export const importedProducts: any[] = [
     "name": "Chateau beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Chateau",
+    "collection": "Chateau (Шато)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -71062,7 +72152,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Chateau beige PG 01 в Санкт-Петербурге. Коллекция Chateau. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001279.",
     "id": "010403001279",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/71wivf1zhmrwrn4p95fmm3zbrkw1twxb.jpg"
   },
   {
     "sku": "010101004951",
@@ -71070,7 +72161,7 @@ export const importedProducts: any[] = [
     "name": "Chateau beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Chateau",
+    "collection": "Chateau (Шато)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71088,7 +72179,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Chateau beige wall 01 в Санкт-Петербурге. Коллекция Chateau. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004951.",
     "id": "010101004951",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/270/71wivf1zhmrwrn4p95fmm3zbrkw1twxb.jpg"
   },
   {
     "sku": "010301002122",
@@ -71096,7 +72188,7 @@ export const importedProducts: any[] = [
     "name": "Constance grey light decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Constance",
+    "collection": "Constance (Констанс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71114,7 +72206,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Constance grey light decor 01 в Санкт-Петербурге. Коллекция Constance. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002122.",
     "id": "010301002122",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/605/kwok772hxwdt6cvnxk46cpxupm7wpshz.jpg"
   },
   {
     "sku": "010301002123",
@@ -71122,7 +72215,7 @@ export const importedProducts: any[] = [
     "name": "Constance grey light decor 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Constance",
+    "collection": "Constance (Констанс)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71140,7 +72233,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Constance grey light decor 02 в Санкт-Петербурге. Коллекция Constance. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002123.",
     "id": "010301002123",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/605/kwok772hxwdt6cvnxk46cpxupm7wpshz.jpg"
   },
   {
     "sku": "010403001281",
@@ -71148,7 +72242,7 @@ export const importedProducts: any[] = [
     "name": "Constance grey light PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Constance",
+    "collection": "Constance (Констанс)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -71166,7 +72260,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Constance grey light PG 01 в Санкт-Петербурге. Коллекция Constance. Формат 600х600 см. Цвет: Белый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001281.",
     "id": "010403001281",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/605/kwok772hxwdt6cvnxk46cpxupm7wpshz.jpg"
   },
   {
     "sku": "010100001302",
@@ -71174,7 +72269,7 @@ export const importedProducts: any[] = [
     "name": "Fjord grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Fjord",
+    "collection": "Fjord (Фёрд)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -71192,7 +72287,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Fjord grey wall 01 в Санкт-Петербурге. Коллекция Fjord. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001302.",
     "id": "010100001302",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/461/84arcxzmr763teke85wx545r66v4490u.jpg"
   },
   {
     "sku": "010301002129",
@@ -71200,7 +72296,7 @@ export const importedProducts: any[] = [
     "name": "Ginevra grey decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ginevra",
+    "collection": "Ginevra (Жиневра)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71219,7 +72315,7 @@ export const importedProducts: any[] = [
     "description": "Купить Ginevra grey decor 01 в Санкт-Петербурге. Коллекция Ginevra. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002129.",
     "id": "010301002129",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/8d4/vtrjggic7d2n9tp66lsw93t3ok40600i.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/f98/9auqdiufy2c3vpkg88r6m1lrjvdx606n.jpg"
   },
   {
     "sku": "010403001307",
@@ -71227,7 +72323,7 @@ export const importedProducts: any[] = [
     "name": "Ginevra grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ginevra",
+    "collection": "Ginevra (Жиневра)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -71245,7 +72341,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Ginevra grey PG 01 в Санкт-Петербурге. Коллекция Ginevra. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001307.",
     "id": "010403001307",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f98/9auqdiufy2c3vpkg88r6m1lrjvdx606n.jpg"
   },
   {
     "sku": "010101004984",
@@ -71253,7 +72350,7 @@ export const importedProducts: any[] = [
     "name": "Ginevra grey light wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ginevra",
+    "collection": "Ginevra (Жиневра)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71271,7 +72368,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Ginevra grey light wall 01 в Санкт-Петербурге. Коллекция Ginevra. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004984.",
     "id": "010101004984",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f98/9auqdiufy2c3vpkg88r6m1lrjvdx606n.jpg"
   },
   {
     "sku": "010101004985",
@@ -71279,7 +72377,7 @@ export const importedProducts: any[] = [
     "name": "Ginevra grey light wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ginevra",
+    "collection": "Ginevra (Жиневра)",
     "color": "Белый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71297,7 +72395,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Ginevra grey light wall 03 в Санкт-Петербурге. Коллекция Ginevra. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004985.",
     "id": "010101004985",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f98/9auqdiufy2c3vpkg88r6m1lrjvdx606n.jpg"
   },
   {
     "sku": "010101004986",
@@ -71305,7 +72404,7 @@ export const importedProducts: any[] = [
     "name": "Ginevra grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Ginevra",
+    "collection": "Ginevra (Жиневра)",
     "color": "Серый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -71323,7 +72422,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Ginevra grey wall 02 в Санкт-Петербурге. Коллекция Ginevra. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004986.",
     "id": "010101004986",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/f98/9auqdiufy2c3vpkg88r6m1lrjvdx606n.jpg"
   },
   {
     "sku": "010300000230",
@@ -71331,7 +72431,7 @@ export const importedProducts: any[] = [
     "name": "Kyoto beige decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Kyoto",
+    "collection": "Kyoto (Киауту)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71350,7 +72450,7 @@ export const importedProducts: any[] = [
     "description": "Купить Kyoto beige decor 01 в Санкт-Петербурге. Коллекция Kyoto. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000230.",
     "id": "010300000230",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/cba/hbmobcgskq4si2r52ufvctsm2ck5klf7.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/283/42m9bk2z9sgvft76zxxbrqrxq9uo17xq.jpg"
   },
   {
     "sku": "010100001291",
@@ -71358,7 +72458,7 @@ export const importedProducts: any[] = [
     "name": "Kyoto beige wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Kyoto",
+    "collection": "Kyoto (Киауту)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71376,7 +72476,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Kyoto beige wall 01 в Санкт-Петербурге. Коллекция Kyoto. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001291.",
     "id": "010100001291",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/283/42m9bk2z9sgvft76zxxbrqrxq9uo17xq.jpg"
   },
   {
     "sku": "010100001292",
@@ -71384,7 +72485,7 @@ export const importedProducts: any[] = [
     "name": "Kyoto beige wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Kyoto",
+    "collection": "Kyoto (Киауту)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71402,7 +72503,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Kyoto beige wall 02 в Санкт-Петербурге. Коллекция Kyoto. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001292.",
     "id": "010100001292",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/283/42m9bk2z9sgvft76zxxbrqrxq9uo17xq.jpg"
   },
   {
     "sku": "010100001293",
@@ -71410,7 +72512,7 @@ export const importedProducts: any[] = [
     "name": "Kyoto beige wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Kyoto",
+    "collection": "Kyoto (Киауту)",
     "color": "Бежевый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71428,7 +72530,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Kyoto beige wall 03 в Санкт-Петербурге. Коллекция Kyoto. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001293.",
     "id": "010100001293",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/283/42m9bk2z9sgvft76zxxbrqrxq9uo17xq.jpg"
   },
   {
     "sku": "010301002126",
@@ -71436,7 +72539,7 @@ export const importedProducts: any[] = [
     "name": "Lauretta black panno 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lauretta",
+    "collection": "Lauretta (Лауретта)",
     "color": "Черный",
     "surface": "Матовая",
     "format": "600х900",
@@ -71455,7 +72558,7 @@ export const importedProducts: any[] = [
     "description": "Купить Lauretta black panno 01 в Санкт-Петербурге. Коллекция Lauretta. Формат 600х900 см. Цвет: Черный. В упаковке 2 шт (1.08 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002126.",
     "id": "010301002126",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/6f8/ywjc0nh7p6onk0s5q4qvgh54ov6p8qhv.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/681/qs6mxzdsq1v4u7mlhq0acdtqikd04568.jpg"
   },
   {
     "sku": "010403001293",
@@ -71463,7 +72566,7 @@ export const importedProducts: any[] = [
     "name": "Lauretta white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lauretta",
+    "collection": "Lauretta (Лауретта)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "600х600",
@@ -71481,7 +72584,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Lauretta white PG 01 в Санкт-Петербурге. Коллекция Lauretta. Формат 600х600 см. Цвет: Белый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001293.",
     "id": "010403001293",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/681/qs6mxzdsq1v4u7mlhq0acdtqikd04568.jpg"
   },
   {
     "sku": "010101004971",
@@ -71489,7 +72593,7 @@ export const importedProducts: any[] = [
     "name": "Lauretta white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lauretta",
+    "collection": "Lauretta (Лауретта)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х900",
@@ -71507,7 +72611,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Lauretta white wall 01 в Санкт-Петербурге. Коллекция Lauretta. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004971.",
     "id": "010101004971",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/681/qs6mxzdsq1v4u7mlhq0acdtqikd04568.jpg"
   },
   {
     "sku": "010101004973",
@@ -71515,7 +72620,7 @@ export const importedProducts: any[] = [
     "name": "Lauretta white wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lauretta",
+    "collection": "Lauretta (Лауретта)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "300х900",
@@ -71533,7 +72638,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Lauretta white wall 04 в Санкт-Петербурге. Коллекция Lauretta. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004973.",
     "id": "010101004973",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/681/qs6mxzdsq1v4u7mlhq0acdtqikd04568.jpg"
   },
   {
     "sku": "010101004974",
@@ -71541,7 +72647,7 @@ export const importedProducts: any[] = [
     "name": "Lauretta black wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Lauretta",
+    "collection": "Lauretta (Лауретта)",
     "color": "Черный",
     "surface": "Матовая",
     "format": "300х900",
@@ -71559,7 +72665,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Lauretta black wall 02 в Санкт-Петербурге. Коллекция Lauretta. Формат 300х900 см. Цвет: Черный. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004974.",
     "id": "010101004974",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/681/qs6mxzdsq1v4u7mlhq0acdtqikd04568.jpg"
   },
   {
     "sku": "010100001300",
@@ -71586,7 +72693,7 @@ export const importedProducts: any[] = [
     "description": "Купить Marble glossy white wall 01 в Санкт-Петербурге. Коллекция Marble glossy. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001300.",
     "id": "010100001300",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/27d/1oed1a3x5gb93z0p312ig79uxliiws9m.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/ab4/9lwfcu157rxazoc1dqz1c3h5g2vd98yj.jpg"
   },
   {
     "sku": "010100001301",
@@ -71612,7 +72719,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Marble glossy white wall 02 в Санкт-Петербурге. Коллекция Marble glossy. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001301.",
     "id": "010100001301",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ab4/9lwfcu157rxazoc1dqz1c3h5g2vd98yj.jpg"
   },
   {
     "sku": "010100001298",
@@ -71639,7 +72747,7 @@ export const importedProducts: any[] = [
     "description": "Купить Marble matt white wall 01 в Санкт-Петербурге. Коллекция Marble matt. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001298.",
     "id": "010100001298",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c0c/saveeuwlizx6ym024830bru2zewaejkl.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/390/pe9opspoyd8pte42drpi2humxq9oyrjw.jpg"
   },
   {
     "sku": "010100001299",
@@ -71665,7 +72773,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Marble matt white wall 02 в Санкт-Петербурге. Коллекция Marble matt. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001299.",
     "id": "010100001299",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/390/pe9opspoyd8pte42drpi2humxq9oyrjw.jpg"
   },
   {
     "sku": "010101004967",
@@ -71673,7 +72782,7 @@ export const importedProducts: any[] = [
     "name": "Marella white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marella",
+    "collection": "Marella (Марелла)",
     "color": "Белый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71692,7 +72801,7 @@ export const importedProducts: any[] = [
     "description": "Купить Marella white wall 01 в Санкт-Петербурге. Коллекция Marella. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004967.",
     "id": "010101004967",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/924/nxixxdyd99wq6861tahttkovqzs0cgks.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/c15/ca6ft4bgctjklpnww3b53eaxov6dcm34.jpg"
   },
   {
     "sku": "010101004968",
@@ -71700,7 +72809,7 @@ export const importedProducts: any[] = [
     "name": "Marella white wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marella",
+    "collection": "Marella (Марелла)",
     "color": "Белый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71718,7 +72827,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Marella white wall 02 в Санкт-Петербурге. Коллекция Marella. Формат 300х900 см. Цвет: Белый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004968.",
     "id": "010101004968",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c15/ca6ft4bgctjklpnww3b53eaxov6dcm34.jpg"
   },
   {
     "sku": "010101004969",
@@ -71726,7 +72836,7 @@ export const importedProducts: any[] = [
     "name": "Marella turquoise wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marella",
+    "collection": "Marella (Марелла)",
     "color": "Бирюзовый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71744,7 +72854,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Marella turquoise wall 01 в Санкт-Петербурге. Коллекция Marella. Формат 300х900 см. Цвет: Бирюзовый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004969.",
     "id": "010101004969",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c15/ca6ft4bgctjklpnww3b53eaxov6dcm34.jpg"
   },
   {
     "sku": "010101004970",
@@ -71752,7 +72863,7 @@ export const importedProducts: any[] = [
     "name": "Marella multi wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Marella",
+    "collection": "Marella (Марелла)",
     "color": "Мульти",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71770,7 +72881,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Marella multi wall 01 в Санкт-Петербурге. Коллекция Marella. Формат 300х900 см. Цвет: Мульти. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004970.",
     "id": "010101004970",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c15/ca6ft4bgctjklpnww3b53eaxov6dcm34.jpg"
   },
   {
     "sku": "010100001711",
@@ -71796,7 +72908,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Matisse multi wall 01 в Санкт-Петербурге. Коллекция Matisse 300х900. Формат 300х900 см. Цвет: Мульти. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001711.",
     "id": "010100001711",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2f7/0t5ekhuwoj29fau3tz9jyrxrfbl8y986.jpg"
   },
   {
     "sku": "010300000239",
@@ -71804,7 +72917,7 @@ export const importedProducts: any[] = [
     "name": "Nadelva grey decor 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nadelva",
+    "collection": "Nadelva Neo (Наделва Нео)",
     "color": "Серый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71823,7 +72936,7 @@ export const importedProducts: any[] = [
     "description": "Купить Nadelva grey decor 02 в Санкт-Петербурге. Коллекция Nadelva. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010300000239.",
     "id": "010300000239",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/cdd/8ermp1dgfsq43ym93p7octf5hemcbm9k.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/28b/xl84u1e5zwgccq3xp2krn3jm9rz9f5fq.jpg"
   },
   {
     "sku": "010101004975",
@@ -71831,7 +72944,7 @@ export const importedProducts: any[] = [
     "name": "Nadelva grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nadelva",
+    "collection": "Nadelva Neo (Наделва Нео)",
     "color": "Серый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71849,7 +72962,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Nadelva grey wall 01 в Санкт-Петербурге. Коллекция Nadelva. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004975.",
     "id": "010101004975",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/28b/xl84u1e5zwgccq3xp2krn3jm9rz9f5fq.jpg"
   },
   {
     "sku": "010101004976",
@@ -71857,7 +72971,7 @@ export const importedProducts: any[] = [
     "name": "Nadelva grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nadelva",
+    "collection": "Nadelva Neo (Наделва Нео)",
     "color": "Серый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71875,7 +72989,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Nadelva grey wall 02 в Санкт-Петербурге. Коллекция Nadelva. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004976.",
     "id": "010101004976",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/28b/xl84u1e5zwgccq3xp2krn3jm9rz9f5fq.jpg"
   },
   {
     "sku": "010101005011",
@@ -71883,7 +72998,7 @@ export const importedProducts: any[] = [
     "name": "Nadelva grey wall 04",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Nadelva",
+    "collection": "Nadelva Neo (Наделва Нео)",
     "color": "Серый",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -71901,7 +73016,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Nadelva grey wall 04 в Санкт-Петербурге. Коллекция Nadelva. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101005011.",
     "id": "010101005011",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/28b/xl84u1e5zwgccq3xp2krn3jm9rz9f5fq.jpg"
   },
   {
     "sku": "010100001306",
@@ -71909,7 +73025,7 @@ export const importedProducts: any[] = [
     "name": "Origami grey wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Origami",
+    "collection": "Origami (Оригами)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -71928,7 +73044,7 @@ export const importedProducts: any[] = [
     "description": "Купить Origami grey wall 01 в Санкт-Петербурге. Коллекция Origami. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001306.",
     "id": "010100001306",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/957/9u647k16x6vbqpi9hw1d9d6dbm21on8z.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/075/j4mn1o5wkll22bv1f6d1uk4zh19wnu29.jpg"
   },
   {
     "sku": "010100001307",
@@ -71936,7 +73052,7 @@ export const importedProducts: any[] = [
     "name": "Origami grey wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Origami",
+    "collection": "Origami (Оригами)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -71954,7 +73070,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Origami grey wall 02 в Санкт-Петербурге. Коллекция Origami. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001307.",
     "id": "010100001307",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/j4mn1o5wkll22bv1f6d1uk4zh19wnu29.jpg"
   },
   {
     "sku": "010100001308",
@@ -71962,7 +73079,7 @@ export const importedProducts: any[] = [
     "name": "Origami grey wall 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Origami",
+    "collection": "Origami (Оригами)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х900",
@@ -71980,7 +73097,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Origami grey wall 03 в Санкт-Петербурге. Коллекция Origami. Формат 300х900 см. Цвет: Серый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001308.",
     "id": "010100001308",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/075/j4mn1o5wkll22bv1f6d1uk4zh19wnu29.jpg"
   },
   {
     "sku": "010301002136",
@@ -71988,7 +73106,7 @@ export const importedProducts: any[] = [
     "name": "Saphie white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Saphie",
+    "collection": "Saphie (Сафи)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72006,7 +73124,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Saphie white decor 01 в Санкт-Петербурге. Коллекция Saphie. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002136.",
     "id": "010301002136",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4ca/ojufg0tct1qosx0bh9w4o22ggip395m1.jpg"
   },
   {
     "sku": "010403001313",
@@ -72014,7 +73133,7 @@ export const importedProducts: any[] = [
     "name": "Saphie white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Saphie",
+    "collection": "Saphie (Сафи)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -72032,7 +73151,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Saphie white PG 01 в Санкт-Петербурге. Коллекция Saphie. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001313.",
     "id": "010403001313",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4ca/ojufg0tct1qosx0bh9w4o22ggip395m1.jpg"
   },
   {
     "sku": "010101005000",
@@ -72040,7 +73160,7 @@ export const importedProducts: any[] = [
     "name": "Saphie white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Saphie",
+    "collection": "Saphie (Сафи)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72058,7 +73178,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Saphie white wall 01 в Санкт-Петербурге. Коллекция Saphie. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101005000.",
     "id": "010101005000",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/4ca/ojufg0tct1qosx0bh9w4o22ggip395m1.jpg"
   },
   {
     "sku": "010301002115",
@@ -72066,7 +73187,7 @@ export const importedProducts: any[] = [
     "name": "Stazia white decor 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72084,7 +73205,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Stazia white decor 01 в Санкт-Петербурге. Коллекция Stazia. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002115.",
     "id": "010301002115",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010301002116",
@@ -72092,7 +73214,7 @@ export const importedProducts: any[] = [
     "name": "Stazia blue decor 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Голубой",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72110,7 +73232,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Stazia blue decor 02 в Санкт-Петербурге. Коллекция Stazia. Формат 300х900 см. Цвет: Голубой. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002116.",
     "id": "010301002116",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010403001271",
@@ -72118,7 +73241,7 @@ export const importedProducts: any[] = [
     "name": "Stazia white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -72136,7 +73259,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Stazia white PG 01 в Санкт-Петербурге. Коллекция Stazia. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001271.",
     "id": "010403001271",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010403001273",
@@ -72144,7 +73268,7 @@ export const importedProducts: any[] = [
     "name": "Stazia blue PG 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Голубой",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -72162,7 +73286,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Stazia blue PG 02 в Санкт-Петербурге. Коллекция Stazia. Формат 600х600 см. Цвет: Голубой. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001273.",
     "id": "010403001273",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010101004944",
@@ -72170,7 +73295,7 @@ export const importedProducts: any[] = [
     "name": "Stazia white wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Бежевый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72188,7 +73313,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Stazia white wall 01 в Санкт-Петербурге. Коллекция Stazia. Формат 300х900 см. Цвет: Бежевый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004944.",
     "id": "010101004944",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010101004945",
@@ -72196,7 +73322,7 @@ export const importedProducts: any[] = [
     "name": "Stazia blue wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Голубой",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72214,7 +73340,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Stazia blue wall 02 в Санкт-Петербурге. Коллекция Stazia. Формат 300х900 см. Цвет: Голубой. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004945.",
     "id": "010101004945",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010301002117",
@@ -72222,7 +73349,7 @@ export const importedProducts: any[] = [
     "name": "Stazia turquoise decor 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Бирюзовый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72240,7 +73367,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Stazia turquoise decor 02 в Санкт-Петербурге. Коллекция Stazia. Формат 300х900 см. Цвет: Бирюзовый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010301002117.",
     "id": "010301002117",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010403001275",
@@ -72248,7 +73376,7 @@ export const importedProducts: any[] = [
     "name": "Stazia turquoise PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Бирюзовый",
     "surface": "Глянцевая",
     "format": "600х600",
@@ -72266,7 +73394,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Stazia turquoise PG 01 в Санкт-Петербурге. Коллекция Stazia. Формат 600х600 см. Цвет: Бирюзовый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010403001275.",
     "id": "010403001275",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010101004946",
@@ -72274,7 +73403,7 @@ export const importedProducts: any[] = [
     "name": "Stazia turquoise wall 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Stazia",
+    "collection": "Stazia (Стация)",
     "color": "Бирюзовый",
     "surface": "Глянцевая",
     "format": "300х900",
@@ -72292,7 +73421,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Stazia turquoise wall 02 в Санкт-Петербурге. Коллекция Stazia. Формат 300х900 см. Цвет: Бирюзовый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010101004946.",
     "id": "010101004946",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ff/m38ksmjjtld7ilq098kzmkckbnscxky5.jpg"
   },
   {
     "sku": "010100001692",
@@ -72560,7 +73690,7 @@ export const importedProducts: any[] = [
     "name": "Wabi-Sabi green wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Wabi-Sabi",
+    "collection": "Wabi-Sabi (Ваби-Саби)",
     "color": "Зеленый",
     "surface": "Матовая",
     "format": "300х900",
@@ -72579,7 +73709,7 @@ export const importedProducts: any[] = [
     "description": "Купить Wabi-Sabi green wall 01 в Санкт-Петербурге. Коллекция Wabi-Sabi. Формат 300х900 см. Цвет: Зеленый. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001303.",
     "id": "010100001303",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/951/q78ab89by7vupp0rcmr4xt9avwa4d634.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/041/7kv85oa60x00j8jbnbluuxamgxk0otvi.jpg"
   },
   {
     "sku": "010100001304",
@@ -72587,7 +73717,7 @@ export const importedProducts: any[] = [
     "name": "Wabi-Sabi multi wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Wabi-Sabi",
+    "collection": "Wabi-Sabi (Ваби-Саби)",
     "color": "Мульти",
     "surface": "Матовая с sugar эффектом",
     "format": "300х900",
@@ -72605,7 +73735,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Wabi-Sabi multi wall 01 в Санкт-Петербурге. Коллекция Wabi-Sabi. Формат 300х900 см. Цвет: Мульти. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001304.",
     "id": "010100001304",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/041/7kv85oa60x00j8jbnbluuxamgxk0otvi.jpg"
   },
   {
     "sku": "010100001305",
@@ -72613,7 +73744,7 @@ export const importedProducts: any[] = [
     "name": "Wabi-Sabi ocher wall 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Wabi-Sabi",
+    "collection": "Wabi-Sabi (Ваби-Саби)",
     "color": "Красный",
     "surface": "Матовая",
     "format": "300х900",
@@ -72631,7 +73762,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Wabi-Sabi ocher wall 01 в Санкт-Петербурге. Коллекция Wabi-Sabi. Формат 300х900 см. Цвет: Красный. В упаковке 5 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001305.",
     "id": "010100001305",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/041/7kv85oa60x00j8jbnbluuxamgxk0otvi.jpg"
   },
   {
     "sku": "010100001691",
@@ -72709,8 +73841,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Алтай беж КГ 01 в Санкт-Петербурге. Коллекция Алтай. Формат 400х400 см. Цвет: Бежевый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001256.",
     "id": "010400001256",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/3ca/mnk7y0qoe2ysaae4hi6k1j3n49p1nvkk.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010400001260",
@@ -72762,7 +73893,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Альбус св-сер КГ 01 400х400 в Санкт-Петербурге. Коллекция Альбус. Формат 400х400 см. Цвет: Серый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001019.",
     "id": "010400001019",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/340/0ts724msgllsljut1wfq43x60mon0edg.jpg"
   },
   {
     "sku": "010400001359",
@@ -72786,7 +73918,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Альбус св-сер КГ 01 v2 в Санкт-Петербурге. Коллекция Альбус. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001359.",
     "id": "010400001359",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/340/0ts724msgllsljut1wfq43x60mon0edg.jpg"
   },
   {
     "sku": "010400000700",
@@ -72948,7 +74081,7 @@ export const importedProducts: any[] = [
     "name": "Моноколор сер КГ 01 v3",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Моноколор",
+    "collection": "Monocolor (Моноколор)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "400х400",
@@ -72967,7 +74100,7 @@ export const importedProducts: any[] = [
     "description": "Купить Моноколор сер КГ 01 v3 в Санкт-Петербурге. Коллекция Моноколор. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001306.",
     "id": "010400001306",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/957/9u647k16x6vbqpi9hw1d9d6dbm21on8z.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/87e/qbdq313631jdapybhihq136ssa1qtwia.jpg"
   },
   {
     "sku": "010400001308",
@@ -72975,7 +74108,7 @@ export const importedProducts: any[] = [
     "name": "Моноколор бел КГ 01 v3",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Моноколор",
+    "collection": "Monocolor (Моноколор)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "400х400",
@@ -72991,7 +74124,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Моноколор бел КГ 01 v3 в Санкт-Петербурге. Коллекция Моноколор. Формат 400х400 см. Цвет: Белый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001308.",
     "id": "010400001308",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/87e/qbdq313631jdapybhihq136ssa1qtwia.jpg"
   },
   {
     "sku": "010400001315",
@@ -72999,7 +74133,7 @@ export const importedProducts: any[] = [
     "name": "Нео сер КГ 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Нео",
+    "collection": "Nadelva Neo (Наделва Нео)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "400х400",
@@ -73015,7 +74149,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Нео сер КГ 01 в Санкт-Петербурге. Коллекция Нео. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001315.",
     "id": "010400001315",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/28b/xl84u1e5zwgccq3xp2krn3jm9rz9f5fq.jpg"
   },
   {
     "sku": "010400001321",
@@ -73067,7 +74202,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.6,
     "description": "Купить Норд сер КГ 01 в Санкт-Петербурге. Коллекция Норд. Формат 400х400 см. Цвет: Серый. В упаковке 10 шт (1.6 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000998.",
     "id": "010400000998",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b92/u0wzrkcj52itjpyscd2gfbc4f1exjy69.jpg"
   },
   {
     "sku": "010400001357",
@@ -73091,7 +74227,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.76,
     "description": "Купить Норд сер КГ 01 v2 в Санкт-Петербурге. Коллекция Норд. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001357.",
     "id": "010400001357",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b92/u0wzrkcj52itjpyscd2gfbc4f1exjy69.jpg"
   },
   {
     "sku": "010400001393",
@@ -73116,7 +74253,7 @@ export const importedProducts: any[] = [
     "description": "Купить Урал сер КГ 01 в Санкт-Петербурге. Коллекция Урал. Формат 400х400 см. Цвет: Серый. В упаковке 11 шт (1.76 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001393.",
     "id": "010400001393",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/c37/npemwdrvz0xfg67vaxjgec38lfn65z2x.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/bb3/nqhwms32a2sd68hciiay2hm5w5vr5717.jpg"
   },
   {
     "sku": "010404001714",
@@ -73124,7 +74261,7 @@ export const importedProducts: any[] = [
     "name": "Aragon light PG 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Aragon",
+    "collection": "Aragon (Арагон)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73143,7 +74280,7 @@ export const importedProducts: any[] = [
     "description": "Купить Aragon light PG 03 в Санкт-Петербурге. Коллекция Aragon. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001714.",
     "id": "010404001714",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/8c5/hzzudt6b20c5eyb3rput2m6d9wsjqqbo.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/2a1/5b135mkc2tr5z5o2ft194rgnqj6473wz.jpg"
   },
   {
     "sku": "010400001242",
@@ -73178,7 +74315,7 @@ export const importedProducts: any[] = [
     "name": "Camelot beige PG 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Camelot",
+    "collection": "Camelot (Камелот)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73196,7 +74333,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Camelot beige PG 03 в Санкт-Петербурге. Коллекция Camelot. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001719.",
     "id": "010404001719",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/ab2/b3jrgl9goeilby765s3k1t3k5920z3kq.jpg"
   },
   {
     "sku": "010400001246",
@@ -73256,7 +74394,7 @@ export const importedProducts: any[] = [
     "name": "Lignum beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Mango",
+    "collection": "Mango (Манго)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73274,7 +74412,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Lignum beige PG 01 в Санкт-Петербурге. Коллекция Mango. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000984.",
     "id": "010400000984",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3ca/yarl5k9beug10hc1pjpc42pmn2yzrma8.jpg"
   },
   {
     "sku": "010404001726",
@@ -73282,7 +74421,7 @@ export const importedProducts: any[] = [
     "name": "Milan light PG 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Milan",
+    "collection": "Milan (Милан)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73300,7 +74439,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Milan light PG 03 в Санкт-Петербурге. Коллекция Milan. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001726.",
     "id": "010404001726",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/279/zhfvpxh1vlvljrqhbkbx9zdmylcjjl4b.jpg"
   },
   {
     "sku": "010404001727",
@@ -73308,7 +74448,7 @@ export const importedProducts: any[] = [
     "name": "Milan natural PG 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Milan",
+    "collection": "Milan (Милан)",
     "color": "Коричневый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73326,7 +74466,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Milan natural PG 03 в Санкт-Петербурге. Коллекция Milan. Формат 450х450 см. Цвет: Коричневый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001727.",
     "id": "010404001727",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/279/zhfvpxh1vlvljrqhbkbx9zdmylcjjl4b.jpg"
   },
   {
     "sku": "010404001732",
@@ -73352,8 +74493,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Oxford light PG 03 в Санкт-Петербурге. Коллекция Oxford. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001732.",
     "id": "010404001732",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/ab0/nu12um6q52nx9rxx6x37qe4ui608jh0l.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010404001733",
@@ -73387,7 +74527,7 @@ export const importedProducts: any[] = [
     "name": "Patio grey PG 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Patio",
+    "collection": "Patio (Патио)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73406,7 +74546,7 @@ export const importedProducts: any[] = [
     "description": "Купить Patio grey PG 03 в Санкт-Петербурге. Коллекция Patio. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001735.",
     "id": "010404001735",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/8de/162mvacuypjh2kgk4sdg5q6b8u161nhx.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/e61/oqrvopi3wkgijrbwqyq4ys1cb7lg3d7v.jpg"
   },
   {
     "sku": "010400001240",
@@ -73458,7 +74598,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Royal white PG 01 в Санкт-Петербурге. Коллекция Royal 450х450. Формат 450х450 см. Цвет: Белый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001244.",
     "id": "010400001244",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/961/arffc2bdfk2yvq7d7li8xacbqbajc0xk.jpg"
   },
   {
     "sku": "010404001740",
@@ -73466,7 +74607,7 @@ export const importedProducts: any[] = [
     "name": "Soul light beige PG 03",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Soul",
+    "collection": "Soul (Соул)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73484,7 +74625,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Soul light beige PG 03 в Санкт-Петербурге. Коллекция Soul. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001740.",
     "id": "010404001740",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/079/o7t32bohkdtwoievswkb5nuuyhtyo56p.jpg"
   },
   {
     "sku": "010400001252",
@@ -73519,7 +74661,7 @@ export const importedProducts: any[] = [
     "name": "Volterra grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Volterra",
+    "collection": "Volterra (Вольтерра)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "450х450",
@@ -73538,7 +74680,7 @@ export const importedProducts: any[] = [
     "description": "Купить Volterra grey PG 01 в Санкт-Петербурге. Коллекция Volterra. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404002117.",
     "id": "010404002117",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/855/szwaju2s2iuc6oo74cg6t16ocdi0gha1.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/030/3cn90jndan0pfw21dngwtxndtk6i6wxk.jpg"
   },
   {
     "sku": "010400001248",
@@ -73565,7 +74707,7 @@ export const importedProducts: any[] = [
     "description": "Купить Win grey PG 01 в Санкт-Петербурге. Коллекция Win 450х450. Формат 450х450 см. Цвет: Серый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001248.",
     "id": "010400001248",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/4b7/x936dkjb3lxqengzuo8waeywl0tyuste.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/a12/l392r7va00w736qjtlxiq6jtj2sib32u.jpg"
   },
   {
     "sku": "010400001250",
@@ -73591,7 +74733,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.62,
     "description": "Купить Win beige PG 01 в Санкт-Петербурге. Коллекция Win 450х450. Формат 450х450 см. Цвет: Бежевый. В упаковке 8 шт (1.62 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001250.",
     "id": "010400001250",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a12/l392r7va00w736qjtlxiq6jtj2sib32u.jpg"
   },
   {
     "sku": "010400000486",
@@ -73599,7 +74742,7 @@ export const importedProducts: any[] = [
     "name": "Abremo grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Abremo",
+    "collection": "Abremo (Абремо)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "600х1200",
@@ -73618,7 +74761,7 @@ export const importedProducts: any[] = [
     "description": "Купить Abremo grey PG 01 в Санкт-Петербурге. Коллекция Abremo. Формат 600х1200 см. Цвет: Серый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000486.",
     "id": "010400000486",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/9ed/3ljiipqs60de3gjspgi6y9mpf6vsl4un.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/3fe/bqdiao0e1r6f0hlhmvg3se0sb3vboxzv.jpg"
   },
   {
     "sku": "010400000494",
@@ -73626,7 +74769,7 @@ export const importedProducts: any[] = [
     "name": "Abremo beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Abremo",
+    "collection": "Abremo (Абремо)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "600х1200",
@@ -73644,7 +74787,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Abremo beige PG 01 в Санкт-Петербурге. Коллекция Abremo. Формат 600х1200 см. Цвет: Бежевый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000494.",
     "id": "010400000494",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3fe/bqdiao0e1r6f0hlhmvg3se0sb3vboxzv.jpg"
   },
   {
     "sku": "010400001369",
@@ -73697,7 +74841,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Beton grey PG 11 в Санкт-Петербурге. Коллекция Beton 600х1200. Формат 600х1200 см. Цвет: Серый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001370.",
     "id": "010400001370",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/077/okxslgxom72sjuiaw274zlo87jclvsxa.jpg"
   },
   {
     "sku": "010400001204",
@@ -73723,7 +74868,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Beton grey PG 01 в Санкт-Петербурге. Коллекция Beton 600х1200. Формат 600х1200 см. Цвет: Серый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001204.",
     "id": "010400001204",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/077/okxslgxom72sjuiaw274zlo87jclvsxa.jpg"
   },
   {
     "sku": "010400001206",
@@ -73749,7 +74895,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Beton grey PG 02 в Санкт-Петербурге. Коллекция Beton 600х1200. Формат 600х1200 см. Цвет: Серый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001206.",
     "id": "010400001206",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/077/okxslgxom72sjuiaw274zlo87jclvsxa.jpg"
   },
   {
     "sku": "010400001377",
@@ -73827,7 +74974,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Crema beige PG 11 в Санкт-Петербурге. Коллекция Crema 600х1200. Формат 600х1200 см. Цвет: Бежевый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001371.",
     "id": "010400001371",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/0rs7qbj0im40edfdwggtfqs4pqvaejsn.jpg"
   },
   {
     "sku": "010400001216",
@@ -73853,7 +75001,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Crema beige PG 01 в Санкт-Петербурге. Коллекция Crema 600х1200. Формат 600х1200 см. Цвет: Бежевый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001216.",
     "id": "010400001216",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/795/0rs7qbj0im40edfdwggtfqs4pqvaejsn.jpg"
   },
   {
     "sku": "010400000540",
@@ -73861,7 +75010,7 @@ export const importedProducts: any[] = [
     "name": "Giovanni grey light PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Giovanni",
+    "collection": "Giovanni (Дживанни)",
     "color": "Серый",
     "surface": "Матовая с sugar эффектом",
     "format": "600х1200",
@@ -73880,7 +75029,7 @@ export const importedProducts: any[] = [
     "description": "Купить Giovanni grey light PG 01 в Санкт-Петербурге. Коллекция Giovanni. Формат 600х1200 см. Цвет: Серый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000540.",
     "id": "010400000540",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/d31/wkj62yvwq5p7bb9ljn7ohoeuyunqn51j.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/d18/9heemfv8eca09r70wq6i2bn6fy68mf7n.jpg"
   },
   {
     "sku": "010400001372",
@@ -73959,7 +75108,7 @@ export const importedProducts: any[] = [
     "description": "Купить Marmara white PG 11 в Санкт-Петербурге. Коллекция Marmara 600х1200. Формат 600х1200 см. Цвет: Белый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001374.",
     "id": "010400001374",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/936/lir5yga2swqq32rrqdf1ikc7e7r8c333.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/5ca/biqybkbw9mq6npceagcirltoeobmj2uq.jpg"
   },
   {
     "sku": "010400001222",
@@ -73985,7 +75134,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Marmara white PG 01 в Санкт-Петербурге. Коллекция Marmara 600х1200. Формат 600х1200 см. Цвет: Белый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001222.",
     "id": "010400001222",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/5ca/biqybkbw9mq6npceagcirltoeobmj2uq.jpg"
   },
   {
     "sku": "010400001375",
@@ -74063,7 +75213,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Platinum white PG 11 в Санкт-Петербурге. Коллекция Platinum 600х1200. Формат 600х1200 см. Цвет: Белый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001373.",
     "id": "010400001373",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/40e/qgg000yto9od38y6gu4lpbjdsyykhiny.jpg"
   },
   {
     "sku": "010400001220",
@@ -74089,7 +75240,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Platinum white PG 01 в Санкт-Петербурге. Коллекция Platinum 600х1200. Формат 600х1200 см. Цвет: Белый. В упаковке 2 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001220.",
     "id": "010400001220",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/40e/qgg000yto9od38y6gu4lpbjdsyykhiny.jpg"
   },
   {
     "sku": "010400001378",
@@ -74201,7 +75353,7 @@ export const importedProducts: any[] = [
     "name": "Abremo grey PG 01 v2",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Abremo",
+    "collection": "Abremo (Абремо)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74219,7 +75371,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Abremo grey PG 01 v2 в Санкт-Петербурге. Коллекция Abremo. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001130.",
     "id": "010400001130",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3fe/bqdiao0e1r6f0hlhmvg3se0sb3vboxzv.jpg"
   },
   {
     "sku": "010400001132",
@@ -74227,7 +75380,7 @@ export const importedProducts: any[] = [
     "name": "Abremo beige PG 01 v2",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Abremo",
+    "collection": "Abremo (Абремо)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74245,7 +75398,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Abremo beige PG 01 v2 в Санкт-Петербурге. Коллекция Abremo. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001132.",
     "id": "010400001132",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/3fe/bqdiao0e1r6f0hlhmvg3se0sb3vboxzv.jpg"
   },
   {
     "sku": "010400001268",
@@ -74306,7 +75460,7 @@ export const importedProducts: any[] = [
     "name": "Casa Blanca white PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Casa Blanca",
+    "collection": "Casa Blanca (Каса Бланка)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74325,7 +75479,7 @@ export const importedProducts: any[] = [
     "description": "Купить Casa Blanca white PG 01 в Санкт-Петербурге. Коллекция Casa Blanca. Формат 600х600 см. Цвет: Белый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001975.",
     "id": "010404001975",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/2cf/foj4etnoo6z3n55xx3brx6qr462qympy.png"
+    "collection_image": "https://plitburg.ru/upload/iblock/234/n78j9unb3xdtcqnk5vce9unmt7g1cdog.jpg"
   },
   {
     "sku": "010400001055",
@@ -74351,8 +75505,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Concrete matt grey PG 01 в Санкт-Петербурге. Коллекция Concrete matt. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001055.",
     "id": "010400001055",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/50b/ffrr15fsu64wfgqrryfqexpltoz4us1l.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010400001194",
@@ -74386,7 +75539,7 @@ export const importedProducts: any[] = [
     "name": "Diamond grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Светло-серый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74405,7 +75558,7 @@ export const importedProducts: any[] = [
     "description": "Купить Diamond grey PG 01 в Санкт-Петербурге. Коллекция Diamond. Формат 600х600 см. Цвет: Светло-серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001939.",
     "id": "010404001939",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/b13/guqn6wyyvvmf21402m5zucij7g0u120n.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "010404001943",
@@ -74413,7 +75566,7 @@ export const importedProducts: any[] = [
     "name": "Diamond light grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74431,7 +75584,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Diamond light grey PG 01 в Санкт-Петербурге. Коллекция Diamond. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001943.",
     "id": "010404001943",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "010404001945",
@@ -74439,7 +75593,7 @@ export const importedProducts: any[] = [
     "name": "Diamond beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74457,7 +75611,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Diamond beige PG 01 в Санкт-Петербурге. Коллекция Diamond. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001945.",
     "id": "010404001945",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "010404001947",
@@ -74465,7 +75620,7 @@ export const importedProducts: any[] = [
     "name": "Diamond light beige PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74483,7 +75638,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Diamond light beige PG 01 в Санкт-Петербурге. Коллекция Diamond. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010404001947.",
     "id": "010404001947",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "011300000002",
@@ -74491,7 +75647,7 @@ export const importedProducts: any[] = [
     "name": "Diamond grey PG ST 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Светло-серый",
     "surface": "Матовая",
     "format": "300х600",
@@ -74507,7 +75663,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.08,
     "description": "Купить Diamond grey PG ST 01 в Санкт-Петербурге. Коллекция Diamond. Формат 300х600 см. Цвет: Светло-серый. В упаковке 6 шт (1.08 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 011300000002.",
     "id": "011300000002",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "011300000005",
@@ -74515,7 +75672,7 @@ export const importedProducts: any[] = [
     "name": "Diamond beige PG ST 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х600",
@@ -74533,7 +75690,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.08,
     "description": "Купить Diamond beige PG ST 01 в Санкт-Петербурге. Коллекция Diamond. Формат 300х600 см. Цвет: Бежевый. В упаковке 6 шт (1.08 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 011300000005.",
     "id": "011300000005",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "011300000006",
@@ -74541,7 +75699,7 @@ export const importedProducts: any[] = [
     "name": "Diamond beige light PG ST 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Diamond",
+    "collection": "Diamond (Диамонд)",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х600",
@@ -74557,7 +75715,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.08,
     "description": "Купить Diamond beige light PG ST 01 в Санкт-Петербурге. Коллекция Diamond. Формат 300х600 см. Цвет: Бежевый. В упаковке 6 шт (1.08 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 011300000006.",
     "id": "011300000006",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/a8e/haaxtzcs966iflpq8x48mzg92955zuy6.jpg"
   },
   {
     "sku": "010400001264",
@@ -74713,7 +75872,7 @@ export const importedProducts: any[] = [
     "name": "Garden grey PG ST 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Garden",
+    "collection": "Garden (Гарден)",
     "color": "Светло-серый",
     "surface": "Матовая",
     "format": "300х600",
@@ -74731,7 +75890,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.08,
     "description": "Купить Garden grey PG ST 01 в Санкт-Петербурге. Коллекция Garden. Формат 300х600 см. Цвет: Светло-серый. В упаковке 6 шт (1.08 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 011300000015.",
     "id": "011300000015",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/c68/nr1mwdpwcsp7jz6xewcmge6nha3uvqoo.jpg"
   },
   {
     "sku": "010400001276",
@@ -74757,7 +75917,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Horizon beige PG 01 в Санкт-Петербурге. Коллекция Horizon 600х600. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001276.",
     "id": "010400001276",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/014/tgx3dbp63lb1s0lbitm7petlspxz3g8o.jpg"
   },
   {
     "sku": "010400001278",
@@ -74783,7 +75944,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Horizon grey PG 01 в Санкт-Петербурге. Коллекция Horizon 600х600. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001278.",
     "id": "010400001278",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/014/tgx3dbp63lb1s0lbitm7petlspxz3g8o.jpg"
   },
   {
     "sku": "010400001319",
@@ -74807,7 +75969,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Magic grey PG 01 в Санкт-Петербурге. Коллекция Magic. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001319.",
     "id": "010400001319",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/fbd/1tavqgax1rjb3bydbhl4ni57d04waz2v.jpg"
   },
   {
     "sku": "010400001258",
@@ -74831,7 +75994,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Marbella white PG 01 в Санкт-Петербурге. Коллекция Marbella. Формат 600х600 см. Цвет: Белый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001258.",
     "id": "010400001258",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/b0e/1ttc3q8u72wc8q6vgzs6wvp2oi0ym6vg.jpg"
   },
   {
     "sku": "010402001377",
@@ -74839,7 +76003,7 @@ export const importedProducts: any[] = [
     "name": "Monocolor white RAL9016 PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Monocolor",
+    "collection": "Monocolor (Моноколор)",
     "color": "Белый",
     "surface": "Матовая",
     "format": "600х600",
@@ -74857,7 +76021,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Monocolor white RAL9016 PG 01 в Санкт-Петербурге. Коллекция Monocolor. Формат 600х600 см. Цвет: Белый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010402001377.",
     "id": "010402001377",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/87e/qbdq313631jdapybhihq136ssa1qtwia.jpg"
   },
   {
     "sku": "010400001051",
@@ -74910,7 +76075,7 @@ export const importedProducts: any[] = [
     "description": "Купить Monolit grey PG 01 в Санкт-Петербурге. Коллекция Monolit 600х600. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001270.",
     "id": "010400001270",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/650/lcnh06ge9is8lm7j7jwnu2uoyxtzg8fy.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/2cb/krfm37noou49nbwkq8abakt2e6jmm2s2.jpg"
   },
   {
     "sku": "010400001272",
@@ -74936,7 +76101,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Monolit grey PG 02 в Санкт-Петербурге. Коллекция Monolit 600х600. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001272.",
     "id": "010400001272",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/2cb/krfm37noou49nbwkq8abakt2e6jmm2s2.jpg"
   },
   {
     "sku": "010400001196",
@@ -74988,8 +76154,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Nadelva sugar grey PG 01 в Санкт-Петербурге. Коллекция Nadelva sugar. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001057.",
     "id": "010400001057",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/d8d/ettlc0qyavxteyy1cmlkafy0qxpm606v.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010400001192",
@@ -75091,8 +76256,7 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Terrazzo matt grey PG 01 в Санкт-Петербурге. Коллекция Terrazzo matt. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001053.",
     "id": "010400001053",
-    "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/7be/pre1swvqzc73ypgayzo8jl82a6t0cjlr.jpg"
+    "usage": "floor"
   },
   {
     "sku": "010400001041",
@@ -75144,7 +76308,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Ultima beige PG 01 в Санкт-Петербурге. Коллекция Ultima 600х600. Формат 600х600 см. Цвет: Бежевый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001280.",
     "id": "010400001280",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/deb/ucwpzvz4ckl52sixwfph1k49hetxtzbk.jpg"
   },
   {
     "sku": "010400001282",
@@ -75170,7 +76335,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Ultima grey PG 01 в Санкт-Петербурге. Коллекция Ultima 600х600. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001282.",
     "id": "010400001282",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/deb/ucwpzvz4ckl52sixwfph1k49hetxtzbk.jpg"
   },
   {
     "sku": "010400001274",
@@ -75205,7 +76371,7 @@ export const importedProducts: any[] = [
     "name": "Vento grey PG 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Vento",
+    "collection": "Vento (Венто)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "600х600",
@@ -75221,7 +76387,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Vento grey PG 01 в Санкт-Петербурге. Коллекция Vento. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400000751.",
     "id": "010400000751",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0a4/m2g09t82r53gcap480ka4frv5vcqdiha.jpg"
   },
   {
     "sku": "011300000036",
@@ -75229,7 +76396,7 @@ export const importedProducts: any[] = [
     "name": "Vento grey PG ST 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Vento",
+    "collection": "Vento (Венто)",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х600",
@@ -75245,7 +76412,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.08,
     "description": "Купить Vento grey PG ST 01 в Санкт-Петербурге. Коллекция Vento. Формат 300х600 см. Цвет: Серый. В упаковке 6 шт (1.08 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 011300000036.",
     "id": "011300000036",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0a4/m2g09t82r53gcap480ka4frv5vcqdiha.jpg"
   },
   {
     "sku": "010400001419",
@@ -75271,7 +76439,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Vento Terrazzo PG 01 в Санкт-Петербурге. Коллекция Vento Terrazzo. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001419.",
     "id": "010400001419",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/0a4/m2g09t82r53gcap480ka4frv5vcqdiha.jpg"
   },
   {
     "sku": "010100001712",
@@ -75581,7 +76750,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Мелар сер верх 01 v2 в Санкт-Петербурге. Коллекция Мелар. Формат 200х300 см. Цвет: Серый. В упаковке 24 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010100001720.",
     "id": "010100001720",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e67/inq0ecja2b92u82n84ubs43pb3e4cp8o.jpg"
   },
   {
     "sku": "010100001726",
@@ -75771,7 +76941,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес беж",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75790,7 +76960,7 @@ export const importedProducts: any[] = [
     "description": "Купить Техногрес беж в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Бежевый. В упаковке 14 шт (1.26 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405000025.",
     "id": "010405000025",
     "usage": "floor",
-    "collection_image": "https://plitburg.ru/upload/iblock/a56/z5ggb5xv8et89bhngi32cfjz4g4ow58u.jpg"
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405001431",
@@ -75798,7 +76968,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес Профи беж 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75816,7 +76986,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Техногрес Профи беж 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Бежевый. В упаковке 15 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405001431.",
     "id": "010405001431",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405001470",
@@ -75824,7 +76995,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес КС-5 КГ 02",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Бежевый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75842,7 +77013,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Техногрес КС-5 КГ 02 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Бежевый. В упаковке 15 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405001470.",
     "id": "010405001470",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010408001222",
@@ -75850,7 +77022,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес св-сер ТГ рект 03 v2",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Серый",
     "surface": "Матовая",
     "format": "600х600",
@@ -75868,7 +77040,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.44,
     "description": "Купить Техногрес св-сер ТГ рект 03 v2 в Санкт-Петербурге. Коллекция Техногрес. Формат 600х600 см. Цвет: Серый. В упаковке 4 шт (1.44 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010408001222.",
     "id": "010408001222",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010400001113",
@@ -75876,7 +77049,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес СП св-сер 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75894,7 +77067,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Техногрес СП св-сер 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Серый. В упаковке 15 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010400001113.",
     "id": "010400001113",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405000059",
@@ -75902,7 +77076,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес св-сер 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75920,7 +77094,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.26,
     "description": "Купить Техногрес св-сер 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Серый. В упаковке 14 шт (1.26 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405000059.",
     "id": "010405000059",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405001408",
@@ -75928,7 +77103,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес Профи св-сер 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75946,7 +77121,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Техногрес Профи св-сер 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Серый. В упаковке 15 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405001408.",
     "id": "010405001408",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405000071",
@@ -75954,7 +77130,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес сер 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75972,7 +77148,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.26,
     "description": "Купить Техногрес сер 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Серый. В упаковке 14 шт (1.26 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405000071.",
     "id": "010405000071",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405001409",
@@ -75980,7 +77157,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес Профи сер 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Серый",
     "surface": "Матовая",
     "format": "300х300",
@@ -75998,7 +77175,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Техногрес Профи сер 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Серый. В упаковке 15 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405001409.",
     "id": "010405001409",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "010405001410",
@@ -76006,7 +77184,7 @@ export const importedProducts: any[] = [
     "name": "Техногрес Профи черн 01",
     "brand": "Gracia Ceramica",
     "product_type": "Керамогранит",
-    "collection": "Техногрес",
+    "collection": "Керамогранит неглазурованный Техногрес",
     "color": "Черный",
     "surface": "Матовая",
     "format": "300х300",
@@ -76024,7 +77202,8 @@ export const importedProducts: any[] = [
     "sqm_per_box": 1.35,
     "description": "Купить Техногрес Профи черн 01 в Санкт-Петербурге. Коллекция Техногрес. Формат 300х300 см. Цвет: Черный. В упаковке 15 шт (1.35 м²). Gracia Ceramica — керамогранит в наличии на складе в Янино. Доставка по СПб и ЛО от 1 дня. Артикул: 010405001410.",
     "id": "010405001410",
-    "usage": "floor"
+    "usage": "floor",
+    "collection_image": "https://plitburg.ru/upload/iblock/e8f/wq3a6r7uzbfxztgtbea6v95nu8m8ko53.jpg"
   },
   {
     "sku": "UP012",
