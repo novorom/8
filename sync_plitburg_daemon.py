@@ -36,16 +36,11 @@ session.headers.update({
 
 def update_ts_files(prods):
     new_json = json.dumps(prods, ensure_ascii=False, indent=2)
-    with open(TS_NEW_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
-    pattern = r'(export\s+const\s+importedProducts\b[^=]*=\s*)\[[\s\S]*?\](\s*(?:as\s+\w[\w<>\[\]]*\s*)?;)'
-    new_c = re.sub(pattern, r'\g<1>' + new_json + r'\g<2>', content, count=1)
-    if new_c == content:
-        pattern2 = r'(export\s+const\s+importedProducts\s*:\s*any\[\]\s*=\s*)\[[\s\S]*\]'
-        new_c = re.sub(pattern2, r'\g<1>' + new_json, content, count=1)
-
+    header = "// @ts-nocheck\n// AUTO-GENERATED — НЕ РЕДАКТИРОВАТЬ ВРУЧНУЮ\n\nexport const importedProducts: any[] = "
     with open(TS_NEW_FILE, "w", encoding="utf-8") as f:
-        f.write(new_c)
+        f.write(header)
+        f.write(new_json)
+        f.write(";")
 
 def commit_and_push(count):
     try:
@@ -191,7 +186,6 @@ def parse_product(url):
             try: new_prod["thickness"] = float(re.sub(r'[^\d.]', '', thickness.replace(',', '.')))
             except: pass
 
-        # 🌟 SEO Description: optimized for Yandex, Google and AI assistants
         surf_str = f" с {surface.lower()} поверхностью" if surface else ""
         form_str = f" в формате {format_p}" if format_p else ""
         
@@ -212,7 +206,6 @@ skipped_count = 0
 failed_count = 0
 batch_size = 20
 
-# Create a lock file to prevent multiple daemons
 if os.path.exists("daemon_running.lock"):
     print("Daemon already running.")
     exit(0)
