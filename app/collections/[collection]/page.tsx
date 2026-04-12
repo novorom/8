@@ -45,7 +45,7 @@ export async function generateStaticParams() {
     ),
   ]
   return allCollectionNames.map((name) => ({
-    collection: name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, ""),
+    collection: name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "").slice(0, 80),
   }))
 }
 
@@ -93,7 +93,7 @@ function findCollectionName(slug: string): string | undefined {
         .map((p) => p.collection as string)
     ),
   ].find(
-    (name) => name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "") === s
+    (name) => name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "").slice(0, 80) === s
   )
 }
 
