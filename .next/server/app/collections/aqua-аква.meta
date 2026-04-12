@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/collections/layout,_N_T_/collections/[collection]/layout,_N_T_/collections/[collection]/page,_N_T_/collections/aqua-%D0%B0%D0%BA%D0%B2%D0%B0"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/collections/$d$collection/__PAGE__",
+    "/collections/$d$collection",
+    "/collections",
+    "/_index",
+    "/_head"
+  ]
+}

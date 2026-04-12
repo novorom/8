@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/plitka-pod-mramor-spb/layout,_N_T_/plitka-pod-mramor-spb/page,_N_T_/plitka-pod-mramor-spb"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/plitka-pod-mramor-spb/__PAGE__",
+    "/plitka-pod-mramor-spb",
+    "/_index",
+    "/_head"
+  ]
+}

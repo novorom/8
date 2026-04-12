@@ -1,0 +1,31 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /cart
+Disallow: /*.json$
+Disallow: /checkout
+
+User-Agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /cart
+Disallow: /*.json$
+Disallow: /checkout
+Crawl-delay: 1
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+Host: https://plitki-spb.ru
+Sitemap: https://plitki-spb.ru/sitemap.xml

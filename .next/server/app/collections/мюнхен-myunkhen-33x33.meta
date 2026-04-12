@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/collections/layout,_N_T_/collections/[collection]/layout,_N_T_/collections/[collection]/page,_N_T_/collections/%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD-myunkhen-33x33"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/collections/$d$collection/__PAGE__",
+    "/collections/$d$collection",
+    "/collections",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,3 @@
+module.exports=[4634,a=>{"use strict";var b=a.i(89477),c=a.i(89930);function d({src:a,alt:d,color:e}){let[f,g]=(0,c.useState)(!1);return f?(0,b.jsx)("span",{className:"text-lg font-bold text-center",style:{color:e},children:d}):(0,b.jsx)("img",{src:a,alt:`Логотип ${d}`,className:"max-h-14 max-w-full object-contain",onError:()=>g(!0)})}a.s(["BrandLogo",()=>d])}];
+
+//# sourceMappingURL=app_brands_brand-logo_tsx_05ddcbb5._.js.map

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/dostavka-plitki-spb/layout,_N_T_/dostavka-plitki-spb/page,_N_T_/dostavka-plitki-spb"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/dostavka-plitki-spb/__PAGE__",
+    "/dostavka-plitki-spb",
+    "/_index",
+    "/_head"
+  ]
+}

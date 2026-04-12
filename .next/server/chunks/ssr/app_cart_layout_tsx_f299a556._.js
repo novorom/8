@@ -1,0 +1,3 @@
+module.exports=[90265,a=>{"use strict";var b=a.i(81332);function c({children:a}){return(0,b.jsx)(b.Fragment,{children:a})}a.s(["default",()=>c,"metadata",0,{title:"Корзина -- Плитки СПб",description:"Ваша корзина покупок. Оформите заказ на керамическую плитку и керамогранит Cersanit с доставкой по СПб и ЛО.",robots:{index:!1,follow:!0}}])}];
+
+//# sourceMappingURL=app_cart_layout_tsx_f299a556._.js.map
