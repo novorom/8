@@ -12,11 +12,13 @@ interface FilterSection {
 
 const filterSections: FilterSection[] = [
   { label: "Бренд", key: "brands", options: filterOptions.brands },
+  { label: "В наличии", key: "availability", options: filterOptions.availability },
+  { label: "Назначение", key: "applications", options: filterOptions.applications },
   { label: "Тип плитки", key: "product_types", options: filterOptions.product_types },
   { label: "Цвет", key: "colors", options: filterOptions.colors },
   { label: "Размер", key: "dimensions", options: filterOptions.dimensions },
   { label: "Дизайн", key: "designs", options: filterOptions.designs },
-  { label: "Тип поверхности", key: "surface_types", options: filterOptions.surface_types },
+  { label: "Поверхность", key: "surface_types", options: filterOptions.surface_types },
 ]
 
 interface CatalogFiltersProps {

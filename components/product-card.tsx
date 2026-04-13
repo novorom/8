@@ -35,12 +35,13 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
   const imgSrc = imgError ? "/placeholder.jpg" : optimizeImage(rawSrc, 400)
 
   return (
-    <Link
-      href={`/catalog/${product.slug || product.id}`}
-      className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-lg transition-all duration-300"
-    >
-      {/* Image */}
-      <div className="relative aspect-square overflow-hidden bg-white">
+    <div className="group flex flex-col bg-card rounded-xl border border-border overflow-hidden hover:shadow-lg transition-all duration-300 relative">
+      <Link
+        href={`/catalog/${product.slug || product.id}`}
+        className="flex flex-col flex-1"
+      >
+        {/* Image */}
+        <div className="relative aspect-square overflow-hidden bg-white">
         <img
           src={imgSrc}
           alt={[product.name, product.color, product.format, "купить СПб"].filter(Boolean).join(" ")}
@@ -124,10 +125,24 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
             </span>
           )}
         </div>
-        <span className="text-xs text-muted-foreground">
+        <span className="text-xs text-muted-foreground mt-0.5">
           {product.surface} / {product.color}
         </span>
       </div>
     </Link>
+      
+      {/* Quick Action */}
+      <div className="px-3.5 pb-3 pt-1">
+        <a
+          href={`https://wa.me/79052050900?text=${encodeURIComponent(`Здравствуйте! Хочу уточнить наличие товара: ${product.name} (Арт. ${product.sku || product.id}) за ${product.price_retail} руб.`)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center justify-center w-full py-2 bg-green-500/10 text-green-600 hover:bg-green-500 hover:text-white rounded-lg text-sm font-medium transition-colors"
+          onClick={(e) => e.stopPropagation()}
+        >
+          Купить в 1 клик
+        </a>
+      </div>
+    </div>
   )
 }

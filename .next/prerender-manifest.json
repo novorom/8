@@ -9467,31 +9467,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/arkaim-аркаим": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/arkaim-аркаим.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/arkona-аркона": {
       "experimentalBypassFor": [
         {
@@ -10842,31 +10817,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/caliza-кализа": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/caliza-кализа.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/calypso-калипсо": {
       "experimentalBypassFor": [
         {
@@ -11358,31 +11308,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/chesterwood.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/chevron": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/chevron.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -13617,31 +13542,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/golden-600х1200": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/golden-600х1200.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/grace-грэйс-120x60": {
       "experimentalBypassFor": [
         {
@@ -14792,31 +14692,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/katana": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/katana.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/kauri-wood": {
       "experimentalBypassFor": [
         {
@@ -15733,31 +15608,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/lofthouse.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/london-лондон": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/london-лондон.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -22042,31 +21892,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/travertine": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/travertine.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/travertino": {
       "experimentalBypassFor": [
         {
@@ -26267,31 +26092,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/дорато": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/дорато.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/дрим": {
       "experimentalBypassFor": [
         {
@@ -26692,31 +26492,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/и-керамогранита-мотиво": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/и-керамогранита-мотиво.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/и-керамогранита-резиденция": {
       "experimentalBypassFor": [
         {
@@ -26858,31 +26633,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/и-керамогранита-туф.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/и-керамогранита-фоскари": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/и-керамогранита-фоскари.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -28692,31 +28442,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-керамогранита-корсо": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-керамогранита-корсо.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-керамогранита-лирия": {
       "experimentalBypassFor": [
         {
@@ -29142,31 +28867,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-alpi-алпи": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-alpi-алпи.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-amati-амати": {
       "experimentalBypassFor": [
         {
@@ -29242,31 +28942,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-atlas-атлас": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-atlas-атлас.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-aura-аура": {
       "experimentalBypassFor": [
         {
@@ -29308,31 +28983,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-azolla-азолла.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-calacatta-royal-калакатта-роял": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-calacatta-royal-калакатта-роял.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -29492,56 +29142,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-grunge-гранж": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-grunge-гранж.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-hygge-хьюгге": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-hygge-хьюгге.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-kids": {
       "experimentalBypassFor": [
         {
@@ -29558,31 +29158,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-kids.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-lounge-лаунж": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-lounge-лаунж.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -29767,56 +29342,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-romanico-романико": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-romanico-романико.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-rustic-рустик": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-rustic-рустик.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-saz-yolu-сазоли": {
       "experimentalBypassFor": [
         {
@@ -29883,56 +29408,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-shabby-шэбби.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-sonnet-соннет": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-sonnet-соннет.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-stone-стоун": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-stone-стоун.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -30167,56 +29642,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-амстердам": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-амстердам.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-арабески": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-арабески.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-арабески-котто": {
       "experimentalBypassFor": [
         {
@@ -30308,31 +29733,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-барио.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-баттерфляй": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-баттерфляй.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -30592,31 +29992,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-гамма": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-гамма.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-гармония": {
       "experimentalBypassFor": [
         {
@@ -30633,31 +30008,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-гармония.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-городские-цветы": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-городские-цветы.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -32142,31 +31492,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/коллекция-плитки-однотонная-3": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-однотонная-3.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/коллекция-плитки-одри": {
       "experimentalBypassFor": [
         {
@@ -32208,31 +31533,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-паласио.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-параллель": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-параллель.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -32483,31 +31783,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/коллекция-плитки-стокерамогранитольм.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/коллекция-плитки-суррей": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/коллекция-плитки-суррей.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -33517,31 +32792,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/марракеш": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/марракеш.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/марсель": {
       "experimentalBypassFor": [
         {
@@ -34433,31 +33683,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/однотонная-1.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/однотонная-2": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/однотонная-2.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -37017,31 +36242,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/collections/туари": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/туари.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/collections/тулуза-45x45": {
       "experimentalBypassFor": [
         {
@@ -37158,31 +36358,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/урал.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/уральская-палитра": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/уральская-палитра.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -37583,31 +36758,6 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/collections/[collection]",
       "dataRoute": "/collections/форм.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/collections/фрагонар": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/collections/[collection]",
-      "dataRoute": "/collections/фрагонар.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -38411,6 +37561,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/kafelnaya-plitka-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/kafelnaya-plitka-spb",
+      "dataRoute": "/kafelnaya-plitka-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/keramicheskaya-plitka-spb": {
       "experimentalBypassFor": [
         {
@@ -38522,6 +37696,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/keramogranit-matovyy-spb",
       "dataRoute": "/keramogranit-matovyy-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/keramogranit-optom-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/keramogranit-optom-spb",
+      "dataRoute": "/keramogranit-optom-spb.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -38651,6 +37849,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/napolnaya-plitka-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/napolnaya-plitka-spb",
+      "dataRoute": "/napolnaya-plitka-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/": {
       "experimentalBypassFor": [
         {
@@ -38771,6 +37993,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/plitka-dlya-fartuka-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/plitka-dlya-fartuka-spb",
+      "dataRoute": "/plitka-dlya-fartuka-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/plitka-dlya-kuhni-spb": {
       "experimentalBypassFor": [
         {
@@ -38858,6 +38104,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/plitka-dlya-vannoj-spb",
       "dataRoute": "/plitka-dlya-vannoj-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/plitka-monokolor-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/plitka-monokolor-spb",
+      "dataRoute": "/plitka-monokolor-spb.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -38963,6 +38233,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/plitka-pod-kirpich-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/plitka-pod-kirpich-spb",
+      "dataRoute": "/plitka-pod-kirpich-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/plitka-pod-mramor-spb": {
       "experimentalBypassFor": [
         {
@@ -39026,6 +38320,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/plitka-yanino-spb",
       "dataRoute": "/plitka-yanino-spb.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/rasprodazha-plitki-spb": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/rasprodazha-plitki-spb",
+      "dataRoute": "/rasprodazha-plitki-spb.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",

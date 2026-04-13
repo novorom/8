@@ -68,6 +68,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "keramogranit-45x90-spb",
     "plitka-dlya-ofisa-spb",
     "plitka-yanino-spb",
+    "kafelnaya-plitka-spb",
+    "plitka-dlya-fartuka-spb",
+    "rasprodazha-plitki-spb",
+    "keramogranit-optom-spb",
+    "napolnaya-plitka-spb",
+    "plitka-pod-kirpich-spb",
+    "plitka-monokolor-spb",
   ].map((slug) => ({
     url: `${SITE_URL}/${slug}`,
     lastModified: now,

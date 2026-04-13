@@ -51,7 +51,8 @@ const BLOG_LINKS_BY_TYPE: Record<string, Array<{slug: string, title: string, des
   ],
 }
 
-function getBlogLinks(name: string) {
+function getBlogLinks(name?: string) {
+  if (!name) return BLOG_LINKS_BY_TYPE.default
   const n = name.toLowerCase()
   if (n.includes("calacatta") || n.includes("marble") || n.includes("мрамор") || n.includes("royal stone") || n.includes("travertino") || n.includes("limestone")) return BLOG_LINKS_BY_TYPE.marble
   if (n.includes("wood") || n.includes("дерево") || n.includes("oak") || n.includes("timber") || n.includes("loft") || n.includes("concrete") || n.includes("northwood") || n.includes("amberwood") || n.includes("woodhouse")) return BLOG_LINKS_BY_TYPE.wood

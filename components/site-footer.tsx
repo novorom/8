@@ -37,9 +37,13 @@ const footerLinks = {
     { label: "Керамогранит 60x120 СПб", href: "/keramogranit-60x120-spb" },
     { label: "Плитка под дерево СПб", href: "/plitka-pod-derevo-spb" },
     { label: "Плитка под мрамор СПб", href: "/plitka-pod-mramor-spb" },
-    { label: "Магазин плитки СПб", href: "/magazin-plitki-spb" },
     { label: "Доставка плитки СПб", href: "/dostavka-plitki-spb" },
     { label: "Плитка Янино", href: "/plitka-yanino-spb" },
+    { label: "Кафельная плитка СПб", href: "/kafelnaya-plitka-spb" },
+    { label: "Плитка для фартука", href: "/plitka-dlya-fartuka-spb" },
+    { label: "Распродажа плитки", href: "/rasprodazha-plitki-spb" },
+    { label: "Керамогранит оптом", href: "/keramogranit-optom-spb" },
+    { label: "Напольная плитка", href: "/napolnaya-plitka-spb" },
   ],
 }
 

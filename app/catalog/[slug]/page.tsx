@@ -69,10 +69,53 @@ export default async function ProductPage({
     ? `https://images.weserv.nl/?url=${rawImage.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`
     : null
 
+  const productJsonLd = product ? {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": product.name,
+    "image": product.images?.length ? product.images : (product.main_image ? [product.main_image] : []),
+    "description": `Купить ${product.name} в Санкт-Петербурге. В наличии на складе в Янино по цене ${product.price_retail} руб.`,
+    "sku": product.sku,
+    "brand": {
+      "@type": "Brand",
+      "name": product.brand || "Неизвестно"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": `${SITE_URL}/catalog/${product.slug}`,
+      "priceCurrency": "RUB",
+      "lowPrice": product.price_retail,
+      "highPrice": product.price_official && product.price_official > product.price_retail ? product.price_official : product.price_retail,
+      "offerCount": "1",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    }
+  } : null;
+
   return (
     <>
       {preloadUrl && (
         <link rel="preload" as="image" href={preloadUrl} fetchPriority="high" />
+      )}
+      {productJsonLd && (
+        <>
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
+          />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "Главная", "item": SITE_URL },
+                { "@type": "ListItem", "position": 2, "name": "Каталог", "item": `${SITE_URL}/catalog` },
+                { "@type": "ListItem", "position": 3, "name": product?.name || "", "item": `${SITE_URL}/catalog/${product?.slug || ""}` }
+              ]
+            }) }}
+          />
+        </>
       )}
       <ProductPageClient slug={slug} />
     </>

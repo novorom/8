@@ -270,6 +270,12 @@
       "namedRegex": "^/faq(?:/)?$"
     },
     {
+      "page": "/kafelnaya-plitka-spb",
+      "regex": "^/kafelnaya\\-plitka\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/kafelnaya\\-plitka\\-spb(?:/)?$"
+    },
+    {
       "page": "/keramicheskaya-plitka-spb",
       "regex": "^/keramicheskaya\\-plitka\\-spb(?:/)?$",
       "routeKeys": {},
@@ -300,6 +306,12 @@
       "namedRegex": "^/keramogranit\\-matovyy\\-spb(?:/)?$"
     },
     {
+      "page": "/keramogranit-optom-spb",
+      "regex": "^/keramogranit\\-optom\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/keramogranit\\-optom\\-spb(?:/)?$"
+    },
+    {
       "page": "/keramogranit-pod-derevo-spb",
       "regex": "^/keramogranit\\-pod\\-derevo\\-spb(?:/)?$",
       "routeKeys": {},
@@ -318,6 +330,12 @@
       "namedRegex": "^/keramogranit\\-spb(?:/)?$"
     },
     {
+      "page": "/llms.txt",
+      "regex": "^/llms\\.txt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/llms\\.txt(?:/)?$"
+    },
+    {
       "page": "/magazin-plitki-spb",
       "regex": "^/magazin\\-plitki\\-spb(?:/)?$",
       "routeKeys": {},
@@ -328,6 +346,12 @@
       "regex": "^/mozaika\\-spb(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/mozaika\\-spb(?:/)?$"
+    },
+    {
+      "page": "/napolnaya-plitka-spb",
+      "regex": "^/napolnaya\\-plitka\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/napolnaya\\-plitka\\-spb(?:/)?$"
     },
     {
       "page": "/plitka-30x60-spb",
@@ -354,6 +378,12 @@
       "namedRegex": "^/plitka\\-dlya\\-dushi\\-spb(?:/)?$"
     },
     {
+      "page": "/plitka-dlya-fartuka-spb",
+      "regex": "^/plitka\\-dlya\\-fartuka\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/plitka\\-dlya\\-fartuka\\-spb(?:/)?$"
+    },
+    {
       "page": "/plitka-dlya-kuhni-spb",
       "regex": "^/plitka\\-dlya\\-kuhni\\-spb(?:/)?$",
       "routeKeys": {},
@@ -376,6 +406,12 @@
       "regex": "^/plitka\\-dlya\\-vannoj\\-spb(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/plitka\\-dlya\\-vannoj\\-spb(?:/)?$"
+    },
+    {
+      "page": "/plitka-monokolor-spb",
+      "regex": "^/plitka\\-monokolor\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/plitka\\-monokolor\\-spb(?:/)?$"
     },
     {
       "page": "/plitka-nastennaya-spb",
@@ -402,6 +438,12 @@
       "namedRegex": "^/plitka\\-pod\\-kamen\\-spb(?:/)?$"
     },
     {
+      "page": "/plitka-pod-kirpich-spb",
+      "regex": "^/plitka\\-pod\\-kirpich\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/plitka\\-pod\\-kirpich\\-spb(?:/)?$"
+    },
+    {
       "page": "/plitka-pod-mramor-spb",
       "regex": "^/plitka\\-pod\\-mramor\\-spb(?:/)?$",
       "routeKeys": {},
@@ -418,6 +460,12 @@
       "regex": "^/plitka\\-yanino\\-spb(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/plitka\\-yanino\\-spb(?:/)?$"
+    },
+    {
+      "page": "/rasprodazha-plitki-spb",
+      "regex": "^/rasprodazha\\-plitki\\-spb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rasprodazha\\-plitki\\-spb(?:/)?$"
     },
     {
       "page": "/reviews",
@@ -442,6 +490,12 @@
       "regex": "^/spb(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/spb(?:/)?$"
+    },
+    {
+      "page": "/yandex-market.xml",
+      "regex": "^/yandex\\-market\\.xml(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/yandex\\-market\\.xml(?:/)?$"
     }
   ],
   "dataRoutes": [],

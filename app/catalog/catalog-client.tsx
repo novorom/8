@@ -90,8 +90,8 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
         (p) =>
           p.name.toLowerCase().includes(query) ||
           (p.sku ?? "").toLowerCase().includes(query) ||
-          p.collection.toLowerCase().includes(query) ||
-          p.product_type.toLowerCase().includes(query)
+          (p.collection || "").toLowerCase().includes(query) ||
+          (p.product_type || "").toLowerCase().includes(query)
       )
     }
 
@@ -106,11 +106,24 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
           surface_types: "surface",
           collections: "collection",
           brands: "brand",
+          applications: "application",
         }
         const field = fieldMap[key]
-        if (!field) return true
+        if (!field && key !== "availability") return true
         const record = p as unknown as Record<string, unknown>
-        const productValue = record[field] as string
+        const productValue = field ? record[field] as string : ""
+
+        if (key === "availability") {
+          const s1 = record["stock_yanino"] as number || 0;
+          const s2 = record["stock_factory"] as number || 0;
+          const totalStock = s1 + s2;
+          const hasInStock = values.includes("В наличии на складе Янино");
+          const hasFactory = values.includes("На заводе (Под заказ)");
+          if (hasInStock && hasFactory) return true;
+          if (hasInStock) return totalStock > 0;
+          if (hasFactory) return totalStock === 0;
+          return true;
+        }
 
         // Нормализация: "Керамическая плитка" → "Плитка"
         const normalizedValues = values.map(v => v === "Керамическая плитка" ? "Плитка" : v === "Ступени" ? "Ступень" : v)

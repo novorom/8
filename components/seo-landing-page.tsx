@@ -15,7 +15,7 @@ import {
   Clock,
 } from "lucide-react"
 import type { SeoPageData } from "@/lib/seo-data"
-import { PHONE, PHONE_RAW } from "@/lib/seo-data"
+import { PHONE, PHONE_RAW, SITE_URL } from "@/lib/seo-data"
 
 const iconMap: Record<string, typeof MapPin> = {
   "Склад в Янино": MapPin,
@@ -51,8 +51,36 @@ function getIcon(title: string) {
 }
 
 export function SeoLandingPage({ data }: { data: SeoPageData }) {
+  const lowPrice = data.featuredProducts?.length ? Math.min(...data.featuredProducts.map(p => p.price)) : 410;
+  const highPrice = data.featuredProducts?.length ? Math.max(...data.featuredProducts.map(p => p.price)) : 4500;
+  const offerCount = data.featuredProducts?.length ? data.featuredProducts.length * 8 : 124;
+
+  const aggregateJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": data.h1,
+    "description": data.description,
+    "brand": {
+      "@type": "Brand",
+      "name": "Cersanit"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": `${SITE_URL}/${data.slug}`,
+      "priceCurrency": "RUB",
+      "lowPrice": lowPrice,
+      "highPrice": highPrice,
+      "offerCount": offerCount,
+      "availability": "https://schema.org/InStock"
+    }
+  };
+
   return (
     <div className="min-h-screen bg-background">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aggregateJsonLd) }}
+      />
       {/* Breadcrumbs */}
       <div className="bg-muted/50 border-b border-border">
         <div className="mx-auto max-w-7xl px-4 py-3">

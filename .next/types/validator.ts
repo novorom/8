@@ -344,6 +344,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
   type __Unused = __Check
 }
 
+// Validate ../../app/kafelnaya-plitka-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/kafelnaya-plitka-spb">> = Specific
+  const handler = {} as typeof import("../../app/kafelnaya-plitka-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../app/keramicheskaya-plitka-spb/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/keramicheskaya-plitka-spb">> = Specific
@@ -384,6 +393,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
 {
   type __IsExpected<Specific extends AppPageConfig<"/keramogranit-matovyy-spb">> = Specific
   const handler = {} as typeof import("../../app/keramogranit-matovyy-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/keramogranit-optom-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/keramogranit-optom-spb">> = Specific
+  const handler = {} as typeof import("../../app/keramogranit-optom-spb/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
@@ -434,6 +452,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
   type __Unused = __Check
 }
 
+// Validate ../../app/napolnaya-plitka-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/napolnaya-plitka-spb">> = Specific
+  const handler = {} as typeof import("../../app/napolnaya-plitka-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../app/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/">> = Specific
@@ -479,6 +506,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
   type __Unused = __Check
 }
 
+// Validate ../../app/plitka-dlya-fartuka-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/plitka-dlya-fartuka-spb">> = Specific
+  const handler = {} as typeof import("../../app/plitka-dlya-fartuka-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../app/plitka-dlya-kuhni-spb/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/plitka-dlya-kuhni-spb">> = Specific
@@ -510,6 +546,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
 {
   type __IsExpected<Specific extends AppPageConfig<"/plitka-dlya-vannoj-spb">> = Specific
   const handler = {} as typeof import("../../app/plitka-dlya-vannoj-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/plitka-monokolor-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/plitka-monokolor-spb">> = Specific
+  const handler = {} as typeof import("../../app/plitka-monokolor-spb/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
@@ -551,6 +596,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
   type __Unused = __Check
 }
 
+// Validate ../../app/plitka-pod-kirpich-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/plitka-pod-kirpich-spb">> = Specific
+  const handler = {} as typeof import("../../app/plitka-pod-kirpich-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../app/plitka-pod-mramor-spb/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/plitka-pod-mramor-spb">> = Specific
@@ -573,6 +627,15 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
 {
   type __IsExpected<Specific extends AppPageConfig<"/plitka-yanino-spb">> = Specific
   const handler = {} as typeof import("../../app/plitka-yanino-spb/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/rasprodazha-plitki-spb/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/rasprodazha-plitki-spb">> = Specific
+  const handler = {} as typeof import("../../app/rasprodazha-plitki-spb/page.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
@@ -609,6 +672,24 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
 {
   type __IsExpected<Specific extends RouteHandlerConfig<"/api/orders">> = Specific
   const handler = {} as typeof import("../../app/api/orders/route.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/llms.txt/route.ts
+{
+  type __IsExpected<Specific extends RouteHandlerConfig<"/llms.txt">> = Specific
+  const handler = {} as typeof import("../../app/llms.txt/route.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/yandex-market.xml/route.ts
+{
+  type __IsExpected<Specific extends RouteHandlerConfig<"/yandex-market.xml">> = Specific
+  const handler = {} as typeof import("../../app/yandex-market.xml/route.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check

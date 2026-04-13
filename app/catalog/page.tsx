@@ -4,8 +4,8 @@ import { products } from "@/lib/products-data"
 import type { Product } from "@/lib/products-data"
 
 export const metadata: Metadata = {
-  title: "Каталог плитки в СПб — Kerama Marazzi, Cersanit, Азори и другие бренды",
-  description: "Каталог керамической плитки и керамогранита в Санкт-Петербурге. Более 3000 позиций: Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика на складе в Янино. Доставка по СПб от 1 дня.",
+  title: "Каталог плитки в СПб — Цены, фото, купить недорого со склада",
+  description: "Огромный каталог керамической плитки и керамогранита в Санкт-Петербурге. Купить плитку недорого оптом и в розницу со склада в Янино. Цены, фото, наличие.",
   alternates: { canonical: "/catalog" },
   openGraph: {
     title: "Каталог плитки в СПб — 3000+ позиций на складе Янино",

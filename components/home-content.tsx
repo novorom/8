@@ -107,6 +107,39 @@ export function HomeContent() {
         </div>
       </section>
 
+      {/* SEO Categories / Popular requests */}
+      <section className="py-12 bg-background border-b border-border">
+        <div className="mx-auto max-w-7xl px-4">
+          <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-8">Часто ищут</h2>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+            {[
+              { title: "Плитка под кирпич", desc: "Хит для лофта", href: "/plitka-pod-kirpich-spb", bg: "bg-orange-500/10 text-orange-600" },
+              { title: "Плитка моноколор", desc: "Яркие акценты", href: "/plitka-monokolor-spb", bg: "bg-blue-500/10 text-blue-600" },
+              { title: "Плитка для фартука", desc: "Легкий уход", href: "/plitka-dlya-fartuka-spb", bg: "bg-emerald-500/10 text-emerald-600" },
+              { title: "Керамогранит оптом", desc: "Спеццены для бригад", href: "/keramogranit-optom-spb", bg: "bg-indigo-500/10 text-indigo-600" },
+              { title: "Кафельная плитка", desc: "Классика", href: "/kafelnaya-plitka-spb", bg: "bg-pink-500/10 text-pink-600" },
+              { title: "Напольная плитка", desc: "Толщина от 8мм", href: "/napolnaya-plitka-spb", bg: "bg-slate-500/10 text-slate-600" },
+              { title: "Распродажа", desc: "Скидки до 40%", href: "/rasprodazha-plitki-spb", bg: "bg-destructive/10 text-destructive" },
+              { title: "Плитка для ванной", desc: "Стойкая к влаге", href: "/plitka-dlya-vannoj-spb", bg: "bg-cyan-500/10 text-cyan-600" },
+            ].map((cat, i) => (
+              <Link
+                key={i}
+                href={cat.href}
+                className="group flex items-center justify-between p-4 rounded-xl border border-border bg-card hover:border-primary/40 hover:shadow-md transition-all"
+              >
+                <div>
+                  <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">{cat.title}</h3>
+                  <span className={`inline-block mt-1.5 px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider ${cat.bg}`}>
+                    {cat.desc}
+                  </span>
+                </div>
+                <ChevronRight className="h-5 w-5 text-muted-foreground group-hover:text-primary group-hover:translate-x-0.5 transition-all" />
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Popular products */}
       {(popularProducts.length > 0 || inStockProducts.length > 0) && (
         <section className="py-12 bg-background">

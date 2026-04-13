@@ -3,6 +3,7 @@ import { Inter } from "next/font/google"
 import "./globals.css"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
+import { FloatingWhatsApp } from "@/components/floating-whatsapp"
 import { CartProvider } from "@/lib/cart-context"
 import { ProductsProvider } from "@/lib/products-context"
 
@@ -54,7 +55,9 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Плитки СПб",
+  alternateName: ["Дом Плитки", "Plitki SPb", "Магазин плитки Cersanit"],
   url: SITE_URL,
+  logo: `${SITE_URL}/icon-512.png`,
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+7-905-205-09-00",
@@ -74,7 +77,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "@id": `${SITE_URL}/#localbusiness`,
   name: "Плитки СПб",
-  description: "Магазин керамической плитки в СПб. Склад в Янино. Kerama Marazzi, Cersanit, Азори и другие бренды.",
+  description: "Крупный магазин кафельной и керамической плитки, керамогранита в СПб. Оптом и в розницу. Склад в Янино. Доставка от 1 дня.",
   url: SITE_URL,
   telephone: "+7-905-205-09-00",
   email: "info@plitki-spb.ru",
@@ -138,6 +141,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <SiteHeader />
             <main className="min-h-screen">{children}</main>
             <SiteFooter />
+            <FloatingWhatsApp />
           </CartProvider>
         </ProductsProvider>
       </body>
