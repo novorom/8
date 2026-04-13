@@ -17,6 +17,7 @@ function getYtId(embedUrl: string): string {
 
 function optimizeImage(url: string | undefined | null, width = 900): string {
   if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  if (url.includes(".ru")) return url
   const clean = url.replace("https://", "").replace("http://", "")
   return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
 }
@@ -43,8 +44,11 @@ export function ProductGallery({ images = [], videoUrl, name }: ProductGalleryPr
   // Preload первой картинки — браузер начнёт загрузку сразу
   useEffect(() => {
     if (galleryImages[0] && galleryImages[0].startsWith("http")) {
-      const clean = galleryImages[0].replace("https://", "").replace("http://", "")
-      const preloadUrl = `https://images.weserv.nl/?url=${clean}&w=900&output=webp&q=80&il`
+      const url = galleryImages[0]
+      const preloadUrl = url.includes(".ru")
+        ? url
+        : `https://images.weserv.nl/?url=${url.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`
+      
       const link = document.createElement("link")
       link.rel = "preload"
       link.as = "image"

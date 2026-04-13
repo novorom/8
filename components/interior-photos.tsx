@@ -4,8 +4,9 @@ import { useState } from "react"
 import { ChevronLeft, ChevronRight, X, ZoomIn } from "lucide-react"
 
 // Прокси-CDN: WebP, кэш, в 3-5 раз легче
-function optimizeImage(url: string | undefined | null, width = 800): string {
+function optimizeImage(url: string | undefined | null, width = 600): string {
   if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
+  if (url.includes(".ru")) return url
   const clean = url.replace("https://", "").replace("http://", "")
   return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
 }

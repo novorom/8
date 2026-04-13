@@ -15,6 +15,8 @@ const PCS_TYPES = ["Мозаика", "Ступень", "Плинтус", "Вст
 // Прокси-CDN: бесплатный сервис, конвертирует в WebP, сжимает, кэширует
 function optimizeImage(url: string, width = 400): string {
   if (!url || url.startsWith("/")) return url
+  // Многие RU-домены (например, plitburg.ru) блокируют weserv.nl через DDOS-Guard
+  if (url.includes(".ru")) return url
   // Убираем https:// для weserv.nl
   const clean = url.replace(/^https?:\/\//, "")
   return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=75&il`
