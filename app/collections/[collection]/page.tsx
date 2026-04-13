@@ -234,8 +234,10 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
   }
 
   // Связанные коллекции
-  const relatedCollections = seo?.relatedSlugs
-    ? [...new Set(
+  let relatedCollections: string[] = []
+  
+  if (seo?.relatedSlugs && seo.relatedSlugs.length > 0) {
+    relatedCollections = [...new Set(
         products
           .filter(p => p.collection && p.collection !== collectionName)
           .map(p => p.collection as string)
@@ -243,7 +245,35 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
         const slug = name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "")
         return seo.relatedSlugs!.includes(slug)
       }).slice(0, 4)
-    : []
+  }
+
+  // Fallback: связанные по бренду или случайные
+  if (relatedCollections.length === 0) {
+    const allOtherCollections = [...new Set(
+      products
+        .filter(p => p.collection && p.collection !== collectionName && p.collection.toLowerCase() !== "other")
+        .map(p => p.collection as string)
+    )]
+
+    const sameBrand = allOtherCollections.filter(c => {
+      const p = products.find(prod => prod.collection === c)
+      return p?.brand === brandName
+    })
+
+    // Pseudo-random shuffle consistent for the current collection
+    const hash = collectionName.length + (collectionName.charCodeAt(0) || 0)
+    const shuffled = [...allOtherCollections].sort((a, b) => {
+      const hashA = a.length + (a.charCodeAt(0) || 0)
+      const hashB = b.length + (b.charCodeAt(0) || 0)
+      return ((hashA + hash) % 10) - ((hashB + hash) % 10)
+    })
+
+    if (sameBrand.length >= 4) {
+      relatedCollections = sameBrand.slice(0, 4)
+    } else {
+      relatedCollections = [...new Set([...sameBrand, ...shuffled])].slice(0, 4)
+    }
+  }
 
   return (
     <div className="bg-background min-h-screen">
