@@ -41,12 +41,17 @@ def extract_prices():
             for _, row in df.iterrows():
                 art = str(row[art_col]).strip()
                 price = row[price_col]
+                unit = str(row.get('ед. изм.', '')).strip().lower() if 'ед. изм.' in df.columns else ''
+                
                 if art and art != 'nan' and pd.notnull(price):
                     try:
                         # Convert to float and apply -12%
                         val = float(str(price).replace(' ', '').replace(',', '.'))
                         final_price = round(val * 0.88, 2)
-                        price_map[art] = final_price
+                        price_map[art] = {
+                            'price': final_price,
+                            'unit': 'шт' if 'шт' in unit else ('м2' if 'м2' in unit else None)
+                        }
                     except:
                         continue
     return price_map
@@ -61,19 +66,15 @@ def update_json(price_map):
     
     updated_count = 0
     # Data is expected to be a dict or list
-    if isinstance(data, dict):
-        for key, product in data.items():
-            # Check if product has an SKU/Article field
-            sku = product.get('sku') or product.get('article')
-            if sku in price_map:
-                product['price'] = price_map[sku]
-                updated_count += 1
-    elif isinstance(data, list):
-        for product in data:
-            sku = product.get('sku') or product.get('article')
-            if sku in price_map:
-                product['price'] = price_map[sku]
-                updated_count += 1
+    items = data if isinstance(data, list) else data.values()
+    
+    for product in items:
+        sku = product.get('sku') or product.get('article')
+        if sku in price_map:
+            product['price'] = price_map[sku]['price']
+            if price_map[sku]['unit']:
+                product['unit'] = price_map[sku]['unit']
+            updated_count += 1
                 
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
