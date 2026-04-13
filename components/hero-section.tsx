@@ -31,11 +31,19 @@ export function HeroSection() {
           <div className="flex flex-wrap gap-4">
             <Link
               href="/catalog"
-              className="inline-flex items-center justify-center rounded-lg bg-primary px-6 py-3.5 text-base font-semibold text-white shadow-sm hover:bg-primary/90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary transition-all"
+              className="inline-flex items-center justify-center rounded-lg bg-primary px-6 py-3.5 text-base font-semibold text-white shadow-sm hover:bg-primary/90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary transition-all animate-pulse"
             >
               Перейти в каталог
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
+            <a
+              href="https://wa.me/79052050900?text=Здравствуйте! Хочу заказать бесплатный 3D-дизайн проект ванной."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center rounded-lg bg-green-500 hover:bg-green-600 px-6 py-3.5 text-base font-semibold text-white shadow-sm transition-all"
+            >
+              🎁 Бесплатный 3D-дизайн
+            </a>
             <Link
               href="/collections"
               className="inline-flex items-center justify-center rounded-lg bg-white/10 px-6 py-3.5 text-base font-semibold text-white backdrop-blur-sm hover:bg-white/20 transition-all border border-white/20"
