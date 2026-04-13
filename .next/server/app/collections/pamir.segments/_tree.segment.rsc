@@ -1,9 +1,0 @@
-:HL["/_next/static/chunks/05ef9474534e47e1.css","style"]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/9c72aa0f40e4eef8-s.p.18a48cbc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["https://pvi.cersanit.ru/upload/uf/e09/3goavvf5pxgnhe4n44pb1swf703tf5eo/INT_Pamir_A17697_Sherbrooke_A17700_1_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/cb8/INT_Royal_stone_2_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/955/INT_Royal_Stone_OR_3_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/316/dyykitb1b45bpv87mxgamlfwafooqrup/INT_Travertino_A17422_1_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/b5e/639crfncpabl2o8n5m4gnbyiu8a3fata/INT_Stonehouse_A17880_1_1.jpg","image"]
-0:{"buildId":"0SiMd48LaXQc9_XQNs6N9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"collections","paramType":null,"paramKey":"collections","hasRuntimePrefetch":false,"slots":{"children":{"name":"collection","paramType":"d","paramKey":"pamir","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

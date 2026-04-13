@@ -1,9 +1,0 @@
-:HL["/_next/static/chunks/05ef9474534e47e1.css","style"]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/9c72aa0f40e4eef8-s.p.18a48cbc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["https://pvi.cersanit.ru/upload/uf/9f3/x8bwq7hqf3f8clho0ksl56c2s41jwor6/INT_Soft_Concrete_1_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/files/get/2/21834/29835/800/800/0/","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/dae/r77r7uymd6280hgejspvy0zgga4e171l/INT_Grigio_Nuovalato_1_1.jpg","image"]
-:HL["https://pvi.cersanit.ru/upload/uf/ab1/puxe64i7wec72wh15txsixmry33awi7n/INT_Cambio_A17426_1_1.jpg","image"]
-0:{"buildId":"0SiMd48LaXQc9_XQNs6N9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"collections","paramType":null,"paramKey":"collections","hasRuntimePrefetch":false,"slots":{"children":{"name":"collection","paramType":"d","paramKey":"soft-concrete","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
