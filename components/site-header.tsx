@@ -44,7 +44,9 @@ export function SiteHeader() {
       {/* Top bar */}
       <div className="bg-primary text-primary-foreground">
         <div className="mx-auto max-w-7xl px-4 flex items-center justify-between h-auto py-2.5 text-sm flex-wrap gap-3">
-          <span className="hidden sm:block">Kerama Marazzi, Cersanit, Азори — склад Янино, СПб</span>
+          <span className="hidden sm:inline-flex items-center gap-1.5 font-medium bg-white/20 px-3 py-1 rounded-full text-xs">
+            🔥 Распродажа до -20% на новые коллекции! Оптовикам скидки.
+          </span>
           <div className="flex items-center gap-4 flex-wrap">
             <a href="tel:+79052050900" className="flex items-center gap-1.5 hover:opacity-80 transition-opacity">
               <Phone className="h-3.5 w-3.5 shrink-0" />

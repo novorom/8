@@ -90,6 +90,14 @@ export function ProductPageClient({ slug }: { slug: string }) {
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "instant" })
   }, [slug])
+
+  const [showStickyBar, setShowStickyBar] = useState(false)
+  useEffect(() => {
+    const handleScroll = () => setShowStickyBar(window.scrollY > 600)
+    window.addEventListener("scroll", handleScroll, { passive: true })
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
   const [quantity, setQuantity] = useState(1)
   const [isFavorite, setIsFavorite] = useState(false)
 
@@ -645,6 +653,44 @@ export function ProductPageClient({ slug }: { slug: string }) {
         productPrice={product.price_retail}
         productSku={product.sku || product.id}
       />
+
+      {/* Sticky Buy Bar (Visible on scroll) */}
+      <div 
+        className={`fixed bottom-0 left-0 right-0 z-40 transform transition-transform duration-300 ease-in-out border-t border-border bg-background/95 backdrop-blur-md shadow-[0_-10px_40px_-15px_rgba(0,0,0,0.1)] px-4 py-3 ${
+          showStickyBar ? "translate-y-0" : "translate-y-full"
+        }`}
+      >
+        <div className="mx-auto max-w-7xl flex items-center justify-between gap-4">
+          <div className="hidden sm:flex items-center gap-4 flex-1 overflow-hidden">
+            {product.main_image && (
+              <img src={`https://images.weserv.nl/?url=${encodeURIComponent(product.main_image)}&w=50&h=50&fit=cover&output=webp`} alt="" className="h-10 w-10 rounded-md object-cover border border-border shrink-0" />
+            )}
+            <div className="flex flex-col truncate">
+              <span className="text-sm font-semibold truncate text-foreground">{product.name}</span>
+              <span className="text-xs text-muted-foreground">{product.price_retail.toLocaleString("ru-RU")} {priceUnit}</span>
+            </div>
+          </div>
+          <div className="flex items-center gap-3 w-full sm:w-auto">
+            <span className="text-lg font-bold text-foreground sm:hidden flex-1 shrink-0">
+              {product.price_retail.toLocaleString("ru-RU")} {priceUnit}
+            </span>
+            <button
+              onClick={() => setIsQuickBuyOpen(true)}
+              className="hidden md:inline-flex h-10 items-center justify-center rounded-xl border border-primary text-primary px-4 font-medium text-sm hover:bg-primary/5 transition-colors whitespace-nowrap"
+            >
+              В 1 клик
+            </button>
+            <button
+              onClick={handleAddToCart}
+              className="h-10 flex-1 sm:flex-none inline-flex items-center justify-center gap-2 rounded-xl bg-primary text-primary-foreground px-6 font-medium text-sm hover:bg-primary/90 transition-colors whitespace-nowrap"
+            >
+              <ShoppingCart className="h-4 w-4" />
+              <span className="hidden sm:inline">В корзину</span>
+              <span className="sm:hidden">В корзину</span>
+            </button>
+          </div>
+        </div>
+      </div>
     </>
   )
 }

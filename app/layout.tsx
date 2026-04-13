@@ -4,6 +4,7 @@ import "./globals.css"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
 import { FloatingWhatsApp } from "@/components/floating-whatsapp"
+import { ScrollToTop } from "@/components/scroll-to-top"
 import { CartProvider } from "@/lib/cart-context"
 import { ProductsProvider } from "@/lib/products-context"
 
@@ -142,6 +143,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <main className="min-h-screen">{children}</main>
             <SiteFooter />
             <FloatingWhatsApp />
+            <ScrollToTop />
           </CartProvider>
         </ProductsProvider>
       </body>
