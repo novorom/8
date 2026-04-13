@@ -9,8 +9,8 @@ import { getCollectionSeo } from "@/lib/collection-seo"
 function optimizeImage(url: string | undefined | null, width = 800): string {
   if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
   
-  // Многие RU-домены (plitburg, azori, cersanit) блокируют weserv.nl через Cloudflare/DDOS-Guard
-  if (url.includes(".ru")) {
+  // Многие RU-домены блокируют weserv, а Cloudinary в прокси не нуждается
+  if (url.includes(".ru") || url.includes("cloudinary.com")) {
     return url
   }
   

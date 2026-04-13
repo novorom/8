@@ -17,7 +17,7 @@ function getYtId(embedUrl: string): string {
 
 function optimizeImage(url: string | undefined | null, width = 900): string {
   if (!url || typeof url !== "string" || url.startsWith("/")) return url ?? ""
-  if (url.includes(".ru")) return url
+  if (url.includes(".ru") || url.includes("cloudinary.com")) return url
   const clean = url.replace("https://", "").replace("http://", "")
   return `https://images.weserv.nl/?url=${clean}&w=${width}&output=webp&q=80&il`
 }
@@ -45,7 +45,7 @@ export function ProductGallery({ images = [], videoUrl, name }: ProductGalleryPr
   useEffect(() => {
     if (galleryImages[0] && galleryImages[0].startsWith("http")) {
       const url = galleryImages[0]
-      const preloadUrl = url.includes(".ru")
+      const preloadUrl = url.includes(".ru") || url.includes("cloudinary.com")
         ? url
         : `https://images.weserv.nl/?url=${url.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`
       

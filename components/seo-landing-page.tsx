@@ -205,9 +205,9 @@ export function SeoLandingPage({ data }: { data: SeoPageData }) {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               {data.featuredProducts.map((p) => {
                 const prod = products.find((pr: { slug: string; main_image?: string }) => pr.slug === p.slug)
-                // Защита от блокировки DDOS-Guard для русских доменов (Plitburg, Cersanit)
+                // Защита от блокировки DDOS-Guard для русских доменов и 404 от Cloudinary
                 const imgSrc = prod?.main_image 
-                  ? (prod.main_image.includes(".ru") 
+                  ? (prod.main_image.includes(".ru") || prod.main_image.includes("cloudinary.com")
                       ? prod.main_image 
                       : `https://images.weserv.nl/?url=${encodeURIComponent(prod.main_image.replace(/^https?:\/\//, ""))}&w=400&output=webp&q=80`)
                   : null
