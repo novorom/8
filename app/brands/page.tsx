@@ -31,7 +31,7 @@ const brands = [
     description: "Российский производитель керамической плитки с богатой палитрой дизайнов. Стильные коллекции по доступным ценам.",
     count: "661+ позиций",
     color: "#0f766e",
-    logo: "http://www.azoriceramica.ru/images/logo.png",
+    logo: "https://azoriceramica.ru/local/templates/main/dist/images/logo.svg",
   },
   {
     slug: "nefrit-keramika",
@@ -39,7 +39,7 @@ const brands = [
     description: "Один из крупнейших отечественных производителей. Широкий выбор плитки для ванной, кухни и жилых помещений.",
     count: "200+ позиций",
     color: "#166534",
-    logo: "http://www.nefrit.ru/images/logo.png",
+    logo: "https://www.nefrit.ru/local/templates/nefrit/img/logo.svg",
   },
   {
     slug: "ural-granit",
@@ -55,7 +55,7 @@ const brands = [
     description: "Широкий ассортимент керамической плитки различных форматов и дизайнов для любых помещений.",
     count: "400+ позиций",
     color: "#b45309",
-    logo: "http://bonapart.pro/images/logo.png",
+    logo: "https://bonapart.pro/local/templates/bonn/images/logo.svg",
   },
   {
     slug: "gracia-keramika",

@@ -37,12 +37,12 @@ const homeFaq = [
 ]
 
 const BRANDS = [
-  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "425+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526445/plitki-spb/logos/kerama-marazzi.png" },
-  { name: "Азори", slug: "azori", desc: "1000+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526448/plitki-spb/logos/azori.png" },
-  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "914 позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526454/plitki-spb/logos/ural.jpg" },
-  { name: "Cersanit", slug: "cersanit", desc: "116+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526446/plitki-spb/logos/cersanit.png" },
-  { name: "Бонапарт", slug: "bonapart", desc: "400+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526455/plitki-spb/logos/bonapart.png" },
-  { name: "Элетто", slug: "eletto", desc: "233 позиции", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526450/plitki-spb/logos/eletto.png" },
+  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "425+ позиций", logo: "https://kerama-marazzi.com/template/img/logo.svg" },
+  { name: "Азори", slug: "azori", desc: "1000+ позиций", logo: "https://azoriceramica.ru/local/templates/main/dist/images/logo.svg" },
+  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "914 позиций", logo: "https://www.nefrit.ru/local/templates/nefrit/img/logo.svg" },
+  { name: "Cersanit", slug: "cersanit", desc: "116+ позиций", logo: "https://www.cersanit.ru/local/templates/main/img/logo.svg" },
+  { name: "Бонапарт", slug: "bonapart", desc: "400+ позиций", logo: "https://bonapart.pro/local/templates/bonn/images/logo.svg" },
+  { name: "Элетто", slug: "eletto", desc: "233 позиции", logo: "https://elettoceramica.ru/wp-content/themes/eletto/img/logo.svg" },
 ]
 
 export function HomeContent() {
