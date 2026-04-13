@@ -36,6 +36,7 @@ def extract_stock():
     for _, row in df.iterrows():
         art = str(row[art_col]).strip()
         avail = row[avail_col]
+        unit = str(row.get('Ед. изм.', '')).strip().lower() if 'Ед. изм.' in df.columns else ''
         
         if art and art != 'nan' and pd.notnull(avail):
             try:
@@ -43,7 +44,10 @@ def extract_stock():
                 val = float(str(avail).replace(' ', '').replace(',', '.'))
                 # We only care about available stock > 0
                 if val > 0:
-                    stock_map[art] = val
+                    stock_map[art] = {
+                        'val': val,
+                        'unit': 'шт' if 'шт' in unit else ('м2' if 'м2' in unit else None)
+                    }
             except:
                 continue
     return stock_map
@@ -62,7 +66,9 @@ def update_json(stock_map):
         nonlocal updated_count
         sku = product.get('sku') or product.get('article')
         if sku in stock_map:
-            product['stock'] = stock_map[sku]
+            product['stock'] = stock_map[sku]['val']
+            if stock_map[sku]['unit']:
+                product['unit'] = stock_map[sku]['unit']
             product['in_stock'] = True
             updated_count += 1
         else:
