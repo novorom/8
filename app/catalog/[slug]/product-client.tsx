@@ -21,6 +21,8 @@ import { ProductCard } from "@/components/product-card"
 import { useCart } from "@/lib/cart-context"
 import { useProducts } from "@/lib/products-context"
 import { QuickBuyModal } from "@/components/quick-buy-modal"
+import { TileCalculatorModal } from "@/components/tile-calculator-modal"
+import { Calculator } from "lucide-react"
 
 // Релевантные статьи блога для разных типов плитки
 const BLOG_LINKS_BY_TYPE: Record<string, Array<{slug: string, title: string, desc: string}>> = {
@@ -100,6 +102,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
 
   const [quantity, setQuantity] = useState(1)
   const [isFavorite, setIsFavorite] = useState(false)
+  const [isCalcOpen, setIsCalcOpen] = useState(false)
 
   const relatedProducts = useMemo(() => {
     const same = products.filter(p => p.collection === product.collection && p.slug !== product.slug)
@@ -394,6 +397,17 @@ export function ProductPageClient({ slug }: { slug: string }) {
               )}
             </div>
 
+            {/* 🔥 FOMO ТРИГГЕР: ОСТАЛОСЬ МАЛО */}
+            {totalStock > 0 && totalStock <= 30 && (
+              <div className="mt-2 flex items-center gap-2 p-2.5 rounded-lg bg-red-50 text-red-700 text-xs font-semibold animate-in fade-in zoom-in duration-300">
+                <span className="relative flex h-2.5 w-2.5 shrink-0">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-500 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-red-600"></span>
+                </span>
+                Заканчивается! Осталось всего {totalStock} м²
+              </div>
+            )}
+
             {/* Quantity + Add to cart */}
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
               <div className="flex items-center border border-border rounded-xl overflow-hidden bg-background">
@@ -443,6 +457,15 @@ export function ProductPageClient({ slug }: { slug: string }) {
                 />
               </button>
             </div>
+            
+            {/* Calculator Trigger */}
+            <button
+              onClick={() => setIsCalcOpen(true)}
+              className="flex items-center gap-2 text-sm text-primary hover:text-primary/80 transition-colors font-medium w-fit mt-1"
+            >
+              <Calculator className="h-4 w-4" />
+              Рассчитать количество
+            </button>
 
             {/* Купить в 1 клик */}
             <button
@@ -490,23 +513,37 @@ export function ProductPageClient({ slug }: { slug: string }) {
               waterAbs={product.water_abs}
             />
 
-            {/* Quick info */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-2">
-              {[
-                { icon: Truck, label: "Доставка", value: "от 1-2 дней" },
-                { icon: ShieldCheck, label: "Гарантия", value: "Сертификат" },
-              ].map((item) => (
-                <div
-                  key={item.label}
-                  className="flex items-center gap-3 p-3 rounded-xl bg-background border border-border"
-                >
-                  <item.icon className="h-5 w-5 text-primary shrink-0" />
-                  <div className="flex flex-col">
-                    <span className="text-xs text-muted-foreground">{item.label}</span>
-                    <span className="text-sm font-medium text-foreground">{item.value}</span>
-                  </div>
+            {/* ── СУПЕР-КОНВЕРСИОННЫЙ БЛОК (TRUST BADGES) ── */}
+            <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-3">
+              <div className="flex items-start gap-3 p-3.5 rounded-xl bg-orange-50 border border-orange-100 hover:shadow-sm transition-shadow">
+                <div className="mt-0.5 shrink-0 bg-orange-100 p-1.5 rounded-lg text-orange-600">
+                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
                 </div>
-              ))}
+                <div className="flex flex-col">
+                  <span className="text-sm font-semibold text-foreground">Нашли дешевле?</span>
+                  <span className="text-xs text-muted-foreground mt-0.5">Снизим цену и дадим скидку 5% от разницы!</span>
+                </div>
+              </div>
+              
+              <div className="flex items-start gap-3 p-3.5 rounded-xl bg-blue-50 border border-blue-100 hover:shadow-sm transition-shadow">
+                <div className="mt-0.5 shrink-0 bg-blue-100 p-1.5 rounded-lg text-blue-600">
+                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M2 12h4l3-9 5 18 3-9h5"/></svg>
+                </div>
+                <div className="flex flex-col">
+                  <span className="text-sm font-semibold text-foreground">Бесплатный 3D-дизайн</span>
+                  <span className="text-xs text-muted-foreground mt-0.5">Нарисуем проект вашей ванной комнаты.</span>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-3 p-3.5 rounded-xl bg-emerald-50 border border-emerald-100 hover:shadow-sm transition-shadow col-span-1 sm:col-span-2">
+                <div className="mt-0.5 shrink-0 bg-emerald-100 p-1.5 rounded-lg text-emerald-600">
+                  <ShieldCheck className="w-4 h-4" />
+                </div>
+                <div className="flex flex-col">
+                  <span className="text-sm font-semibold text-foreground">Гарантия возврата</span>
+                  <span className="text-xs text-muted-foreground mt-0.5">Принимаем излишки (целые коробки) в течение 14 дней. Весь товар сертифицирован.</span>
+                </div>
+              </div>
             </div>
           </div>
         </div>

@@ -66,7 +66,9 @@ export default async function ProductPage({
 
   const rawImage = product?.main_image || (product?.images && product.images[0])
   const preloadUrl = rawImage
-    ? `https://images.weserv.nl/?url=${rawImage.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`
+    ? (rawImage.includes(".ru") || rawImage.includes("cloudinary.com") 
+        ? rawImage 
+        : `https://images.weserv.nl/?url=${rawImage.replace("https://", "").replace("http://", "")}&w=900&output=webp&q=80&il`)
     : null
 
   return (
