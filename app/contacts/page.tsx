@@ -286,11 +286,12 @@ export default function ContactsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-card border border-border rounded-2xl p-8">
               <MapPin className="w-8 h-8 text-primary mb-4" />
-              <h3 className="text-xl font-semibold text-foreground mb-3">Отдел продаж</h3>
+              <h3 className="text-xl font-semibold text-foreground mb-3">Складской терминал</h3>
               <p className="text-muted-foreground mb-2">
-                Санкт-Петербург, Янино
+                СПб и Ленобласть, Янино-1 (рядом с КАД)
               </p>
               <p className="text-sm text-muted-foreground">
+                Прием заказов и отгрузка:<br />
                 Пн-Пт: с 10:00 до 16:45<br />
                 Сб-Вс: выходной
               </p>

@@ -15,7 +15,7 @@ export default function DeliveryPage() {
             Доставка и самовывоз
           </h1>
           <p className="text-lg text-muted-foreground">
-            Удобные варианты доставки плитки по России с гарантией качества
+            Доставка плитки по Санкт-Петербургу и всей Ленинградской области
           </p>
         </div>
 
@@ -51,7 +51,7 @@ export default function DeliveryPage() {
 
               <div>
                 <h3 className="font-semibold text-foreground mb-2">Где забрать</h3>
-                <p className="text-muted-foreground ml-0">Наш склад в Янино, Санкт-Петербург</p>
+                <p className="text-muted-foreground ml-0">Наш складской терминал в Янино (ЛО) — удобный пункт выдачи рядом с КАД</p>
               </div>
 
               <div className="bg-primary/5 border border-primary/20 rounded-lg p-4">

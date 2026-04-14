@@ -115,7 +115,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "brands/gracia-keramika",
     "brands/idalgo",
   ].map((path) => ({
-    url: `https://plitki-spb.ru/${path}`,
+    url: `${SITE_URL}/${path}`,
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: 0.8,

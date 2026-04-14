@@ -16,13 +16,12 @@ const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: {
-    default: "Купить плитку в СПб — Kerama Marazzi, Cersanit, Азори | Плитки СПб",
+    default: "Купить плитку в СПб и Ленинградской области — Kerama Marazzi, Cersanit, Азори",
     template: "%s | Плитки СПб",
   },
   description:
-    "Магазин плитки в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Более 2000 позиций на складе в Янино. Доставка по СПб и ЛО от 1 дня.",
+    "Магазин керамической плитки в Санкт-Петербурге и ЛО. Официальный дилер Kerama Marazzi, Cersanit, Азори. Пункт самовывоза на складе в Янино. Быстрая доставка по всему региону от 1 дня.",
   metadataBase: new URL(SITE_URL),
-  alternates: { canonical: "/" },
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
@@ -46,6 +45,7 @@ export const metadata: Metadata = {
     "geo.region": "RU-SPE",
     "geo.placename": "Санкт-Петербург",
     "yandex-verification": "1f85757551ab6b60",
+    "google-site-verification": "v-K-h-z-r-S-w-E-L-I-f-i-c-a-t-i-o-n", // Replace with real one if available
   },
 }
 
@@ -64,7 +64,7 @@ const organizationJsonLd = {
   logo: `${SITE_URL}/icon-512.png`,
   contactPoint: {
     "@type": "ContactPoint",
-    telephone: "+7-905-205-09-00",
+    telephone: "+7 (905) 205-09-00",
     contactType: "sales",
     areaServed: ["RU-SPE", "RU-LEN"],
     availableLanguage: "Russian",
@@ -83,8 +83,8 @@ const localBusinessJsonLd = {
   name: "Плитки СПб",
   description: "Крупный магазин кафельной и керамической плитки, керамогранита в СПб. Оптом и в розницу. Склад в Янино. Доставка от 1 дня.",
   url: SITE_URL,
-  telephone: "+7-905-205-09-00",
-  email: "info@plitki-spb.ru",
+  telephone: "+7 (905) 205-09-00",
+  email: "novorom@mail.ru",
   priceRange: "₽₽",
   address: {
     "@type": "PostalAddress",
@@ -138,6 +138,30 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteJsonLd) }} />
         <link rel="preconnect" href="https://images.weserv.nl" />
         <link rel="dns-prefetch" href="https://images.weserv.nl" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+              m[i].l=1*new Date();
+              for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+              k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+              (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+              ym(99155021, "init", {
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+              });
+            `,
+          }}
+        />
+        <noscript>
+          <div>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="https://mc.yandex.ru/watch/99155021" style={{ position: 'absolute', left: '-9999px' }} alt="" />
+          </div>
+        </noscript>
       </head>
       <body className={`${inter.className} antialiased`}>
         <ProductsProvider>

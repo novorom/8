@@ -15,7 +15,7 @@ const brands = [
     description: "Крупнейший российский производитель керамической плитки и керамогранита. Широкий ассортимент коллекций для любого интерьера.",
     count: "456+ позиций",
     color: "#c8102e",
-    logo: "/brands/kerama-marazzi.png",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png",
   },
   {
     slug: "cersanit",
@@ -23,7 +23,7 @@ const brands = [
     description: "Польский бренд с европейским качеством. Керамическая плитка и керамогранит для ванных комнат, кухонь и общественных пространств.",
     count: "116+ позиций",
     color: "#1e3a8a",
-    logo: "/brands/cersanit.png",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png",
   },
   {
     slug: "azori",
@@ -31,7 +31,7 @@ const brands = [
     description: "Российский производитель керамической плитки с богатой палитрой дизайнов. Стильные коллекции по доступным ценам.",
     count: "661+ позиций",
     color: "#0f766e",
-    logo: "/brands/azori.png",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png",
   },
   {
     slug: "nefrit-keramika",
@@ -39,7 +39,7 @@ const brands = [
     description: "Один из крупнейших отечественных производителей. Широкий выбор плитки для ванной, кухни и жилых помещений.",
     count: "200+ позиций",
     color: "#166534",
-    logo: "/brands/nefrit-keramika.jpg",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174050/brands/nefrit-keramika.jpg",
   },
   {
     slug: "ural-granit",
@@ -47,7 +47,7 @@ const brands = [
     description: "Российский керамогранит. Прочный, морозостойкий, подходит для улицы и промышленных помещений.",
     count: "300+ позиций",
     color: "#7c3aed",
-    logo: "/brands/ural-granit.jpg",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174051/brands/ural-granit.jpg",
   },
   {
     slug: "bonaparte",
@@ -55,7 +55,7 @@ const brands = [
     description: "Широкий ассортимент керамической плитки различных форматов и дизайнов для любых помещений.",
     count: "400+ позиций",
     color: "#b45309",
-    logo: "/brands/bonaparte.jpg",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174047/brands/bonaparte.png",
   },
   {
     slug: "gracia-keramika",
@@ -63,7 +63,7 @@ const brands = [
     description: "Доступная керамическая плитка российского производства. Большой выбор цветов и форматов.",
     count: "300+ позиций",
     color: "#0369a1",
-    logo: "/brands/gracia-keramika.png",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/gracia-keramika.png",
   },
   {
     slug: "idalgo",
@@ -71,7 +71,7 @@ const brands = [
     description: "Керамогранит и керамическая плитка. Современные дизайны под дерево, камень и бетон.",
     count: "100+ позиций",
     color: "#92400e",
-    logo: "/brands/idalgo.jpg",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/idalgo.jpg",
   },
 ]
 

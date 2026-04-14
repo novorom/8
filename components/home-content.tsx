@@ -25,9 +25,9 @@ const homeFaq = [
       "Доставка по СПб и Ленинградской области — от 1–2 рабочих дней. Самовывоз со склада Янино бесплатный в день оплаты. Стоимость доставки рассчитывается индивидуально.",
   },
   {
-    question: "Помогаете подобрать плитку под проект?",
+    question: "Помогаете подобрать плитку жителям области?",
     answer:
-      "Да, бесплатно рассчитаем нужное количество по размерам помещения и поможем подобрать коллекцию. Звоните +7 (905) 205-09-00 или пишите в Telegram @flyroman — ответим быстро.",
+      "Да, мы работаем со всем регионом. Бесплатно рассчитаем нужное количество по вашим размерам и поможем подобрать коллекцию удаленно (WhatsApp/Telegram). Склад в Янино удобно расположен для отгрузки в любой район СПб и ЛО.",
   },
   {
     question: "Работаете с юридическими лицами и строителями?",
@@ -37,11 +37,11 @@ const homeFaq = [
 ]
 
 const BRANDS = [
-  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "425+ позиций", logo: "https://kerama-marazzi.com/template/img/logo.svg" },
-  { name: "Азори", slug: "azori", desc: "1000+ позиций", logo: "https://azoriceramica.ru/local/templates/main/dist/images/logo.svg" },
-  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "914 позиций", logo: "https://www.nefrit.ru/local/templates/nefrit/img/logo.svg" },
-  { name: "Cersanit", slug: "cersanit", desc: "116+ позиций", logo: "https://www.cersanit.ru/local/templates/main/img/logo.svg" },
-  { name: "Бонапарт", slug: "bonapart", desc: "400+ позиций", logo: "https://bonapart.pro/local/templates/bonn/images/logo.svg" },
+  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "425+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png" },
+  { name: "Азори", slug: "azori", desc: "1000+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png" },
+  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "914 позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174050/brands/nefrit-keramika.jpg" },
+  { name: "Cersanit", slug: "cersanit", desc: "116+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png" },
+  { name: "Бонапарт", slug: "bonapart", desc: "400+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174047/brands/bonaparte.png" },
   { name: "Элетто", slug: "eletto", desc: "233 позиции", logo: "https://elettoceramica.ru/wp-content/themes/eletto/img/logo.svg" },
 ]
 
@@ -62,7 +62,7 @@ export function HomeContent() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm text-muted-foreground">
             <div className="flex items-center gap-2">
               <Truck className="h-4 w-4 text-primary shrink-0" />
-              <span>Доставка по СПб от 1 дня</span>
+              <span>Доставка по СПб и ЛО от 1 дня</span>
             </div>
             <div className="flex items-center gap-2">
               <ShieldCheck className="h-4 w-4 text-primary shrink-0" />
@@ -158,6 +158,66 @@ export function HomeContent() {
           </div>
         </section>
       )}
+
+      {/* Free 3D Design Promo */}
+      <section className="py-16 bg-slate-900 border-y border-white/5 text-white overflow-hidden relative">
+        <div className="absolute top-0 right-0 w-1/3 h-full bg-primary/20 blur-3xl rounded-full translate-x-1/2 -translate-y-1/2" />
+        <div className="mx-auto max-w-7xl px-4 relative flex flex-col lg:flex-row items-center gap-12">
+          <div className="flex-1 text-center lg:text-left">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/20 text-primary text-[10px] font-bold uppercase tracking-widest mb-6">
+              Спецпредложение
+            </div>
+            <h2 className="text-3xl lg:text-4xl xl:text-5xl font-bold mb-6 !leading-tight">
+              Бесплатный 3D-проект <br className="hidden xl:block" /> вашего интерьера
+            </h2>
+            <p className="text-slate-400 text-lg mb-8 leading-relaxed max-w-xl mx-auto lg:mx-0">
+              Наши дизайнеры создадут фотореалистичный проект вашей ванной или кухни с учетом всех размеров и выбранной плитки. Это бесплатно и ни к чему вас не обязывает.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10 text-left max-w-md mx-auto lg:mx-0">
+              <div className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/10 text-sm">
+                <ShieldCheck className="h-5 w-5 text-primary shrink-0" />
+                <span>Точный расчет количества коробок</span>
+              </div>
+              <div className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/10 text-sm">
+                <ShieldCheck className="h-5 w-5 text-primary shrink-0" />
+                <span>Раскладка декора и бордюров</span>
+              </div>
+              <div className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/10 text-sm">
+                <ShieldCheck className="h-5 w-5 text-primary shrink-0" />
+                <span>Вид сверху и 4 развертки стен</span>
+              </div>
+              <div className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/10 text-sm">
+                <ShieldCheck className="h-5 w-5 text-primary shrink-0" />
+                <span>PDF-проект для мастера</span>
+              </div>
+            </div>
+            <a
+              href="https://wa.me/79052050900?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%AF%20%D1%85%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%203D%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82."
+              className="inline-flex items-center gap-3 px-10 py-5 rounded-2xl bg-primary text-white font-bold text-lg hover:bg-primary/90 transition-all shadow-xl shadow-primary/20 transform hover:-translate-y-1"
+            >
+              Получить 3D проект в WhatsApp
+              <ChevronRight className="h-6 w-6" />
+            </a>
+          </div>
+          <div className="flex-1 w-full max-w-2xl">
+            <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-slate-800 aspect-[4/3]">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="https://images.weserv.nl/?url=https://www.cersanit.ru/upload/iblock/c04/c04961553f1f3e098670da15c6020556.jpg&w=1000&q=80" alt="Example 3D Project" className="object-cover w-full h-full opacity-80" />
+              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-900 via-slate-900/40 to-transparent p-8">
+                <div className="flex items-center justify-between">
+                  <div>
+                    <p className="text-primary font-bold text-sm uppercase mb-1">Реальный проект</p>
+                    <p className="text-xl font-bold">Ванная в ЖК "Ясно-Янино"</p>
+                  </div>
+                  <div className="px-4 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold">
+                    14.5 м² стены
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* FAQ */}
       <section className="py-12 bg-muted/30">

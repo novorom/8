@@ -279,6 +279,53 @@ export function SeoLandingPage({ data }: { data: SeoPageData }) {
         </section>
       )}
 
+      {/* Free 3D Design Promo */}
+      <section className="py-12 lg:py-16 bg-gradient-to-br from-slate-900 to-slate-800 text-white overflow-hidden relative">
+        <div className="absolute top-0 right-0 w-1/3 h-full bg-primary/10 blur-3xl rounded-full translate-x-1/2 -translate-y-1/2" />
+        <div className="mx-auto max-w-7xl px-4 relative flex flex-col lg:flex-row items-center gap-10">
+          <div className="flex-1">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/20 text-primary text-xs font-bold uppercase tracking-wider mb-4">
+              Акция месяца
+            </div>
+            <h2 className="text-3xl lg:text-4xl font-bold mb-4">Бесплатный 3D-проект вашей ванной</h2>
+            <p className="text-slate-300 text-lg mb-8 leading-relaxed">
+              Не знаете, как плитка будет смотреться в вашем интерьере? Наши дизайнеры бесплатно составят 3D-визуализацию по вашим размерам. Вы увидите результат еще до покупки!
+            </p>
+            <ul className="space-y-3 mb-8">
+              <li className="flex items-center gap-3 text-sm text-slate-200">
+                <ShieldCheck className="h-5 w-5 text-primary" />
+                Раскладка плитки с учетом всех подрезок
+              </li>
+              <li className="flex items-center gap-3 text-sm text-slate-200">
+                <ShieldCheck className="h-5 w-5 text-primary" />
+                Точный расчет необходимого количества коробок
+              </li>
+              <li className="flex items-center gap-3 text-sm text-slate-200">
+                <ShieldCheck className="h-5 w-5 text-primary" />
+                Визуализация в реальном освещении
+              </li>
+            </ul>
+            <a
+              href={`https://wa.me/${PHONE_RAW.replace("+", "")}?text=${encodeURIComponent("Здравствуйте! Хочу заказать бесплатный 3D проект плитки.")}`}
+              className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-primary text-white font-bold hover:bg-primary/90 transition-all transform hover:scale-105"
+            >
+              Заказать 3D проект бесплатно
+              <ChevronRight className="h-5 w-5" />
+            </a>
+          </div>
+          <div className="flex-1 relative aspect-video lg:aspect-square w-full max-w-md rounded-2xl overflow-hidden shadow-2xl border border-white/10">
+             {/* eslint-disable-next-line @next/next/no-img-element */}
+             <img src="https://images.weserv.nl/?url=https://www.cersanit.ru/upload/iblock/5b1/5b1f8ef25e0e0e0e0e0e0e0e0e0e0e0e.jpg&w=800&q=80" alt="3D Project Example" className="object-cover w-full h-full opacity-60" />
+             <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 to-transparent flex items-end p-6">
+                <div>
+                  <p className="text-xs text-primary font-bold uppercase mb-1">Пример проекта</p>
+                  <p className="font-semibold">Коллекция Calacatta в интерьере</p>
+                </div>
+             </div>
+          </div>
+        </div>
+      </section>
+
       {/* FAQ */}
       <section className="py-12 lg:py-16 bg-muted/30">
         <div className="mx-auto max-w-7xl px-4">

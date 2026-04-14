@@ -2,8 +2,8 @@ import Link from 'next/link'
 import { ExternalLink, Award, MapPin, Package } from 'lucide-react'
 
 export const metadata = {
-  title: 'О компании Плитки СПб — многобрендовый магазин плитки в Санкт-Петербурге',
-  description: 'Многобрендовый магазин плитки в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика и другие бренды. Склад и шоурум в Янино. Работаем с 2006 года.',
+  title: 'О компании Плитки СПб — поставщик плитки в Санкт-Петербурге и ЛО',
+  description: 'Крупнейший региональный поставщик плитки в Санкт-Петербурге и Ленинградской области. Kerama Marazzi, Cersanit, Азори и другие бренды. Логистический хаб в Янино.',
   alternates: { canonical: '/about' },
   openGraph: {
     title: 'О компании Плитки СПб — магазин плитки в Санкт-Петербурге',
@@ -43,7 +43,7 @@ export default function AboutPage() {
         <div className="container max-w-6xl mx-auto px-4">
           <div className="max-w-3xl">
             <h1 className="text-4xl lg:text-5xl font-bold text-foreground mb-6">
-              Плитки СПб — ваш магазин плитки в Санкт-Петербурге
+              Плитки СПб — ваш надежный поставщик в Санкт-Петербурге и Ленобласти
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
               С 2006 года работаем в B2B-продажах плитки, с 2011 года — розничный магазин. Предлагаем более 3000 позиций от ведущих брендов на складе в Янино.
@@ -146,7 +146,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl lg:text-4xl font-bold text-foreground mb-8">
-                Склад и шоурум в Янино
+                Складской хаб в Янино (СПб и ЛО)
               </h2>
               <div className="space-y-6">
                 <div className="flex gap-4">
@@ -154,7 +154,7 @@ export default function AboutPage() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Местоположение</h3>
                     <p className="text-muted-foreground">
-                      Большой склад и просторный шоурум находятся в Янино, что позволяет нам предложить вам удобный самовывоз и быструю доставку.
+                      Наш складской терминал находится в Янино, что позволяет нам предложить вам удобный самовывоз и быструю доставку по всему региону.
                     </p>
                   </div>
                 </div>

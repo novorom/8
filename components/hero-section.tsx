@@ -19,14 +19,15 @@ export function HeroSection() {
       <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="max-w-2xl">
           <div className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary ring-1 ring-inset ring-primary/20 mb-6">
-            Склад в Янино — отгрузка в день заказа
+            Склад и выдача: Янино (рядом с КАД)
           </div>
-          <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl mb-6">
-            Керамическая плитка и керамогранит <span className="text-primary">в Санкт-Петербурге</span>
+          <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl mb-6 leading-tight">
+            Плитка в Санкт-Петербурге <br className="hidden sm:block" />
+            <span className="text-primary text-3xl sm:text-5xl">и Ленинградской области</span>
           </h1>
           <p className="text-lg leading-8 text-slate-300 mb-10">
             Официальный дилер ведущих брендов: Kerama Marazzi, Cersanit, Azori. 
-            Более 5000 позиций в наличии. Честные цены и быстрая доставка по СПб и Ленобласти.
+            Более 5000 позиций в наличии. Честные цены и быстрая доставка по всему региону.
           </p>
           <div className="flex flex-wrap gap-4">
             <Link
