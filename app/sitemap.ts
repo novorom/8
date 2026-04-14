@@ -155,7 +155,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }
     })
 
-  return [...staticPages, ...seoPages, ...collectionPages, ...productPages]
+  return [...staticPages, ...seoPages, ...brandPages, ...collectionPages, ...productPages]
 }
 
 // NOTE: brands pages are added automatically via the brands array above

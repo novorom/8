@@ -8,9 +8,33 @@ import { ChevronLeft, Trash2, Plus, Minus } from 'lucide-react'
 import { useCart } from '@/lib/cart-context'
 import { CheckoutModal, type OrderData } from '@/components/checkout-modal'
 
+const UPSELL_ITEMS = [
+  {
+    id: "upsell-1",
+    name: "Клей плиточный усиленный (25 кг)",
+    price: 650,
+    unit: "шт",
+    image: "https://plitburg.ru/image/cache/catalog/klej/litokol/kley-litokol-litoflex-k80-belyy-25-kg_5587788-228x228.jpg"
+  },
+  {
+    id: "upsell-2",
+    name: "Система выравнивания плитки (100 зажимов)",
+    price: 350,
+    unit: "уп",
+    image: "https://plitburg.ru/image/cache/catalog/svp/svp-3d-krestiki-osnova-15mm-500-sht-zazhim_10777594-228x228.png"
+  },
+  {
+    id: "upsell-3",
+    name: "Затирка цементная влагостойкая (2 кг)",
+    price: 450,
+    unit: "шт",
+    image: "https://plitburg.ru/image/cache/catalog/zatirki/kiilto/zatirka-cementnaya-kiilto-saumalaasti-20-40-chernyy-3-kg_5587841-228x228.jpg"
+  }
+]
+
 export default function CartPage() {
   const router = useRouter()
-  const { items, removeItem, updateQuantity, clearCart, total } = useCart()
+  const { items, addItem, removeItem, updateQuantity, clearCart, total } = useCart()
   const [isCheckoutOpen, setIsCheckoutOpen] = useState(false)
 
   const generateWhatsAppCartLink = () => {
@@ -154,6 +178,56 @@ export default function CartPage() {
                     </div>
                   </div>
                 ))}
+              </div>
+            </div>
+
+            {/* UPSELL / CROSS-SELL SECTION: INCREASES AOV (AVERAGE ORDER VALUE) */}
+            <div className="mt-8 bg-background rounded-2xl border border-border p-6 shadow-sm">
+              <h2 className="text-xl font-bold text-foreground mb-4">Не забудьте добавить к заказу:</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                {UPSELL_ITEMS.map((upsell) => {
+                  const inCart = items.find(i => i.id === upsell.id)
+                  return (
+                    <div key={upsell.id} className="border border-border rounded-xl p-4 flex flex-col gap-3 hover:border-primary/50 transition-colors bg-muted/10">
+                      <div className="relative h-24 w-full rounded-lg bg-white overflow-hidden mix-blend-multiply">
+                        <Image
+                          src={upsell.image}
+                          alt={upsell.name}
+                          fill
+                          className="object-contain p-2"
+                        />
+                      </div>
+                      <div className="flex-1">
+                        <h3 className="text-sm font-medium leading-snug line-clamp-2">{upsell.name}</h3>
+                        <p className="text-primary font-bold mt-1">{upsell.price} ₽ / {upsell.unit}</p>
+                      </div>
+                      {inCart ? (
+                        <div className="flex items-center justify-between border border-primary/20 bg-primary/5 rounded-lg p-1 mt-auto">
+                          <button
+                            onClick={() => updateQuantity(upsell.id, inCart.quantity - 1)}
+                            className="h-8 w-8 flex items-center justify-center text-primary hover:bg-primary/10 rounded-md"
+                          >
+                            <Minus className="h-4 w-4" />
+                          </button>
+                          <span className="text-sm font-medium text-primary">{inCart.quantity}</span>
+                          <button
+                            onClick={() => updateQuantity(upsell.id, inCart.quantity + 1)}
+                            className="h-8 w-8 flex items-center justify-center text-primary hover:bg-primary/10 rounded-md"
+                          >
+                            <Plus className="h-4 w-4" />
+                          </button>
+                        </div>
+                      ) : (
+                        <button
+                          onClick={() => addItem({ id: upsell.id, name: upsell.name, price: upsell.price, quantity: 1, image: upsell.image })}
+                          className="h-10 w-full bg-primary/10 text-primary font-medium rounded-lg hover:bg-primary hover:text-primary-foreground transition-colors mt-auto text-sm"
+                        >
+                          В корзину
+                        </button>
+                      )}
+                    </div>
+                  )
+                })}
               </div>
             </div>
           </div>
