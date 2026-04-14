@@ -62,7 +62,7 @@ export function SeoLandingPage({ data }: { data: SeoPageData }) {
     "description": data.description,
     "brand": {
       "@type": "Brand",
-      "name": "Cersanit"
+      "name": "Плитки СПб"
     },
     "offers": {
       "@type": "AggregateOffer",
