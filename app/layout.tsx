@@ -43,6 +43,7 @@ export const metadata: Metadata = {
   other: {
     "geo.region": "RU-SPE",
     "geo.placename": "Санкт-Петербург",
+    "yandex-verification": "1f85757551ab6b60",
   },
 }
 

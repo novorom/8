@@ -24,6 +24,21 @@ export async function GET() {
     <offers>
 `;
 
+  const escapeXml = (unsafe: string | undefined | null) => {
+    if (!unsafe) return "";
+    return String(unsafe).replace(/[<>&'"]/g, (c) => {
+      switch (c) {
+        case '<': return '&lt;';
+        case '>': return '&gt;';
+        case '&': return '&amp;';
+        case '\'': return '&apos;';
+        case '"': return '&quot;';
+        default: return c;
+      }
+    });
+  };
+
+
   const offers = products.filter(p => p.price_retail > 0).map((product) => {
     let categoryId = "5"
     if (product.product_type?.toLowerCase().includes("гранит")) categoryId = "2"
@@ -32,22 +47,22 @@ export async function GET() {
     else if (product.product_type?.toLowerCase().includes("ступень")) categoryId = "4"
 
     const rawImage = product.main_image || (product.images && product.images[0])
-    const picture = rawImage ? `\n        <picture>${rawImage}</picture>` : ""
+    const picture = rawImage ? `\n        <picture>${escapeXml(rawImage)}</picture>` : ""
     const oldPrice = product.price_official && product.price_official > product.price_retail 
       ? `\n        <oldprice>${product.price_official}</oldprice>` : ""
     const stock = (product.stock_yanino || 0) + (product.stock_factory || 0)
     const available = stock > 0 ? "true" : "false"
 
-    return `      <offer id="${product.id}" available="${available}">
-        <url>${SITE_URL}/catalog/${product.slug || product.id}</url>
+    return `      <offer id="${escapeXml(product.id)}" available="${available}">
+        <url>${escapeXml(`${SITE_URL}/catalog/${product.slug || product.id}`)}</url>
         <price>${product.price_retail}</price>${oldPrice}
         <currencyId>RUB</currencyId>
         <categoryId>${categoryId}</categoryId>${picture}
         <store>true</store>
         <pickup>true</pickup>
         <delivery>true</delivery>
-        <name>${product.name}</name>
-        <vendor>${product.brand || "Cersanit"}</vendor>
+        <name>${escapeXml(product.name)}</name>
+        <vendor>${escapeXml(product.brand || "Cersanit")}</vendor>
         <description><![CDATA[${product.name} коллекции ${product.collection || ""} формата ${product.format || ""}. ${stock > 0 ? "В наличии на складе в Янино." : ""}]]></description>
       </offer>`
   }).join("\n");
