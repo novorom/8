@@ -126,16 +126,40 @@ export default function AboutPage() {
             {manufacturers.map((manufacturer, index) => (
               <div
                 key={index}
-                className="bg-card border border-border rounded-xl p-6 hover:shadow-md transition-shadow"
+                className="bg-card border border-border rounded-xl p-6 hover:shadow-md hover:border-primary/40 transition-all group"
               >
-                <h3 className="font-semibold text-foreground mb-2">
-                  {manufacturer.name}
-                </h3>
+                <div className="flex justify-between items-start mb-2">
+                  <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">
+                    {manufacturer.name}
+                  </h3>
+                  <span className="text-[10px] bg-primary/10 text-primary px-2 py-0.5 rounded uppercase font-bold">Dealer</span>
+                </div>
                 <p className="text-sm text-muted-foreground">
-                  {manufacturer.country}
+                  {manufacturer.country} — официальные поставки
                 </p>
               </div>
             ))}
+          </div>
+
+          <div className="mt-12 p-8 rounded-2xl bg-slate-50 border border-slate-200 flex flex-col items-center text-center">
+             <h3 className="text-xl font-bold text-slate-900 mb-4">Наши финансовые партнеры</h3>
+             <div className="flex flex-wrap justify-center gap-8 grayscale opacity-60">
+                <div className="flex flex-col items-center">
+                   <div className="h-12 w-32 bg-slate-200 rounded flex items-center justify-center font-black text-slate-400">SBERBANK</div>
+                   <span className="text-[10px] mt-2 font-bold uppercase tracking-widest text-slate-500">Рассрочка</span>
+                </div>
+                <div className="flex flex-col items-center">
+                   <div className="h-12 w-32 bg-slate-200 rounded flex items-center justify-center font-black text-slate-400">TINKOFF</div>
+                   <span className="text-[10px] mt-2 font-bold uppercase tracking-widest text-slate-500">Кредитование</span>
+                </div>
+                <div className="flex flex-col items-center">
+                   <div className="h-12 w-32 bg-slate-200 rounded flex items-center justify-center font-black text-slate-400">HALVA</div>
+                   <span className="text-[10px] mt-2 font-bold uppercase tracking-widest text-slate-500">Карта Совесть</span>
+                </div>
+             </div>
+             <p className="mt-6 text-sm text-slate-500 max-w-lg">
+                Мы сотрудничаем с ведущими банками России, чтобы вы могли начать ремонт уже сегодня, не откладывая его на потом.
+             </p>
           </div>
         </div>
       </section>

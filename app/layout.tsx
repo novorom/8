@@ -59,7 +59,7 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Плитки СПб",
-  alternateName: ["Дом Плитки", "Plitki SPb", "Магазин плитки Cersanit"],
+  alternateName: ["Плитки СПб", "Plitki SPb", "Магазин плитки Cersanit"],
   url: SITE_URL,
   logo: `${SITE_URL}/icon-512.png`,
   contactPoint: {

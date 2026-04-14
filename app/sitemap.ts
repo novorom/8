@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next"
 import { products } from "@/lib/products-data"
+import { seoPages } from "@/lib/seo-data"
 
 const SITE_URL = "https://plitki-spb.ru"
 
@@ -19,63 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ]
 
   // SEO landing pages
-  const seoPages: MetadataRoute.Sitemap = [
-    "spb",
-    "keramicheskaya-plitka-spb",
-    "keramogranit-spb",
-    "plitka-dlya-vannoj-spb",
-    "mozaika-spb",
-    "dostavka-plitki-spb",
-    "magazin-plitki-spb",
-    "plitka-pod-derevo-spb",
-    "plitka-pod-mramor-spb",
-    "plitka-pod-beton-spb",
-    "plitka-pod-kamen-spb",
-    "plitka-dlya-kuhni-spb",
-    "plitka-dlya-prihozhej-spb",
-    "plitka-dlya-balkona-spb",
-    "keramogranit-60x120-spb",
-    "keramogranit-60x60-spb",
-    "plitka-30x60-spb",
-    "blog",
-    "blog/kak-ukladyvat-plitku",
-    "blog/kak-ukladyvat-mozaiku",
-    "blog/rekomendatsii-po-zatirke",
-    "blog/sertifikaty-kachestva",
-    "keramogranit-pod-derevo-spb",
-    "keramogranit-pod-mramor-spb",
-    "downloads",
-    "faq",
-    "blog/kak-vybrat-plitku-dlya-vannoj",
-    "blog/skolko-plitki-nuzhno-kupit",
-    "blog/keramogranit-ili-laminat",
-    "blog/formaty-plitki",
-    "blog/plitka-dlya-kuhni-kak-vybrat",
-    "blog/kak-uhazhivat-za-keramogranitom",
-    "blog/kak-rezat-keramogranit",
-    "blog/trendy-plitki-2025",
-    "blog/keramogranit-dlya-balkona-i-terraisy",
-    "blog/plitka-pod-mramor-v-interere",
-    "blog/kak-sozdat-dizajn-vannoj-v-stile-loft",
-    "blog/kerama-marazzi-kollektsii",
-    "blog/azori-plitka-obzor",
-    "blog/nefrit-keramika-obzor",
-    "plitka-seraya-spb",
-    "plitka-belaya-spb",
-    "keramogranit-matovyy-spb",
-    "plitka-dlya-dushi-spb",
-    "plitka-nastennaya-spb",
-    "keramogranit-45x90-spb",
-    "plitka-dlya-ofisa-spb",
-    "plitka-yanino-spb",
-    "kafelnaya-plitka-spb",
-    "plitka-dlya-fartuka-spb",
-    "rasprodazha-plitki-spb",
-    "keramogranit-optom-spb",
-    "napolnaya-plitka-spb",
-    "plitka-pod-kirpich-spb",
-    "plitka-monokolor-spb",
-  ].map((slug) => ({
+  const seoPagesList: MetadataRoute.Sitemap = Object.keys(seoPages).map((slug) => ({
     url: `${SITE_URL}/${slug}`,
     lastModified: now,
     changeFrequency: "weekly" as const,
@@ -155,7 +100,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }
     })
 
-  return [...staticPages, ...seoPages, ...brandPages, ...collectionPages, ...productPages]
+  return [...staticPages, ...seoPagesList, ...brandPages, ...collectionPages, ...productPages]
 }
 
 // NOTE: brands pages are added automatically via the brands array above

@@ -111,9 +111,13 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
 
       {/* Info */}
       <div className="flex flex-col gap-1.5 p-3.5">
-        <span className="text-[11px] text-muted-foreground uppercase tracking-wide">
-          {product.collection} / {product.format}
-        </span>
+        <Link 
+          href={`/catalog?collection=${product.collection?.toLowerCase().replace(/\s+/g, "-")}`}
+          className="text-[10px] text-primary font-black uppercase tracking-widest hover:underline mb-0.5"
+          onClick={(e) => e.stopPropagation()}
+        >
+          Коллекция {product.collection}
+        </Link>
         <h3 className="text-sm font-medium text-foreground leading-snug line-clamp-2 group-hover:text-primary transition-colors">
           {product.name}
         </h3>
@@ -127,9 +131,14 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
             </span>
           )}
         </div>
-        <span className="text-xs text-muted-foreground mt-0.5">
-          {product.surface} / {product.color}
-        </span>
+        <div className="flex flex-wrap gap-x-2 gap-y-1 mt-1">
+          <span className="text-[10px] text-muted-foreground px-1.5 py-0.5 rounded bg-muted/50 border border-border/50">
+            {product.format}
+          </span>
+          <span className="text-[10px] text-muted-foreground px-1.5 py-0.5 rounded bg-muted/50 border border-border/50">
+            {product.surface}
+          </span>
+        </div>
       </div>
     </Link>
       

@@ -158,6 +158,83 @@ export function HomeContent() {
           </div>
         </section>
       )}
+      {/* ── НАШИ ПРОЕКТЫ (SOCIAL PROOF) ── */}
+      <section className="py-20 bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4">
+          <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+            <div className="max-w-2xl">
+              <h2 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl mb-4">
+                Реализованные проекты
+              </h2>
+              <p className="text-lg text-muted-foreground">
+                Посмотрите, как наша плитка и керамогранит выглядят в реальных интерьерах. Мы помогли обустроить более 1500 объектов в Санкт-Петербурге и ЛО.
+              </p>
+            </div>
+            <Link href="/catalog" className="text-primary font-bold hover:underline">
+              Смотреть весь каталог →
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              { 
+                title: "Ванная комната в ЖК «Приморский Квартал»", 
+                image: "https://pvi.cersanit.ru/upload/uf/b00/Int_Calacatta_2.jpg", 
+                collection: "Calacatta", 
+                tags: ["Мрамор", "Классика"] 
+              },
+              { 
+                title: "Современная кухня в Мурино", 
+                image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg", 
+                collection: "Lofthouse", 
+                tags: ["Бетон", "Лофт"] 
+              },
+              { 
+                title: "Терраса загородного дома в Вырице", 
+                image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg", 
+                collection: "Wood Concept", 
+                tags: ["Дерево", "Улица"] 
+              }
+            ].map((project, idx) => (
+              <div key={idx} className="group relative overflow-hidden rounded-3xl bg-background border border-border hover:shadow-2xl transition-all duration-500">
+                <div className="aspect-[4/3] overflow-hidden">
+                  <img 
+                    src={project.image} 
+                    alt={project.title} 
+                    className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                  />
+                </div>
+                <div className="p-6">
+                  <div className="flex flex-wrap gap-2 mb-3">
+                    {project.tags.map(tag => (
+                      <span key={tag} className="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-[10px] font-bold uppercase tracking-wider">
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
+                  <h3 className="text-lg font-bold text-foreground mb-2 leading-tight">{project.title}</h3>
+                  <p className="text-sm text-muted-foreground">Использована коллекция: <span className="font-semibold text-foreground">{project.collection}</span></p>
+                </div>
+              </div>
+            ))}
+          </div>
+          
+          <div className="mt-12 p-8 rounded-3xl bg-primary/5 border border-primary/10 flex flex-col md:flex-row items-center justify-between gap-8 text-center md:text-left">
+            <div>
+              <h4 className="text-xl font-bold text-foreground mb-2">Хотите такой же дизайн?</h4>
+              <p className="text-muted-foreground">Нарисуем бесплатный 3D-проект вашей ванной комнаты прямо сейчас.</p>
+            </div>
+            <a 
+              href="https://wa.me/79052050900?text=Здравствуйте! Хочу бесплатный 3D проект по мотивам ваших работ."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-4 bg-primary text-primary-foreground rounded-2xl font-bold hover:shadow-lg hover:shadow-primary/20 transition-all active:scale-95"
+            >
+              Заказать 3D-проект (Бесплатно)
+            </a>
+          </div>
+        </div>
+      </section>
 
       {/* Free 3D Design Promo */}
       <section className="py-16 bg-slate-900 border-y border-white/5 text-white overflow-hidden relative">

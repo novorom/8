@@ -106,6 +106,75 @@ export default function DeliveryPage() {
           </div>
         </div>
 
+        {/* ── РЕГИОНАЛЬНЫЙ ОХВАТ (SEO & TRUST) ── */}
+        <section className="mt-16 mb-20">
+          <h2 className="text-3xl font-bold text-foreground mb-8 text-center md:text-left">
+            География доставки: СПб и Ленобласть
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="p-6 rounded-2xl bg-muted/40 border border-border">
+              <h3 className="font-bold text-foreground mb-4 flex items-center gap-2">
+                <div className="h-5 w-5 bg-primary rounded-full flex items-center justify-center text-[10px] text-white">1</div>
+                Районы Санкт-Петербурга
+              </h3>
+              <ul className="grid grid-cols-2 gap-y-2 gap-x-4 text-sm text-muted-foreground">
+                <li>Приморский</li>
+                <li>Выборгский</li>
+                <li>Калининский</li>
+                <li>Московский</li>
+                <li>Красногвардейский</li>
+                <li>Центральный</li>
+                <li>Невский</li>
+                <li>Красносельский</li>
+              </ul>
+              <p className="mt-4 text-xs font-medium text-primary italic">Доставка в день заказа при наличии на складе!</p>
+            </div>
+
+            <div className="p-6 rounded-2xl bg-muted/40 border border-border">
+              <h3 className="font-bold text-foreground mb-4 flex items-center gap-2">
+                <div className="h-5 w-5 bg-primary rounded-full flex items-center justify-center text-[10px] text-white">2</div>
+                Ближайший пригород
+              </h3>
+              <ul className="grid grid-cols-2 gap-y-2 gap-x-4 text-sm text-muted-foreground">
+                <li>Янино (быстро)</li>
+                <li>Мурино</li>
+                <li>Кудрово</li>
+                <li>Всеволожск</li>
+                <li>Сестрорецк</li>
+                <li>Пушкин</li>
+                <li>Колпино</li>
+                <li>Петергоф</li>
+              </ul>
+              <p className="mt-4 text-xs font-medium text-primary italic">Складской хаб в Янино - отгрузка за 15 минут.</p>
+            </div>
+
+            <div className="p-6 rounded-2xl bg-muted/40 border border-border">
+              <h3 className="font-bold text-foreground mb-4 flex items-center gap-2">
+                <div className="h-5 w-5 bg-primary rounded-full flex items-center justify-center text-[10px] text-white">3</div>
+                Ленинградская область
+              </h3>
+              <ul className="grid grid-cols-2 gap-y-2 gap-x-4 text-sm text-muted-foreground">
+                <li>Гатчина</li>
+                <li>Выборг</li>
+                <li>Сосновый Бор</li>
+                <li>Кириши</li>
+                <li>Тосно</li>
+                <li>Волхов</li>
+                <li>Луга</li>
+                <li>Приозерск</li>
+              </ul>
+              <p className="mt-4 text-xs font-medium text-primary italic">Доставка по ЛО собственным транспортом.</p>
+            </div>
+          </div>
+
+          <div className="mt-10 p-6 rounded-2xl bg-primary/5 border border-primary/10 text-center">
+            <p className="text-sm text-muted-foreground italic">
+              Не нашли свой населенный пункт? Мы доставляем плитку в <b>любую точку</b> Ленинградской области. 
+              Просто укажите адрес при оформлении заказа, и мы рассчитаем точное время и стоимость.
+            </p>
+          </div>
+        </section>
+
         {/* Additional info */}
         <div className="bg-accent/5 border border-accent/20 rounded-xl p-8 mb-12">
           <h3 className="text-xl font-semibold text-foreground mb-4">Как заказать доставку?</h3>

@@ -28,7 +28,7 @@ class GenerateSitemap extends Command
     {
         $this->info('Generating sitemap...');
 
-        $baseUrl = rtrim(config('app.url', 'https://cersanit-spb.ru'), '/');
+        $baseUrl = rtrim(config('app.url', 'https://plitki-spb.ru'), '/');
         $sitemapPath = public_path('sitemap.xml');
         $now = now()->toDateString();
 

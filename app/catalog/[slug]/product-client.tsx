@@ -102,12 +102,30 @@ export function ProductPageClient({ slug }: { slug: string }) {
 
   const [quantity, setQuantity] = useState(1)
   const [isFavorite, setIsFavorite] = useState(false)
-  const [isCalcOpen, setIsCalcOpen] = useState(false)
+  const [isCalcOpen, setIsCalcOpen] = useState(false) // Keeping for the modal if needed, but inlining below
+
+  // Calculator Logic
+  const [calcWidth, setCalcWidth] = useState("")
+  const [calcLength, setCalcLength] = useState("")
+  const [calcReserve, setCalcReserve] = useState(10)
+
+  const calculateTotalNeeded = () => {
+    const w = parseFloat(calcWidth.replace(",", "."))
+    const l = parseFloat(calcLength.replace(",", "."))
+    if (isNaN(w) || isNaN(l) || w <= 0 || l <= 0) return 0
+    return Math.ceil(w * l * (1 + calcReserve / 100))
+  }
+
+  const handleApplyCalc = () => {
+    const total = calculateTotalNeeded()
+    if (total > 0) setQuantity(total)
+  }
 
   const relatedProducts = useMemo(() => {
+    // В приоритете - товары той же коллекции (Complete the look)
     const same = products.filter(p => p.collection === product.collection && p.slug !== product.slug)
-    if (same.length >= 4) return same.slice(0, 4)
-    // Расширяем: по формату, цвету, типу
+    
+    // Если в коллекции мало товаров, добавляем похожие
     const scored = products
       .filter(p => p.slug !== product.slug && p.collection !== product.collection)
       .map(p => {
@@ -120,6 +138,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
       .filter(({ score }) => score > 0)
       .sort((a, b) => b.score - a.score)
       .map(({ p }) => p)
+    
     return [...same, ...scored].slice(0, 4)
   }, [products, product])
 
@@ -359,16 +378,26 @@ export function ProductPageClient({ slug }: { slug: string }) {
               })()}
             </div>
 
-            {/* Price */}
-            <div className="flex items-baseline gap-3">
-              <span className="text-3xl font-bold text-foreground">
-                {product.price_retail.toLocaleString("ru-RU")} {priceUnit}
-              </span>
-              {hasDiscount && (
-                <span className="text-lg text-muted-foreground line-through">
-                  {product.price_official?.toLocaleString("ru-RU")} {"₽"}
+            {/* Price + Bulk Discount Trigger */}
+            <div className="flex flex-col gap-2">
+              <div className="flex items-baseline gap-3">
+                <span className="text-3xl font-bold text-foreground">
+                  {product.price_retail.toLocaleString("ru-RU")} {priceUnit}
                 </span>
-              )}
+                {hasDiscount && (
+                  <span className="text-lg text-muted-foreground line-through">
+                    {product.price_official?.toLocaleString("ru-RU")} {"₽"}
+                  </span>
+                )}
+              </div>
+              
+              {/* 🔥 BULK DISCOUNT BADGE */}
+              <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-green-50 border border-green-100 w-fit">
+                <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse" />
+                <span className="text-xs font-bold text-green-700">
+                  Оптовая цена: {(product.price_retail * 0.93).toLocaleString("ru-RU")} {priceUnit} <span className="font-normal opacity-70">(от 70 м²)</span>
+                </span>
+              </div>
             </div>
 
             {/* Stock info */}
@@ -468,14 +497,71 @@ export function ProductPageClient({ slug }: { slug: string }) {
               </button>
             </div>
             
-            {/* Calculator Trigger */}
-            <button
-              onClick={() => setIsCalcOpen(true)}
-              className="flex items-center gap-2 text-sm text-primary hover:text-primary/80 transition-colors font-medium w-fit mt-1"
-            >
-              <Calculator className="h-4 w-4" />
-              Рассчитать количество
-            </button>
+            {/* ── ВСТРОЕННЫЙ КАЛЬКУЛЯТОР (CRO) ── */}
+            <div className="p-5 rounded-2xl bg-muted/40 border border-border mt-2">
+              <div className="flex items-center gap-2 mb-4">
+                <Calculator className="h-4 w-4 text-primary" />
+                <span className="text-sm font-bold text-foreground uppercase tracking-wider">Калькулятор расхода</span>
+              </div>
+              
+              <div className="grid grid-cols-2 gap-3 mb-4">
+                <div className="space-y-1.5">
+                  <label className="text-[10px] uppercase font-bold text-muted-foreground ml-1">Длина, м</label>
+                  <input
+                    type="number"
+                    placeholder="3.5"
+                    value={calcLength}
+                    onChange={(e) => setCalcLength(e.target.value)}
+                    className="w-full h-10 px-3 rounded-xl border border-border bg-background text-sm focus:ring-2 focus:ring-primary/20 outline-none"
+                  />
+                </div>
+                <div className="space-y-1.5">
+                  <label className="text-[10px] uppercase font-bold text-muted-foreground ml-1">Ширина, м</label>
+                  <input
+                    type="number"
+                    placeholder="2.8"
+                    value={calcWidth}
+                    onChange={(e) => setCalcWidth(e.target.value)}
+                    className="w-full h-10 px-3 rounded-xl border border-border bg-background text-sm focus:ring-2 focus:ring-primary/20 outline-none"
+                  />
+                </div>
+              </div>
+
+              <div className="flex flex-wrap gap-2 mb-4">
+                {[5, 10, 15].map((percent) => (
+                  <button
+                    key={percent}
+                    onClick={() => setCalcReserve(percent)}
+                    className={`px-3 py-1.5 rounded-lg text-xs font-medium border transition-all ${
+                      calcReserve === percent 
+                        ? "bg-primary text-primary-foreground border-primary" 
+                        : "bg-background text-muted-foreground border-border hover:border-primary/40"
+                    }`}
+                  >
+                    +{percent}% запас
+                  </button>
+                ))}
+              </div>
+
+              {calculateTotalNeeded() > 0 && (
+                <div className="flex items-center justify-between p-3 rounded-xl bg-primary/5 border border-primary/10 mb-4 animate-in fade-in zoom-in duration-300">
+                  <div className="flex flex-col">
+                    <span className="text-[10px] uppercase font-bold text-primary/70">Нужно плитки</span>
+                    <span className="text-lg font-bold text-foreground">{calculateTotalNeeded()} м²</span>
+                  </div>
+                  <button
+                    onClick={handleApplyCalc}
+                    className="px-4 py-2 bg-primary text-primary-foreground rounded-lg text-xs font-bold hover:bg-primary/90 transition-colors"
+                  >
+                    Применить
+                  </button>
+                </div>
+              )}
+              
+              <p className="text-[10px] text-muted-foreground italic">
+                * Результат округляется до целых метров для удобства заказа.
+              </p>
+            </div>
 
             {/* Купить в 1 клик */}
             <button
@@ -601,6 +687,56 @@ export function ProductPageClient({ slug }: { slug: string }) {
                     </span>
                   ))}
                 </div>
+
+                {/* ── BUNDLE & SAVE (UPSALE) ── */}
+                <div className="mt-10 p-6 rounded-2xl bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-100 shadow-sm overflow-hidden relative group">
+                  <div className="absolute top-0 right-0 p-4 opacity-10 group-hover:scale-110 transition-transform">
+                    <ShoppingCart className="w-24 h-24" />
+                  </div>
+                  
+                  <div className="relative z-10">
+                    <div className="flex items-center gap-2 mb-4">
+                      <span className="flex h-2 w-2 rounded-full bg-blue-500 animate-pulse" />
+                      <h3 className="text-lg font-bold text-slate-900">Выгодный комплект (AOV Boost)</h3>
+                    </div>
+                    
+                    <p className="text-sm text-slate-600 mb-6 max-w-md">
+                      Добавьте необходимые материалы сейчас и получите <span className="font-bold text-blue-600">скидку 10%</span> на весь заказ сопутствующих товаров.
+                    </p>
+
+                    <div className="space-y-4">
+                      {[
+                        { name: "Клей усиленный Ceresit CM 117", price: "980 ₽", type: "25 кг" },
+                        { name: "Затирка Ceresit CE 40 (цвет в тон)", price: "540 ₽", type: "2 кг" },
+                        { name: "СВП (система выравнивания) 100 шт", price: "450 ₽", type: "комплект" }
+                      ].map((item, idx) => (
+                        <div key={idx} className="flex items-center justify-between bg-white/60 backdrop-blur-sm p-3 rounded-xl border border-white/40 hover:shadow-md transition-all">
+                          <div className="flex flex-col">
+                            <span className="text-sm font-semibold text-slate-900">{item.name}</span>
+                            <span className="text-[10px] text-slate-500">{item.type}</span>
+                          </div>
+                          <div className="flex items-center gap-3">
+                            <span className="text-sm font-bold text-slate-900">{item.price}</span>
+                            <button className="p-1.5 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition-colors">
+                              <Plus className="w-4 h-4" />
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+
+                    <div className="mt-6 pt-6 border-t border-blue-200/50 flex items-center justify-between">
+                      <div className="flex flex-col">
+                        <span className="text-xs text-slate-500">Доп. материалы в корзине</span>
+                        <span className="text-lg font-black text-slate-900">0 ₽</span>
+                      </div>
+                      <button className="px-6 py-2.5 bg-slate-900 text-white rounded-xl text-sm font-bold hover:bg-slate-800 transition-colors shadow-lg shadow-slate-900/20">
+                        Добавить всё в корзину
+                      </button>
+                    </div>
+                  </div>
+                </div>
+
                 <div className="mt-8 p-5 rounded-xl bg-muted/50 border border-border">
                   <h3 className="text-base font-semibold text-foreground mb-3">
                     {`Купить ${product.name} в Санкт-Петербурге`}
@@ -665,10 +801,14 @@ export function ProductPageClient({ slug }: { slug: string }) {
           </div>
         </div>
 
-        {/* Related products */}
+        {/* Related products / Collection products */}
         {relatedProducts.length > 0 && (
           <div className="mt-8 lg:mt-12 pb-8">
-            <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-6">Похожие товары</h2>
+            <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-6">
+              {products.some(p => p.collection === product.collection && p.slug !== product.slug) 
+                ? `Элементы коллекции ${product.collection}` 
+                : "Похожие товары"}
+            </h2>
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-6">
               {relatedProducts.map((p) => (
                 <ProductCard key={p.id} product={p} />

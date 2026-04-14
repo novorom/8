@@ -34,7 +34,7 @@ jobs:
       
       - name: Коммит новой статьи
         run: |
-          git config --local user.email "seo-autopilot@cersanit-spb.ru"
+          git config --local user.email "seo-autopilot@plitki-spb.ru"
           git config --local user.name "SEO Autopilot"
           git add -A
           if git diff --staged --quiet; then

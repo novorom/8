@@ -62,8 +62,8 @@ export async function GET() {
         <pickup>true</pickup>
         <delivery>true</delivery>
         <name>${escapeXml(product.name)}</name>
-        <vendor>${escapeXml(product.brand || "Cersanit")}</vendor>
-        <description><![CDATA[${product.name} коллекции ${product.collection || ""} формата ${product.format || ""}. ${stock > 0 ? "В наличии на складе в Янино." : ""}]]></description>
+        <vendor>${escapeXml(product.brand || "Плитки СПб")}</vendor>
+        <description><![CDATA[${product.name} коллекции ${product.collection || ""} от Плитки СПб. Официальные поставки со склада в Янино. Быстрая отгрузка и доставка по СПб и ЛО. Артикул: ${product.sku || ""}]]></description>
       </offer>`
   }).join("\n");
 

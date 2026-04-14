@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""SEO Autopilot for cersanit-spb.ru — v7 with internal linking"""
+"""SEO Autopilot for plitki-spb.ru — v7 with internal linking"""
 
 import os, json, re, sys, urllib.request, urllib.error
 from datetime import datetime
 from pathlib import Path
 
-SITE_URL = "https://cersanit-spb.ru"
+SITE_URL = "https://plitki-spb.ru"
 REPO_ROOT = Path(__file__).parent.parent
 TOPICS_FILE = Path(__file__).parent / "topics.json"
 LOG_FILE = Path(__file__).parent / "autopilot.log"
@@ -92,7 +92,7 @@ def fix_site_url(content, slug):
     if "SITE_URL" not in content:
         content = content.replace(
             'import Link from "next/link"\n',
-            'import Link from "next/link"\n\nconst SITE_URL = "https://cersanit-spb.ru"\n',
+            'import Link from "next/link"\n\nconst SITE_URL = "https://plitki-spb.ru"\n',
             1
         )
     if "canonical" not in content:
@@ -259,12 +259,12 @@ def generate_blog_article(topic):
         'import type {{ Metadata }} from "next"\n'
         'import Link from "next/link"\n'
         'import {{ ChevronRight }} from "lucide-react"\n\n'
-        'const SITE_URL = "https://cersanit-spb.ru"\n\n'
+        'const SITE_URL = "https://plitki-spb.ru"\n\n'
         "export const metadata: Metadata = {{\n"
-        '  title: "ЗАГОЛОВОК | Дом Плитки СПб",\n'
+        '  title: "ЗАГОЛОВОК | Плитки СПб",\n'
         '  description: "ОПИСАНИЕ 150-160 символов",\n'
         "  alternates: {{ canonical: `${{SITE_URL}}/blog/{slug}` }},\n"
-        "  openGraph: {{ title: \"...\", url: `${{SITE_URL}}/blog/{slug}`, siteName: \"Дом Плитки CERSANIT\", locale: \"ru_RU\", type: \"article\" }},\n"
+        "  openGraph: {{ title: \"...\", url: `${{SITE_URL}}/blog/{slug}`, siteName: \"Плитки СПб\", locale: \"ru_RU\", type: \"article\" }},\n"
         "}}\n\n"
         "export default function Article() {{\n"
         "  return (\n"
@@ -272,10 +272,10 @@ def generate_blog_article(topic):
         "      <script type=\"application/ld+json\" dangerouslySetInnerHTML={{{{ __html: JSON.stringify({{\n"
         "        \"@context\": \"https://schema.org\", \"@type\": \"Article\",\n"
         "        headline: \"ЗАГОЛОВОК СТАТЬИ\",\n"
-        "        publisher: {{ \"@type\": \"Organization\", name: \"Дом Плитки CERSANIT\", url: SITE_URL }},\n"
+        "        publisher: {{ \"@type\": \"Organization\", name: \"Плитки СПб\", url: SITE_URL }},\n"
         "        mainEntityOfPage: `${{SITE_URL}}/blog/{slug}`,\n"
         "        datePublished: \"{today}\",\n"
-        "        author: {{ \"@type\": \"Organization\", name: \"Дом Плитки CERSANIT\" }},\n"
+        "        author: {{ \"@type\": \"Organization\", name: \"Плитки СПб\" }},\n"
         "      }}) }}}} />\n"
         "      <article className=\"mx-auto max-w-4xl px-4 py-10\">\n"
         "        <h1 className=\"text-3xl font-bold mb-6\">ЗАГОЛОВОК</h1>\n"
