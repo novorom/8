@@ -407,6 +407,16 @@ export function ProductPageClient({ slug }: { slug: string }) {
                 Заканчивается! Осталось всего {totalStock} м²
               </div>
             )}
+            {/* 🔥 FOMO ТРИГГЕР: КТО-ТО СМОТРИТ ЕЩЕ */}
+            <div className="mt-4 mb-4 flex items-center gap-2.5 p-3 rounded-xl bg-orange-50 border border-orange-100 text-orange-800 text-sm animate-in fade-in duration-500">
+              <div className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-orange-500"></span>
+              </div>
+              <span>
+                Сейчас этот товар смотрят <b>{Math.floor((product.slug.length * 7) % 12) + 3} человек</b>
+              </span>
+            </div>
 
             {/* Quantity + Add to cart */}
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">

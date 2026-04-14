@@ -7,6 +7,8 @@ import { FloatingWhatsApp } from "@/components/floating-whatsapp"
 import { ScrollToTop } from "@/components/scroll-to-top"
 import { CartProvider } from "@/lib/cart-context"
 import { ProductsProvider } from "@/lib/products-context"
+import { ExitIntentPopup } from "@/components/exit-intent"
+import { AbandonedCartNotification } from "@/components/abandoned-cart-notification"
 
 const inter = Inter({ subsets: ["latin", "cyrillic"] })
 
@@ -145,6 +147,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <SiteFooter />
             <FloatingWhatsApp />
             <ScrollToTop />
+            <ExitIntentPopup />
+            <AbandonedCartNotification />
           </CartProvider>
         </ProductsProvider>
       </body>
