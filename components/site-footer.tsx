@@ -52,6 +52,7 @@ const footerLinks = {
     { label: "Плитка Янино", href: "/plitka-yanino-spb" },
     { label: "Распродажа плитки", href: "/rasprodazha-plitki-spb" },
     { label: "Керамогранит оптом", href: "/keramogranit-optom-spb" },
+    { label: "Калькулятор плитки", href: "/calculator-plitki-spb" },
   ],
 }
 
