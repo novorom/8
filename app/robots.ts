@@ -46,7 +46,11 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "Bytespider", allow: "/" },
       { userAgent: "cohere-ai", allow: "/" },
     ],
-    sitemap: `${SITE_URL}/sitemap.xml`,
+    sitemap: [
+      `${SITE_URL}/sitemap.xml`,
+      `${SITE_URL}/yandex-market.xml`,
+      `${SITE_URL}/google-shopping.xml`
+    ],
     host: SITE_URL,
   }
 }

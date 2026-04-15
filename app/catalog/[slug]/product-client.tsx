@@ -165,8 +165,9 @@ export function ProductPageClient({ slug }: { slug: string }) {
     description:
       product.description ||
       `${product.name} — купить в Санкт-Петербурге со склада Янино. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
-    brand: { "@type": "Brand", name: product.brand },
+    brand: { "@type": "Brand", name: product.brand || "Cersanit" },
     sku: product.sku,
+    mpn: product.sku, // MPN is critical for Google Shopping
     category: product.product_type,
     color: product.color,
     material: product.material_type,
@@ -175,6 +176,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
       url: `https://plitki-spb.ru/catalog/${product.slug}`,
       priceCurrency: "RUB",
       price: product.price_retail,
+      itemCondition: "https://schema.org/NewCondition",
       availability:
         totalStock > 0
           ? "https://schema.org/InStock"
@@ -191,7 +193,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
         "@type": "OfferShippingDetails",
         shippingRate: {
           "@type": "MonetaryAmount",
-          value: "0",
+          value: 1500, // Standard delivery start price
           currency: "RUB",
         },
         shippingDestination: {
@@ -212,6 +214,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
       returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
       merchantReturnDays: 14,
       returnMethod: "https://schema.org/ReturnByMail",
+      returnFees: "https://schema.org/FreeReturn", // Trust trigger
     },
     additionalProperty: [
       product.format && { "@type": "PropertyValue", name: "Формат", value: product.format },
