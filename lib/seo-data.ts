@@ -78,7 +78,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог фартука"
-  },,
+  },
 
   "deshevaya-plitka-spb": {
     slug: "deshevaya-plitka-spb",
@@ -100,7 +100,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог дешевой плитки"
-  },,
+  },
 
   "ispanskaya-plitka-spb": {
     slug: "ispanskaya-plitka-spb",
@@ -122,7 +122,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог испанской плитки"
-  },,
+  },
 
   "napolnaya-plitka-spb": {
     slug: "napolnaya-plitka-spb",
@@ -144,7 +144,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку на пол"
-  },,
+  },
 
   "plitka-monokolor-spb": {
     slug: "plitka-monokolor-spb",
@@ -166,7 +166,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Все моноколоры"
-  },,
+  },
 
   "shirokoformatnyy-keramogranit-spb": {
     slug: "shirokoformatnyy-keramogranit-spb",
@@ -188,7 +188,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог крупного формата"
-  },,
+  },
 
   "kafelnaya-plitka-spb": {
     slug: "kafelnaya-plitka-spb",
@@ -210,7 +210,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог кафеля"
-  },,
+  },
 
   "plitka-pod-kirpich-spb": {
     slug: "plitka-pod-kirpich-spb",
@@ -232,7 +232,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку под кирпич"
-  },,
+  },
 
   "keramogranit-optom-spb": {
     slug: "keramogranit-optom-spb",
@@ -254,7 +254,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Оптовое предложение"
-  },,
+  },
 
   "plitka-dlya-fartuka-spb": {
     slug: "plitka-dlya-fartuka-spb",
@@ -276,7 +276,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог фартука"
-  },,
+  },
 
   "rasprodazha-plitki-spb": {
     slug: "rasprodazha-plitki-spb",
@@ -298,7 +298,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Смотреть все акции"
-  },,
+  },
 
   "keramicheskaya-plitka-spb": {
     slug: "keramicheskaya-plitka-spb",
@@ -346,7 +346,7 @@ export const seoPages: Record<string, SeoPageData> = {
       { href: "/blog/formaty-plitki", title: "Гид по размерам", desc: "Какой формат плитки выбрать для разных помещений." },
       { href: "/blog/kak-ukladyvat-plitku", title: "Секреты укладки", desc: "Что нужно знать перед началом монтажных работ." },
     ],
-  },,
+  },
 
   "keramogranit-spb": {
     slug: "keramogranit-spb",
@@ -400,7 +400,7 @@ export const seoPages: Record<string, SeoPageData> = {
       { href: "/blog/kak-ukladyvat-plitku", title: "Правила укладки", desc: "Как избежать ошибок при монтаже крупного формата." },
       { href: "/blog/formaty-plitki", title: "Обзор форматов", desc: "60x60 или 60x120 — что выгоднее и красивее." },
     ],
-  },,
+  },
 
   "plitka-dlya-vannoj-spb": {
     slug: "plitka-dlya-vannoj-spb",
@@ -454,7 +454,7 @@ export const seoPages: Record<string, SeoPageData> = {
       { href: "/blog/kak-ukladyvat-plitku", title: "Монтаж плитки", desc: "Пошаговое руководство по укладке в ванной." },
       { href: "/blog/rekomendatsii-po-zatirke", title: "Выбор затирки", desc: "Как подобрать цвет затирки для идеальных швов." },
     ],
-  },,
+  },
 
   "mozaika-spb": {
     slug: "mozaika-spb",
@@ -501,7 +501,7 @@ export const seoPages: Record<string, SeoPageData> = {
       { href: "/blog/kak-ukladyvat-mozaiku", title: "Гид по укладке", desc: "Как правильно клеить мозаику на сетке." },
       { href: "/blog/rekomendatsii-po-zatirke", title: "Затирка мозаики", desc: "Секреты идеальных швов для мелких элементов." },
     ],
-  },,
+  },
 
   "dostavka-plitki-spb": {
     slug: "dostavka-plitki-spb",
@@ -548,7 +548,7 @@ export const seoPages: Record<string, SeoPageData> = {
       { href: "/blog/skolko-plitki-nuzhno-kupit", title: "Расчет запаса", desc: "Сколько плитки взять на случай боя или подрезки." },
       { href: "/blog/sertifikaty-kachestva", title: "Гарантии", desc: "Документы на поставляемую продукцию." },
     ],
-  },,
+  },
 
   "magazin-plitki-spb": {
     slug: "magazin-plitki-spb",
@@ -595,7 +595,7 @@ export const seoPages: Record<string, SeoPageData> = {
       { href: "/blog/kak-vybrat-plitku-dlya-vannoj", title: "Советы дизайнера", desc: "На что обратить внимание при посещении магазина." },
       { href: "/blog/sertifikaty-kachestva", title: "Наши гарантии", desc: "Информация о качестве и сертификации товаров." },
     ],
-  },,
+  },
 
   "kukhonnyy-fartuk-spb": {
     slug: "kukhonnyy-fartuk-spb",
@@ -628,7 +628,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку на фартук",
-  },,
+  },
 
   "keramogranit-60x120-spb": {
     slug: "keramogranit-60x120-spb",
@@ -661,7 +661,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?size=60x120",
     catalogLinkLabel: "Каталог формата 60x120",
-  },,
+  },
 
   "vsevolozhsk-spb": {
     slug: "vsevolozhsk-spb",
@@ -684,7 +684,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог товаров"
-  },,
+  },
 
   "murino-spb": {
     slug: "murino-spb",
@@ -707,7 +707,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку"
-  },,
+  },
 
   "kudrovo-spb": {
     slug: "kudrovo-spb",
@@ -730,7 +730,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог"
-  },,
+  },
 
   "primorskiy-raion-spb": {
     slug: "primorskiy-raion-spb",
@@ -753,7 +753,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог плитки"
-  },,
+  },
 
   "terracca-spb": {
     slug: "terracca-spb",
@@ -776,7 +776,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=terrazzo",
     catalogLinkLabel: "Каталог Тераццо"
-  },,
+  },
 
   "pechvork-spb": {
     slug: "pechvork-spb",
@@ -799,7 +799,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=пэчворк",
     catalogLinkLabel: "Каталог Пэчворка"
-  },,
+  },
 
   "belaya-plitka-pod-mramor-spb": {
     slug: "belaya-plitka-pod-mramor-spb",
@@ -822,7 +822,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=marmulla",
     catalogLinkLabel: "Весь белый мрамор"
-  },,
+  },
 
   "seraya-plitka-pod-beton-spb": {
     slug: "seraya-plitka-pod-beton-spb",
@@ -845,7 +845,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=бетон",
     catalogLinkLabel: "Каталог плитки под бетон"
-  },,
+  },
 
   "stupeni-iz-keramogranita-spb": {
     slug: "stupeni-iz-keramogranita-spb",
@@ -868,7 +868,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?product_type=Ступень",
     catalogLinkLabel: "Каталог ступеней"
-  },,
+  },
 
   "dlya-teplogo-pola-spb": {
     slug: "dlya-teplogo-pola-spb",
@@ -891,7 +891,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку на пол"
-  },,
+  },
 
   "dlya-garazha-spb": {
     slug: "dlya-garazha-spb",
@@ -914,7 +914,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=технический",
     catalogLinkLabel: "Каталог тех-плитки"
-  },,
+  },
 
   "dlya-krylcza-spb": {
     slug: "dlya-krylcza-spb",
@@ -937,7 +937,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=улица",
     catalogLinkLabel: "Выбрать уличную плитку"
-  },,
+  },
 
   "pushkin-spb": {
     slug: "pushkin-spb",
@@ -959,7 +959,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог товаров"
-  },,
+  },
 
   "petergof-spb": {
     slug: "petergof-spb",
@@ -981,7 +981,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку"
-  },,
+  },
 
   "sestroreck-spb": {
     slug: "sestroreck-spb",
@@ -1003,7 +1003,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог для дома"
-  },,
+  },
 
   "parnas-spb": {
     slug: "parnas-spb",
@@ -1025,7 +1025,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог"
-  },,
+  },
 
   "onyx-spb": {
     slug: "onyx-spb",
@@ -1047,7 +1047,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=оникс",
     catalogLinkLabel: "Каталог оникса"
-  },,
+  },
 
   "slanec-spb": {
     slug: "slanec-spb",
@@ -1069,7 +1069,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=сланец",
     catalogLinkLabel: "Каталог сланца"
-  },,
+  },
 
   "dlya-vannoj-i-tualeta-spb": {
     slug: "dlya-vannoj-i-tualeta-spb",
@@ -1091,7 +1091,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог ванной"
-  },,
+  },
 
   "antiskolzyashhaya-plitka-spb": {
     slug: "antiskolzyashhaya-plitka-spb",
@@ -1113,7 +1113,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Весь каталог"
-  },,
+  },
 
   "kolpino-spb": {
     slug: "kolpino-spb",
@@ -1135,7 +1135,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог товаров"
-  },,
+  },
 
   "shushary-spb": {
     slug: "shushary-spb",
@@ -1157,7 +1157,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку"
-  },,
+  },
 
   "lomonosov-spb": {
     slug: "lomonosov-spb",
@@ -1179,7 +1179,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог"
-  },,
+  },
 
   "gatchina-spb": {
     slug: "gatchina-spb",
@@ -1201,7 +1201,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог товаров"
-  },,
+  },
 
   "sertolovo-spb": {
     slug: "sertolovo-spb",
@@ -1223,7 +1223,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку"
-  },,
+  },
 
   "dlya-pola-na-kuhne-spb": {
     slug: "dlya-pola-na-kuhne-spb",
@@ -1245,7 +1245,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог пола"
-  },,
+  },
 
   "dlya-gostinoj-spb": {
     slug: "dlya-gostinoj-spb",
@@ -1267,7 +1267,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог гостиной"
-  },,
+  },
 
   "tosno-spb": {
     slug: "tosno-spb",
@@ -1289,7 +1289,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог плитки"
-  },,
+  },
 
   "vsevolozhskiy-raion-spb": {
     slug: "vsevolozhskiy-raion-spb",
@@ -1311,7 +1311,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог товаров"
-  },,
+  },
 
   "kalininskiy-raion-spb": {
     slug: "kalininskiy-raion-spb",
@@ -1333,7 +1333,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Выбрать плитку"
-  },,
+  },
 
   "vyborgskiy-raion-spb": {
     slug: "vyborgskiy-raion-spb",
@@ -1355,7 +1355,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог"
-  },,
+  },
 
   "plitka-dlya-naruzhnyh-rabot-spb": {
     slug: "plitka-dlya-naruzhnyh-rabot-spb",
@@ -1377,7 +1377,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Каталог для улицы"
-  },,
+  },
 
   "technicheskiy-keramogranit-spb": {
     slug: "technicheskiy-keramogranit-spb",
@@ -1399,7 +1399,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog?search=технический",
     catalogLinkLabel: "Технический каталог"
-  },,
+  },
 
   "plitka-dlya-sanuzla-spb": {
     slug: "plitka-dlya-sanuzla-spb",
