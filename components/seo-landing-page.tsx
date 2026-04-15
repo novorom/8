@@ -50,7 +50,7 @@ function getIcon(title: string) {
   return iconMap[title] || Award
 }
 
-export function SeoLandingPage({ data }: { data: SeoPageData }) {
+export function SeoLandingPage({ data, children }: { data: SeoPageData, children?: React.ReactNode }) {
   const lowPrice = data.featuredProducts?.length ? Math.min(...data.featuredProducts.map(p => p.price)) : 410;
   const highPrice = data.featuredProducts?.length ? Math.max(...data.featuredProducts.map(p => p.price)) : 4500;
   const offerCount = data.featuredProducts?.length ? data.featuredProducts.length * 8 : 124;
@@ -191,6 +191,7 @@ export function SeoLandingPage({ data }: { data: SeoPageData }) {
               </div>
             ))}
           </div>
+          {children}
         </div>
       </section>
 
