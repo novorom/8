@@ -58,7 +58,6 @@ export const seoPages: Record<string, SeoPageData> = {
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти к выбору плитки"
   },
-,
   "spb": {
     slug: "spb",
     title: "Купить плитку в СПб — Kerama Marazzi, Cersanit, Азори. Плитки СПб",
