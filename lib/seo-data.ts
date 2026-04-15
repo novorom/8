@@ -56,7 +56,7 @@ export const seoPages: Record<string, SeoPageData> = {
     ],
     catalogLink: "/catalog",
     catalogLinkLabel: "Перейти в каталог"
-  },,
+  },
 
   "plitka-dlya-kuhonnogo-fartuka-spb": {
     slug: "plitka-dlya-kuhonnogo-fartuka-spb",
