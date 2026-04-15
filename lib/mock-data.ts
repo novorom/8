@@ -1,5 +1,5 @@
 export interface Product {
-  id: number
+  id: string
   sku: string
   name: string
   slug: string
@@ -33,7 +33,7 @@ export interface Product {
 }
 
 export interface Category {
-  id: number
+  id: string
   name: string
   slug: string
   image: string
@@ -41,7 +41,7 @@ export interface Category {
 }
 
 export interface Collection {
-  id: number
+  id: string
   name: string
   slug: string
   image: string
@@ -49,100 +49,100 @@ export interface Collection {
 }
 
 export const categories: Category[] = [
-  { id: 1, name: "Плитка", slug: "plitka", image: "/images/categories/ceramic.jpg", count: 12 },
-  { id: 2, name: "Керамогранит", slug: "keramogranit", image: "/images/categories/porcelain.jpg", count: 24 },
-  { id: 3, name: "Мозаика", slug: "mozaika-na-setke", image: "/images/categories/mosaic.jpg", count: 5 },
-  { id: 4, name: "Ступень", slug: "stepen", image: "/images/categories/steps.jpg", count: 5 },
+  { id: "1", name: "Плитка", slug: "plitka", image: "/images/categories/ceramic.jpg", count: 12 },
+  { id: "2", name: "Керамогранит", slug: "keramogranit", image: "/images/categories/porcelain.jpg", count: 24 },
+  { id: "3", name: "Мозаика", slug: "mozaika-na-setke", image: "/images/categories/mosaic.jpg", count: 5 },
+  { id: "4", name: "Ступень", slug: "stepen", image: "/images/categories/steps.jpg", count: 5 },
 ]
 
 export const collections: Collection[] = [
-  { id: 1, name: "Calacatta", slug: "calacatta", image: "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg", product_count: 5 },
-  { id: 2, name: "Wood Concept Natural", slug: "wood-concept-natural", image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg", product_count: 6 },
-  { id: 3, name: "Wood Concept Prime", slug: "wood-concept-prime", image: "https://pvi.cersanit.ru/upload/uf/8e6/Interior_WP4T523_1.jpg", product_count: 3 },
-  { id: 4, name: "Wood Concept Rustic", slug: "wood-concept-rustic", image: "https://pvi.cersanit.ru/upload/uf/581/Interior_WR4T013_1.jpg", product_count: 1 },
-  { id: 5, name: "Lofthouse", slug: "lofthouse", image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg", product_count: 6 },
-  { id: 6, name: "Woodhouse", slug: "woodhouse", image: "https://pvi.cersanit.ru/upload/uf/f0c/INT_Woodhouse_WS4O112_3_1.jpg", product_count: 5 },
-  { id: 7, name: "Royal Stone", slug: "royal-stone", image: "https://pvi.cersanit.ru/upload/uf/cb8/INT_Royal_stone_2_1.jpg", product_count: 3 },
-  { id: 8, name: "Deco", slug: "deco", image: "https://pvi.cersanit.ru/upload/uf/b22/DEL232.jpg", product_count: 2 },
-  { id: 9, name: "Effecta", slug: "effecta", image: "https://pvi.cersanit.ru/upload/uf/8b9/INT_Effecta_2_1.jpg", product_count: 2 },
-  { id: 10, name: "Galaxy", slug: "galaxy", image: "https://pvi.cersanit.ru/upload/uf/279/Int_Galaxy_012_1_1.jpg", product_count: 2 },
-  { id: 11, name: "Infinity", slug: "infinity", image: "https://pvi.cersanit.ru/upload/uf/672/INT_Infinity_092_1_1.jpg", product_count: 2 },
-  { id: 12, name: "Coliseum", slug: "coliseum", image: "https://pvi.cersanit.ru/upload/uf/93e/INT_Coliseum_012_2_1.jpg", product_count: 1 },
-  { id: 13, name: "Northwood", slug: "northwood", image: "https://pvi.cersanit.ru/upload/uf/f6c/Northwood_1.jpg", product_count: 1 },
-  { id: 14, name: "Amberwood", slug: "amberwood", image: "https://pvi.cersanit.ru/upload/uf/203/gdn9kz1a0mgtifonj8k82wrukqddv953/A17902_1.jpg", product_count: 4 },
-  { id: 15, name: "Carpet", slug: "carpet", image: "https://pvi.cersanit.ru/upload/uf/5b9/q3u90swubgop0tii237xc669zyi9f2v3/A17930_1.jpg", product_count: 3 },
-  { id: 16, name: "Interio", slug: "interio", image: "https://pvi.cersanit.ru/upload/uf/img/interio.jpg", product_count: 2 },
-  { id: 17, name: "Aspen", slug: "aspen", image: "https://pvi.cersanit.ru/upload/uf/img/aspen.jpg", product_count: 3 },
-  { id: 18, name: "Limestone", slug: "limestone", image: "https://pvi.cersanit.ru/upload/uf/30c/19xpnq19r0fc6eb4qhytzzfyqnxxtqck/17890_1.jpg", product_count: 2 },
-  { id: 19, name: "Sandwood", slug: "sandwood", image: "https://pvi.cersanit.ru/upload/uf/3f7/C_SW4M012D_1a.jpg", product_count: 2 },
-  { id: 20, name: "Teakwood", slug: "teakwood", image: "https://pvi.cersanit.ru/upload/uf/7ae/g1655zkrfweh0vp7qes3x7nwalz9lww2/A17898_1.jpg", product_count: 2 },
-  { id: 21, name: "Oakwood", slug: "oakwood", image: "https://pvi.cersanit.ru/upload/uf/427/4kb9iu72lh9cdv86jxt0vhkf63dz85tt/A17487_01.jpg", product_count: 2 },
-  { id: 22, name: "Maplewood", slug: "maplewood", image: "https://pvi.cersanit.ru/upload/uf/772/MW4M112_1.jpg", product_count: 1 },
-  { id: 23, name: "Harbourwood", slug: "harbourwood", image: "https://pvi.cersanit.ru/upload/uf/b8c/HW4M092D_v1.jpg", product_count: 1 },
-  { id: 24, name: "Starwood", slug: "starwood", image: "https://pvi.cersanit.ru/upload/uf/f48/15934_1.jpg", product_count: 1 },
-  { id: 25, name: "Stonehouse", slug: "stonehouse", image: "https://pvi.cersanit.ru/upload/uf/890/7acdrov6g2g4dhbqf7wcfi1a31sqnn1g/17880_1.jpg", product_count: 1 },
-  { id: 26, name: "Coastline", slug: "coastline", image: "https://pvi.cersanit.ru/upload/uf/1a0/rf4h57fw7lzrsnf8sxb69u62ke8umydm/17894_1.jpg", product_count: 1 },
-  { id: 27, name: "Marina", slug: "marina", image: "https://pvi.cersanit.ru/upload/uf/a85/7hn53k6mpj1km1egfzsd8re4lof0f8c9/A17437_01.jpg", product_count: 1 },
-  { id: 28, name: "Desert", slug: "desert", image: "https://pvi.cersanit.ru/upload/uf/8e1/7hh7bqbgstquhlomqks7frk32vhat9nh/17886_1.jpg", product_count: 1 },
-  { id: 29, name: "Artstudio", slug: "artstudio", image: "https://pvi.cersanit.ru/upload/uf/img/artstudio.jpg", product_count: 1 },
-  { id: 30, name: "Slate", slug: "slate", image: "https://pvi.cersanit.ru/upload/uf/875/C_SF4L402D_1a.jpg", product_count: 1 },
-  { id: 31, name: "Ultra", slug: "ultra", image: "https://pvi.cersanit.ru/upload/uf/fd1/e77qsl58a6lfuvxx7dqdoytsio36kcbz/A17777_1.jpg", product_count: 1 },
-  { id: 32, name: "Blend", slug: "blend", image: "https://pvi.cersanit.ru/files/get/11/21654/29860/800/800/0/", product_count: 1 },
-  { id: 33, name: "Tiffany", slug: "tiffany", image: "https://pvi.cersanit.ru/upload/uf/d90/TV4R052.jpg", product_count: 1 },
-  { id: 34, name: "Lina", slug: "lina", image: "https://pvi.cersanit.ru/upload/uf/1c1/ipi086zb2xksax72oi0j8e67zii7jwcl/A17435_01.jpg", product_count: 1 },
-  { id: 35, name: "Luna", slug: "luna", image: "https://pvi.cersanit.ru/upload/uf/5c4/zcjxbfr0906ddu9edufqdscwj5mx49gn/A17906_1.jpg", product_count: 1 },
-  { id: 36, name: "Sonata", slug: "sonata", image: "https://pvi.cersanit.ru/upload/uf/21a/Sonata-SO4R092D-1.jpg", product_count: 1 },
-  { id: 37, name: "Palette", slug: "palette", image: "https://pvi.cersanit.ru/upload/uf/img/palette.jpg", product_count: 1 },
-  { id: 38, name: "Navi", slug: "navi", image: "https://pvi.cersanit.ru/upload/uf/a99/NV4P092D1.jpg", product_count: 1 },
-  { id: 39, name: "Aurora", slug: "aurora", image: "https://pvi.cersanit.ru/upload/uf/img/aurora.jpg", product_count: 1 },
-  { id: 40, name: "Pacific", slug: "pacific", image: "https://pvi.cersanit.ru/upload/uf/5fb/ejpcf53eitt69mn5dsi2kkc6da5918ks/A17695_01.jpg", product_count: 1 },
-  { id: 41, name: "Raven", slug: "raven", image: "https://pvi.cersanit.ru/upload/uf/366/C_RE4R092D_k1_jpeg.jpg", product_count: 1 },
-  { id: 42, name: "Nero", slug: "nero", image: "https://pvi.cersanit.ru/upload/uf/7f4/7jmj9zj9wfv3mj9pymozir174ukzr96w/A17442_01.jpg", product_count: 1 },
-  { id: 43, name: "Space", slug: "space", image: "https://pvi.cersanit.ru/upload/uf/ba2/SC4L092_1.jpg", product_count: 1 },
-  { id: 44, name: "Spark", slug: "spark", image: "https://pvi.cersanit.ru/upload/uf/799/3l4pix7wmavvhzixpc2qjom4er4mk481/A17785_1.jpg", product_count: 1 },
-  { id: 45, name: "Stream", slug: "stream", image: "https://pvi.cersanit.ru/upload/uf/20f/rbd2zf7fak8vyplzywv2dt22quu8i08f/A17922_01.jpg", product_count: 1 },
-  { id: 46, name: "Stilo", slug: "stilo", image: "https://pvi.cersanit.ru/upload/uf/81d/vx3fgjzvp4xhgasrbpsxh95ar7tm013x/A17433_01.jpg", product_count: 1 },
-  { id: 47, name: "Motley", slug: "motley", image: "https://pvi.cersanit.ru/upload/uf/b8c/l4kowj8fki9wn2v4ghv17xosdq5lcirs/A17924_01.jpg", product_count: 1 },
-  { id: 48, name: "Modis", slug: "modis", image: "https://pvi.cersanit.ru/upload/uf/2b3/hiz8iwu7byw6j0sp5d53lmmg0a3x85yu/17872_1.jpg", product_count: 1 },
-  { id: 49, name: "Ritmo", slug: "ritmo", image: "https://pvi.cersanit.ru/upload/uf/515/o4dzfn6h1vwsoh43mt9ybsfwmuyeubuc/A17912_1.jpg", product_count: 1 },
-  { id: 50, name: "Inverno", slug: "inverno", image: "https://pvi.cersanit.ru/upload/uf/236/w5dg6qmvblrkmw77h5y0ns4ead0phqgl/A17438_01.jpg", product_count: 1 },
-  { id: 51, name: "Sherbrooke", slug: "sherbrooke", image: "https://pvi.cersanit.ru/upload/uf/ea5/q0ryonkjg1j8dm08t6rwjv0qi2xql2n2/A17699_01.jpg", product_count: 1 },
-  { id: 52, name: "Mont Blanc", slug: "mont-blanc", image: "https://pvi.cersanit.ru/files/get/11/21816/29905/800/800/0/", product_count: 1 },
-  { id: 53, name: "Grigio Nuovalato", slug: "grigio-nuovalato", image: "https://pvi.cersanit.ru/upload/uf/36b/d9k1zug73exv5xroxcz2msg6bkl91fnf/A17125_01.jpg", product_count: 1 },
-  { id: 54, name: "Siena", slug: "siena", image: "https://pvi.cersanit.ru/upload/uf/59c/A16008_1.jpg", product_count: 1 },
-  { id: 55, name: "Sevilla", slug: "sevilla", image: "https://pvi.cersanit.ru/upload/uf/975/SE4R053.jpg", product_count: 1 },
-  { id: 56, name: "Silvia", slug: "silvia", image: "https://pvi.cersanit.ru/upload/uf/d04/gyil7wt1cw6qhb0ho0xw5nnd7t7bjwm3/A17431_01.jpg", product_count: 1 },
-  { id: 57, name: "Kauri Wood", slug: "kauri-wood", image: "https://pvi.cersanit.ru/upload/uf/0f1/uy2bye4j6h4ubnrxvfft37785dyf5cl9/17936_1.jpg", product_count: 1 },
-  { id: 58, name: "Gold Venice", slug: "gold-venice", image: "https://pvi.cersanit.ru/upload/uf/0da/uefsnr25qfuu5b7khlor2mmc0oorecum/A17121_01.jpg", product_count: 1 },
-  { id: 59, name: "Silver Roots", slug: "silver-roots", image: "https://pvi.cersanit.ru/upload/uf/17a/9fanhagyx381ocz3t4sgsurwizbvbopc/A17124_01.jpg", product_count: 1 },
-  { id: 60, name: "Classy Marble", slug: "classy-marble", image: "https://pvi.cersanit.ru/upload/uf/626/8nmvabm99q5w4620fssk6y86uzf6to89/A17120_01.jpg", product_count: 1 },
-  { id: 61, name: "Residence", slug: "residence", image: "https://pvi.cersanit.ru/upload/uf/98e/5t69wfryb43mj9cyuf4tn60n410v306u/17874_1.jpg", product_count: 1 },
-  { id: 62, name: "Rustico", slug: "rustico", image: "https://pvi.cersanit.ru/upload/uf/0b3/wsntq57dhzunramfgxppy1w5uc6r3owq/A17429_01.jpg", product_count: 1 },
-  { id: 63, name: "Oriental", slug: "oriental", image: "https://pvi.cersanit.ru/upload/uf/0cc/Oriental-White-OE4R052D-1.jpg", product_count: 1 },
-  { id: 64, name: "Loft", slug: "loft", image: "https://pvi.cersanit.ru/upload/uf/8f3/LO4R452.jpg", product_count: 1 },
-  { id: 65, name: "Soft Concrete", slug: "soft-concrete", image: "https://pvi.cersanit.ru/upload/uf/068/gcqu8u24rft50mgxzpbijnh33k074vg0/A17122_01.jpg", product_count: 1 },
-  { id: 66, name: "Sandstone", slug: "sandstone", image: "https://pvi.cersanit.ru/upload/uf/79e/e4wsrtecqrzgh5aamk00kdpzah0l04a4/17896_1.jpg", product_count: 1 },
-  { id: 67, name: "Finwood", slug: "finwood", image: "https://pvi.cersanit.ru/upload/uf/61e/C_FF4M052D_1a.jpg", product_count: 1 },
-  { id: 68, name: "Patinawood", slug: "patinawood", image: "https://pvi.cersanit.ru/upload/uf/0fb/PT4M112_2.jpg", product_count: 1 },
-  { id: 69, name: "Timber Land", slug: "timber-land", image: "https://pvi.cersanit.ru/upload/uf/0b9/uraopoyg4u5cwva3tqgj26gxxszq0gav/17934_1.jpg", product_count: 1 },
-  { id: 70, name: "Greenhouse", slug: "greenhouse", image: "https://pvi.cersanit.ru/files/get/2/21835/29011/800/800/0/", product_count: 1 },
-  { id: 71, name: "Exterio", slug: "exterio", image: "https://pvi.cersanit.ru/files/get/11/14755/6892/800/800/0/", product_count: 1 },
-  { id: 72, name: "Pudra", slug: "pudra", image: "https://pvi.cersanit.ru/upload/uf/6c7/C_PD4R452D.jpg", product_count: 1 },
-  { id: 73, name: "Bonsai Tree", slug: "bonsai-tree", image: "https://pvi.cersanit.ru/upload/uf/b47/k5vcxzgjn1j9nzf22zuw6icj150cfm9s/17942_1.jpg", product_count: 1 },
-  { id: 74, name: "Daisy", slug: "daisy", image: "https://pvi.cersanit.ru/upload/uf/b2a/A16067.jpg", product_count: 1 },
-  { id: 75, name: "Cambio", slug: "cambio", image: "https://pvi.cersanit.ru/upload/uf/115/evlkpmsosg3p23bttga6aq3mkxvchck8/A17426_01.jpg", product_count: 1 },
-  { id: 76, name: "Atria", slug: "atria", image: "https://pvi.cersanit.ru/upload/uf/d77/Atria_42x42_AN4R012_floor_jpg.jpg", product_count: 1 },
-  { id: 77, name: "Landscape", slug: "landscape", image: "https://pvi.cersanit.ru/files/get/11/21670/30432/800/800/0/", product_count: 1 },
-  { id: 78, name: "Ceramill", slug: "ceramill", image: "https://pvi.cersanit.ru/upload/uf/img/ceramill.jpg", product_count: 1 },
-  { id: 79, name: "Chesterwood", slug: "chesterwood", image: "https://pvi.cersanit.ru/upload/uf/7b6/C_CV4M302D_1.jpg", product_count: 1 },
-  { id: 80, name: "Colorwood", slug: "colorwood", image: "https://pvi.cersanit.ru/upload/uf/343/INT_Colorwood_2_3.jpg", product_count: 1 },
-  { id: 81, name: "Concretehouse", slug: "concretehouse", image: "https://pvi.cersanit.ru/files/get/11/21690/29196/800/800/0/", product_count: 1 },
+  { id: "1", name: "Calacatta", slug: "calacatta", image: "https://pvi.cersanit.ru/upload/uf/ae8/Calacatta_large_1.jpg", product_count: 5 },
+  { id: "2", name: "Wood Concept Natural", slug: "wood-concept-natural", image: "https://pvi.cersanit.ru/upload/uf/02e/Interior_WN4T013_1.jpg", product_count: 6 },
+  { id: "3", name: "Wood Concept Prime", slug: "wood-concept-prime", image: "https://pvi.cersanit.ru/upload/uf/8e6/Interior_WP4T523_1.jpg", product_count: 3 },
+  { id: "4", name: "Wood Concept Rustic", slug: "wood-concept-rustic", image: "https://pvi.cersanit.ru/upload/uf/581/Interior_WR4T013_1.jpg", product_count: 1 },
+  { id: "5", name: "Lofthouse", slug: "lofthouse", image: "https://pvi.cersanit.ru/upload/uf/0db/INT_LOFTHOUSE_5_1.jpg", product_count: 6 },
+  { id: "6", name: "Woodhouse", slug: "woodhouse", image: "https://pvi.cersanit.ru/upload/uf/f0c/INT_Woodhouse_WS4O112_3_1.jpg", product_count: 5 },
+  { id: "7", name: "Royal Stone", slug: "royal-stone", image: "https://pvi.cersanit.ru/upload/uf/cb8/INT_Royal_stone_2_1.jpg", product_count: 3 },
+  { id: "8", name: "Deco", slug: "deco", image: "https://pvi.cersanit.ru/upload/uf/b22/DEL232.jpg", product_count: 2 },
+  { id: "9", name: "Effecta", slug: "effecta", image: "https://pvi.cersanit.ru/upload/uf/8b9/INT_Effecta_2_1.jpg", product_count: 2 },
+  { id: "10", name: "Galaxy", slug: "galaxy", image: "https://pvi.cersanit.ru/upload/uf/279/Int_Galaxy_012_1_1.jpg", product_count: 2 },
+  { id: "11", name: "Infinity", slug: "infinity", image: "https://pvi.cersanit.ru/upload/uf/672/INT_Infinity_092_1_1.jpg", product_count: 2 },
+  { id: "12", name: "Coliseum", slug: "coliseum", image: "https://pvi.cersanit.ru/upload/uf/93e/INT_Coliseum_012_2_1.jpg", product_count: 1 },
+  { id: "13", name: "Northwood", slug: "northwood", image: "https://pvi.cersanit.ru/upload/uf/f6c/Northwood_1.jpg", product_count: 1 },
+  { id: "14", name: "Amberwood", slug: "amberwood", image: "https://pvi.cersanit.ru/upload/uf/203/gdn9kz1a0mgtifonj8k82wrukqddv953/A17902_1.jpg", product_count: 4 },
+  { id: "15", name: "Carpet", slug: "carpet", image: "https://pvi.cersanit.ru/upload/uf/5b9/q3u90swubgop0tii237xc669zyi9f2v3/A17930_1.jpg", product_count: 3 },
+  { id: "16", name: "Interio", slug: "interio", image: "https://pvi.cersanit.ru/upload/uf/img/interio.jpg", product_count: 2 },
+  { id: "17", name: "Aspen", slug: "aspen", image: "https://pvi.cersanit.ru/upload/uf/img/aspen.jpg", product_count: 3 },
+  { id: "18", name: "Limestone", slug: "limestone", image: "https://pvi.cersanit.ru/upload/uf/30c/19xpnq19r0fc6eb4qhytzzfyqnxxtqck/17890_1.jpg", product_count: 2 },
+  { id: "19", name: "Sandwood", slug: "sandwood", image: "https://pvi.cersanit.ru/upload/uf/3f7/C_SW4M012D_1a.jpg", product_count: 2 },
+  { id: "20", name: "Teakwood", slug: "teakwood", image: "https://pvi.cersanit.ru/upload/uf/7ae/g1655zkrfweh0vp7qes3x7nwalz9lww2/A17898_1.jpg", product_count: 2 },
+  { id: "21", name: "Oakwood", slug: "oakwood", image: "https://pvi.cersanit.ru/upload/uf/427/4kb9iu72lh9cdv86jxt0vhkf63dz85tt/A17487_01.jpg", product_count: 2 },
+  { id: "22", name: "Maplewood", slug: "maplewood", image: "https://pvi.cersanit.ru/upload/uf/772/MW4M112_1.jpg", product_count: 1 },
+  { id: "23", name: "Harbourwood", slug: "harbourwood", image: "https://pvi.cersanit.ru/upload/uf/b8c/HW4M092D_v1.jpg", product_count: 1 },
+  { id: "24", name: "Starwood", slug: "starwood", image: "https://pvi.cersanit.ru/upload/uf/f48/15934_1.jpg", product_count: 1 },
+  { id: "25", name: "Stonehouse", slug: "stonehouse", image: "https://pvi.cersanit.ru/upload/uf/890/7acdrov6g2g4dhbqf7wcfi1a31sqnn1g/17880_1.jpg", product_count: 1 },
+  { id: "26", name: "Coastline", slug: "coastline", image: "https://pvi.cersanit.ru/upload/uf/1a0/rf4h57fw7lzrsnf8sxb69u62ke8umydm/17894_1.jpg", product_count: 1 },
+  { id: "27", name: "Marina", slug: "marina", image: "https://pvi.cersanit.ru/upload/uf/a85/7hn53k6mpj1km1egfzsd8re4lof0f8c9/A17437_01.jpg", product_count: 1 },
+  { id: "28", name: "Desert", slug: "desert", image: "https://pvi.cersanit.ru/upload/uf/8e1/7hh7bqbgstquhlomqks7frk32vhat9nh/17886_1.jpg", product_count: 1 },
+  { id: "29", name: "Artstudio", slug: "artstudio", image: "https://pvi.cersanit.ru/upload/uf/img/artstudio.jpg", product_count: 1 },
+  { id: "30", name: "Slate", slug: "slate", image: "https://pvi.cersanit.ru/upload/uf/875/C_SF4L402D_1a.jpg", product_count: 1 },
+  { id: "31", name: "Ultra", slug: "ultra", image: "https://pvi.cersanit.ru/upload/uf/fd1/e77qsl58a6lfuvxx7dqdoytsio36kcbz/A17777_1.jpg", product_count: 1 },
+  { id: "32", name: "Blend", slug: "blend", image: "https://pvi.cersanit.ru/files/get/11/21654/29860/800/800/0/", product_count: 1 },
+  { id: "33", name: "Tiffany", slug: "tiffany", image: "https://pvi.cersanit.ru/upload/uf/d90/TV4R052.jpg", product_count: 1 },
+  { id: "34", name: "Lina", slug: "lina", image: "https://pvi.cersanit.ru/upload/uf/1c1/ipi086zb2xksax72oi0j8e67zii7jwcl/A17435_01.jpg", product_count: 1 },
+  { id: "35", name: "Luna", slug: "luna", image: "https://pvi.cersanit.ru/upload/uf/5c4/zcjxbfr0906ddu9edufqdscwj5mx49gn/A17906_1.jpg", product_count: 1 },
+  { id: "36", name: "Sonata", slug: "sonata", image: "https://pvi.cersanit.ru/upload/uf/21a/Sonata-SO4R092D-1.jpg", product_count: 1 },
+  { id: "37", name: "Palette", slug: "palette", image: "https://pvi.cersanit.ru/upload/uf/img/palette.jpg", product_count: 1 },
+  { id: "38", name: "Navi", slug: "navi", image: "https://pvi.cersanit.ru/upload/uf/a99/NV4P092D1.jpg", product_count: 1 },
+  { id: "39", name: "Aurora", slug: "aurora", image: "https://pvi.cersanit.ru/upload/uf/img/aurora.jpg", product_count: 1 },
+  { id: "40", name: "Pacific", slug: "pacific", image: "https://pvi.cersanit.ru/upload/uf/5fb/ejpcf53eitt69mn5dsi2kkc6da5918ks/A17695_01.jpg", product_count: 1 },
+  { id: "41", name: "Raven", slug: "raven", image: "https://pvi.cersanit.ru/upload/uf/366/C_RE4R092D_k1_jpeg.jpg", product_count: 1 },
+  { id: "42", name: "Nero", slug: "nero", image: "https://pvi.cersanit.ru/upload/uf/7f4/7jmj9zj9wfv3mj9pymozir174ukzr96w/A17442_01.jpg", product_count: 1 },
+  { id: "43", name: "Space", slug: "space", image: "https://pvi.cersanit.ru/upload/uf/ba2/SC4L092_1.jpg", product_count: 1 },
+  { id: "44", name: "Spark", slug: "spark", image: "https://pvi.cersanit.ru/upload/uf/799/3l4pix7wmavvhzixpc2qjom4er4mk481/A17785_1.jpg", product_count: 1 },
+  { id: "45", name: "Stream", slug: "stream", image: "https://pvi.cersanit.ru/upload/uf/20f/rbd2zf7fak8vyplzywv2dt22quu8i08f/A17922_01.jpg", product_count: 1 },
+  { id: "46", name: "Stilo", slug: "stilo", image: "https://pvi.cersanit.ru/upload/uf/81d/vx3fgjzvp4xhgasrbpsxh95ar7tm013x/A17433_01.jpg", product_count: 1 },
+  { id: "47", name: "Motley", slug: "motley", image: "https://pvi.cersanit.ru/upload/uf/b8c/l4kowj8fki9wn2v4ghv17xosdq5lcirs/A17924_01.jpg", product_count: 1 },
+  { id: "48", name: "Modis", slug: "modis", image: "https://pvi.cersanit.ru/upload/uf/2b3/hiz8iwu7byw6j0sp5d53lmmg0a3x85yu/17872_1.jpg", product_count: 1 },
+  { id: "49", name: "Ritmo", slug: "ritmo", image: "https://pvi.cersanit.ru/upload/uf/515/o4dzfn6h1vwsoh43mt9ybsfwmuyeubuc/A17912_1.jpg", product_count: 1 },
+  { id: "50", name: "Inverno", slug: "inverno", image: "https://pvi.cersanit.ru/upload/uf/236/w5dg6qmvblrkmw77h5y0ns4ead0phqgl/A17438_01.jpg", product_count: 1 },
+  { id: "51", name: "Sherbrooke", slug: "sherbrooke", image: "https://pvi.cersanit.ru/upload/uf/ea5/q0ryonkjg1j8dm08t6rwjv0qi2xql2n2/A17699_01.jpg", product_count: 1 },
+  { id: "52", name: "Mont Blanc", slug: "mont-blanc", image: "https://pvi.cersanit.ru/files/get/11/21816/29905/800/800/0/", product_count: 1 },
+  { id: "53", name: "Grigio Nuovalato", slug: "grigio-nuovalato", image: "https://pvi.cersanit.ru/upload/uf/36b/d9k1zug73exv5xroxcz2msg6bkl91fnf/A17125_01.jpg", product_count: 1 },
+  { id: "54", name: "Siena", slug: "siena", image: "https://pvi.cersanit.ru/upload/uf/59c/A16008_1.jpg", product_count: 1 },
+  { id: "55", name: "Sevilla", slug: "sevilla", image: "https://pvi.cersanit.ru/upload/uf/975/SE4R053.jpg", product_count: 1 },
+  { id: "56", name: "Silvia", slug: "silvia", image: "https://pvi.cersanit.ru/upload/uf/d04/gyil7wt1cw6qhb0ho0xw5nnd7t7bjwm3/A17431_01.jpg", product_count: 1 },
+  { id: "57", name: "Kauri Wood", slug: "kauri-wood", image: "https://pvi.cersanit.ru/upload/uf/0f1/uy2bye4j6h4ubnrxvfft37785dyf5cl9/17936_1.jpg", product_count: 1 },
+  { id: "58", name: "Gold Venice", slug: "gold-venice", image: "https://pvi.cersanit.ru/upload/uf/0da/uefsnr25qfuu5b7khlor2mmc0oorecum/A17121_01.jpg", product_count: 1 },
+  { id: "59", name: "Silver Roots", slug: "silver-roots", image: "https://pvi.cersanit.ru/upload/uf/17a/9fanhagyx381ocz3t4sgsurwizbvbopc/A17124_01.jpg", product_count: 1 },
+  { id: "60", name: "Classy Marble", slug: "classy-marble", image: "https://pvi.cersanit.ru/upload/uf/626/8nmvabm99q5w4620fssk6y86uzf6to89/A17120_01.jpg", product_count: 1 },
+  { id: "61", name: "Residence", slug: "residence", image: "https://pvi.cersanit.ru/upload/uf/98e/5t69wfryb43mj9cyuf4tn60n410v306u/17874_1.jpg", product_count: 1 },
+  { id: "62", name: "Rustico", slug: "rustico", image: "https://pvi.cersanit.ru/upload/uf/0b3/wsntq57dhzunramfgxppy1w5uc6r3owq/A17429_01.jpg", product_count: 1 },
+  { id: "63", name: "Oriental", slug: "oriental", image: "https://pvi.cersanit.ru/upload/uf/0cc/Oriental-White-OE4R052D-1.jpg", product_count: 1 },
+  { id: "64", name: "Loft", slug: "loft", image: "https://pvi.cersanit.ru/upload/uf/8f3/LO4R452.jpg", product_count: 1 },
+  { id: "65", name: "Soft Concrete", slug: "soft-concrete", image: "https://pvi.cersanit.ru/upload/uf/068/gcqu8u24rft50mgxzpbijnh33k074vg0/A17122_01.jpg", product_count: 1 },
+  { id: "66", name: "Sandstone", slug: "sandstone", image: "https://pvi.cersanit.ru/upload/uf/79e/e4wsrtecqrzgh5aamk00kdpzah0l04a4/17896_1.jpg", product_count: 1 },
+  { id: "67", name: "Finwood", slug: "finwood", image: "https://pvi.cersanit.ru/upload/uf/61e/C_FF4M052D_1a.jpg", product_count: 1 },
+  { id: "68", name: "Patinawood", slug: "patinawood", image: "https://pvi.cersanit.ru/upload/uf/0fb/PT4M112_2.jpg", product_count: 1 },
+  { id: "69", name: "Timber Land", slug: "timber-land", image: "https://pvi.cersanit.ru/upload/uf/0b9/uraopoyg4u5cwva3tqgj26gxxszq0gav/17934_1.jpg", product_count: 1 },
+  { id: "70", name: "Greenhouse", slug: "greenhouse", image: "https://pvi.cersanit.ru/files/get/2/21835/29011/800/800/0/", product_count: 1 },
+  { id: "71", name: "Exterio", slug: "exterio", image: "https://pvi.cersanit.ru/files/get/11/14755/6892/800/800/0/", product_count: 1 },
+  { id: "72", name: "Pudra", slug: "pudra", image: "https://pvi.cersanit.ru/upload/uf/6c7/C_PD4R452D.jpg", product_count: 1 },
+  { id: "73", name: "Bonsai Tree", slug: "bonsai-tree", image: "https://pvi.cersanit.ru/upload/uf/b47/k5vcxzgjn1j9nzf22zuw6icj150cfm9s/17942_1.jpg", product_count: 1 },
+  { id: "74", name: "Daisy", slug: "daisy", image: "https://pvi.cersanit.ru/upload/uf/b2a/A16067.jpg", product_count: 1 },
+  { id: "75", name: "Cambio", slug: "cambio", image: "https://pvi.cersanit.ru/upload/uf/115/evlkpmsosg3p23bttga6aq3mkxvchck8/A17426_01.jpg", product_count: 1 },
+  { id: "76", name: "Atria", slug: "atria", image: "https://pvi.cersanit.ru/upload/uf/d77/Atria_42x42_AN4R012_floor_jpg.jpg", product_count: 1 },
+  { id: "77", name: "Landscape", slug: "landscape", image: "https://pvi.cersanit.ru/files/get/11/21670/30432/800/800/0/", product_count: 1 },
+  { id: "78", name: "Ceramill", slug: "ceramill", image: "https://pvi.cersanit.ru/upload/uf/img/ceramill.jpg", product_count: 1 },
+  { id: "79", name: "Chesterwood", slug: "chesterwood", image: "https://pvi.cersanit.ru/upload/uf/7b6/C_CV4M302D_1.jpg", product_count: 1 },
+  { id: "80", name: "Colorwood", slug: "colorwood", image: "https://pvi.cersanit.ru/upload/uf/343/INT_Colorwood_2_3.jpg", product_count: 1 },
+  { id: "81", name: "Concretehouse", slug: "concretehouse", image: "https://pvi.cersanit.ru/files/get/11/21690/29196/800/800/0/", product_count: 1 },
 ]
 
 export const products: Product[] = [
   // ===== CALACATTA =====
   {
-    id: 1,
+    id: "1",
     sku: "KT2L051",
     name: "Calacatta узор белый 29.8x59.8",
     slug: "calacatta-uzor-belyj-298x598",
@@ -180,7 +180,7 @@ export const products: Product[] = [
     reviews_count: 34,
   },
   {
-    id: 2,
+    id: "2",
     sku: "KT2L052",
     name: "Calacatta ромбы белый 29.8x59.8",
     slug: "calacatta-romby-belyj-298x598",
@@ -217,7 +217,7 @@ export const products: Product[] = [
     reviews_count: 18,
   },
   {
-    id: 3,
+    id: "3",
     sku: "KTL052",
     name: "Calacatta белый рельеф 29.8x59.8",
     slug: "calacatta-belyj-relef-298x598",
@@ -254,7 +254,7 @@ export const products: Product[] = [
     reviews_count: 27,
   },
   {
-    id: 4,
+    id: "4",
     sku: "KTL051st",
     name: "Calacatta белый глянцевый 29.8x59.8",
     slug: "calacatta-belyj-glyancevyj-298x598",
@@ -291,7 +291,7 @@ export const products: Product[] = [
     reviews_count: 42,
   },
   {
-    id: 5,
+    id: "5",
     sku: "A15925",
     name: "Calacatta шеврон белый 29.8x59.8",
     slug: "calacatta-shevron-belyj-298x598",
@@ -330,7 +330,7 @@ export const products: Product[] = [
 
   // ===== WOOD CONCEPT NATURAL =====
   {
-    id: 6,
+    id: "6",
     sku: "WN4T013",
     name: "Wood Concept Natural бежевый 21.8x89.8",
     slug: "wood-concept-natural-bezhevyj-218x898",
@@ -368,7 +368,7 @@ export const products: Product[] = [
     reviews_count: 56,
   },
   {
-    id: 7,
+    id: "7",
     sku: "WN4T103",
     name: "Wood Concept Natural песочный 21.8x89.8",
     slug: "wood-concept-natural-pesochnyj-218x898",
@@ -405,7 +405,7 @@ export const products: Product[] = [
     reviews_count: 31,
   },
   {
-    id: 8,
+    id: "8",
     sku: "WN4T113",
     name: "Wood Concept Natural коричневый 21.8x89.8",
     slug: "wood-concept-natural-korichnevyj-218x898",
@@ -442,7 +442,7 @@ export const products: Product[] = [
     reviews_count: 38,
   },
   {
-    id: 9,
+    id: "9",
     sku: "WN4T303",
     name: "Wood Concept Natural светло-бежевый 21.8x89.8",
     slug: "wood-concept-natural-svetlo-bezhevyj-218x898",
@@ -479,7 +479,7 @@ export const products: Product[] = [
     reviews_count: 24,
   },
   {
-    id: 10,
+    id: "10",
     sku: "A15985",
     name: "Wood Concept Natural темно-коричневый 21.8x89.8",
     slug: "wood-concept-natural-temno-korichnevyj-218x898",
@@ -516,7 +516,7 @@ export const products: Product[] = [
     reviews_count: 15,
   },
   {
-    id: 11,
+    id: "11",
     sku: "A15987",
     name: "Wood Concept Natural светло-коричневый 21.8x89.8",
     slug: "wood-concept-natural-svetlo-korichnevyj-218x898",
@@ -555,7 +555,7 @@ export const products: Product[] = [
 
   // ===== WOOD CONCEPT PRIME =====
   {
-    id: 12,
+    id: "12",
     sku: "WP4T093",
     name: "Wood Concept Prime серый 21.8x89.8",
     slug: "wood-concept-prime-seryj-218x898",
@@ -592,7 +592,7 @@ export const products: Product[] = [
     reviews_count: 29,
   },
   {
-    id: 13,
+    id: "13",
     sku: "WP4T523",
     name: "Wood Concept Prime светло-серый 21.8x89.8",
     slug: "wood-concept-prime-svetlo-seryj-218x898",
@@ -630,7 +630,7 @@ export const products: Product[] = [
     reviews_count: 47,
   },
   {
-    id: 14,
+    id: "14",
     sku: "A15989",
     name: "Wood Concept Prime белый 21.8x89.8",
     slug: "wood-concept-prime-belyj-218x898",
@@ -669,7 +669,7 @@ export const products: Product[] = [
 
   // ===== WOOD CONCEPT RUSTIC =====
   {
-    id: 15,
+    id: "15",
     sku: "WR4T013",
     name: "Wood Concept Rustic бежевый 21.8x89.8",
     slug: "wood-concept-rustic-bezhevyj-218x898",
@@ -709,7 +709,7 @@ export const products: Product[] = [
 
   // ===== LOFTHOUSE =====
   {
-    id: 16,
+    id: "16",
     sku: "LS4O522",
     name: "Lofthouse светло-серый 29.7x59.8",
     slug: "lofthouse-svetlo-seryj-297x598",
@@ -746,7 +746,7 @@ export const products: Product[] = [
     reviews_count: 19,
   },
   {
-    id: 17,
+    id: "17",
     sku: "LS4O092",
     name: "Lofthouse серый 29.7x59.8",
     slug: "lofthouse-seryj-297x598",
@@ -784,7 +784,7 @@ export const products: Product[] = [
     reviews_count: 25,
   },
   {
-    id: 18,
+    id: "18",
     sku: "LS4O096",
     name: "Ступень Lofthouse серый 29.7x59.8",
     slug: "stupen-lofthouse-seryj-297x598",
@@ -820,7 +820,7 @@ export const products: Product[] = [
     reviews_count: 8,
   },
   {
-    id: 19,
+    id: "19",
     sku: "LS4O526",
     name: "Ступень Lofthouse светло-серый 29.7x59.8",
     slug: "stupen-lofthouse-svetlo-seryj-297x598",
@@ -855,7 +855,7 @@ export const products: Product[] = [
     reviews_count: 5,
   },
   {
-    id: 20,
+    id: "20",
     sku: "LS6O096",
     name: "Мозаика Lofthouse серый 28.3x24.6",
     slug: "mozaika-lofthouse-seryj-283x246",
@@ -892,7 +892,7 @@ export const products: Product[] = [
     reviews_count: 11,
   },
   {
-    id: 21,
+    id: "21",
     sku: "LS6O526",
     name: "Мозаика Lofthouse светло-серый 28.3x24.6",
     slug: "mozaika-lofthouse-svetlo-seryj-283x246",
@@ -930,7 +930,7 @@ export const products: Product[] = [
 
   // ===== WOODHOUSE =====
   {
-    id: 22,
+    id: "22",
     sku: "WS4O116",
     name: "Ступень Woodhouse коричневый 29.7x59.8",
     slug: "stupen-woodhouse-korichnevyj-297x598",
@@ -966,7 +966,7 @@ export const products: Product[] = [
     reviews_count: 10,
   },
   {
-    id: 23,
+    id: "23",
     sku: "WS4O526",
     name: "Ступень Woodhouse светло-серый 29.7x59.8",
     slug: "stupen-woodhouse-svetlo-seryj-297x598",
@@ -1002,7 +1002,7 @@ export const products: Product[] = [
     reviews_count: 6,
   },
   {
-    id: 24,
+    id: "24",
     sku: "WS6O116",
     name: "Мозаика Woodhouse коричневый 30x30",
     slug: "mozaika-woodhouse-korichnevyj-30x30",
@@ -1040,7 +1040,7 @@ export const products: Product[] = [
 
   // ===== ROYAL STONE =====
   {
-    id: 25,
+    id: "25",
     sku: "RS2L451",
     name: "Royal Stone мозаика многоцветный 30x30",
     slug: "royal-stone-mozaika-mnogotsvetnyj-30x30",
@@ -1077,7 +1077,7 @@ export const products: Product[] = [
     reviews_count: 14,
   },
   {
-    id: 26,
+    id: "26",
     sku: "A16040",
     name: "Royal Stone мозаика белый 30x30",
     slug: "royal-stone-mozaika-belyj-30x30",
@@ -1116,7 +1116,7 @@ export const products: Product[] = [
 
   // ===== DECO =====
   {
-    id: 27,
+    id: "27",
     sku: "DE2L381",
     name: "Deco орнамент золотистый 29.8x59.8",
     slug: "deco-ornament-zolotistyj-298x598",
@@ -1153,7 +1153,7 @@ export const products: Product[] = [
     reviews_count: 16,
   },
   {
-    id: 28,
+    id: "28",
     sku: "DEL232",
     name: "Deco базовая светлая 29.8x59.8",
     slug: "deco-bazovaya-svetlaya-298x598",
@@ -1191,7 +1191,7 @@ export const products: Product[] = [
 
   // ===== EFFECTA =====
   {
-    id: 29,
+    id: "29",
     sku: "EFF-WGA011",
     name: "Effecta бежевый 2.5x60",
     slug: "effecta-bezhevyj-25x60",
@@ -1227,7 +1227,7 @@ export const products: Product[] = [
     reviews_count: 5,
   },
   {
-    id: 30,
+    id: "30",
     sku: "A15923",
     name: "Effecta панно джунгли бежевый 59.6x59.8",
     slug: "effecta-panno-dzhungli-bezhevyj-596x598",
@@ -1266,7 +1266,7 @@ export const products: Product[] = [
 
   // ===== GALAXY =====
   {
-    id: 31,
+    id: "31",
     sku: "GA4L012",
     name: "Galaxy бежевый 29.7x59.8",
     slug: "galaxy-bezhevyj-297x598",
@@ -1303,7 +1303,7 @@ export const products: Product[] = [
     reviews_count: 13,
   },
   {
-    id: 32,
+    id: "32",
     sku: "GA4L452",
     name: "Galaxy многоцветный 29.7x59.8",
     slug: "galaxy-mnogotsvetnyj-297x598",
@@ -1342,7 +1342,7 @@ export const products: Product[] = [
 
   // ===== INFINITY =====
   {
-    id: 33,
+    id: "33",
     sku: "IN4L092",
     name: "Infinity серый 29.7x59.8",
     slug: "infinity-seryj-297x598",
@@ -1379,7 +1379,7 @@ export const products: Product[] = [
     reviews_count: 22,
   },
   {
-    id: 34,
+    id: "34",
     sku: "IN4L402",
     name: "Infinity темно-серый 29.7x59.8",
     slug: "infinity-temno-seryj-297x598",
@@ -1418,7 +1418,7 @@ export const products: Product[] = [
 
   // ===== COLISEUM =====
   {
-    id: 35,
+    id: "35",
     sku: "CO4L012",
     name: "Coliseum бежевый 29.7x59.8",
     slug: "coliseum-bezhevyj-297x598",
@@ -1458,7 +1458,7 @@ export const products: Product[] = [
 
   // ===== NORTHWOOD =====
   {
-    id: 36,
+    id: "36",
     sku: "NW4M012",
     name: "Northwood бежевый 18.5x59.8",
     slug: "northwood-bezhevyj-185x598",
