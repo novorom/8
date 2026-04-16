@@ -1,5 +1,14 @@
+import type { Metadata } from "next"
 import { Suspense } from "react"
 import dynamic from "next/dynamic"
+
+export const metadata: Metadata = {
+  title: "Купить плитку в СПб и ЛО — Керамогранит, Кафель, Мозаика со склада",
+  description: "Огромный выбор керамической плитки и керамогранита в Санкт-Петербурге. Официальный дилер мировых брендов. Склад в Янино, доставка от 1 дня. Низкие цены, фото в интерьере.",
+  alternates: {
+    canonical: "https://plitki-spb.ru",
+  },
+}
 
 const HomeContent = dynamic(() => import("@/components/home-content").then(mod => ({ default: mod.HomeContent })), {
   loading: () => <div className="min-h-screen bg-background" />

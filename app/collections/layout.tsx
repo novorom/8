@@ -4,7 +4,6 @@ export const metadata: Metadata = {
   title: "Коллекции плитки Cersanit -- Calacatta, Wood Concept и другие | СПб",
   description:
     "Все коллекции керамической плитки и керамогранита Cersanit: Calacatta, Wood Concept Natural, Deco, Lofthouse и 80+ коллекций. Склад в Янино, доставка по Санкт-Петербургу и ЛО.",
-  alternates: { canonical: "/collections" },
   openGraph: {
     title: "Коллекции плитки Cersanit в СПб",
     description:
