@@ -146,20 +146,21 @@ export function ProductPageClient({ slug }: { slug: string }) {
     return [...same, ...scored].slice(0, 4)
   }, [products, product])
 
-  const initialQty = product.sqm_per_box || product.pieces_per_box || 1
+  const isPiece = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type)
+  const initialQty = isPiece ? 1 : (product.sqm_per_box || product.pieces_per_box || 1)
   useEffect(() => {
     setQuantity(initialQty)
   }, [product.id, initialQty])
 
-  const handleAddToCart = () => {
+    const isPieceValue = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type)
     addItem({
       id: product.id,
       name: product.name,
       price: product.price_retail,
       quantity,
       image: product.main_image || product.images?.[0],
-      boxSize: product.sqm_per_box || product.pieces_per_box || 1,
-      unit: ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type) ? "шт." : "м²",
+      boxSize: isPieceValue ? 1 : (product.sqm_per_box || product.pieces_per_box || 1),
+      unit: isPieceValue ? "шт." : "м²",
     })
     router.push("/cart")
   }
@@ -471,7 +472,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   <div className="flex items-center border border-border rounded-xl overflow-hidden bg-background h-12">
                     <button
                       onClick={() => {
-                        const step = product.sqm_per_box || product.pieces_per_box || 1
+                        const step = isPiece ? 1 : (product.sqm_per_box || product.pieces_per_box || 1)
                         setQuantity(Math.max(step, Number((quantity - step).toFixed(2))))
                       }}
                       className="h-full w-12 flex items-center justify-center hover:bg-accent transition-colors border-r border-border"
@@ -481,12 +482,12 @@ export function ProductPageClient({ slug }: { slug: string }) {
                     </button>
                     <input
                       type="number"
-                      step={product.sqm_per_box || product.pieces_per_box || 1}
-                      min={product.sqm_per_box || product.pieces_per_box || 1}
+                      step={isPiece ? 1 : (product.sqm_per_box || product.pieces_per_box || 1)}
+                      min={isPiece ? 1 : (product.sqm_per_box || product.pieces_per_box || 1)}
                       value={quantity}
                       onChange={(e) => setQuantity(Number(e.target.value))}
                       onBlur={() => {
-                        const step = product.sqm_per_box || product.pieces_per_box || 1
+                        const step = isPiece ? 1 : (product.sqm_per_box || product.pieces_per_box || 1)
                         const boxes = Math.ceil(quantity / step)
                         setQuantity(Number((boxes * step).toFixed(2)))
                       }}
@@ -494,7 +495,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                     />
                     <button
                       onClick={() => {
-                        const step = product.sqm_per_box || product.pieces_per_box || 1
+                        const step = isPiece ? 1 : (product.sqm_per_box || product.pieces_per_box || 1)
                         setQuantity(Number((quantity + step).toFixed(2)))
                       }}
                       className="h-full w-12 flex items-center justify-center hover:bg-accent transition-colors border-l border-border"
@@ -539,7 +540,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
               </div>
 
               {/* Расчет коробок */}
-              {(product.sqm_per_box || product.pieces_per_box) && (
+              {!isPiece && (product.sqm_per_box || product.pieces_per_box) && (
                 <div className="flex items-center gap-4 px-4 py-3 rounded-xl bg-orange-50 border border-orange-100 text-[13px]">
                   <div className="flex items-center gap-2 text-orange-800">
                     <Package className="h-4 w-4 shrink-0" />
