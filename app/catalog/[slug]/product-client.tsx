@@ -118,7 +118,11 @@ export function ProductPageClient({ slug }: { slug: string }) {
 
   const handleApplyCalc = () => {
     const total = calculateTotalNeeded()
-    if (total > 0) setQuantity(total)
+    if (total > 0) {
+      const step = product.sqm_per_box || product.pieces_per_box || 1
+      const boxes = Math.ceil(total / step)
+      setQuantity(Number((boxes * step).toFixed(2)))
+    }
   }
 
   const relatedProducts = useMemo(() => {
@@ -142,6 +146,11 @@ export function ProductPageClient({ slug }: { slug: string }) {
     return [...same, ...scored].slice(0, 4)
   }, [products, product])
 
+  const initialQty = product.sqm_per_box || product.pieces_per_box || 1
+  useEffect(() => {
+    setQuantity(initialQty)
+  }, [product.id, initialQty])
+
   const handleAddToCart = () => {
     addItem({
       id: product.id,
@@ -149,6 +158,8 @@ export function ProductPageClient({ slug }: { slug: string }) {
       price: product.price_retail,
       quantity,
       image: product.main_image || product.images?.[0],
+      boxSize: product.sqm_per_box || product.pieces_per_box || 1,
+      unit: ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type) ? "шт." : "м²",
     })
     router.push("/cart")
   }
@@ -451,53 +462,97 @@ export function ProductPageClient({ slug }: { slug: string }) {
             </div>
 
             {/* Quantity + Add to cart */}
-            <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-              <div className="flex items-center border border-border rounded-xl overflow-hidden bg-background">
-                <button
-                  onClick={() => setQuantity(Math.max(1, quantity - 1))}
-                  className="h-11 w-11 flex items-center justify-center hover:bg-accent transition-colors"
-                  aria-label="Уменьшить количество"
-                >
-                  <Minus className="h-4 w-4 text-foreground/70" />
-                </button>
-                <div className="h-11 w-14 flex items-center justify-center border-x border-border">
-                  <span className="text-sm font-medium text-foreground">{quantity} м²</span>
+            <div className="flex flex-col gap-4">
+              <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
+                <div className="flex flex-col gap-1.5">
+                  <label className="text-xs text-muted-foreground ml-1">
+                    Количество ({priceUnit.replace("₽/", "")})
+                  </label>
+                  <div className="flex items-center border border-border rounded-xl overflow-hidden bg-background h-12">
+                    <button
+                      onClick={() => {
+                        const step = product.sqm_per_box || product.pieces_per_box || 1
+                        setQuantity(Math.max(step, Number((quantity - step).toFixed(2))))
+                      }}
+                      className="h-full w-12 flex items-center justify-center hover:bg-accent transition-colors border-r border-border"
+                      aria-label="Уменьшить количество"
+                    >
+                      <Minus className="h-4 w-4 text-foreground/70" />
+                    </button>
+                    <input
+                      type="number"
+                      step={product.sqm_per_box || product.pieces_per_box || 1}
+                      min={product.sqm_per_box || product.pieces_per_box || 1}
+                      value={quantity}
+                      onChange={(e) => setQuantity(Number(e.target.value))}
+                      onBlur={() => {
+                        const step = product.sqm_per_box || product.pieces_per_box || 1
+                        const boxes = Math.ceil(quantity / step)
+                        setQuantity(Number((boxes * step).toFixed(2)))
+                      }}
+                      className="w-20 text-center text-sm font-bold bg-transparent focus:outline-none [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
+                    />
+                    <button
+                      onClick={() => {
+                        const step = product.sqm_per_box || product.pieces_per_box || 1
+                        setQuantity(Number((quantity + step).toFixed(2)))
+                      }}
+                      className="h-full w-12 flex items-center justify-center hover:bg-accent transition-colors border-l border-border"
+                      aria-label="Увеличить количество"
+                    >
+                      <Plus className="h-4 w-4 text-foreground/70" />
+                    </button>
+                  </div>
                 </div>
+
+                <div className="flex-1 flex flex-col gap-1.5">
+                  <span className="text-xs text-muted-foreground ml-1">
+                    Итого к заказу
+                  </span>
+                  <button
+                    onClick={handleAddToCart}
+                    className="h-12 w-full inline-flex items-center justify-center gap-2 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-all shadow-sm active:scale-[0.98]"
+                  >
+                    <ShoppingCart className="h-4 w-4" />
+                    В корзину{" "}
+                    <span className="font-bold border-l border-primary-foreground/30 pl-2 ml-1">
+                      {(product.price_retail * quantity).toLocaleString("ru-RU")} {"₽"}
+                    </span>
+                  </button>
+                </div>
+
                 <button
-                  onClick={() => setQuantity(quantity + 1)}
-                  className="h-11 w-11 flex items-center justify-center hover:bg-accent transition-colors"
-                  aria-label="Увеличить количество"
+                  onClick={() => setIsFavorite(!isFavorite)}
+                  className={`h-12 w-12 shrink-0 rounded-xl border flex items-center justify-center transition-colors mt-auto ${
+                    isFavorite
+                      ? "border-destructive/30 bg-destructive/5"
+                      : "border-border hover:bg-accent"
+                  }`}
+                  aria-label="Добавить в избранное"
                 >
-                  <Plus className="h-4 w-4 text-foreground/70" />
+                  <Heart
+                    className={`h-5 w-5 transition-colors ${
+                      isFavorite ? "fill-destructive text-destructive" : "text-foreground/60"
+                    }`}
+                  />
                 </button>
               </div>
 
-              <button
-                onClick={handleAddToCart}
-                className="flex-1 h-11 inline-flex items-center justify-center gap-2 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors"
-              >
-                <ShoppingCart className="h-4 w-4" />
-                В корзину{" "}
-                <span className="text-primary-foreground/70">
-                  {(product.price_retail * quantity).toLocaleString("ru-RU")} {"₽"}
-                </span>
-              </button>
-
-              <button
-                onClick={() => setIsFavorite(!isFavorite)}
-                className={`h-11 w-11 shrink-0 rounded-xl border flex items-center justify-center transition-colors ${
-                  isFavorite
-                    ? "border-destructive/30 bg-destructive/5"
-                    : "border-border hover:bg-accent"
-                }`}
-                aria-label="Добавить в избранное"
-              >
-                <Heart
-                  className={`h-5 w-5 transition-colors ${
-                    isFavorite ? "fill-destructive text-destructive" : "text-foreground/60"
-                  }`}
-                />
-              </button>
+              {/* Расчет коробок */}
+              {(product.sqm_per_box || product.pieces_per_box) && (
+                <div className="flex items-center gap-4 px-4 py-3 rounded-xl bg-orange-50 border border-orange-100 text-[13px]">
+                  <div className="flex items-center gap-2 text-orange-800">
+                    <Package className="h-4 w-4 shrink-0" />
+                    <span className="font-medium">
+                      {Math.ceil(quantity / (product.sqm_per_box || product.pieces_per_box || 1))} кор.
+                    </span>
+                  </div>
+                  <div className="h-4 w-px bg-orange-200" />
+                  <span className="text-orange-700/80">
+                    Товар отгружается кратно упаковкам. Мы автоматически округлили ваш заказ до полной коробки.
+                  </span>
+                </div>
+              )}
             </div>
             
             {/* ── ВСТРОЕННЫЙ КАЛЬКУЛЯТОР (CRO) ── */}

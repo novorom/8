@@ -145,23 +145,38 @@ export default function CartPage() {
                     <div className="flex-1">
                       <h3 className="font-medium text-foreground">{item.name}</h3>
                       <p className="text-sm text-foreground/60 mt-1">
-                        {(item.price).toLocaleString('ru-RU')} ₽ за м²
+                        {(item.price).toLocaleString('ru-RU')} ₽ за {item.unit || 'м²'}
                       </p>
 
-                      <div className="flex items-center gap-3 mt-4">
-                        <button
-                          onClick={() => updateQuantity(item.id, item.quantity - 1)}
-                          className="h-8 w-8 rounded-lg border border-border hover:bg-accent transition-colors flex items-center justify-center"
-                        >
-                          <Minus className="h-4 w-4 text-foreground/70" />
-                        </button>
-                        <span className="w-12 text-center text-sm font-medium">{item.quantity}</span>
-                        <button
-                          onClick={() => updateQuantity(item.id, item.quantity + 1)}
-                          className="h-8 w-8 rounded-lg border border-border hover:bg-accent transition-colors flex items-center justify-center"
-                        >
-                          <Plus className="h-4 w-4 text-foreground/70" />
-                        </button>
+                      <div className="flex flex-col gap-2 mt-4">
+                        <div className="flex items-center gap-3">
+                          <button
+                            onClick={() => {
+                              const step = item.boxSize || 1
+                              updateQuantity(item.id, Number((item.quantity - step).toFixed(2)))
+                            }}
+                            className="h-8 w-8 rounded-lg border border-border hover:bg-accent transition-colors flex items-center justify-center"
+                          >
+                            <Minus className="h-4 w-4 text-foreground/70" />
+                          </button>
+                          <span className="w-16 text-center text-sm font-bold">
+                            {item.quantity} {item.unit || 'м²'}
+                          </span>
+                          <button
+                            onClick={() => {
+                              const step = item.boxSize || 1
+                              updateQuantity(item.id, Number((item.quantity + step).toFixed(2)))
+                            }}
+                            className="h-8 w-8 rounded-lg border border-border hover:bg-accent transition-colors flex items-center justify-center"
+                          >
+                            <Plus className="h-4 w-4 text-foreground/70" />
+                          </button>
+                        </div>
+                        {item.boxSize && (
+                          <span className="text-[11px] text-orange-600 font-medium">
+                            {Math.round(item.quantity / item.boxSize)} кор.
+                          </span>
+                        )}
                       </div>
                     </div>
 

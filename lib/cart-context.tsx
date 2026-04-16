@@ -8,6 +8,8 @@ export interface CartItem {
   price: number
   quantity: number
   image?: string
+  boxSize?: number // sqm or pcs in one box
+  unit?: string // 'м²' or 'шт.'
 }
 
 interface CartContextType {
@@ -46,16 +48,23 @@ export function CartProvider({ children }: { children: ReactNode }) {
   }, [items, isHydrated])
 
   const addItem = (newItem: CartItem) => {
+    // Round quantity to nearest box size if provided
+    let finalQuantity = newItem.quantity
+    if (newItem.boxSize && newItem.boxSize > 0) {
+      const boxes = Math.ceil(newItem.quantity / newItem.boxSize)
+      finalQuantity = Number((boxes * newItem.boxSize).toFixed(2))
+    }
+
     setItems((prevItems) => {
       const existingItem = prevItems.find((item) => item.id === newItem.id)
       if (existingItem) {
         return prevItems.map((item) =>
           item.id === newItem.id
-            ? { ...item, quantity: item.quantity + newItem.quantity }
+            ? { ...item, quantity: Number((item.quantity + finalQuantity).toFixed(2)) }
             : item
         )
       }
-      return [...prevItems, newItem]
+      return [...prevItems, { ...newItem, quantity: finalQuantity }]
     })
   }
 
@@ -69,9 +78,17 @@ export function CartProvider({ children }: { children: ReactNode }) {
       return
     }
     setItems((prevItems) =>
-      prevItems.map((item) =>
-        item.id === id ? { ...item, quantity } : item
-      )
+      prevItems.map((item) => {
+        if (item.id === id) {
+          let finalQuantity = quantity
+          if (item.boxSize && item.boxSize > 0) {
+            const boxes = Math.ceil(quantity / item.boxSize)
+            finalQuantity = Number((boxes * item.boxSize).toFixed(2))
+          }
+          return { ...item, quantity: finalQuantity }
+        }
+        return item
+      })
     )
   }
 
