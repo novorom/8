@@ -1,0 +1,30 @@
+]
+
+// ─── Helpers ────────────────────────────────────────────────
+
+export const products: Product[] = [
+  ...localProducts,
+  ...(importedProducts as unknown as any[]).map(p => ({
+    ...p,
+    price_retail: p.price_retail ?? p.price ?? 0,
+    price_official: p.price_official ?? p.price ?? 0,
+  })) as Product[],
+]
+
+export const collections = [...new Set(products.map(p => p.collection))].sort()
+
+export const formats = [...new Set(products.map(p => p.format).filter(Boolean))].sort()
+
+export const colors = [...new Set(products.map(p => p.color).filter(Boolean))].sort()
+
+export function getProduct(slug: string): Product | undefined {
+  return products.find(p => p.slug === slug)
+}
+
+export function getProductsByCollection(collection: string): Product[] {
+  return products.filter(p => p.collection === collection)
+}
+
+export function getProductById(id: string): Product | undefined {
+  return products.find(p => p.id === id || p.bsu === id)
+}
