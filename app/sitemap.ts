@@ -5,24 +5,25 @@ import { seoPages } from "@/lib/seo-data"
 const SITE_URL = "https://plitki-spb.ru"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date().toISOString()
+  // Stable dated for sitemap (Yandex/Google prefers it over daily dynamic dates for unchanged content)
+  const lastUpdate = "2026-04-16"
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
-    { url: SITE_URL, lastModified: now, changeFrequency: "daily", priority: 1.0 },
-    { url: `${SITE_URL}/catalog`, lastModified: now, changeFrequency: "daily", priority: 0.9 },
-    { url: `${SITE_URL}/collections`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/brands`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/delivery`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/reviews`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/about`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/contacts`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
+    { url: SITE_URL, lastModified: lastUpdate, changeFrequency: "daily", priority: 1.0 },
+    { url: `${SITE_URL}/catalog`, lastModified: lastUpdate, changeFrequency: "daily", priority: 0.9 },
+    { url: `${SITE_URL}/collections`, lastModified: lastUpdate, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/brands`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/delivery`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/reviews`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/about`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/contacts`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
   ]
 
   // SEO landing pages
   const seoPagesList: MetadataRoute.Sitemap = Object.keys(seoPages).map((slug) => ({
     url: `${SITE_URL}/${slug}`,
-    lastModified: now,
+    lastModified: lastUpdate,
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }))
@@ -42,7 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ]
   const collectionPages: MetadataRoute.Sitemap = collectionSlugs.map((slug) => ({
     url: `${SITE_URL}/collections/${slug}`,
-    lastModified: now,
+    lastModified: lastUpdate,
     changeFrequency: "weekly" as const,
     priority: 0.85,
   }))
@@ -61,7 +62,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "brands/idalgo",
   ].map((path) => ({
     url: `${SITE_URL}/${path}`,
-    lastModified: now,
+    lastModified: lastUpdate,
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }))
@@ -93,7 +94,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
       return {
         url: `${SITE_URL}/catalog/${product.slug}`,
-        lastModified: now,
+        lastModified: lastUpdate,
         changeFrequency: "weekly" as const,
         priority: 0.8,
         images: allImages.length > 0 ? allImages : undefined,
