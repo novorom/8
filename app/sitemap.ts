@@ -60,6 +60,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "brands/bonaparte",
     "brands/gracia-keramika",
     "brands/idalgo",
+    "brands/dako",
+    "brands/eletto",
+    "brands/alma-ceramica",
+    "brands/pieza-rosa",
   ].map((path) => ({
     url: `${SITE_URL}/${path}`,
     lastModified: lastUpdate,

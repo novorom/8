@@ -73,6 +73,38 @@ const brands = [
     color: "#92400e",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/idalgo.jpg",
   },
+  {
+    slug: "eletto",
+    name: "Элетто",
+    description: "Современный бренд с актуальными дизайнами. Плитка высокого качества для стильных интерьеров.",
+    count: "217+ позиций",
+    color: "#be123c",
+    logo: "",
+  },
+  {
+    slug: "alma-ceramica",
+    name: "Alma Ceramica",
+    description: "Один из крупнейших российских производителей. Огромный выбор коллекций в европейском стиле.",
+    count: "500+ позиций",
+    color: "#0369a1",
+    logo: "",
+  },
+  {
+    slug: "pieza-rosa",
+    name: "Pieza ROSA",
+    description: "Надежный производитель керамической плитки с широким ассортиментом и доступными ценами.",
+    count: "372+ позиций",
+    color: "#4d7c0f",
+    logo: "",
+  },
+  {
+    slug: "dako",
+    name: "Dako",
+    description: "Практичный керамогранит популярных форматов для жилых и коммерческих помещений.",
+    count: "24+ позиции",
+    color: "#475569",
+    logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174052/brands/dako.jpg",
+  },
 ]
 
 export default function BrandsPage() {

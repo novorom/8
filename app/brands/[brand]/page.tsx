@@ -30,7 +30,7 @@ const brandData: Record<string, BrandInfo> = {
     advantages: ["400+ позиций на складе", "Самовывоз из Янино бесплатно", "Доставка по СПб от 1 дня", "Помощь в расчёте количества"],
     blogLink: "/blog/kerama-marazzi-kollektsii",
     blogTitle: "Читать: обзор коллекций Kerama Marazzi →",
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526445/plitki-spb/logos/kerama-marazzi.png",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png",
   },
   "azori": {
     name: "Азори",
@@ -42,7 +42,7 @@ const brandData: Record<string, BrandInfo> = {
     advantages: ["1000+ позиций на складе", "Коллекции РИВЕР, ПАТАГОНИЯ, САЛЬВАДОР", "Форматы от 20×60 до 42×42", "Доставка по СПб от 1 дня"],
     blogLink: "/blog/azori-plitka-obzor",
     blogTitle: "Читать: обзор коллекций Азори →",
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526448/plitki-spb/logos/azori.png",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png",
   },
   "cersanit": {
     name: "Cersanit",
@@ -54,7 +54,7 @@ const brandData: Record<string, BrandInfo> = {
     advantages: ["Коллекции Calacatta, Wood Concept", "Польское качество от 626 ₽/м²", "Все форматы: 22×90, 30×60, 60×120", "Склад Янино, доставка от 1 дня"],
     blogLink: "/blog/plitka-pod-mramor-v-interere",
     blogTitle: "Читать: плитка под мрамор — сравнение →",
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526446/plitki-spb/logos/cersanit.png",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png",
   },
   "nefrit-keramika": {
     name: "Нефрит-Керамика",
@@ -66,6 +66,7 @@ const brandData: Record<string, BrandInfo> = {
     advantages: ["Российский производитель", "Широкий выбор для ванной и кухни", "Доступные цены", "Доставка по СПб от 1 дня"],
     blogLink: "/blog/kak-vybrat-plitku-dlya-vannoj",
     blogTitle: "Читать: как выбрать плитку для ванной →",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174050/brands/nefrit-keramika.jpg",
   },
   "granitea": {
     name: "Гранитея",
@@ -77,7 +78,7 @@ const brandData: Record<string, BrandInfo> = {
     advantages: ["Уральское производство", "Морозостойкий керамогранит", "Форматы 600×600, 1200×600", "Коллекции под природный камень"],
     blogLink: "/blog/keramogranit-dlya-balkona-i-terraisy",
     blogTitle: "Читать: керамогранит для балкона →",
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526454/plitki-spb/logos/ural.jpg",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174051/brands/ural-granit.jpg",
   },
   "gracia-ceramica": {
     name: "Gracia Ceramica",
@@ -87,7 +88,7 @@ const brandData: Record<string, BrandInfo> = {
     h1: "Плитка Gracia Ceramica в Санкт-Петербурге",
     about: "Gracia Ceramica — российский бренд с очень широким ассортиментом коллекций. Более 170 серий: классика, современный минимализм, имитация дерева, камня, мрамора, бетона и терраццо. Форматы от 125×500 до 600×1200 мм. Один из лучших выборов по разнообразию дизайнов в доступном ценовом сегменте.",
     advantages: ["170+ коллекций на выбор", "Форматы от 125×500 до 600×1200", "Доступные цены", "Склад Янино, доставка от 1 дня"],
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526447/plitki-spb/logos/gracia.png",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/gracia-keramika.png",
   },
   "idalgo": {
     name: "Идальго",
@@ -97,7 +98,7 @@ const brandData: Record<string, BrandInfo> = {
     h1: "Плитка Идальго в Санкт-Петербурге",
     about: "Идальго — торговая марка Уральского гранита, специализирующаяся на современных дизайнерских коллекциях керамогранита. Особенность бренда — большой формат 1200×600 мм и разнообразие имитаций: мрамор, камень, бетон, дерево. Коллекции Concepta, Anna, Siena, Dolomiti и другие.",
     advantages: ["Большой формат 1200×600", "Коллекции под мрамор и камень", "Уральское производство", "Доставка по СПб от 1 дня"],
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526453/plitki-spb/logos/idalgo.jpg",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/idalgo.jpg",
   },
   "bonapart": {
     name: "Бонапарт",
@@ -107,7 +108,7 @@ const brandData: Record<string, BrandInfo> = {
     h1: "Плитка Бонапарт в Санкт-Петербурге",
     about: "Бонапарт — российский производитель керамической плитки с широким ассортиментом для ванных комнат и кухонь. Разнообразие коллекций в разных ценовых сегментах. Хорошее качество российского производства по доступным ценам.",
     advantages: ["Российский производитель", "Широкий выбор коллекций", "Доступные цены", "Доставка по СПб от 1 дня"],
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526455/plitki-spb/logos/bonapart.png",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174047/brands/bonaparte.png",
   },
   "dako": {
     name: "Dako",
@@ -117,7 +118,34 @@ const brandData: Record<string, BrandInfo> = {
     h1: "Плитка Dako в Санкт-Петербурге",
     about: "Dako — производитель керамогранита формата 60×60 см. В ассортименте коллекции Genio, Harmony, Liberty, Prime, Vita, City, Supreme, Season, Level, Extreme, Gold Sand, Mirage, Rock, Cosmos, Travertine. Практичный и доступный керамогранит для пола в квартирах и офисах.",
     advantages: ["Керамогранит 60×60", "Более 15 коллекций", "Доступные цены", "Склад Янино"],
-    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1773526452/plitki-spb/logos/dako.jpg",
+    logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174052/brands/dako.jpg",
+  },
+  "eletto": {
+    name: "Элетто",
+    brandField: "Элетто",
+    title: "Плитка Eletto в СПб — купить на складе Янино | Плитки СПб",
+    description: "Плитка Eletto в Санкт-Петербурге: современные коллекции, большой выбор на складе в Янино. Оперативная доставка по СПб и ЛО.",
+    h1: "Плитка Eletto в Санкт-Петербурге",
+    about: "Eletto — современный бренд керамической плитки, предлагающий стильные решения для современных интерьеров. Колекции бренда отличаются высоким качеством исполнения и актуальным дизайном.",
+    advantages: ["Современный дизайн", "Высокое качество", "Склад в СПб", "Доставка от 1 дня"],
+  },
+  "alma-ceramica": {
+    name: "Alma Ceramica",
+    brandField: "Alma Ceramica",
+    title: "Плитка Alma Ceramica в СПб — купить на складе | Плитки СПб",
+    description: "Alma Ceramica в Санкт-Петербурге: более 500 позиций на складе в Янино. Керамогранит и настенная плитка. Доставка по СПб.",
+    h1: "Плитка Alma Ceramica в Санкт-Петербурге",
+    about: "Alma Ceramica — один из ведущих российских производителей керамической плитки. Продукция бренда сочетает в себе европейские традиции дизайна и российские стандарты качества.",
+    advantages: ["500+ позиций в наличии", "Европейское качество", "Разнообразие форматов", "Доставка по СПб"],
+  },
+  "pieza-rosa": {
+    name: "Pieza ROSA",
+    brandField: "Pieza ROSA",
+    title: "Плитка Pieza ROSA в СПб — купить на складе | Плитки СПб",
+    description: "Pieza ROSA в Санкт-Петербурге: широкий ассортимент плитки и керамогранита. Склад Янино, доставка по СПб.",
+    h1: "Плитка Pieza ROSA в Санкт-Петербурге",
+    about: "Pieza ROSA — популярный бренд, предлагающий широкий выбор керамической плитки для любых помещений. Отличается сбалансированным соотношением цены и качества.",
+    advantages: ["Широкий ассортимент", "Доступные цены", "Склад в Янино", "Доставка от 1 дня"],
   },
 }
 
