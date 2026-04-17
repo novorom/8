@@ -152,6 +152,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
     setQuantity(initialQty)
   }, [product.id, initialQty])
 
+  const handleAddToCart = () => {
     const isPieceValue = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type)
     addItem({
       id: product.id,
