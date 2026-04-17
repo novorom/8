@@ -1,3 +1,0 @@
-module.exports=[96152,a=>{"use strict";var b=a.i(81332);function c({children:a}){return(0,b.jsx)(b.Fragment,{children:a})}a.s(["default",()=>c,"metadata",0,{title:"Коллекции плитки Cersanit -- Calacatta, Wood Concept и другие | СПб",description:"Все коллекции керамической плитки и керамогранита Cersanit: Calacatta, Wood Concept Natural, Deco, Lofthouse и 80+ коллекций. Склад в Янино, доставка по Санкт-Петербургу и ЛО.",alternates:{canonical:"/collections"},openGraph:{title:"Коллекции плитки Cersanit в СПб",description:"Все дизайнерские коллекции Cersanit в наличии на складе Янино. Доставка по СПб от 1 дня."}}])}];
-
-//# sourceMappingURL=app_collections_layout_tsx_a27aa680._.js.map

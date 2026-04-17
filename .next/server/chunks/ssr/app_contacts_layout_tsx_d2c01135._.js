@@ -1,3 +1,0 @@
-module.exports=[58844,a=>{"use strict";var b=a.i(81332);function c({children:a}){return(0,b.jsx)(b.Fragment,{children:a})}a.s(["default",()=>c,"metadata",0,{title:"Контакты магазина плитки Cersanit в СПб -- телефон, Telegram, адрес",description:"Свяжитесь с нами: +7 (905) 205-09-00, Telegram @flyroman, email novorom@mail.ru. Склад в Янино-1 (СПб). Режим работы: Пн-Пт 10:00-16:45. Доставка плитки по СПб и ЛО.",alternates:{canonical:"/contacts"},openGraph:{title:"Контакты магазина плитки Cersanit в СПб",description:"Телефон, Telegram, email. Склад и шоурум в Янино-1, Ленинградская область."}}])}];
-
-//# sourceMappingURL=app_contacts_layout_tsx_d2c01135._.js.map

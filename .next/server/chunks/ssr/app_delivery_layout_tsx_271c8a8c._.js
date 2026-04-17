@@ -1,3 +1,0 @@
-module.exports=[21825,a=>{"use strict";var b=a.i(81332);function c({children:a}){return(0,b.jsx)(b.Fragment,{children:a})}a.s(["default",()=>c,"metadata",0,{title:"Доставка плитки Cersanit по СПб и ЛО -- самовывоз со склада Янино",description:"Доставка керамической плитки и керамогранита Cersanit по Санкт-Петербургу и Ленинградской области от 1 дня. Бесплатный самовывоз со склада в Янино. Доставка по всей России.",alternates:{canonical:"/delivery"},openGraph:{title:"Доставка плитки Cersanit по СПб и ЛО",description:"Самовывоз бесплатно со склада Янино. Доставка по СПб от 1 дня. Транспорт по всей России."}}])}];
-
-//# sourceMappingURL=app_delivery_layout_tsx_271c8a8c._.js.map
