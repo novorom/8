@@ -9383,7 +9383,6 @@ const localProducts: Product[] = [
     is_new: true,
     rectified: false,
   },
-  },
 ]
 
 // ─── Helpers ────────────────────────────────────────────────
