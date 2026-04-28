@@ -65,7 +65,7 @@ export function SiteFooter() {
           <div className="lg:col-span-2">
             <Logo className="h-12 w-auto mb-4 brightness-0 invert" />
             <p className="text-sm text-slate-400 mb-4 max-w-xs">
-              Ведущий поставщик керамической плитки и керамогранита в Санкт-Петербурге и Ленинградской области. Складской терминал и пункт выдачи в Янино.
+              Ведущий поставщик керамической плитки и керамогранита в Санкт-Петербурге и Ленинградской области.
             </p>
             <div className="flex flex-col gap-2 text-sm">
               <a href="tel:+79052050900" className="flex items-center gap-2 hover:text-white transition-colors">
