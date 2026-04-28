@@ -11,21 +11,21 @@ export function HeroSection() {
         <img
           src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?q=80&w=2070&auto=format&fit=crop"
           alt="Luxury Interior Tiles"
-          className="h-full w-full object-cover opacity-40"
+          className="h-full w-full object-cover opacity-25"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-900/80 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/80 to-slate-900/40" />
       </div>
 
       <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="max-w-2xl">
-          <div className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary ring-1 ring-inset ring-primary/20 mb-6">
+          <div className="inline-flex items-center rounded-full bg-primary/20 px-3 py-1 text-sm font-semibold text-primary-foreground ring-1 ring-inset ring-primary/30 mb-6">
             Склад и выдача: Янино (рядом с КАД)
           </div>
-          <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl mb-6 leading-tight">
+          <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-6xl mb-6 leading-tight drop-shadow-sm">
             Плитка в Санкт-Петербурге <br className="hidden sm:block" />
             <span className="text-primary text-3xl sm:text-5xl">и Ленинградской области</span>
           </h1>
-          <p className="text-lg leading-8 text-slate-300 mb-10">
+          <p className="text-lg leading-8 text-slate-100 mb-10 font-medium">
             Официальный дилер ведущих брендов: Kerama Marazzi, Cersanit, Azori. 
             Более 5000 позиций в наличии. Честные цены и быстрая доставка по всему региону.
           </p>

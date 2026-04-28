@@ -124,7 +124,7 @@ export function SeoLandingPage({ data, children }: { data: SeoPageData, children
           <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-balance">
             {data.h1}
           </h1>
-          <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
+          <p className="mt-4 text-primary-foreground text-lg leading-relaxed max-w-3xl font-medium">
             {data.intro}
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
@@ -289,7 +289,7 @@ export function SeoLandingPage({ data, children }: { data: SeoPageData, children
               Акция месяца
             </div>
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">Бесплатный 3D-проект вашей ванной</h2>
-            <p className="text-slate-300 text-lg mb-8 leading-relaxed">
+            <p className="text-slate-200 text-lg mb-8 leading-relaxed font-medium">
               Не знаете, как плитка будет смотреться в вашем интерьере? Наши дизайнеры бесплатно составят 3D-визуализацию по вашим размерам. Вы увидите результат еще до покупки!
             </p>
             <ul className="space-y-3 mb-8">

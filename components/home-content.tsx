@@ -244,10 +244,10 @@ export function HomeContent() {
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/20 text-primary text-[10px] font-bold uppercase tracking-widest mb-6">
               Спецпредложение
             </div>
-            <h2 className="text-3xl lg:text-4xl xl:text-5xl font-bold mb-6 !leading-tight">
+            <h2 className="text-3xl lg:text-4xl xl:text-5xl font-extrabold mb-6 !leading-tight text-white">
               Бесплатный 3D-проект <br className="hidden xl:block" /> вашего интерьера
             </h2>
-            <p className="text-slate-400 text-lg mb-8 leading-relaxed max-w-xl mx-auto lg:mx-0">
+            <p className="text-slate-200 text-lg mb-8 leading-relaxed max-w-xl mx-auto lg:mx-0 font-medium">
               Наши дизайнеры создадут фотореалистичный проект вашей ванной или кухни с учетом всех размеров и выбранной плитки. Это бесплатно и ни к чему вас не обязывает.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10 text-left max-w-md mx-auto lg:mx-0">
