@@ -283,21 +283,8 @@ export default function ContactsPage() {
       {/* Info Section */}
       <section className="px-4 py-16 lg:py-20">
         <div className="mx-auto max-w-4xl">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="bg-card border border-border rounded-2xl p-8">
-              <MapPin className="w-8 h-8 text-primary mb-4" />
-              <h3 className="text-xl font-semibold text-foreground mb-3">Складской терминал</h3>
-              <p className="text-muted-foreground mb-2">
-                СПб и Ленобласть, Янино-1 (рядом с КАД)
-              </p>
-              <p className="text-sm text-muted-foreground">
-                Прием заказов и отгрузка:<br />
-                Пн-Пт: с 10:00 до 16:45<br />
-                Сб-Вс: выходной
-              </p>
-            </div>
-
-            <div className="bg-card border border-border rounded-2xl p-8">
+          <div className="flex justify-center">
+            <div className="bg-card border border-border rounded-2xl p-8 w-full max-w-md">
               <Phone className="w-8 h-8 text-primary mb-4" />
               <h3 className="text-xl font-semibold text-foreground mb-3">Режим работы</h3>
               <p className="text-muted-foreground mb-2">
