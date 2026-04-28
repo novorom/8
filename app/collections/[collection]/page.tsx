@@ -335,7 +335,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
           <h2 className="text-2xl font-bold text-foreground mb-2">
             {collectionName} — {collectionProducts.length} позиций
           </h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино, Ленинградская обл.</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           {collectionProducts.length > 0 ? (
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-6">
               {collectionProducts.map((product, i) => (
