@@ -6,7 +6,7 @@ import { Star, MapPin, Calendar, ExternalLink } from "lucide-react"
 export const metadata: Metadata = {
   title: "Отзывы о нас | Плитки СПб",
   description:
-    "Магазин плитки Cersanit с 2011 года в Санкт-Петербурге. Отзывы реальных покупателей. Более 15 лет на рынке керамической плитки и керамогранита. Склад и шоурум в Янино.",
+    "Магазин плитки Cersanit с 2011 года в Санкт-Петербурге. Отзывы реальных покупателей. Более 15 лет на рынке керамической плитки и керамогранита. Склад в Янино.",
   alternates: {
     canonical: "/reviews",
   },
@@ -127,7 +127,7 @@ export default function ReviewsPage() {
             </div>
             <div className="flex items-center gap-2 text-sm text-foreground/70">
               <Calendar className="h-4 w-4" />
-              <span>Ежедневные доставки и самовывоз из шоурума в Янино-1</span>
+              <span>Ежедневные доставки и самовывоз со склада в Янино-1</span>
             </div>
           </div>
 
@@ -210,7 +210,7 @@ export default function ReviewsPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-foreground font-bold">✓</span>
-                <span>Бесплатный самовывоз из шоурума</span>
+                <span>Бесплатный самовывоз со склада</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-foreground font-bold">✓</span>

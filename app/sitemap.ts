@@ -6,7 +6,7 @@ const SITE_URL = "https://plitki-spb.ru"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // Stable dated for sitemap (Yandex/Google prefers it over daily dynamic dates for unchanged content)
-  const lastUpdate = "2026-04-16"
+  const lastUpdate = "2026-04-27"
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [

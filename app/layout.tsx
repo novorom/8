@@ -26,6 +26,7 @@ export const metadata: Metadata = {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
       { url: "/icon-32.png", type: "image/png", sizes: "32x32" },
+      { url: "/favicon-120.png", type: "image/png", sizes: "120x120" },
       { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
       { url: "/icon-512.png", type: "image/png", sizes: "512x512" },
     ],
@@ -103,13 +104,7 @@ const localBusinessJsonLd = {
       opens: "10:00",
       closes: "16:45",
     },
-    {
-      "@type": "OpeningHoursSpecification",
-      description: "Шоурум",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-      opens: "10:00",
-      closes: "17:00",
-    },
+    
   ],
   areaServed: [
     { "@type": "City", name: "Санкт-Петербург" },

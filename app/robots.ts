@@ -48,8 +48,7 @@ export default function robots(): MetadataRoute.Robots {
     ],
     sitemap: [
       `${SITE_URL}/sitemap.xml`,
-      `${SITE_URL}/yandex-market.xml`,
-      `${SITE_URL}/google-shopping.xml`
+
     ],
     host: SITE_URL,
   }

@@ -7,7 +7,7 @@ export const metadata = {
   alternates: { canonical: '/about' },
   openGraph: {
     title: 'О компании Плитки СПб — магазин плитки в Санкт-Петербурге',
-    description: 'Многобрендовый магазин плитки в СПб. Kerama Marazzi, Cersanit, Азори и другие бренды. Склад и шоурум в Янино.',
+    description: 'Многобрендовый магазин плитки в СПб. Kerama Marazzi, Cersanit, Азори и другие бренды. Склад в Янино.',
   },
 }
 
