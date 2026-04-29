@@ -157,6 +157,35 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <img src="https://mc.yandex.ru/watch/99155021" style={{ position: 'absolute', left: '-9999px' }} alt="" />
           </div>
         </noscript>
+        <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async defer></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.renderBadge = function() {
+                var ratingBadgeContainer = document.createElement("div");
+                document.body.appendChild(ratingBadgeContainer);
+                window.gapi.load('ratingbadge', function() {
+                  window.gapi.ratingbadge.render(ratingBadgeContainer, {
+                    "merchant_id": 5750220121,
+                    "position": "BOTTOM_LEFT"
+                  });
+                });
+              }
+              
+              window.renderOptIn = function(orderId, email) {
+                window.gapi.load('surveyoptin', function() {
+                  window.gapi.surveyoptin.render({
+                    "merchant_id": 5750220121,
+                    "order_id": orderId,
+                    "email": email || "",
+                    "delivery_country": "RU",
+                    "estimated_delivery_date": new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
+                  });
+                });
+              }
+            `,
+          }}
+        />
       </head>
       <body className={`${inter.className} antialiased`}>
         <ProductsProvider>
