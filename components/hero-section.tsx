@@ -26,7 +26,7 @@ export function HeroSection() {
             <span className="text-primary text-3xl sm:text-5xl">и Ленинградской области</span>
           </h1>
           <p className="text-lg leading-8 text-slate-100 mb-10 font-medium">
-            Официальный дилер ведущих брендов: Kerama Marazzi, Cersanit, Azori. 
+            Ведущие бренды: Kerama Marazzi, Cersanit, Azori. 
             Более 5000 позиций в наличии. Честные цены и быстрая доставка по всему региону.
           </p>
           <div className="flex flex-wrap gap-4">

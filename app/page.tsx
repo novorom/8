@@ -19,7 +19,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "@id": "https://plitki-spb.ru/#localbusiness",
   name: "Плитки СПб — плитка и керамогранит в СПб и Ленобласти",
-  description: "Крупнейший поставщик керамической плитки и керамогранита в Санкт-Петербурге и Ленинградской области. Официальный дилер Kerama Marazzi, Cersanit, Азори. Складский хаб в Янино.",
+  description: "Крупнейший поставщик керамической плитки и керамогранита в Санкт-Петербурге и Ленинградской области. Ведущие бренды Kerama Marazzi, Cersanit, Азори. Складский хаб в Янино.",
   url: "https://plitki-spb.ru",
   telephone: "+7 (905) 205-09-00",
   email: "novorom@mail.ru",
