@@ -112,9 +112,6 @@ export function SiteFooter() {
                 <img src="https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png" alt="Cersanit" className="max-h-6 w-auto" />
               </div>
               <div className="bg-white/5 p-3 rounded-xl flex items-center justify-center h-12 border border-white/5">
-                <img src="https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png" alt="Kerama Marazzi" className="max-h-6 w-auto" />
-              </div>
-              <div className="bg-white/5 p-3 rounded-xl flex items-center justify-center h-12 border border-white/5">
                 <img src="https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png" alt="Azori" className="max-h-6 w-auto" />
               </div>
               <div className="bg-white/5 p-3 rounded-xl flex items-center justify-center h-12 border border-white/5">
