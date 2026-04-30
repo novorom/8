@@ -92,7 +92,7 @@ xl = pd.ExcelFile(excel_path)
 updated_count = 0
 
 # Process sheets
-for sheet_name in xl.sheet_names:
+for sheet_name in reversed(xl.sheet_names):
     print(f"Processing sheet: {sheet_name}")
     try:
         df_head = pd.read_excel(excel_path, sheet_name=sheet_name, nrows=50, header=None)
