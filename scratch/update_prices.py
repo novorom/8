@@ -174,12 +174,18 @@ with open(json_path, 'w', encoding='utf-8') as f:
 
 # Save TS
 print("Saving updated TS...")
-new_ts_content = re.sub(
-    r'export const importedProducts: any\[\] = (\[.*\]);?',
-    f'export const importedProducts: any[] = {json.dumps(products_ts, ensure_ascii=False, indent=2)};',
-    ts_content,
-    flags=re.DOTALL
-)
+# Use split/join or find/replace to avoid re.sub backslash issues
+prefix = 'export const importedProducts: any[] = '
+suffix_start = ts_content.find('];', ts_content.find(prefix)) + 2
+if suffix_start < 2: # maybe no semicolon
+    suffix_start = ts_content.find(']', ts_content.find(prefix)) + 1
+
+new_json_data = json.dumps(products_ts, ensure_ascii=False, indent=2)
+# Reconstruct the file content
+ts_prefix = ts_content.split(prefix)[0] + prefix
+ts_suffix = ts_content[suffix_start:]
+new_ts_content = ts_prefix + new_json_data + ts_suffix
+
 with open(ts_path, 'w', encoding='utf-8') as f:
     f.write(new_ts_content)
 
