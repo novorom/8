@@ -407,13 +407,6 @@ export function ProductPageClient({ slug }: { slug: string }) {
                 )}
               </div>
               
-              {/* 🔥 BULK DISCOUNT BADGE */}
-              <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-green-50 border border-green-100 w-fit">
-                <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse" />
-                <span className="text-xs font-bold text-green-700">
-                  Оптовая цена: {(product.price_retail * 0.93).toLocaleString("ru-RU")} {priceUnit} <span className="font-normal opacity-70">(от 70 м²)</span>
-                </span>
-              </div>
             </div>
 
             {/* Stock info */}
