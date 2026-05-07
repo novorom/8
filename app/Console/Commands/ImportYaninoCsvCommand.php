@@ -8,7 +8,7 @@ use Illuminate\Console\Command;
 class ImportYaninoCsvCommand extends Command
 {
     protected $signature = 'import:yanino-csv {file}';
-    protected $description = 'Импорт остатков Янино строго из CSV';
+    protected $description = 'Импорт остатков СПб строго из CSV';
 
     public function handle()
     {
@@ -19,7 +19,7 @@ class ImportYaninoCsvCommand extends Command
             return 1;
         }
 
-        $this->info("📦 Читаем остатки Янино из CSV: {$filePath}");
+        $this->info("📦 Читаем остатки СПб из CSV: {$filePath}");
 
         Product::query()->update(['stock_yanino' => 0]);
         $this->info("♻️ Старые остатки обнулены.");
@@ -53,7 +53,7 @@ class ImportYaninoCsvCommand extends Command
         fclose($handle);
 
         $this->newLine();
-        $this->info("✅ Готово! Обновлены остатки Янино для {$updatedCount} товаров.");
+        $this->info("✅ Готово! Обновлены остатки СПб для {$updatedCount} товаров.");
         return 0;
     }
 }

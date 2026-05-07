@@ -105,7 +105,7 @@ export default function AdminContent() {
         {
           fileType:
             fileType === "yanino"
-              ? "Остатки Янино"
+              ? "Остатки СПб"
               : fileType === "zavod"
                 ? "Остатки Завод"
                 : "Прайс Церсанит",
@@ -225,9 +225,9 @@ export default function AdminContent() {
             <h2 className="text-2xl font-bold text-foreground mb-4">Загрузка файлов</h2>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-              {/* Янино File */}
+              {/* СПб File */}
               <div className="flex flex-col">
-                <label className="block text-sm font-medium text-foreground mb-2">Остатки Янино</label>
+                <label className="block text-sm font-medium text-foreground mb-2">Остатки СПб</label>
                 <input
                   ref={yaninoFileRef}
                   type="file"

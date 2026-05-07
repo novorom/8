@@ -9,7 +9,7 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 class ImportYaninoXlsCommand extends Command
 {
     protected $signature = 'import:yanino-xls {file}';
-    protected $description = 'Импорт остатков Янино напрямую из оригинального XLS файла';
+    protected $description = 'Импорт остатков СПб напрямую из оригинального XLS файла';
 
     public function handle()
     {
@@ -72,7 +72,7 @@ class ImportYaninoXlsCommand extends Command
 
         $bar->finish();
         $this->newLine(2);
-        $this->info("✅ Готово! Обновлены остатки Янино для {$updatedCount} товаров.");
+        $this->info("✅ Готово! Обновлены остатки СПб для {$updatedCount} товаров.");
         return 0;
     }
 }

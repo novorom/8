@@ -177,7 +177,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
     image: product.images || [],
     description:
       product.description ||
-      `${product.name} — купить в Санкт-Петербурге со склада Янино. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
+      `${product.name} — купить в Санкт-Петербурге со склада СПб. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
     brand: { "@type": "Brand", name: product.brand || "Cersanit" },
     sku: product.sku,
     mpn: product.sku, // MPN is critical for Google Shopping
@@ -422,7 +422,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   {(product.stock_yanino ?? 0) > 0 && (
                     <div className="flex items-center gap-2">
                       <MapPin className="h-3.5 w-3.5" />
-                      <span>Склад Янино: {product.stock_yanino} м²</span>
+                      <span>склад в СПб: {product.stock_yanino} м²</span>
                     </div>
                   )}
                   {(product.stock_factory ?? 0) > 0 && (
@@ -796,7 +796,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   </h3>
                   <p className="text-sm text-muted-foreground leading-relaxed">
                     Этот товар {totalStock > 0
-                      ? `в наличии на складе${(product.stock_yanino ?? 0) > 0 ? ` (${product.stock_yanino} м²)` : ""}. Возможен бесплатный самовывоз со склада в Янино или оперативная доставка по Санкт-Петербургу и Ленинградской области.`
+                      ? `в наличии на складе${(product.stock_yanino ?? 0) > 0 ? ` (${product.stock_yanino} м²)` : ""}. Возможен бесплатный самовывоз со склада в СПб или оперативная доставка по Санкт-Петербургу и Ленинградской области.`
                       : "доступен под заказ напрямую со склада изготовителя."}
                     {" Мы осуществляем бесплатный расчёт раскладки и необходимого количества плитки. Оплата заказа возможна наличными при получении или по безналичному расчёту. Работаем с юридическими лицами (счёт с НДС)."}
                   </p>
@@ -828,7 +828,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
                   <h3 className="text-lg font-semibold text-foreground mb-3">Доставка</h3>
                   <div className="flex flex-col gap-3">
                     {[
-                      { title: "Самовывоз со склада", desc: "Бесплатно. Склад в п. Янино-1 (Ленинградская обл.)", time: "Следующий рабочий день" },
+                      { title: "Самовывоз со склада", desc: "Бесплатно. Склад в Санкт-Петербург (Ленинградская обл.)", time: "Следующий рабочий день" },
                       { title: "Доставка по СПб и ЛО", desc: "Стоимость зависит от объёма заказа", time: "1-2 рабочих дня" },
                       { title: "Доставка по России", desc: "Транспортной компанией (СДЭК, Деловые линии)", time: "3-7 рабочих дней" },
                     ].map((item) => (

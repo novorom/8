@@ -3,11 +3,11 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "Коллекции плитки Cersanit -- Calacatta, Wood Concept и другие | СПб",
   description:
-    "Все коллекции керамической плитки и керамогранита Cersanit: Calacatta, Wood Concept Natural, Deco, Lofthouse и 80+ коллекций. Склад в Янино, доставка по Санкт-Петербургу и ЛО.",
+    "Все коллекции керамической плитки и керамогранита Cersanit: Calacatta, Wood Concept Natural, Deco, Lofthouse и 80+ коллекций. Склад в СПб, доставка по Санкт-Петербургу и ЛО.",
   openGraph: {
     title: "Коллекции плитки Cersanit в СПб",
     description:
-      "Все дизайнерские коллекции Cersanit в наличии на складе Янино. Доставка по СПб от 1 дня.",
+      "Все дизайнерские коллекции Cersanit в наличии на складе в СПб. Доставка по СПб от 1 дня.",
   },
 }
 

@@ -4,7 +4,7 @@ import { BrandLogo } from "./brand-logo"
 
 export const metadata: Metadata = {
   title: "Все бренды плитки в СПб — Kerama Marazzi, Cersanit, Азори",
-  description: "Каталог плитки по брендам. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика, Урал Гранит и другие. Склад в Янино, доставка по СПб и ЛО.",
+  description: "Каталог плитки по брендам. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика, Урал Гранит и другие. Склад в СПб, доставка по СПб и ЛО.",
   alternates: { canonical: "/brands" },
 }
 
@@ -118,7 +118,7 @@ export default function BrandsPage() {
 
       <h1 className="text-3xl font-bold text-foreground mb-3">Бренды плитки в наличии</h1>
       <p className="text-muted-foreground mb-8 max-w-2xl">
-        Работаем напрямую с крупнейшими производителями. Весь ассортимент ведущих брендов на складе в Янино.
+        Работаем напрямую с крупнейшими производителями. Весь ассортимент ведущих брендов на складе в СПб.
         Самовывоз бесплатно, доставка по СПб и Ленобласти.
       </p>
 

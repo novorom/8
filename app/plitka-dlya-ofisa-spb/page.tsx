@@ -10,11 +10,11 @@ const PHONE_RAW = "+79052050900"
 
 export const metadata: Metadata = {
   title: "Плитка для офиса и коммерческих помещений в СПб | Плитки СПб",
-  description: "Плитка для офиса и коммерческих помещений Cersanit в СПб. Высокий класс износостойкости 4-5, морозостойкая. Склад Янино, доставка по СПб от 1 дня.",
+  description: "Плитка для офиса и коммерческих помещений Cersanit в СПб. Высокий класс износостойкости 4-5, морозостойкая. склад в СПб, доставка по СПб от 1 дня.",
   alternates: { canonical: `${SITE_URL}/plitka-dlya-ofisa-spb` },
   openGraph: {
     title: "Плитка для офиса и коммерческих помещений в Санкт-Петербурге",
-    description: "Плитка для офиса и коммерческих помещений Cersanit в СПб. Высокий класс износостойкости 4-5, морозостойкая. Склад Янино, доставка по СПб от 1 дня.",
+    description: "Плитка для офиса и коммерческих помещений Cersanit в СПб. Высокий класс износостойкости 4-5, морозостойкая. склад в СПб, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/plitka-dlya-ofisa-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -66,7 +66,7 @@ export default function LandingPage() {
         <div className="mx-auto max-w-7xl px-4">
           <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-balance">Плитка для офиса и коммерческих помещений в Санкт-Петербурге</h1>
           <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
-            {filteredProducts.length} позиций в наличии на складе в Янино. Официальный дилер Cersanit в Санкт-Петербурге.
+            {filteredProducts.length} позиций в наличии на складе в СПб. Официальный дилер Cersanit в Санкт-Петербурге.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#products" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
@@ -82,7 +82,7 @@ export default function LandingPage() {
       <section id="products" className="py-12 lg:py-16">
         <div className="mx-auto max-w-7xl px-4">
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">Плитка для офиса — {filteredProducts.length} позиций</h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {filteredProducts.map((product: any, index: number) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -103,7 +103,7 @@ export default function LandingPage() {
           </div>
           <div>
             <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">Купить плитку для офиса в СПб оптом и в розницу</h2>
-            <p className="text-foreground/80 leading-relaxed">Работаем как с розничными покупателями, так и с B2B-клиентами — строительными компаниями, дизайнерами, застройщиками. Возможна работа по договору с отсрочкой платежа. Склад в Янино-1, самовывоз бесплатный, доставка по СПб и ЛО.</p>
+            <p className="text-foreground/80 leading-relaxed">Работаем как с розничными покупателями, так и с B2B-клиентами — строительными компаниями, дизайнерами, застройщиками. Возможна работа по договору с отсрочкой платежа. Склад в СПб, самовывоз бесплатный, доставка по СПб и ЛО.</p>
           </div>
         </div>
       </section>

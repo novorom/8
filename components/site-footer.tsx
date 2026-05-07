@@ -49,7 +49,7 @@ const footerLinks = {
     { label: "Плитка для крыльца", href: "/dlya-krylcza-spb" },
     { label: "Плитка под дерево", href: "/plitka-pod-derevo-spb" },
     { label: "Доставка плитки", href: "/dostavka-plitki-spb" },
-    { label: "Плитка Янино", href: "/plitka-yanino-spb" },
+    { label: "Плитка СПб", href: "/plitka-yanino-spb" },
     { label: "Распродажа плитки", href: "/rasprodazha-plitki-spb" },
     { label: "Керамогранит оптом", href: "/keramogranit-optom-spb" },
     { label: "Калькулятор плитки", href: "/calculator-plitki-spb" },

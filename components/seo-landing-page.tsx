@@ -18,7 +18,7 @@ import type { SeoPageData } from "@/lib/seo-data"
 import { PHONE, PHONE_RAW, SITE_URL } from "@/lib/seo-data"
 
 const iconMap: Record<string, typeof MapPin> = {
-  "Склад в Янино": MapPin,
+  "Склад в СПб": MapPin,
   "Быстрая доставка": Truck,
   "Надежный поставщик": ShieldCheck,
   "Бесплатный самовывоз": Package,
@@ -42,7 +42,7 @@ const iconMap: Record<string, typeof MapPin> = {
   "С заносом": Truck,
   "С 2011 года": Award,
   "750+ позиций": Package,
-  "Шоурум в Янино": MapPin,
+  "Шоурум в СПб": MapPin,
   "Отзывы на Avito": ShieldCheck,
 }
 
@@ -202,7 +202,7 @@ export function SeoLandingPage({ data, children }: { data: SeoPageData, children
             <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
               Популярные товары
             </h2>
-            <p className="text-muted-foreground mb-8">Актуальные позиции со склада Янино</p>
+            <p className="text-muted-foreground mb-8">Актуальные позиции со склада СПб</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               {data.featuredProducts.map((p) => {
                 const prod = products.find((pr: { slug: string; main_image?: string }) => pr.slug === p.slug)

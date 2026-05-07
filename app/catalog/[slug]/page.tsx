@@ -35,7 +35,7 @@ export async function generateMetadata({
 
   const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка"].includes(product.product_type ?? "") ? "₽/шт" : "₽/м²"
   const title = `${product.name} — купить по цене ${product.price_retail} ${priceUnit} на портале Плитки СПб`
-  const description = `Заказывайте ${product.name} в Плитки СПб по цене ${product.price_retail} ${priceUnit}. ${product.collection ? ` Коллекция: ${product.collection}.` : ""} ${product.format ? `Размер: ${product.format} см.` : ""} Быстрая отгрузка со складского хаба в Янино. В наличии более ${product.stock_yanino || "3000"} единиц продукции. Артикул: ${product.sku}.`
+  const description = `Заказывайте ${product.name} в Плитки СПб по цене ${product.price_retail} ${priceUnit}. ${product.collection ? ` Коллекция: ${product.collection}.` : ""} ${product.format ? `Размер: ${product.format} см.` : ""} Быстрая отгрузка со складского хаба в СПб. В наличии более ${product.stock_yanino || "3000"} единиц продукции. Артикул: ${product.sku}.`
 
   return {
     title,

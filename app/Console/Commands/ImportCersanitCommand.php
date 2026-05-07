@@ -107,7 +107,7 @@ class ImportCersanitCommand extends Command
                     'faq' => json_encode([
                         [
                             'question' => 'Где можно купить эту плитку?',
-                            'answer' => 'Плитка в наличии на нашем складе в Янино. Самовывоз сегодня, доставка по СПб от 500₽.'
+                            'answer' => 'Плитка в наличии на нашем складе в СПб. Самовывоз сегодня, доставка по СПб от 500₽.'
                         ],
                         [
                             'question' => 'Какая цена действует?',
@@ -115,11 +115,11 @@ class ImportCersanitCommand extends Command
                         ],
                         [
                             'question' => 'Есть ли в наличии?',
-                            'answer' => 'Да, товар в наличии на складе в Янино-1. Уточните актуальные остатки по телефону или WhatsApp.'
+                            'answer' => 'Да, товар в наличии на складе в СПб. Уточните актуальные остатки по телефону или WhatsApp.'
                         ],
                         [
                             'question' => 'Сколько времени занимает доставка?',
-                            'answer' => 'Самовывоз из Янино - сегодня. Доставка по СПб - на следующий день. С завода - 7 дней.'
+                            'answer' => 'Самовывоз со склада в СПб - сегодня. Доставка по СПб - на следующий день. С завода - 7 дней.'
                         ],
                     ], JSON_UNESCAPED_UNICODE),
                     
@@ -232,7 +232,7 @@ class ImportCersanitCommand extends Command
     private function generateTitle($data)
     {
         return sprintf(
-            '%s %s %s купить в СПб - %s₽ (-20%%) | Cersanit Янино',
+            '%s %s %s купить в СПб - %s₽ (-20%%) | Cersanit',
             ucfirst($data['type']),
             $data['collection'],
             $data['size'],
@@ -243,7 +243,7 @@ class ImportCersanitCommand extends Command
     private function generateDescription($data)
     {
         return sprintf(
-            '%s %s %s см от официального дилера Cersanit в СПб. Цена %s₽ вместо %s₽ (экономия %s₽). Склад Янино, самовывоз сегодня. Доставка по СПб от 500₽. Артикул: %s',
+            '%s %s %s см от официального дилера Cersanit в СПб. Цена %s₽ вместо %s₽ (экономия %s₽). склад в СПб, самовывоз сегодня. Доставка по СПб от 500₽. Артикул: %s',
             ucfirst($data['type']),
             $data['collection'],
             $data['size'],
@@ -261,7 +261,7 @@ class ImportCersanitCommand extends Command
             mb_strtolower($data['collection']),
             $data['type'],
             $data['size'],
-            'янино',
+            'СПб',
             'спб',
             'купить',
             'цена',
@@ -288,7 +288,7 @@ class ImportCersanitCommand extends Command
 - ✅ Официальный дилер Cersanit
 - ✅ Цена {$data['price_our']}₽ вместо {$data['price_retail']}₽
 - ✅ Экономия {$data['discount']}₽ на каждом м²
-- ✅ Склад в Янино (самовывоз сегодня)
+- ✅ Склад в СПб (самовывоз сегодня)
 - ✅ Доставка по СПБ от 500₽
 - ✅ С завода за 7 дней
 

@@ -93,7 +93,7 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
         <div className="absolute bottom-2.5 left-2.5 flex flex-col gap-1">
           {yanino > 0 && (
             <span className="px-2 py-0.5 rounded-md bg-green-600/90 text-white text-[11px] font-medium backdrop-blur-sm">
-              Янино: {yanino} {stockUnit}
+              СПб: {yanino} {stockUnit}
             </span>
           )}
           {factory > 0 && (

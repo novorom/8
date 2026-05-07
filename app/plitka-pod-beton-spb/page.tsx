@@ -15,11 +15,11 @@ const BETON_COLLECTIONS = [
 
 export const metadata: Metadata = {
   title: "Плитка под бетон Cersanit купить в Санкт-Петербурге | Плитки СПб",
-  description: "Керамогранит под бетон и лофт Cersanit в СПб. Soft Concrete, Concretehouse, Lofthouse, Effecta — склад Янино, доставка по СПб от 1 дня. Стиль лофт и минимализм для пола и стен.",
+  description: "Керамогранит под бетон и лофт Cersanit в СПб. Soft Concrete, Concretehouse, Lofthouse, Effecta — склад в СПб, доставка по СПб от 1 дня. Стиль лофт и минимализм для пола и стен.",
   alternates: { canonical: `${SITE_URL}/plitka-pod-beton-spb` },
   openGraph: {
     title: "Плитка под бетон Cersanit в Санкт-Петербурге",
-    description: "Керамогранит в стиле лофт — Soft Concrete, Concretehouse, Lofthouse. Склад в Янино, доставка по СПб от 1 дня.",
+    description: "Керамогранит в стиле лофт — Soft Concrete, Concretehouse, Lofthouse. Склад в СПб, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/plitka-pod-beton-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -46,7 +46,7 @@ const faq = [
   },
   {
     question: "Как быстро доставите в Санкт-Петербурге?",
-    answer: "Доставка по СПб и ЛО — 1-2 рабочих дня. Самовывоз из Янино бесплатный в день оплаты. Пн-Пт 10:00-16:45.",
+    answer: "Доставка по СПб и ЛО — 1-2 рабочих дня. Самовывоз со склада в СПб бесплатный в день оплаты. Пн-Пт 10:00-16:45.",
   },
 ]
 
@@ -91,7 +91,7 @@ export default function PlitkaПодБетон() {
           </h1>
           <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
             Индустриальный стиль лофт и минимализм для пола и стен. Soft Concrete, Concretehouse,
-            Lofthouse — {betonProducts.length} позиций в наличии на складе в Янино.
+            Lofthouse — {betonProducts.length} позиций в наличии на складе в СПб.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#products" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
@@ -110,7 +110,7 @@ export default function PlitkaПодБетон() {
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
             Керамогранит под бетон и лофт — {betonProducts.length} позиций
           </h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {betonProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -150,7 +150,7 @@ export default function PlitkaПодБетон() {
               Условия покупки в Санкт-Петербурге
             </h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент в наличии на складе в Янино-1. Самовывоз бесплатный.
+              Весь ассортимент в наличии на складе в СПб. Самовывоз бесплатный.
               Доставка по СПб и ЛО от 1-2 рабочих дней. Помогаем с подбором и расчётом количества.
             </p>
           </div>

@@ -60,7 +60,7 @@ export const filterOptions = {
     "Геометрия",
   ],
   availability: [
-    "В наличии на складе Янино",
+    "В наличии на складе в СПб",
     "На заводе (Под заказ)",
   ],
   surface_types: [

@@ -42,7 +42,7 @@ npm run import:products
 ### Дополнительные поля:
 - `поверхность`, `surface`
 - `цвет`, `color`
-- `остаток янино`, `stock_yanino`
+- `остаток СПб`, `stock_yanino`
 - `остаток завод`, `stock_factory`
 - `цена официальная`, `price_official`
 - `бренд`, `brand`

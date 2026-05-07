@@ -94,7 +94,7 @@ export default function Article() {
           ))}
           <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6 text-center">
             <p className="font-semibold text-foreground mb-2">Все трендовые коллекции в наличии</p>
-            <p className="text-muted-foreground text-sm mb-4">193 позиции на складе Янино — доставка по СПб от 1 дня</p>
+            <p className="text-muted-foreground text-sm mb-4">193 позиции на складе в СПб — доставка по СПб от 1 дня</p>
             <Link href="/catalog" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors">
               Перейти в каталог →
             </Link>

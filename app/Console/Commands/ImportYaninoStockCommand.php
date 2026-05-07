@@ -9,7 +9,7 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 class ImportYaninoStockCommand extends Command
 {
     protected $signature = 'import:yanino {file : Путь к оригинальному XLS/XLSX файлу}';
-    protected $description = 'Обновление остатков Янино напрямую из оригинального Excel файла';
+    protected $description = 'Обновление остатков СПб напрямую из оригинального Excel файла';
 
     public function handle()
     {
@@ -32,9 +32,9 @@ class ImportYaninoStockCommand extends Command
             return 1;
         }
 
-        // Обнуляем старые остатки Янино
+        // Обнуляем старые остатки СПб
         Product::query()->update(['stock_yanino' => 0]);
-        $this->info("♻️ Старые остатки Янино обнулены.");
+        $this->info("♻️ Старые остатки СПб обнулены.");
 
         $bar = $this->output->createProgressBar(count($rows));
         $bar->start();
@@ -76,7 +76,7 @@ class ImportYaninoStockCommand extends Command
 
         $bar->finish();
         $this->newLine(2);
-        $this->info("✅ Готово! Обновлены остатки Янино для {$updatedCount} товаров.");
+        $this->info("✅ Готово! Обновлены остатки СПб для {$updatedCount} товаров.");
 
         return 0;
     }

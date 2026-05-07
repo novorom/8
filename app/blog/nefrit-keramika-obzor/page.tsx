@@ -6,7 +6,7 @@ const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: "Плитка Нефрит-Керамика: коллекции, цены, где купить в СПб | Плитки СПб",
-  description: "Обзор плитки Нефрит-Керамика: коллекции для ванной и кухни, цены, форматы. Купить Нефрит-Керамика в Санкт-Петербурге на складе в Янино. Доставка от 1 дня.",
+  description: "Обзор плитки Нефрит-Керамика: коллекции для ванной и кухни, цены, форматы. Купить Нефрит-Керамика в Санкт-Петербурге на складе в СПб. Доставка от 1 дня.",
   alternates: { canonical: `${SITE_URL}/blog/nefrit-keramika-obzor` },
   openGraph: {
     title: "Плитка Нефрит-Керамика: коллекции, цены, где купить в СПб",
@@ -65,7 +65,7 @@ export default function Article() {
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed">
             Нефрит-Керамика — один из крупнейших российских производителей. Разбираем лучшие коллекции,
-            цены и особенности бренда. Большой ассортимент на складе Плитки СПб в Янино.
+            цены и особенности бренда. Большой ассортимент на складе Плитки СПб в СПб.
           </p>
         </header>
 
@@ -95,7 +95,7 @@ export default function Article() {
             },
             {
               title: "Как купить в Санкт-Петербурге",
-              text: "Магазин Плитки СПб, склад в Янино-1 (Ленинградская область, 15–20 мин от КАД). В наличии более 900 позиций Нефрит-Керамика.  Самовывоз бесплатный, доставка по СПб и ЛО от 1 рабочего дня. Помогаем рассчитать количество с запасом на подрезку.",
+              text: "Магазин Плитки СПб, склад в СПб (Ленинградская область, 15–20 мин от КАД). В наличии более 900 позиций Нефрит-Керамика.  Самовывоз бесплатный, доставка по СПб и ЛО от 1 рабочего дня. Помогаем рассчитать количество с запасом на подрезку.",
             },
           ].map((item) => (
             <section key={item.title}>
@@ -111,7 +111,7 @@ export default function Article() {
 
           <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6 text-center">
             <p className="font-semibold text-foreground mb-2">Нефрит-Керамика — 900+ позиций на складе</p>
-            <p className="text-muted-foreground text-sm mb-4">Самовывоз и доставка по СПб от 1 дня · Янино-1</p>
+            <p className="text-muted-foreground text-sm mb-4">Самовывоз и доставка по СПб от 1 дня · СПб</p>
             <Link
               href="/catalog?brand=Нефрит-Керамика"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors"

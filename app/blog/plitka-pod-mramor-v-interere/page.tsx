@@ -65,7 +65,7 @@ export default function Article() {
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed">
             Мраморный дизайн — вне времени. Сравниваем лучшие коллекции разных брендов, 
-            которые есть в наличии на складе в Янино: от 650 до 3500 ₽/м².
+            которые есть в наличии на складе в СПб: от 650 до 3500 ₽/м².
           </p>
         </header>
 
@@ -114,7 +114,7 @@ export default function Article() {
           ))}
 
           <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6 text-center">
-            <p className="font-semibold text-foreground mb-2">Плитка под мрамор от 650 ₽/м² — на складе в Янино</p>
+            <p className="font-semibold text-foreground mb-2">Плитка под мрамор от 650 ₽/м² — на складе в СПб</p>
             <p className="text-muted-foreground text-sm mb-4">Cersanit, Kerama Marazzi, Gracia Ceramica — более 200 позиций</p>
             <Link
               href="/plitka-pod-mramor-spb"

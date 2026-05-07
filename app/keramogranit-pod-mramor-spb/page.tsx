@@ -16,11 +16,11 @@ const MARBLE_COLLECTIONS = [
 
 export const metadata: Metadata = {
   title: "Керамогранит под мрамор Cersanit в СПб — купить со склада | Плитки СПб",
-  description: "Керамогранит под мрамор Cersanit в СПб. Calacatta, Deep Calacatta, Lumina Onyx, Travertino — в наличии на складе Янино. Доставка по СПб от 1 дня. Роскошный вид без хлопот.",
+  description: "Керамогранит под мрамор Cersanit в СПб. Calacatta, Deep Calacatta, Lumina Onyx, Travertino — в наличии на складе в СПб. Доставка по СПб от 1 дня. Роскошный вид без хлопот.",
   alternates: { canonical: `${SITE_URL}/plitka-pod-mramor-spb` },
   openGraph: {
     title: "Плитка под мрамор Cersanit в Санкт-Петербурге",
-    description: "Керамогранит с имитацией мрамора — Calacatta, Deep Calacatta, Lumina Onyx. Склад в Янино, доставка по СПб от 1 дня.",
+    description: "Керамогранит с имитацией мрамора — Calacatta, Deep Calacatta, Lumina Onyx. Склад в СПб, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/plitka-pod-mramor-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -47,7 +47,7 @@ const faq = [
   },
   {
     question: "Как быстро доставите плитку в Санкт-Петербурге?",
-    answer: "Доставка по СПб и ЛО — 1-2 рабочих дня. Самовывоз из Янино бесплатный в день оплаты. Пн-Пт 10:00-16:45.",
+    answer: "Доставка по СПб и ЛО — 1-2 рабочих дня. Самовывоз со склада в СПб бесплатный в день оплаты. Пн-Пт 10:00-16:45.",
   },
 ]
 
@@ -93,7 +93,7 @@ export default function PlitkaПодМрамор() {
           </h1>
           <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
             Роскошь натурального мрамора без сложного ухода и высоких цен. Коллекции Calacatta,
-            Deep Calacatta, Lumina Onyx — {marbleProducts.length} позиций в наличии на складе в Янино.
+            Deep Calacatta, Lumina Onyx — {marbleProducts.length} позиций в наличии на складе в СПб.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#products" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
@@ -112,7 +112,7 @@ export default function PlitkaПодМрамор() {
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
             Керамогранит под мрамор — {marbleProducts.length} позиций
           </h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {marbleProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -152,7 +152,7 @@ export default function PlitkaПодМрамор() {
               Купить плитку под мрамор в СПб
             </h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент в наличии на складе в Янино-1. Самовывоз бесплатный.
+              Весь ассортимент в наличии на складе в СПб. Самовывоз бесплатный.
               Доставка по СПб и ЛО от 1-2 рабочих дней. Бесплатный расчёт количества плитки,
               помощь в подборе коллекции под ваш проект.
             </p>

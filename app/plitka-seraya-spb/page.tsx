@@ -12,11 +12,11 @@ const GRAY_COLORS = ["серый", "светло-серый", "темно-сер
 
 export const metadata: Metadata = {
   title: "Серая плитка Cersanit купить в Санкт-Петербурге | Плитки СПб",
-  description: "Серая плитка и керамогранит Cersanit в СПб — 64 позиции в наличии. Soft Concrete, Lofthouse, Northwood — склад Янино, доставка по СПб от 1 дня. Цены от 665 ₽/м².",
+  description: "Серая плитка и керамогранит Cersanit в СПб — 64 позиции в наличии. Soft Concrete, Lofthouse, Northwood — склад в СПб, доставка по СПб от 1 дня. Цены от 665 ₽/м².",
   alternates: { canonical: `${SITE_URL}/plitka-seraya-spb` },
   openGraph: {
     title: "Серая плитка Cersanit в Санкт-Петербурге",
-    description: "Серая плитка и керамогранит — Soft Concrete, Lofthouse, Northwood. Склад в Янино, доставка по СПб от 1 дня.",
+    description: "Серая плитка и керамогранит — Soft Concrete, Lofthouse, Northwood. Склад в СПб, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/plitka-seraya-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -43,7 +43,7 @@ const faq = [
   },
   {
     question: "Как быстро доставите серую плитку в СПб?",
-    answer: "Доставка по Санкт-Петербургу и ЛО — 1-2 рабочих дня. Самовывоз из склада в Янино-1 бесплатный в день оплаты. Режим работы склада: Пн-Пт 10:00-16:45.",
+    answer: "Доставка по Санкт-Петербургу и ЛО — 1-2 рабочих дня. Самовывоз из склада в СПб бесплатный в день оплаты. Режим работы склада: Пн-Пт 10:00-16:45.",
   },
 ]
 
@@ -88,7 +88,7 @@ export default function PlitkaSeraya() {
           </h1>
           <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
             Универсальный цвет для любого интерьера. Soft Concrete, Lofthouse, Northwood —
-            {grayProducts.length} позиций в наличии на складе в Янино.
+            {grayProducts.length} позиций в наличии на складе в СПб.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#products" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
@@ -106,7 +106,7 @@ export default function PlitkaSeraya() {
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
             Серая плитка — {grayProducts.length} позиций
           </h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {grayProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -139,7 +139,7 @@ export default function PlitkaSeraya() {
           <div>
             <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">Купить серую плитку в СПб</h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент серой плитки Cersanit в наличии на складе в Янино-1.
+              Весь ассортимент серой плитки Cersanit в наличии на складе в СПб.
               Самовывоз бесплатный. Доставка по СПб и ЛО от 1-2 рабочих дней.
               Бесплатный расчёт количества плитки и помощь в подборе коллекции.
             </p>

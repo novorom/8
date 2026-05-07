@@ -78,7 +78,7 @@ class ProductResource extends Resource
                 Forms\Components\Section::make('Остатки')
                     ->schema([
                         Forms\Components\TextInput::make('stock_yanino')
-                            ->label('Склад Янино')
+                            ->label('склад в СПб')
                             ->numeric()
                             ->default(0)
                             ->step(0.01),
@@ -132,7 +132,7 @@ class ProductResource extends Resource
                     ->sortable()
                     ->color('success'),
                 Tables\Columns\TextColumn::make('stock_yanino')
-                    ->label('Янино')
+                    ->label('СПб')
                     ->numeric(decimalPlaces: 2)
                     ->sortable()
                     ->toggleable(),

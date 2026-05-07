@@ -81,7 +81,7 @@ export default function HowToLayMosaic() {
           </section>
           <div className="bg-green-50 border border-green-200 rounded-xl p-5">
             <h3 className="text-green-900 font-bold mb-2">Есть вопросы по мозаике?</h3>
-            <p className="text-green-800 text-sm">Бесплатная консультация: <a href="tel:+79052050900" className="font-bold underline">+7 (905) 205-09-00</a>. Мозаика Cersanit в наличии на складе в Янино.</p>
+            <p className="text-green-800 text-sm">Бесплатная консультация: <a href="tel:+79052050900" className="font-bold underline">+7 (905) 205-09-00</a>. Мозаика Cersanit в наличии на складе в СПб.</p>
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-border">

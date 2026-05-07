@@ -117,7 +117,7 @@ function CatalogContent({ initialProducts = [] }: { initialProducts?: Product[] 
           const s1 = record["stock_yanino"] as number || 0;
           const s2 = record["stock_factory"] as number || 0;
           const totalStock = s1 + s2;
-          const hasInStock = values.includes("В наличии на складе Янино");
+          const hasInStock = values.includes("В наличии на складе в СПб");
           const hasFactory = values.includes("На заводе (Под заказ)");
           if (hasInStock && hasFactory) return true;
           if (hasInStock) return totalStock > 0;

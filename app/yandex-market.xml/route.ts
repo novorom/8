@@ -63,7 +63,7 @@ export async function GET() {
         <delivery>true</delivery>
         <name>${escapeXml(product.name)}</name>
         <vendor>${escapeXml(product.brand || "Плитки СПб")}</vendor>
-        <description><![CDATA[${product.name} коллекции ${product.collection || ""} от Плитки СПб. Официальные поставки со склада в Янино. Быстрая отгрузка и доставка по СПб и ЛО. Артикул: ${product.sku || ""}]]></description>
+        <description><![CDATA[${product.name} коллекции ${product.collection || ""} от Плитки СПб. Официальные поставки со склада в СПб. Быстрая отгрузка и доставка по СПб и ЛО. Артикул: ${product.sku || ""}]]></description>
       </offer>`
   }).join("\n");
 

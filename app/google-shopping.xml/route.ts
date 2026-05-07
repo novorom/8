@@ -9,7 +9,7 @@ export async function GET() {
   <channel>
     <title>Плитки СПб</title>
     <link>${SITE_URL}</link>
-    <description>Магазин плитки и керамогранита в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори и другие бренды со склада в Янино.</description>
+    <description>Магазин плитки и керамогранита в Санкт-Петербурге. Kerama Marazzi, Cersanit, Азори и другие бренды со склада в СПб.</description>
 `;
 
   const escapeXml = (unsafe: string | undefined | null) => {

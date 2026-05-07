@@ -61,7 +61,7 @@ cat > resources/views/catalog/product-card.blade.php << 'ENDOFFILE'
             
             @if($product->stock_yanino > 0)
                 <div class="absolute top-3 left-3 bg-green-500 text-white px-3 py-1 rounded-full text-sm font-medium">
-                    Склад Янино
+                    склад в СПб
                 </div>
             @elseif($product->stock_factory > 0)
                 <div class="absolute top-3 left-3 bg-blue-500 text-white px-3 py-1 rounded-full text-sm font-medium">
@@ -94,7 +94,7 @@ cat > resources/views/catalog/product-card.blade.php << 'ENDOFFILE'
             
             <div class="text-sm space-y-1 mb-4">
                 @if($product->stock_yanino > 0)
-                    <div class="text-green-600 font-medium">✓ Янино: {{ $product->stock_yanino }} м²</div>
+                    <div class="text-green-600 font-medium">✓ СПб: {{ $product->stock_yanino }} м²</div>
                 @endif
                 @if($product->stock_factory > 0)
                     <div class="text-blue-600">Завод: {{ $product->stock_factory }} м²</div>

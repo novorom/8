@@ -62,7 +62,7 @@ export async function generateMetadata({ params }: CollectionPageProps): Promise
 
   const title = seo?.title || `Плитка коллекция ${collectionName} ${brandName} — купить в Санкт-Петербурге | Плитки СПб`
   const description = seo?.description ||
-    `Коллекция ${collectionName} ${brandName} — ${collectionProducts.length} товаров в наличии на складе Янино.${priceFrom ? ` От ${priceFrom} ₽/м².` : ""} Доставка по СПб и ЛО от 1 дня.`
+    `Коллекция ${collectionName} ${brandName} — ${collectionProducts.length} товаров в наличии на складе в СПб.${priceFrom ? ` От ${priceFrom} ₽/м².` : ""} Доставка по СПб и ЛО от 1 дня.`
 
   const firstImage = collectionProducts[0]?.main_image || collectionProducts[0]?.collection_image
 
@@ -218,7 +218,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       {
         "@type": "Question",
         name: `Плитка коллекции ${collectionName} есть в наличии?`,
-        acceptedAnswer: { "@type": "Answer", text: `Да, коллекция ${collectionName} от ${brandName} есть в наличии на складе в Янино. Актуальные остатки уточняйте по телефону +7 (905) 205-09-00.` },
+        acceptedAnswer: { "@type": "Answer", text: `Да, коллекция ${collectionName} от ${brandName} есть в наличии на складе в СПб. Актуальные остатки уточняйте по телефону +7 (905) 205-09-00.` },
       },
       {
         "@type": "Question",
@@ -228,7 +228,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       {
         "@type": "Question",
         name: `Есть ли доставка плитки ${collectionName} по СПб?`,
-        acceptedAnswer: { "@type": "Answer", text: `Да, доставляем коллекцию ${collectionName} по Санкт-Петербургу и Ленинградской области от 1 рабочего дня. Самовывоз со склада Янино бесплатный.` },
+        acceptedAnswer: { "@type": "Answer", text: `Да, доставляем коллекцию ${collectionName} по Санкт-Петербургу и Ленинградской области от 1 рабочего дня. Самовывоз со склада СПб бесплатный.` },
       },
     ],
   }
@@ -366,7 +366,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
               {priceFrom && (
                 <p>
                   <strong>Цена</strong> коллекции {collectionName} в нашем магазине — от {priceFrom.toLocaleString("ru-RU")} до {priceTo?.toLocaleString("ru-RU")} ₽/м².
-                  Все товары в наличии на складе в Янино-1. Бесплатный самовывоз на следующий рабочий день.
+                  Все товары в наличии на складе в СПб. Бесплатный самовывоз на следующий рабочий день.
                   Доставка по Санкт-Петербургу и Ленинградской области 1–2 рабочих дня.
                 </p>
               )}
@@ -384,7 +384,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
             </h2>
             <div className="flex flex-col gap-4 text-foreground/80 leading-relaxed">
               <p>
-                <strong>Коллекция {collectionName}</strong> от {brandName} — {collectionProducts.length} позиций в наличии на складе в Янино-1, Ленинградская область.
+                <strong>Коллекция {collectionName}</strong> от {brandName} — {collectionProducts.length} позиций в наличии на складе в СПб, Ленинградская область.
                 {formats.length > 0 && ` Доступные форматы: ${formats.join(", ")} см.`}
                 {priceFrom ? ` Цены от ${priceFrom.toLocaleString("ru-RU")} до ${priceTo?.toLocaleString("ru-RU")} ₽/м².` : " Уточняйте цены по телефону."}
               </p>
@@ -394,7 +394,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
               </p>
               <p>
                 <strong>Купить коллекцию {collectionName}</strong> в Санкт-Петербурге можно в нашем магазине Плитки СПб.
-                Склад в Янино-1 (15–20 мин от КАД по Мурманскому шоссе).
+                Склад в СПб (15–20 мин от КАД по Мурманскому шоссе).
                 Самовывоз бесплатный. Доставка по СПб и Ленинградской области 1–2 рабочих дня.
                 Помогаем рассчитать количество плитки. Для консультации: {PHONE}.
               </p>

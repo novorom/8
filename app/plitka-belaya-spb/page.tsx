@@ -10,11 +10,11 @@ const PHONE_RAW = "+79052050900"
 
 export const metadata: Metadata = {
   title: "Белая плитка Cersanit купить в Санкт-Петербурге | Плитки СПб",
-  description: "Белая плитка и керамогранит Cersanit в СПб — 32 позиции в наличии. Calacatta, Tiffany, Silvia — склад Янино, доставка по СПб от 1 дня. Цены от 780 ₽/м².",
+  description: "Белая плитка и керамогранит Cersanit в СПб — 32 позиции в наличии. Calacatta, Tiffany, Silvia — склад в СПб, доставка по СПб от 1 дня. Цены от 780 ₽/м².",
   alternates: { canonical: `${SITE_URL}/plitka-belaya-spb` },
   openGraph: {
     title: "Белая плитка Cersanit в Санкт-Петербурге",
-    description: "Белая плитка — Calacatta, Tiffany, Silvia. Склад в Янино, доставка по СПб от 1 дня.",
+    description: "Белая плитка — Calacatta, Tiffany, Silvia. Склад в СПб, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/plitka-belaya-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -41,7 +41,7 @@ const faq = [
   },
   {
     question: "Есть ли белая плитка в наличии?",
-    answer: "Да, более 30 позиций белой плитки и керамогранита Cersanit на складе в Янино. Самовывоз в день оплаты, доставка по СПб и ЛО 1-2 рабочих дня.",
+    answer: "Да, более 30 позиций белой плитки и керамогранита Cersanit на складе в СПб. Самовывоз в день оплаты, доставка по СПб и ЛО 1-2 рабочих дня.",
   },
 ]
 
@@ -86,7 +86,7 @@ export default function PlitkaBelay() {
           </h1>
           <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
             Классика никогда не выходит из моды. Calacatta, Tiffany, Silvia —
-            {whiteProducts.length} позиций в наличии на складе в Янино.
+            {whiteProducts.length} позиций в наличии на складе в СПб.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#products" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
@@ -102,7 +102,7 @@ export default function PlitkaBelay() {
       <section id="products" className="py-12 lg:py-16">
         <div className="mx-auto max-w-7xl px-4">
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">Белая плитка — {whiteProducts.length} позиций</h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {whiteProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -134,7 +134,7 @@ export default function PlitkaBelay() {
           <div>
             <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">Купить белую плитку в Санкт-Петербурге</h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент белой плитки Cersanit в наличии на складе в Янино-1.
+              Весь ассортимент белой плитки Cersanit в наличии на складе в СПб.
               Самовывоз бесплатный. Доставка по СПб и ЛО от 1-2 рабочих дней.
               Мы работаем напрямую с заводом Cersanit, все товары с сертификатами качества.
             </p>

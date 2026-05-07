@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     template: "%s | Плитки СПб",
   },
   description:
-    "Магазин керамической плитки в Санкт-Петербурге и ЛО. Ведущие бренды Kerama Marazzi, Cersanit, Азори. Пункт самовывоза на складе в Янино. Быстрая доставка по всему региону от 1 дня.",
+    "Магазин керамической плитки в Санкт-Петербурге и ЛО. Ведущие бренды Kerama Marazzi, Cersanit, Азори. Пункт самовывоза на складе в СПб. Быстрая доставка по всему региону от 1 дня.",
   metadataBase: new URL(SITE_URL),
   icons: {
     icon: [
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Купить плитку в СПб — Kerama Marazzi, Cersanit, Азори",
-    description: "Магазин плитки в Санкт-Петербурге. 2000+ позиций на складе Янино. Все ведущие бренды.",
+    description: "Магазин плитки в Санкт-Петербурге. 2000+ позиций на складе в СПб. Все ведущие бренды.",
     url: SITE_URL,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -82,14 +82,14 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "@id": `${SITE_URL}/#localbusiness`,
   name: "Плитки СПб",
-  description: "Крупный магазин кафельной и керамической плитки, керамогранита в СПб. Оптом и в розницу. Склад в Янино. Доставка от 1 дня.",
+  description: "Крупный магазин кафельной и керамической плитки, керамогранита в СПб. Оптом и в розницу. Склад в СПб. Доставка от 1 дня.",
   url: SITE_URL,
   telephone: "+7 (905) 205-09-00",
   email: "novorom@mail.ru",
   priceRange: "₽₽",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "п. Янино-1",
+    streetAddress: "Санкт-Петербург",
     addressLocality: "Санкт-Петербург",
     addressRegion: "Ленинградская область",
     postalCode: "188679",

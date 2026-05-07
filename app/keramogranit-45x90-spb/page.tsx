@@ -10,11 +10,11 @@ const PHONE_RAW = "+79052050900"
 
 export const metadata: Metadata = {
   title: "Керамогранит 45x90 Cersanit купить в Санкт-Петербурге | Плитки СПб",
-  description: "Керамогранит формата 45x90 Cersanit в СПб — 12 позиций в наличии. Популярный формат для пола и стен — склад Янино, доставка по СПб от 1 дня.",
+  description: "Керамогранит формата 45x90 Cersanit в СПб — 12 позиций в наличии. Популярный формат для пола и стен — склад в СПб, доставка по СПб от 1 дня.",
   alternates: { canonical: `${SITE_URL}/keramogranit-45x90-spb` },
   openGraph: {
     title: "Керамогранит 45x90 Cersanit в Санкт-Петербурге",
-    description: "Керамогранит формата 45x90 Cersanit в СПб — 12 позиций в наличии. Популярный формат для пола и стен — склад Янино, доставка по СПб от 1 дня.",
+    description: "Керамогранит формата 45x90 Cersanit в СПб — 12 позиций в наличии. Популярный формат для пола и стен — склад в СПб, доставка по СПб от 1 дня.",
     url: `${SITE_URL}/keramogranit-45x90-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -26,7 +26,7 @@ const faq = [
   { question: "Сколько плитки 45x90 нужно на 20 м²?", answer: "На 20 м² нужно примерно 50 плиток (одна плитка 45x90 = 0.405 м²). Плюс 10% на обрезку = 55 плиток. Уточните у нас — сделаем бесплатный точный расчёт с учётом раскладки." },
   { question: "Формат 45x90 или 60x60 — что лучше для коридора?", answer: "45x90 создаёт более динамичный рисунок в коридоре, особенно при укладке вдоль помещения — визуально вытягивает пространство. 60x60 — более статичный и нейтральный. Для узкого коридора 45x90 вдоль — отличное решение." },
   { question: "Можно ли уложить 45x90 на тёплый пол?", answer: "Да, формат 45x90 отлично подходит для тёплого пола. Керамогранит хорошо проводит тепло. Используйте специальный клей для тёплых полов и следуйте инструкции производителя системы обогрева." },
-  { question: "Есть ли 45x90 в наличии?", answer: "Да, 12 позиций формата 45x90 на складе в Янино. Самовывоз в день оплаты." },
+  { question: "Есть ли 45x90 в наличии?", answer: "Да, 12 позиций формата 45x90 на складе в СПб. Самовывоз в день оплаты." },
 ]
 
 const BLOG_ARTICLES = [
@@ -66,7 +66,7 @@ export default function LandingPage() {
         <div className="mx-auto max-w-7xl px-4">
           <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-balance">Керамогранит 45x90 Cersanit в Санкт-Петербурге</h1>
           <p className="mt-4 text-primary-foreground/80 text-lg leading-relaxed max-w-3xl">
-            {filteredProducts.length} позиций в наличии на складе в Янино. Официальный дилер Cersanit в Санкт-Петербурге.
+            {filteredProducts.length} позиций в наличии на складе в СПб. Официальный дилер Cersanit в Санкт-Петербурге.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#products" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-background text-foreground font-medium text-sm hover:bg-background/90 transition-colors">
@@ -82,7 +82,7 @@ export default function LandingPage() {
       <section id="products" className="py-12 lg:py-16">
         <div className="mx-auto max-w-7xl px-4">
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">Керамогранит 45x90 — {filteredProducts.length} позиций</h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе Янино</p>
+          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {filteredProducts.map((product: any, index: number) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -103,7 +103,7 @@ export default function LandingPage() {
           </div>
           <div>
             <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">Купить керамогранит 45x90 в СПб</h2>
-            <p className="text-foreground/80 leading-relaxed">12 позиций формата 45x90 в наличии на складе в Янино. Самовывоз бесплатный, доставка по СПб и ЛО от 1-2 рабочих дней. Бесплатный расчёт количества плитки по вашим размерам.</p>
+            <p className="text-foreground/80 leading-relaxed">12 позиций формата 45x90 в наличии на складе в СПб. Самовывоз бесплатный, доставка по СПб и ЛО от 1-2 рабочих дней. Бесплатный расчёт количества плитки по вашим размерам.</p>
           </div>
         </div>
       </section>

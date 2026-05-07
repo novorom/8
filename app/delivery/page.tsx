@@ -51,7 +51,7 @@ export default function DeliveryPage() {
 
               <div>
                 <h3 className="font-semibold text-foreground mb-2">Где забрать</h3>
-                <p className="text-muted-foreground ml-0">Наш складской терминал в Янино (ЛО) — удобный пункт выдачи рядом с КАД</p>
+                <p className="text-muted-foreground ml-0">Наш складской терминал в СПб (ЛО) — удобный пункт выдачи рядом с КАД</p>
               </div>
 
               <div className="bg-primary/5 border border-primary/20 rounded-lg p-4">
@@ -136,7 +136,7 @@ export default function DeliveryPage() {
                 Ближайший пригород
               </h3>
               <ul className="grid grid-cols-2 gap-y-2 gap-x-4 text-sm text-muted-foreground">
-                <li>Янино (быстро)</li>
+                <li>СПб (быстро)</li>
                 <li>Мурино</li>
                 <li>Кудрово</li>
                 <li>Всеволожск</li>
@@ -145,7 +145,7 @@ export default function DeliveryPage() {
                 <li>Колпино</li>
                 <li>Петергоф</li>
               </ul>
-              <p className="mt-4 text-xs font-medium text-primary italic">Складской хаб в Янино - отгрузка за 15 минут.</p>
+              <p className="mt-4 text-xs font-medium text-primary italic">Складской хаб в СПб - отгрузка за 15 минут.</p>
             </div>
 
             <div className="p-6 rounded-2xl bg-muted/40 border border-border">

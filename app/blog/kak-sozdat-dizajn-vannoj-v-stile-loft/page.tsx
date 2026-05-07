@@ -6,7 +6,7 @@ const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич | Плитки СПб",
-  description: "Как создать ванную в стиле лофт: плитка под бетон, кирпич и металл. Лучшие коллекции разных брендов. Советы дизайна от магазина плитки в Янино, СПб.",
+  description: "Как создать ванную в стиле лофт: плитка под бетон, кирпич и металл. Лучшие коллекции разных брендов. Советы дизайна от магазина плитки в СПб, СПб.",
   alternates: { canonical: `${SITE_URL}/blog/kak-sozdat-dizajn-vannoj-v-stile-loft` },
   openGraph: {
     title: "Дизайн ванной в стиле лофт: плитка под бетон и кирпич",
@@ -113,7 +113,7 @@ export default function Article() {
 
           <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6 text-center">
             <p className="font-semibold text-foreground mb-2">Подберём плитку для ванной лофт бесплатно</p>
-            <p className="text-muted-foreground text-sm mb-4">Покажите фото или опишите задачу — предложим варианты из наличия на складе Янино</p>
+            <p className="text-muted-foreground text-sm mb-4">Покажите фото или опишите задачу — предложим варианты из наличия на складе в СПб</p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <Link href="/plitka-dlya-vannoj-spb" className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors">
                 Каталог для ванной →

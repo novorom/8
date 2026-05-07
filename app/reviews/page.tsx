@@ -6,13 +6,13 @@ import { Star, MapPin, Calendar, ExternalLink } from "lucide-react"
 export const metadata: Metadata = {
   title: "Отзывы о нас | Плитки СПб",
   description:
-    "Магазин плитки Cersanit с 2011 года в Санкт-Петербурге. Отзывы реальных покупателей. Более 15 лет на рынке керамической плитки и керамогранита. Склад в Янино.",
+    "Магазин плитки Cersanit с 2011 года в Санкт-Петербурге. Отзывы реальных покупателей. Более 15 лет на рынке керамической плитки и керамогранита. Склад в СПб.",
   alternates: {
     canonical: "/reviews",
   },
   openGraph: {
     title: "Отзывы покупателей | Плитки СПб в СПб",
-    description: "Реальные отзывы о магазине плитки Cersanit в Санкт-Петербурге. Более 15 лет на рынке, склад в Янино.",
+    description: "Реальные отзывы о магазине плитки Cersanit в Санкт-Петербурге. Более 15 лет на рынке, склад в СПб.",
     url: "https://plitki-spb.ru/reviews",
     siteName: "Плитки СПб",
     locale: "ru_RU",
@@ -66,7 +66,7 @@ export default function ReviewsPage() {
         author: { "@type": "Person", name: "Дмитрий Л." },
         datePublished: "2025-04",
         reviewRating: { "@type": "Rating", ratingValue: "5" },
-        reviewBody: "Брал плитку Cersanit Lofthouse для прихожей и кухни. Цены ниже чем в строительных гипермаркетах, а качество сертифицированное. Самовывоз из Янино удобный — за 20 минут всё погрузили.",
+        reviewBody: "Брал плитку Cersanit Lofthouse для прихожей и кухни. Цены ниже чем в строительных гипермаркетах, а качество сертифицированное. Самовывоз со склада в СПб удобный — за 20 минут всё погрузили.",
       },
       {
         "@type": "Review",
@@ -127,7 +127,7 @@ export default function ReviewsPage() {
             </div>
             <div className="flex items-center gap-2 text-sm text-foreground/70">
               <Calendar className="h-4 w-4" />
-              <span>Ежедневные доставки и самовывоз со склада в Янино-1</span>
+              <span>Ежедневные доставки и самовывоз со склада в СПб</span>
             </div>
           </div>
 
@@ -174,7 +174,7 @@ export default function ReviewsPage() {
                 name: "Ольга П.",
                 date: "Сентябрь 2024",
                 rating: 5,
-                text: "Искала плитку под мрамор для ванной — нашла именно то что хотела. Менеджер показал несколько вариантов, помог с выбором цвета. Шоурум в Янино удобно расположен.",
+                text: "Искала плитку под мрамор для ванной — нашла именно то что хотела. Менеджер показал несколько вариантов, помог с выбором цвета. Шоурум в СПб удобно расположен.",
               },
             ].map((review, i) => (
               <div key={i} className="bg-white rounded-lg border border-foreground/10 p-6">

@@ -108,7 +108,7 @@ class ImportCersanitWithStockCommand extends Command
                         'Единица измерения' => $data['unit'],
                         'Бренд' => 'Cersanit',
                         'Страна' => 'Польша/Россия',
-                        'Остаток Янино' => 'Уточняйте',
+                        'Остаток СПб' => 'Уточняйте',
                         'Остаток Завод' => $stockFactory > 0 ? number_format($stockFactory, 2) . ' м²' : 'Под заказ',
                     ], JSON_UNESCAPED_UNICODE),
                     
@@ -116,8 +116,8 @@ class ImportCersanitWithStockCommand extends Command
                         [
                             'question' => 'Есть ли товар в наличии?',
                             'answer' => $stockFactory > 0 
-                                ? "Да! На заводе в наличии " . number_format($stockFactory, 2) . " м². Доставка 7 дней. Остатки на складе Янино уточняйте по телефону."
-                                : "Товар можно заказать с завода (срок 7-14 дней). Остатки на складе Янино уточняйте по телефону."
+                                ? "Да! На заводе в наличии " . number_format($stockFactory, 2) . " м². Доставка 7 дней. Остатки на складе СПб уточняйте по телефону."
+                                : "Товар можно заказать с завода (срок 7-14 дней). Остатки на складе СПб уточняйте по телефону."
                         ],
                         [
                             'question' => 'Какая цена?',
@@ -125,11 +125,11 @@ class ImportCersanitWithStockCommand extends Command
                         ],
                         [
                             'question' => 'Как быстро доставите?',
-                            'answer' => 'Самовывоз из Янино - сегодня (если есть на складе). Доставка по СПб - на следующий день. С завода - 7 дней.'
+                            'answer' => 'Самовывоз со склада в СПб - сегодня (если есть на складе). Доставка по СПб - на следующий день. С завода - 7 дней.'
                         ],
                         [
                             'question' => 'Можно ли посмотреть образцы?',
-                            'answer' => 'Конечно! Приезжайте на наш склад в Янино-1. Покажем образцы, поможем с выбором.'
+                            'answer' => 'Конечно! Приезжайте на наш склад в СПб. Покажем образцы, поможем с выбором.'
                         ],
                     ], JSON_UNESCAPED_UNICODE),
                     
@@ -221,7 +221,7 @@ class ImportCersanitWithStockCommand extends Command
     private function generateTitle($data)
     {
         return sprintf(
-            '%s %s %s купить в СПб - %s₽ (-20%%) | Cersanit Янино',
+            '%s %s %s купить в СПб - %s₽ (-20%%) | Cersanit',
             ucfirst($data['type']),
             $data['collection'],
             $data['size'],
@@ -236,7 +236,7 @@ class ImportCersanitWithStockCommand extends Command
             : "";
         
         return sprintf(
-            '%s %s %s см от официального дилера Cersanit в СПб. %sЦена %s₽ вместо %s₽. Склад Янино, доставка 7 дней. Артикул: %s',
+            '%s %s %s см от официального дилера Cersanit в СПб. %sЦена %s₽ вместо %s₽. склад в СПб, доставка 7 дней. Артикул: %s',
             ucfirst($data['type']),
             $data['collection'],
             $data['size'],
@@ -254,7 +254,7 @@ class ImportCersanitWithStockCommand extends Command
             mb_strtolower($data['collection']),
             $data['type'],
             $data['size'],
-            'янино',
+            'СПб',
             'спб',
             'купить',
             'цена',
@@ -269,7 +269,7 @@ class ImportCersanitWithStockCommand extends Command
         
         $availability = $stockFactory > 0 
             ? "\n**На заводе в наличии:** " . number_format($stockFactory, 2) . " м² (доставка 7 дней)" 
-            : "\n**На складе в Янино:** уточняйте актуальные остатки";
+            : "\n**На складе в СПб:** уточняйте актуальные остатки";
         
         return <<<DESC
 Коллекция {$data['collection']} от Cersanit – это воплощение современного дизайна и качества. 
@@ -285,7 +285,7 @@ class ImportCersanitWithStockCommand extends Command
 - ✅ Цена {$data['price_our']}₽ вместо {$data['price_retail']}₽
 - ✅ Экономия {$data['discount']}₽ на каждом м²
 - ✅ Официальный дилер Cersanit
-- ✅ Склад в Янино (самовывоз сегодня)
+- ✅ Склад в СПб (самовывоз сегодня)
 - ✅ Доставка по СПБ от 500₽
 - ✅ С завода за 7 дней
 

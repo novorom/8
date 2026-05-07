@@ -19,7 +19,7 @@ export function HeroSection() {
       <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="max-w-2xl">
           <div className="inline-flex items-center rounded-full bg-primary/20 px-3 py-1 text-sm font-semibold text-primary-foreground ring-1 ring-inset ring-primary/30 mb-6">
-            Склад и выдача: Янино (рядом с КАД)
+            Склад и выдача: СПб (рядом с КАД)
           </div>
           <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-6xl mb-6 leading-tight drop-shadow-sm">
             Плитка в Санкт-Петербурге <br className="hidden sm:block" />
