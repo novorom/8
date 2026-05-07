@@ -132,10 +132,10 @@ export default function AboutPage() {
                   <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors">
                     {manufacturer.name}
                   </h3>
-                  <span className="text-[10px] bg-primary/10 text-primary px-2 py-0.5 rounded uppercase font-bold">Dealer</span>
+                  <span className="text-[10px] bg-primary/10 text-primary px-2 py-0.5 rounded uppercase font-bold">В наличии</span>
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  {manufacturer.country} — официальные поставки
+                  {manufacturer.country} — прямые поставки со склада
                 </p>
               </div>
             ))}

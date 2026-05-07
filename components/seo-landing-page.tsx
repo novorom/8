@@ -20,7 +20,7 @@ import { PHONE, PHONE_RAW, SITE_URL } from "@/lib/seo-data"
 const iconMap: Record<string, typeof MapPin> = {
   "Склад в Янино": MapPin,
   "Быстрая доставка": Truck,
-  "Официальный дилер": ShieldCheck,
+  "Надежный поставщик": ShieldCheck,
   "Бесплатный самовывоз": Package,
   "От 410 руб/м2": Award,
   "Все размеры в наличии": Package,

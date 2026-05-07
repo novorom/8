@@ -106,7 +106,7 @@ export function SiteFooter() {
 
           {/* Trusted Badges */}
           <div>
-            <h3 className="text-white font-semibold mb-6">Официальный дилер</h3>
+            <h3 className="text-white font-semibold mb-6">Ведущие бренды</h3>
             <div className="grid grid-cols-2 gap-6 opacity-80 filter grayscale hover:grayscale-0 transition-all duration-500">
               <div className="bg-white/5 p-3 rounded-xl flex items-center justify-center h-12 border border-white/5">
                 <img src="https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png" alt="Cersanit" className="max-h-6 w-auto" />
