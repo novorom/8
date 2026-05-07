@@ -7,7 +7,7 @@ import re
 # Paths
 json_path = "/Users/r/8/lib/products-data.json"
 ts_path = "/Users/r/8/lib/products-data-new.ts"
-excel_path = "/Users/r/Documents/1 job/Копия Прайсы - вход.xlsx"
+excel_path = "/Users/r/Downloads/Копия Прайсы - вход.xlsx"
 
 def backup_file(path):
     backup_path = path + ".bak"
@@ -24,17 +24,9 @@ print("Loading JSON data...")
 with open(json_path, 'r', encoding='utf-8') as f:
     products_json = json.load(f)
 
-# Load TS data
-print("Loading TS data...")
-with open(ts_path, 'r', encoding='utf-8') as f:
-    ts_content = f.read()
-    # Find the array content
-    array_match = re.search(r'export const importedProducts: any\[\] = (\[.*\]);?', ts_content, re.DOTALL)
-    if array_match:
-        products_ts = json.loads(array_match.group(1))
-    else:
-        print("Could not parse products from TS file.")
-        products_ts = []
+# Load TS content (just for prefix/suffix later if needed, but we can reconstruct it directly)
+print("Using products_json for TS data as well...")
+products_ts = products_json  # They should be identical, we just overwrite the TS file with the updated JSON.
 
 def normalize_brand(b):
     if not b: return ""
@@ -174,17 +166,8 @@ with open(json_path, 'w', encoding='utf-8') as f:
 
 # Save TS
 print("Saving updated TS...")
-# Use split/join or find/replace to avoid re.sub backslash issues
-prefix = 'export const importedProducts: any[] = '
-suffix_start = ts_content.find('];', ts_content.find(prefix)) + 2
-if suffix_start < 2: # maybe no semicolon
-    suffix_start = ts_content.find(']', ts_content.find(prefix)) + 1
-
-new_json_data = json.dumps(products_ts, ensure_ascii=False, indent=2)
-# Reconstruct the file content
-ts_prefix = ts_content.split(prefix)[0] + prefix
-ts_suffix = ts_content[suffix_start:]
-new_ts_content = ts_prefix + new_json_data + ts_suffix
+new_json_data = json.dumps(products_json, ensure_ascii=False, indent=2)
+new_ts_content = f"// @ts-nocheck\n// AUTO-GENERATED — НЕ РЕДАКТИРОВАТЬ ВРУЧНУЮ\n\nexport const importedProducts: any[] = {new_json_data};\n"
 
 with open(ts_path, 'w', encoding='utf-8') as f:
     f.write(new_ts_content)
