@@ -147,24 +147,7 @@ export function SiteFooter() {
           </div>
         </div>
 
-        {/* Bottom */}
-        <div className="border-t border-slate-700 pt-6 flex flex-col sm:flex-row items-center justify-between gap-6 text-xs text-slate-500">
-          <div className="flex flex-col gap-1">
-            <span>© {new Date().getFullYear()} Плитики СПб. Все права защищены.</span>
-            <span>Склад: п. Янино-1, Ленинградская обл., мкр. Кольцевой, участок 37</span>
-          </div>
-          
-          <div className="flex items-center gap-4">
-            <div className="flex flex-col items-end gap-1">
-              <div className="flex gap-2 items-center grayscale contrast-125 opacity-50">
-                <div className="w-8 h-5 bg-slate-700 rounded flex items-center justify-center font-bold text-[8px] text-white">VISA</div>
-                <div className="w-8 h-5 bg-slate-700 rounded flex items-center justify-center font-bold text-[8px] text-white">MIR</div>
-                <div className="w-8 h-5 bg-slate-700 rounded flex items-center justify-center font-bold text-[8px] text-white">QR</div>
-              </div>
-              <span>Оплата картой, наличными, QR</span>
-            </div>
-          </div>
-        </div>
+
       </div>
     </footer>
   )
