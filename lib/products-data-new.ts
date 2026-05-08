@@ -2321,7 +2321,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Белый",
-    "price_retail": 1768.0,
+    "price_retail": 1822.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029632/products_v2/prod_kerama-marazzi-17006.jpg",
     "images": [
@@ -2343,7 +2343,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 1996.0,
+    "price_retail": 2055.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029635/products_v2/prod_kerama-marazzi-16006.jpg",
     "images": [
@@ -2365,7 +2365,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 2072.0,
+    "price_retail": 2133.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029640/products_v2/prod_kerama-marazzi-16017.jpg",
     "images": [
@@ -2387,7 +2387,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Голубой",
-    "price_retail": 1768.0,
+    "price_retail": 1822.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029648/products_v2/prod_kerama-marazzi-17004.jpg",
     "images": [
@@ -2409,7 +2409,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Голубой",
-    "price_retail": 1996.0,
+    "price_retail": 2055.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029656/products_v2/prod_kerama-marazzi-16004.jpg",
     "images": [
@@ -2431,7 +2431,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Голубой",
-    "price_retail": 2072.0,
+    "price_retail": 2133.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029661/products_v2/prod_kerama-marazzi-16015.jpg",
     "images": [
@@ -2453,7 +2453,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 2072.0,
+    "price_retail": 2133.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029671/products_v2/prod_kerama-marazzi-16018.jpg",
     "images": [
@@ -2475,7 +2475,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Микс",
-    "price_retail": 1768.0,
+    "price_retail": 1822.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029678/products_v2/prod_kerama-marazzi-17009.jpg",
     "images": [
@@ -2497,7 +2497,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 1996.0,
+    "price_retail": 2055.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029686/products_v2/prod_kerama-marazzi-16009.jpg",
     "images": [
@@ -2519,7 +2519,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Бежевый",
-    "price_retail": 1833.0,
+    "price_retail": 1918.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029697/products_v2/prod_kerama-marazzi-1328.jpg",
     "images": [
@@ -2541,7 +2541,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Бежевый",
-    "price_retail": 1728.0,
+    "price_retail": 1805.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029707/products_v2/prod_kerama-marazzi-63005.jpg",
     "images": [
@@ -2563,7 +2563,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Белый",
-    "price_retail": 1833.0,
+    "price_retail": 1918.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029715/products_v2/prod_kerama-marazzi-1332.jpg",
     "images": [
@@ -2585,7 +2585,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Белый",
-    "price_retail": 1728.0,
+    "price_retail": 1805.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029724/products_v2/prod_kerama-marazzi-63000.jpg",
     "images": [
@@ -2607,7 +2607,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Микс",
-    "price_retail": 5280.0,
+    "price_retail": 5428.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029733/products_v2/prod_kerama-marazzi-63011.jpg",
     "images": [
@@ -2629,7 +2629,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Микс",
-    "price_retail": 284.0,
+    "price_retail": 291.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029742/products_v2/prod_kerama-marazzi-1337.jpg",
     "images": [
@@ -2651,7 +2651,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Розовый",
-    "price_retail": 4886.0,
+    "price_retail": 5025.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029751/products_v2/prod_kerama-marazzi-63010.jpg",
     "images": [
@@ -2673,7 +2673,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Розовый",
-    "price_retail": 284.0,
+    "price_retail": 291.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029762/products_v2/prod_kerama-marazzi-1336.jpg",
     "images": [
@@ -2695,7 +2695,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
-    "price_retail": 1728.0,
+    "price_retail": 1805.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029773/products_v2/prod_kerama-marazzi-63003.jpg",
     "images": [
@@ -2717,7 +2717,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Серый",
-    "price_retail": 1833.0,
+    "price_retail": 1918.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029783/products_v2/prod_kerama-marazzi-1329.jpg",
     "images": [
@@ -2739,7 +2739,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
-    "price_retail": 1728.0,
+    "price_retail": 1805.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029789/products_v2/prod_kerama-marazzi-63002.jpg",
     "images": [
@@ -2761,7 +2761,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
-    "price_retail": 1885.0,
+    "price_retail": 1970.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029801/products_v2/prod_kerama-marazzi-63004.jpg",
     "images": [
@@ -2783,7 +2783,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Синий",
-    "price_retail": 5280.0,
+    "price_retail": 5428.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029809/products_v2/prod_kerama-marazzi-63012.jpg",
     "images": [
@@ -2805,7 +2805,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Синий",
-    "price_retail": 284.0,
+    "price_retail": 291.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029819/products_v2/prod_kerama-marazzi-1335.jpg",
     "images": [
@@ -2827,7 +2827,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Черный",
-    "price_retail": 2045.0,
+    "price_retail": 2140.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029827/products_v2/prod_kerama-marazzi-1333.jpg",
     "images": [
@@ -2849,7 +2849,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Черный",
-    "price_retail": 1949.0,
+    "price_retail": 2037.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029833/products_v2/prod_kerama-marazzi-63001.jpg",
     "images": [
@@ -2871,7 +2871,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
-    "price_retail": 1211.0,
+    "price_retail": 1245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029840/products_v2/prod_kerama-marazzi-5303.jpg",
     "images": [
@@ -2893,7 +2893,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1211.0,
+    "price_retail": 1245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029847/products_v2/prod_kerama-marazzi-5305.jpg",
     "images": [
@@ -2915,7 +2915,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
-    "price_retail": 1146.0,
+    "price_retail": 1180.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029854/products_v2/prod_kerama-marazzi-5306.jpg",
     "images": [
@@ -2937,7 +2937,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Бежевый",
-    "price_retail": 1718.0,
+    "price_retail": 1768.0,
     "price_official": null,
     "stock_yanino": 60.14,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029860/products_v2/prod_kerama-marazzi-9011.jpg",
@@ -2960,7 +2960,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Белый",
-    "price_retail": 1718.0,
+    "price_retail": 1768.0,
     "price_official": null,
     "stock_yanino": 70.79,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029868/products_v2/prod_kerama-marazzi-9010.jpg",
@@ -2983,7 +2983,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1958.0,
+    "price_retail": 2016.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029876/products_v2/prod_kerama-marazzi-9026.jpg",
     "images": [
@@ -3005,7 +3005,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029883/products_v2/prod_kerama-marazzi-9030.jpg",
     "images": [
@@ -3027,7 +3027,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029890/products_v2/prod_kerama-marazzi-9027.jpg",
     "images": [
@@ -3049,7 +3049,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1887.0,
+    "price_retail": 1942.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029898/products_v2/prod_kerama-marazzi-9028.jpg",
     "images": [
@@ -3071,7 +3071,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029904/products_v2/prod_kerama-marazzi-9012.jpg",
     "images": [
@@ -3093,7 +3093,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029912/products_v2/prod_kerama-marazzi-9013.jpg",
     "images": [
@@ -3115,7 +3115,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1887.0,
+    "price_retail": 1942.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029920/products_v2/prod_kerama-marazzi-9023.jpg",
     "images": [
@@ -3137,7 +3137,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Коричневый",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029928/products_v2/prod_kerama-marazzi-9029.jpg",
     "images": [
@@ -3159,7 +3159,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Розовый",
-    "price_retail": 1887.0,
+    "price_retail": 1942.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029936/products_v2/prod_kerama-marazzi-9024.jpg",
     "images": [
@@ -3181,7 +3181,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Розовый",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029945/products_v2/prod_kerama-marazzi-9025.jpg",
     "images": [
@@ -3203,7 +3203,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Серый",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "stock_yanino": 13.04,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029954/products_v2/prod_kerama-marazzi-9014.jpg",
@@ -3226,7 +3226,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Серый",
-    "price_retail": 1851.0,
+    "price_retail": 1906.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029963/products_v2/prod_kerama-marazzi-9015.jpg",
     "images": [
@@ -3248,7 +3248,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Синий",
-    "price_retail": 1887.0,
+    "price_retail": 1942.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776029969/products_v2/prod_kerama-marazzi-9031.jpg",
     "images": [
@@ -3358,7 +3358,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "6x28.5",
     "color": "Бежевый",
-    "price_retail": 1943.0,
+    "price_retail": 2006.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030008/products_v2/prod_kerama-marazzi-26301.jpg",
     "images": [
@@ -3380,7 +3380,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "6x28.5",
     "color": "Коричневый",
-    "price_retail": 2015.0,
+    "price_retail": 2081.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030018/products_v2/prod_kerama-marazzi-26306.jpg",
     "images": [
@@ -3402,7 +3402,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "6x28.5",
     "color": "Микс",
-    "price_retail": 1943.0,
+    "price_retail": 2006.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030023/products_v2/prod_kerama-marazzi-26303.jpg",
     "images": [
@@ -3424,7 +3424,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Красный",
-    "price_retail": 5319.0,
+    "price_retail": 5471.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030032/products_v2/prod_kerama-marazzi-65013.jpg",
     "images": [
@@ -3446,7 +3446,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Белый",
-    "price_retail": 4451.0,
+    "price_retail": 4577.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030040/products_v2/prod_kerama-marazzi-65000.jpg",
     "images": [
@@ -3468,7 +3468,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Бежевый",
-    "price_retail": 4451.0,
+    "price_retail": 4577.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030047/products_v2/prod_kerama-marazzi-65010.jpg",
     "images": [
@@ -3490,7 +3490,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Микс",
-    "price_retail": 5075.0,
+    "price_retail": 5217.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030055/products_v2/prod_kerama-marazzi-65006.jpg",
     "images": [
@@ -3512,7 +3512,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Голубой",
-    "price_retail": 5075.0,
+    "price_retail": 5217.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030064/products_v2/prod_kerama-marazzi-65005.jpg",
     "images": [
@@ -3534,7 +3534,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Микс",
-    "price_retail": 5075.0,
+    "price_retail": 5217.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030072/products_v2/prod_kerama-marazzi-65009.jpg",
     "images": [
@@ -3556,7 +3556,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Зеленый",
-    "price_retail": 5075.0,
+    "price_retail": 5217.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030079/products_v2/prod_kerama-marazzi-65008.jpg",
     "images": [
@@ -3578,7 +3578,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Серый",
-    "price_retail": 4451.0,
+    "price_retail": 4577.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030087/products_v2/prod_kerama-marazzi-65011.jpg",
     "images": [
@@ -3600,7 +3600,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Синий",
-    "price_retail": 5075.0,
+    "price_retail": 5217.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030095/products_v2/prod_kerama-marazzi-65007.jpg",
     "images": [
@@ -3622,7 +3622,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "26x30",
     "color": "Серый",
-    "price_retail": 4753.0,
+    "price_retail": 4888.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030101/products_v2/prod_kerama-marazzi-65012.jpg",
     "images": [
@@ -3644,7 +3644,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Бежевый",
-    "price_retail": 1246.0,
+    "price_retail": 1280.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030110/products_v2/prod_kerama-marazzi-7219.jpg",
     "images": [
@@ -3666,7 +3666,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Бежевый",
-    "price_retail": 1324.0,
+    "price_retail": 1361.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030116/products_v2/prod_kerama-marazzi-7212.jpg",
     "images": [
@@ -3688,7 +3688,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
-    "price_retail": 899.0,
+    "price_retail": 930.0,
     "price_official": null,
     "stock_yanino": 74.52,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030124/products_v2/prod_kerama-marazzi-8290.jpg",
@@ -3711,7 +3711,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
-    "price_retail": 899.0,
+    "price_retail": 930.0,
     "price_official": null,
     "stock_yanino": 55.14,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030131/products_v2/prod_kerama-marazzi-8291.jpg",
@@ -3734,7 +3734,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Микс",
-    "price_retail": 926.0,
+    "price_retail": 958.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030136/products_v2/prod_kerama-marazzi-8300.jpg",
     "images": [
@@ -3756,7 +3756,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1484.0,
+    "price_retail": 1531.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030141/products_v2/prod_kerama-marazzi-2868.jpg",
     "images": [
@@ -3778,7 +3778,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Бежевый",
-    "price_retail": 1458.0,
+    "price_retail": 1502.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030147/products_v2/prod_kerama-marazzi-2841.jpg",
     "images": [
@@ -3800,7 +3800,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Белый",
-    "price_retail": 1451.0,
+    "price_retail": 1498.0,
     "price_official": null,
     "stock_yanino": 35.99,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030153/products_v2/prod_kerama-marazzi-2828.jpg",
@@ -3823,7 +3823,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Голубой",
-    "price_retail": 1536.0,
+    "price_retail": 1583.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030158/products_v2/prod_kerama-marazzi-2839.jpg",
     "images": [
@@ -3845,7 +3845,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Красный",
-    "price_retail": 2051.0,
+    "price_retail": 2112.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030166/products_v2/prod_kerama-marazzi-2823.jpg",
     "images": [
@@ -3867,7 +3867,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1858.0,
+    "price_retail": 1950.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030174/products_v2/prod_kerama-marazzi-2821.jpg",
     "images": [
@@ -3889,7 +3889,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Белый",
-    "price_retail": 1482.0,
+    "price_retail": 1527.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030189/products_v2/prod_kerama-marazzi-15080.jpg",
     "images": [
@@ -3911,7 +3911,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Белый",
-    "price_retail": 1348.0,
+    "price_retail": 1389.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030195/products_v2/prod_kerama-marazzi-15079.jpg",
     "images": [
@@ -3933,7 +3933,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Черный",
-    "price_retail": 1564.0,
+    "price_retail": 1611.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030199/products_v2/prod_kerama-marazzi-15081.jpg",
     "images": [
@@ -3955,7 +3955,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Черный",
-    "price_retail": 1391.0,
+    "price_retail": 1433.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030203/products_v2/prod_kerama-marazzi-15078.jpg",
     "images": [
@@ -3977,7 +3977,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Голубой",
-    "price_retail": 1624.0,
+    "price_retail": 1941.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030212/products_v2/prod_kerama-marazzi-6403.jpg",
     "images": [
@@ -3999,7 +3999,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Микс",
-    "price_retail": 1235.0,
+    "price_retail": 1273.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030215/products_v2/prod_kerama-marazzi-6404.jpg",
     "images": [
@@ -4021,7 +4021,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Бежевый",
-    "price_retail": 265.0,
+    "price_retail": 273.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030223/products_v2/prod_kerama-marazzi-1324.jpg",
     "images": [
@@ -4043,7 +4043,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Бежевый",
-    "price_retail": 1852.0,
+    "price_retail": 1939.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030230/products_v2/prod_kerama-marazzi-1325.jpg",
     "images": [
@@ -4065,7 +4065,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.8x9.8",
     "color": "Микс",
-    "price_retail": 1927.0,
+    "price_retail": 2016.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030238/products_v2/prod_kerama-marazzi-1326.jpg",
     "images": [
@@ -4087,7 +4087,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1239.0,
+    "price_retail": 1278.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030244/products_v2/prod_kerama-marazzi-60000.jpg",
     "images": [
@@ -4109,7 +4109,7 @@ export const importedProducts: any[] = [
     "product_type": "Мозаика",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1305.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030252/products_v2/prod_kerama-marazzi-60171.jpg",
     "images": [
@@ -4131,7 +4131,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1305.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030258/products_v2/prod_kerama-marazzi-60176.jpg",
     "images": [
@@ -4153,7 +4153,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1305.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030266/products_v2/prod_kerama-marazzi-60172.jpg",
     "images": [
@@ -4175,7 +4175,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1265.0,
+    "price_retail": 1307.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030271/products_v2/prod_kerama-marazzi-60161.jpg",
     "images": [
@@ -4197,7 +4197,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1328.0,
+    "price_retail": 1371.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030278/products_v2/prod_kerama-marazzi-60166.jpg",
     "images": [
@@ -4219,7 +4219,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1328.0,
+    "price_retail": 1371.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030284/products_v2/prod_kerama-marazzi-60165.jpg",
     "images": [
@@ -4241,7 +4241,7 @@ export const importedProducts: any[] = [
     "product_type": "Мозаика",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1328.0,
+    "price_retail": 1371.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030293/products_v2/prod_kerama-marazzi-60167.jpg",
     "images": [
@@ -4263,7 +4263,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1328.0,
+    "price_retail": 1371.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030299/products_v2/prod_kerama-marazzi-60174.jpg",
     "images": [
@@ -4285,7 +4285,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x60",
     "color": "Белый",
-    "price_retail": 1328.0,
+    "price_retail": 1371.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030306/products_v2/prod_kerama-marazzi-60168.jpg",
     "images": [
@@ -4307,7 +4307,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
-    "price_retail": 290.0,
+    "price_retail": 304.0,
     "price_official": null,
     "stock_yanino": 62.82,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030313/products_v2/prod_kerama-marazzi-8246.jpg",
@@ -4330,7 +4330,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
-    "price_retail": 953.0,
+    "price_retail": 984.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030320/products_v2/prod_kerama-marazzi-8245.jpg",
     "images": [
@@ -4352,7 +4352,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Коричневый",
-    "price_retail": 993.0,
+    "price_retail": 1027.0,
     "price_official": null,
     "stock_yanino": 15.9,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030326/products_v2/prod_kerama-marazzi-8247.jpg",
@@ -4375,7 +4375,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Бежевый",
-    "price_retail": 1348.0,
+    "price_retail": 1389.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030334/products_v2/prod_kerama-marazzi-15084.jpg",
     "images": [
@@ -4397,7 +4397,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Бежевый",
-    "price_retail": 1482.0,
+    "price_retail": 1527.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030341/products_v2/prod_kerama-marazzi-15077.jpg",
     "images": [
@@ -4419,7 +4419,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Белый",
-    "price_retail": 1482.0,
+    "price_retail": 1527.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030350/products_v2/prod_kerama-marazzi-15075.jpg",
     "images": [
@@ -4441,7 +4441,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Коричневый",
-    "price_retail": 1419.0,
+    "price_retail": 1460.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030357/products_v2/prod_kerama-marazzi-15072.jpg",
     "images": [
@@ -4463,7 +4463,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Серый",
-    "price_retail": 1365.0,
+    "price_retail": 1406.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030364/products_v2/prod_kerama-marazzi-15070.jpg",
     "images": [
@@ -4485,7 +4485,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Серый",
-    "price_retail": 1419.0,
+    "price_retail": 1460.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030372/products_v2/prod_kerama-marazzi-15071.jpg",
     "images": [
@@ -4507,7 +4507,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Черный",
-    "price_retail": 1566.0,
+    "price_retail": 1611.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030381/products_v2/prod_kerama-marazzi-15076.jpg",
     "images": [
@@ -4529,7 +4529,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 296.0,
+    "price_retail": 330.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030387/products_v2/prod_kerama-marazzi-6436.jpg",
     "images": [
@@ -4551,7 +4551,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Белый",
-    "price_retail": 1722.0,
+    "price_retail": 1774.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030394/products_v2/prod_kerama-marazzi-17063.jpg",
     "images": [
@@ -4573,7 +4573,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Голубой",
-    "price_retail": 1767.0,
+    "price_retail": 1821.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030402/products_v2/prod_kerama-marazzi-17067.jpg",
     "images": [
@@ -4595,7 +4595,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Микс",
-    "price_retail": 1767.0,
+    "price_retail": 1821.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030409/products_v2/prod_kerama-marazzi-17064.jpg",
     "images": [
@@ -4617,7 +4617,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Синий",
-    "price_retail": 1767.0,
+    "price_retail": 1821.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030419/products_v2/prod_kerama-marazzi-17065.jpg",
     "images": [
@@ -4639,7 +4639,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Бежевый",
-    "price_retail": 3284.0,
+    "price_retail": 3378.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030426/products_v2/prod_kerama-marazzi-20095.jpg",
     "images": [
@@ -4661,7 +4661,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Бежевый",
-    "price_retail": 3284.0,
+    "price_retail": 3378.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030434/products_v2/prod_kerama-marazzi-20096.jpg",
     "images": [
@@ -4683,7 +4683,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Белый",
-    "price_retail": 1646.0,
+    "price_retail": 1697.0,
     "price_official": null,
     "stock_yanino": 56.75,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030439/products_v2/prod_kerama-marazzi-9001.jpg",
@@ -4706,7 +4706,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1780.0,
+    "price_retail": 1832.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030445/products_v2/prod_kerama-marazzi-9007.jpg",
     "images": [
@@ -4728,7 +4728,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Серый",
-    "price_retail": 1780.0,
+    "price_retail": 1832.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030451/products_v2/prod_kerama-marazzi-9004.jpg",
     "images": [
@@ -4750,7 +4750,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1646.0,
+    "price_retail": 1697.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030458/products_v2/prod_kerama-marazzi-9006.jpg",
     "images": [
@@ -4772,7 +4772,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1780.0,
+    "price_retail": 1832.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030465/products_v2/prod_kerama-marazzi-9005.jpg",
     "images": [
@@ -4794,7 +4794,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1780.0,
+    "price_retail": 1832.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030471/products_v2/prod_kerama-marazzi-9003.jpg",
     "images": [
@@ -4816,7 +4816,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1650.0,
+    "price_retail": 1701.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030479/products_v2/prod_kerama-marazzi-9002.jpg",
     "images": [
@@ -4838,7 +4838,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1145.0,
+    "price_retail": 1185.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030488/products_v2/prod_kerama-marazzi-6341.jpg",
     "images": [
@@ -4860,7 +4860,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1204.0,
+    "price_retail": 1244.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030494/products_v2/prod_kerama-marazzi-6353.jpg",
     "images": [
@@ -4882,7 +4882,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Белый",
-    "price_retail": 1145.0,
+    "price_retail": 1185.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030505/products_v2/prod_kerama-marazzi-6343.jpg",
     "images": [
@@ -4904,7 +4904,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Белый",
-    "price_retail": 1204.0,
+    "price_retail": 1244.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030513/products_v2/prod_kerama-marazzi-6357.jpg",
     "images": [
@@ -4926,7 +4926,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1145.0,
+    "price_retail": 1185.0,
     "price_official": null,
     "stock_yanino": 74.6,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030522/products_v2/prod_kerama-marazzi-6342.jpg",
@@ -4949,7 +4949,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1204.0,
+    "price_retail": 1244.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030530/products_v2/prod_kerama-marazzi-6354.jpg",
     "images": [
@@ -4971,7 +4971,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Белый",
-    "price_retail": 1777.0,
+    "price_retail": 1831.0,
     "price_official": null,
     "stock_yanino": 77.39,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030536/products_v2/prod_kerama-marazzi-17000.jpg",
@@ -4994,7 +4994,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 2038.0,
+    "price_retail": 2101.0,
     "price_official": null,
     "stock_yanino": 46.36,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030541/products_v2/prod_kerama-marazzi-16000.jpg",
@@ -5017,7 +5017,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 2031.0,
+    "price_retail": 2093.0,
     "price_official": null,
     "stock_yanino": 32.9,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030549/products_v2/prod_kerama-marazzi-16032.jpg",
@@ -5040,7 +5040,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Красный",
-    "price_retail": 2411.0,
+    "price_retail": 2483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030554/products_v2/prod_kerama-marazzi-17014.jpg",
     "images": [
@@ -5062,7 +5062,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Красный",
-    "price_retail": 2352.0,
+    "price_retail": 2423.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030559/products_v2/prod_kerama-marazzi-16014.jpg",
     "images": [
@@ -5084,7 +5084,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Микс",
-    "price_retail": 2411.0,
+    "price_retail": 2483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030567/products_v2/prod_kerama-marazzi-17013.jpg",
     "images": [
@@ -5106,7 +5106,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2352.0,
+    "price_retail": 2423.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030573/products_v2/prod_kerama-marazzi-16013.jpg",
     "images": [
@@ -5128,7 +5128,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Черный",
-    "price_retail": 2374.0,
+    "price_retail": 2446.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030580/products_v2/prod_kerama-marazzi-16033.jpg",
     "images": [
@@ -5150,7 +5150,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Белый",
-    "price_retail": 1437.0,
+    "price_retail": 1483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030587/products_v2/prod_kerama-marazzi-19060.jpg",
     "images": [
@@ -5172,7 +5172,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Серый",
-    "price_retail": 1437.0,
+    "price_retail": 1483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030595/products_v2/prod_kerama-marazzi-19066.jpg",
     "images": [
@@ -5194,7 +5194,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Серый",
-    "price_retail": 1437.0,
+    "price_retail": 1483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030602/products_v2/prod_kerama-marazzi-19065.jpg",
     "images": [
@@ -5216,7 +5216,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Серый",
-    "price_retail": 1490.0,
+    "price_retail": 1539.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030610/products_v2/prod_kerama-marazzi-19067.jpg",
     "images": [
@@ -5238,7 +5238,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Черный",
-    "price_retail": 1573.0,
+    "price_retail": 1625.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030617/products_v2/prod_kerama-marazzi-19061.jpg",
     "images": [
@@ -5414,7 +5414,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1253.0,
+    "price_retail": 1292.0,
     "price_official": null,
     "stock_yanino": 0.12,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030680/products_v2/prod_kerama-marazzi-5281.jpg",
@@ -5437,7 +5437,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
-    "price_retail": 1148.0,
+    "price_retail": 1184.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030689/products_v2/prod_kerama-marazzi-5276.jpg",
     "images": [
@@ -5459,7 +5459,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Белый",
-    "price_retail": 1107.0,
+    "price_retail": 1141.0,
     "price_official": null,
     "stock_yanino": 223.44,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030698/products_v2/prod_kerama-marazzi-5055.jpg",
@@ -5505,7 +5505,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1190.0,
+    "price_retail": 1227.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030716/products_v2/prod_kerama-marazzi-5185.jpg",
     "images": [
@@ -5527,7 +5527,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1499.0,
+    "price_retail": 1543.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030719/products_v2/prod_kerama-marazzi-5188.jpg",
     "images": [
@@ -5549,7 +5549,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
-    "price_retail": 1361.0,
+    "price_retail": 1402.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030725/products_v2/prod_kerama-marazzi-5056.jpg",
     "images": [
@@ -5571,7 +5571,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
-    "price_retail": 1066.0,
+    "price_retail": 1119.0,
     "price_official": null,
     "stock_yanino": 75.24,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030734/products_v2/prod_kerama-marazzi-5099.jpg",
@@ -5594,7 +5594,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Графит",
-    "price_retail": 1148.0,
+    "price_retail": 1184.0,
     "price_official": null,
     "stock_yanino": 187.28,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030745/products_v2/prod_kerama-marazzi-5182.jpg",
@@ -5617,7 +5617,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1090.0,
+    "price_retail": 1125.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030754/products_v2/prod_kerama-marazzi-5011.jpg",
     "images": [
@@ -5639,7 +5639,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Зеленый",
-    "price_retail": 1188.0,
+    "price_retail": 1225.0,
     "price_official": null,
     "stock_yanino": 66.04,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030757/products_v2/prod_kerama-marazzi-5111.jpg",
@@ -5662,7 +5662,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Зеленый",
-    "price_retail": 1159.0,
+    "price_retail": 1217.0,
     "price_official": null,
     "stock_yanino": 0.96,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030765/products_v2/prod_kerama-marazzi-5110.jpg",
@@ -5685,7 +5685,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1228.0,
+    "price_retail": 1265.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030774/products_v2/prod_kerama-marazzi-5278.jpg",
     "images": [
@@ -5707,7 +5707,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Красный",
-    "price_retail": 1293.0,
+    "price_retail": 1355.0,
     "price_official": null,
     "stock_yanino": 1,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030777/products_v2/prod_kerama-marazzi-5107.jpg",
@@ -5730,7 +5730,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1188.0,
+    "price_retail": 1225.0,
     "price_official": null,
     "stock_yanino": 0.04,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030786/products_v2/prod_kerama-marazzi-5112.jpg",
@@ -5753,7 +5753,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1388.0,
+    "price_retail": 1429.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030793/products_v2/prod_kerama-marazzi-5057.jpg",
     "images": [
@@ -5775,7 +5775,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1277.0,
+    "price_retail": 1316.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030801/products_v2/prod_kerama-marazzi-5187.jpg",
     "images": [
@@ -5797,7 +5797,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1321.0,
+    "price_retail": 1363.0,
     "price_official": null,
     "stock_yanino": 77.2,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030810/products_v2/prod_kerama-marazzi-5108.jpg",
@@ -5820,7 +5820,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1122.0,
+    "price_retail": 1157.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030821/products_v2/prod_kerama-marazzi-5177.jpg",
     "images": [
@@ -5842,7 +5842,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1090.0,
+    "price_retail": 1125.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030825/products_v2/prod_kerama-marazzi-5181.jpg",
     "images": [
@@ -5864,7 +5864,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Розовый",
-    "price_retail": 1161.0,
+    "price_retail": 1197.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030834/products_v2/prod_kerama-marazzi-5184.jpg",
     "images": [
@@ -5886,7 +5886,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Розовый",
-    "price_retail": 1114.0,
+    "price_retail": 1170.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030843/products_v2/prod_kerama-marazzi-5169.jpg",
     "images": [
@@ -5908,7 +5908,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Розовый",
-    "price_retail": 1261.0,
+    "price_retail": 1300.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030851/products_v2/prod_kerama-marazzi-5186.jpg",
     "images": [
@@ -5930,7 +5930,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
-    "price_retail": 1090.0,
+    "price_retail": 1125.0,
     "price_official": null,
     "stock_yanino": 0.72,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030860/products_v2/prod_kerama-marazzi-5179.jpg",
@@ -5953,7 +5953,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
-    "price_retail": 1090.0,
+    "price_retail": 1125.0,
     "price_official": null,
     "stock_yanino": 4.16,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030869/products_v2/prod_kerama-marazzi-5012.jpg",
@@ -5976,7 +5976,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
-    "price_retail": 1150.0,
+    "price_retail": 1186.0,
     "price_official": null,
     "stock_yanino": 0.8,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030878/products_v2/prod_kerama-marazzi-5106.jpg",
@@ -5999,7 +5999,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Синий",
-    "price_retail": 1321.0,
+    "price_retail": 1363.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030887/products_v2/prod_kerama-marazzi-5113.jpg",
     "images": [
@@ -6021,7 +6021,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1118.0,
+    "price_retail": 1152.0,
     "price_official": null,
     "stock_yanino": 1.64,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030896/products_v2/prod_kerama-marazzi-5275.jpg",
@@ -6044,7 +6044,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1090.0,
+    "price_retail": 1125.0,
     "price_official": null,
     "stock_yanino": 94.44,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030905/products_v2/prod_kerama-marazzi-5180.jpg",
@@ -6067,7 +6067,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1359.0,
+    "price_retail": 1400.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030914/products_v2/prod_kerama-marazzi-5114.jpg",
     "images": [
@@ -6089,7 +6089,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Черный",
-    "price_retail": 1321.0,
+    "price_retail": 1363.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030919/products_v2/prod_kerama-marazzi-5115.jpg",
     "images": [
@@ -6111,7 +6111,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1159.0,
+    "price_retail": 1217.0,
     "price_official": null,
     "stock_yanino": 49.4,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030927/products_v2/prod_kerama-marazzi-5109.jpg",
@@ -6134,7 +6134,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Бежевый",
-    "price_retail": 1325.0,
+    "price_retail": 1362.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030935/products_v2/prod_kerama-marazzi-7245.jpg",
     "images": [
@@ -6156,7 +6156,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Бежевый",
-    "price_retail": 1325.0,
+    "price_retail": 1362.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030940/products_v2/prod_kerama-marazzi-7240.jpg",
     "images": [
@@ -6178,7 +6178,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
-    "price_retail": 1325.0,
+    "price_retail": 1362.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030944/products_v2/prod_kerama-marazzi-7254.jpg",
     "images": [
@@ -6200,7 +6200,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Синий",
-    "price_retail": 1325.0,
+    "price_retail": 1362.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030951/products_v2/prod_kerama-marazzi-7242.jpg",
     "images": [
@@ -6222,7 +6222,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1044.0,
+    "price_retail": 1082.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030959/products_v2/prod_kerama-marazzi-6431.jpg",
     "images": [
@@ -6244,7 +6244,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1044.0,
+    "price_retail": 1082.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030966/products_v2/prod_kerama-marazzi-6430.jpg",
     "images": [
@@ -6266,7 +6266,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Белый",
-    "price_retail": 1476.0,
+    "price_retail": 1518.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030976/products_v2/prod_kerama-marazzi-7186.jpg",
     "images": [
@@ -6288,7 +6288,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Белый",
-    "price_retail": 1512.0,
+    "price_retail": 1552.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030981/products_v2/prod_kerama-marazzi-7191.jpg",
     "images": [
@@ -6310,7 +6310,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Белый",
-    "price_retail": 1512.0,
+    "price_retail": 1552.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030988/products_v2/prod_kerama-marazzi-7188.jpg",
     "images": [
@@ -6332,7 +6332,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
-    "price_retail": 1476.0,
+    "price_retail": 1518.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776030997/products_v2/prod_kerama-marazzi-7187.jpg",
     "images": [
@@ -6354,7 +6354,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
-    "price_retail": 1512.0,
+    "price_retail": 1552.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031005/products_v2/prod_kerama-marazzi-7192.jpg",
     "images": [
@@ -6376,7 +6376,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
-    "price_retail": 1512.0,
+    "price_retail": 1552.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031008/products_v2/prod_kerama-marazzi-7189.jpg",
     "images": [
@@ -6398,7 +6398,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Голубой",
-    "price_retail": 1259.0,
+    "price_retail": 1300.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031017/products_v2/prod_kerama-marazzi-5241.jpg",
     "images": [
@@ -6420,7 +6420,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1261.0,
+    "price_retail": 1304.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031027/products_v2/prod_kerama-marazzi-5240.jpg",
     "images": [
@@ -6442,7 +6442,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1309.0,
+    "price_retail": 1355.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031032/products_v2/prod_kerama-marazzi-5242.jpg",
     "images": [
@@ -6464,7 +6464,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1223.0,
+    "price_retail": 1264.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031042/products_v2/prod_kerama-marazzi-5232.jpg",
     "images": [
@@ -6486,7 +6486,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Синий",
-    "price_retail": 1309.0,
+    "price_retail": 1355.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031051/products_v2/prod_kerama-marazzi-5239.jpg",
     "images": [
@@ -6574,7 +6574,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Бежевый",
-    "price_retail": 3991.0,
+    "price_retail": 4104.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031077/products_v2/prod_kerama-marazzi-63008.jpg",
     "images": [
@@ -6596,7 +6596,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Бежевый",
-    "price_retail": 3991.0,
+    "price_retail": 4104.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031086/products_v2/prod_kerama-marazzi-63006.jpg",
     "images": [
@@ -6618,7 +6618,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.7x29.8",
     "color": "Серый",
-    "price_retail": 3991.0,
+    "price_retail": 4104.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031095/products_v2/prod_kerama-marazzi-63007.jpg",
     "images": [
@@ -6706,7 +6706,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Бежевый",
-    "price_retail": 2044.0,
+    "price_retail": 2107.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031120/products_v2/prod_kerama-marazzi-16051.jpg",
     "images": [
@@ -6728,7 +6728,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2247.0,
+    "price_retail": 2314.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031127/products_v2/prod_kerama-marazzi-16058.jpg",
     "images": [
@@ -6750,7 +6750,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2247.0,
+    "price_retail": 2314.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031135/products_v2/prod_kerama-marazzi-16059.jpg",
     "images": [
@@ -6772,7 +6772,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2138.0,
+    "price_retail": 2202.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031145/products_v2/prod_kerama-marazzi-16055.jpg",
     "images": [
@@ -6794,7 +6794,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2426.0,
+    "price_retail": 2498.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031154/products_v2/prod_kerama-marazzi-16075.jpg",
     "images": [
@@ -6816,7 +6816,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 2044.0,
+    "price_retail": 2107.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031163/products_v2/prod_kerama-marazzi-16053.jpg",
     "images": [
@@ -6838,7 +6838,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 2044.0,
+    "price_retail": 2107.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031172/products_v2/prod_kerama-marazzi-16054.jpg",
     "images": [
@@ -6860,7 +6860,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 702.0,
+    "price_retail": 726.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031178/products_v2/prod_kerama-marazzi-6437.jpg",
     "images": [
@@ -6882,7 +6882,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1182.0,
+    "price_retail": 1222.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031185/products_v2/prod_kerama-marazzi-6411.jpg",
     "images": [
@@ -6904,7 +6904,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Зеленый",
-    "price_retail": 1262.0,
+    "price_retail": 1304.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031189/products_v2/prod_kerama-marazzi-6410.jpg",
     "images": [
@@ -6926,7 +6926,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Зеленый",
-    "price_retail": 1182.0,
+    "price_retail": 1222.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031196/products_v2/prod_kerama-marazzi-6409.jpg",
     "images": [
@@ -6948,7 +6948,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Коричневый",
-    "price_retail": 1262.0,
+    "price_retail": 1304.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031204/products_v2/prod_kerama-marazzi-6412.jpg",
     "images": [
@@ -6970,7 +6970,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1182.0,
+    "price_retail": 1222.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031211/products_v2/prod_kerama-marazzi-6415.jpg",
     "images": [
@@ -6992,7 +6992,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Белый",
-    "price_retail": 1021.0,
+    "price_retail": 1055.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031223/products_v2/prod_kerama-marazzi-6397.jpg",
     "images": [
@@ -7014,7 +7014,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1021.0,
+    "price_retail": 1055.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031231/products_v2/prod_kerama-marazzi-6398.jpg",
     "images": [
@@ -7036,7 +7036,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Серый",
-    "price_retail": 1101.0,
+    "price_retail": 1137.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031238/products_v2/prod_kerama-marazzi-6399.jpg",
     "images": [
@@ -7058,7 +7058,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Серый",
-    "price_retail": 1576.0,
+    "price_retail": 1612.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031259/products_v2/prod_kerama-marazzi-2911.jpg",
     "images": [
@@ -7080,7 +7080,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Серый",
-    "price_retail": 1576.0,
+    "price_retail": 1612.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031264/products_v2/prod_kerama-marazzi-2912.jpg",
     "images": [
@@ -7102,7 +7102,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Белый",
-    "price_retail": 890.0,
+    "price_retail": 921.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031270/products_v2/prod_kerama-marazzi-8376.jpg",
     "images": [
@@ -7124,7 +7124,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Белый",
-    "price_retail": 927.0,
+    "price_retail": 958.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031277/products_v2/prod_kerama-marazzi-8377.jpg",
     "images": [
@@ -7146,7 +7146,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Бежевый",
-    "price_retail": 1878.0,
+    "price_retail": 1939.0,
     "price_official": null,
     "stock_yanino": 28.82,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031283/products_v2/prod_kerama-marazzi-9018.jpg",
@@ -7169,7 +7169,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Белый",
-    "price_retail": 1732.0,
+    "price_retail": 1791.0,
     "price_official": null,
     "stock_yanino": 66.22,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031292/products_v2/prod_kerama-marazzi-9016.jpg",
@@ -7192,7 +7192,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1878.0,
+    "price_retail": 1939.0,
     "price_official": null,
     "stock_yanino": 43.69,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031302/products_v2/prod_kerama-marazzi-9017.jpg",
@@ -7215,7 +7215,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Микс",
-    "price_retail": 1878.0,
+    "price_retail": 1939.0,
     "price_official": null,
     "stock_yanino": 33.84,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031309/products_v2/prod_kerama-marazzi-9020.jpg",
@@ -7238,7 +7238,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Бежевый",
-    "price_retail": 1430.0,
+    "price_retail": 1473.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031316/products_v2/prod_kerama-marazzi-15145.jpg",
     "images": [
@@ -7260,7 +7260,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Бежевый",
-    "price_retail": 1467.0,
+    "price_retail": 1515.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031324/products_v2/prod_kerama-marazzi-15146.jpg",
     "images": [
@@ -7282,7 +7282,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Серый",
-    "price_retail": 1467.0,
+    "price_retail": 1515.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031331/products_v2/prod_kerama-marazzi-15148.jpg",
     "images": [
@@ -7304,7 +7304,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x40",
     "color": "Серый",
-    "price_retail": 1430.0,
+    "price_retail": 1473.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031338/products_v2/prod_kerama-marazzi-15147.jpg",
     "images": [
@@ -7326,7 +7326,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031346/products_v2/prod_kerama-marazzi-16086.jpg",
     "images": [
@@ -7348,7 +7348,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031354/products_v2/prod_kerama-marazzi-16091.jpg",
     "images": [
@@ -7370,7 +7370,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Микс",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031361/products_v2/prod_kerama-marazzi-16087.jpg",
     "images": [
@@ -7392,7 +7392,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Розовый",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031369/products_v2/prod_kerama-marazzi-16088.jpg",
     "images": [
@@ -7414,7 +7414,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031376/products_v2/prod_kerama-marazzi-16090.jpg",
     "images": [
@@ -7436,7 +7436,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Синий",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031384/products_v2/prod_kerama-marazzi-16089.jpg",
     "images": [
@@ -7458,7 +7458,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 1984.0,
+    "price_retail": 2045.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031393/products_v2/prod_kerama-marazzi-16028.jpg",
     "images": [
@@ -7480,7 +7480,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Голубой",
-    "price_retail": 1984.0,
+    "price_retail": 2045.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031400/products_v2/prod_kerama-marazzi-16030.jpg",
     "images": [
@@ -7502,7 +7502,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Розовый",
-    "price_retail": 1984.0,
+    "price_retail": 2045.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031408/products_v2/prod_kerama-marazzi-16031.jpg",
     "images": [
@@ -7524,7 +7524,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 1984.0,
+    "price_retail": 2045.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031415/products_v2/prod_kerama-marazzi-16029.jpg",
     "images": [
@@ -7546,7 +7546,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1217.0,
+    "price_retail": 1259.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031425/products_v2/prod_kerama-marazzi-6336.jpg",
     "images": [
@@ -7568,7 +7568,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1217.0,
+    "price_retail": 1259.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031433/products_v2/prod_kerama-marazzi-6337.jpg",
     "images": [
@@ -7590,7 +7590,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1270.0,
+    "price_retail": 1313.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031442/products_v2/prod_kerama-marazzi-6339.jpg",
     "images": [
@@ -7612,7 +7612,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1270.0,
+    "price_retail": 1313.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031450/products_v2/prod_kerama-marazzi-6338.jpg",
     "images": [
@@ -7698,7 +7698,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Бежевый",
-    "price_retail": 1476.0,
+    "price_retail": 1518.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031479/products_v2/prod_kerama-marazzi-7169.jpg",
     "images": [
@@ -7720,7 +7720,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
-    "price_retail": 1778.0,
+    "price_retail": 1827.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031487/products_v2/prod_kerama-marazzi-7171.jpg",
     "images": [
@@ -7742,7 +7742,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Микс",
-    "price_retail": 1512.0,
+    "price_retail": 1552.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031494/products_v2/prod_kerama-marazzi-7176.jpg",
     "images": [
@@ -7764,7 +7764,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Бежевый",
-    "price_retail": 1803.0,
+    "price_retail": 1860.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031500/products_v2/prod_kerama-marazzi-17057.jpg",
     "images": [
@@ -7786,7 +7786,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "15x15",
     "color": "Зеленый",
-    "price_retail": 1846.0,
+    "price_retail": 1902.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031506/products_v2/prod_kerama-marazzi-17070.jpg",
     "images": [
@@ -7808,7 +7808,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Белый",
-    "price_retail": 1609.0,
+    "price_retail": 1661.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031515/products_v2/prod_kerama-marazzi-19075.jpg",
     "images": [
@@ -7830,7 +7830,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Микс",
-    "price_retail": 1642.0,
+    "price_retail": 1695.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031523/products_v2/prod_kerama-marazzi-19077.jpg",
     "images": [
@@ -7852,7 +7852,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "9.9x20",
     "color": "Синий",
-    "price_retail": 1642.0,
+    "price_retail": 1695.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031529/products_v2/prod_kerama-marazzi-19076.jpg",
     "images": [
@@ -7874,7 +7874,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 2009.0,
+    "price_retail": 2073.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031535/products_v2/prod_kerama-marazzi-16085.jpg",
     "images": [
@@ -7896,7 +7896,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1008.0,
+    "price_retail": 1042.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031540/products_v2/prod_kerama-marazzi-6372.jpg",
     "images": [
@@ -7918,7 +7918,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1062.0,
+    "price_retail": 1095.0,
     "price_official": null,
     "stock_yanino": 9.5,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031548/products_v2/prod_kerama-marazzi-6375.jpg",
@@ -7941,7 +7941,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Голубой",
-    "price_retail": 1008.0,
+    "price_retail": 1042.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031555/products_v2/prod_kerama-marazzi-6373.jpg",
     "images": [
@@ -7963,7 +7963,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Голубой",
-    "price_retail": 1062.0,
+    "price_retail": 1095.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031564/products_v2/prod_kerama-marazzi-6376.jpg",
     "images": [
@@ -7985,7 +7985,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Микс",
-    "price_retail": 1008.0,
+    "price_retail": 1042.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031571/products_v2/prod_kerama-marazzi-6374.jpg",
     "images": [
@@ -8007,7 +8007,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Микс",
-    "price_retail": 1062.0,
+    "price_retail": 1095.0,
     "price_official": null,
     "stock_yanino": 1.1,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031580/products_v2/prod_kerama-marazzi-6377.jpg",
@@ -8030,7 +8030,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
-    "price_retail": 1325.0,
+    "price_retail": 1362.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031586/products_v2/prod_kerama-marazzi-7256.jpg",
     "images": [
@@ -8052,7 +8052,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
-    "price_retail": 1359.0,
+    "price_retail": 1406.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031593/products_v2/prod_kerama-marazzi-7258.jpg",
     "images": [
@@ -8074,7 +8074,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
-    "price_retail": 1325.0,
+    "price_retail": 1362.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031599/products_v2/prod_kerama-marazzi-7255.jpg",
     "images": [
@@ -8096,7 +8096,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x50",
     "color": "Серый",
-    "price_retail": 1359.0,
+    "price_retail": 1406.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031605/products_v2/prod_kerama-marazzi-7257.jpg",
     "images": [
@@ -8118,7 +8118,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1217.0,
+    "price_retail": 1259.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031614/products_v2/prod_kerama-marazzi-6355.jpg",
     "images": [
@@ -8140,7 +8140,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "25x40",
     "color": "Бежевый",
-    "price_retail": 1270.0,
+    "price_retail": 1313.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031618/products_v2/prod_kerama-marazzi-6356.jpg",
     "images": [
@@ -8184,7 +8184,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
-    "price_retail": 1179.0,
+    "price_retail": 1219.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031631/products_v2/prod_kerama-marazzi-5288.jpg",
     "images": [
@@ -8206,7 +8206,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Белый",
-    "price_retail": 1179.0,
+    "price_retail": 1219.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031637/products_v2/prod_kerama-marazzi-5287.jpg",
     "images": [
@@ -8228,7 +8228,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Коричневый",
-    "price_retail": 1246.0,
+    "price_retail": 1289.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031646/products_v2/prod_kerama-marazzi-5289.jpg",
     "images": [
@@ -8250,7 +8250,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
-    "price_retail": 1234.0,
+    "price_retail": 1276.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031652/products_v2/prod_kerama-marazzi-5229.jpg",
     "images": [
@@ -8272,7 +8272,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Белый",
-    "price_retail": 1221.0,
+    "price_retail": 1263.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031656/products_v2/prod_kerama-marazzi-5226.jpg",
     "images": [
@@ -8294,7 +8294,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1234.0,
+    "price_retail": 1276.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031663/products_v2/prod_kerama-marazzi-5227.jpg",
     "images": [
@@ -8316,7 +8316,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Бежевый",
-    "price_retail": 3271.0,
+    "price_retail": 3364.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031673/products_v2/prod_kerama-marazzi-20074.jpg",
     "images": [
@@ -8338,7 +8338,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Бежевый",
-    "price_retail": 3382.0,
+    "price_retail": 3477.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031682/products_v2/prod_kerama-marazzi-20009.jpg",
     "images": [
@@ -8360,7 +8360,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Белый",
-    "price_retail": 3569.0,
+    "price_retail": 3670.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031693/products_v2/prod_kerama-marazzi-20003.jpg",
     "images": [
@@ -8382,7 +8382,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Микс",
-    "price_retail": 3382.0,
+    "price_retail": 3477.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031704/products_v2/prod_kerama-marazzi-20070.jpg",
     "images": [
@@ -8404,7 +8404,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Микс",
-    "price_retail": 3570.0,
+    "price_retail": 3670.0,
     "price_official": null,
     "stock_yanino": 2.13,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031713/products_v2/prod_kerama-marazzi-20090.jpg",
@@ -8427,7 +8427,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Голубой",
-    "price_retail": 3465.0,
+    "price_retail": 3562.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031720/products_v2/prod_kerama-marazzi-20016.jpg",
     "images": [
@@ -8449,7 +8449,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Графит",
-    "price_retail": 3360.0,
+    "price_retail": 3455.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031731/products_v2/prod_kerama-marazzi-20064.jpg",
     "images": [
@@ -8471,7 +8471,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Синий",
-    "price_retail": 3484.0,
+    "price_retail": 3582.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031742/products_v2/prod_kerama-marazzi-20013.jpg",
     "images": [
@@ -8493,7 +8493,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Черный",
-    "price_retail": 3939.0,
+    "price_retail": 4049.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031751/products_v2/prod_kerama-marazzi-20004.jpg",
     "images": [
@@ -8515,7 +8515,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "29.8x29.8",
     "color": "Черный",
-    "price_retail": 4183.0,
+    "price_retail": 4301.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031759/products_v2/prod_kerama-marazzi-20071.jpg",
     "images": [
@@ -8537,7 +8537,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Белый",
-    "price_retail": 890.0,
+    "price_retail": 921.0,
     "price_official": null,
     "stock_yanino": 0.48,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031765/products_v2/prod_kerama-marazzi-8063.jpg",
@@ -8560,7 +8560,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Белый",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031773/products_v2/prod_kerama-marazzi-16084.jpg",
     "images": [
@@ -8582,7 +8582,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Розовый",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031784/products_v2/prod_kerama-marazzi-16077.jpg",
     "images": [
@@ -8604,7 +8604,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "7.4x15",
     "color": "Серый",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031791/products_v2/prod_kerama-marazzi-16081.jpg",
     "images": [
@@ -8626,7 +8626,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Бежевый",
-    "price_retail": 1836.0,
+    "price_retail": 1897.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031796/products_v2/prod_kerama-marazzi-9038.jpg",
     "images": [
@@ -8648,7 +8648,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Бежевый",
-    "price_retail": 1878.0,
+    "price_retail": 1937.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031802/products_v2/prod_kerama-marazzi-9040.jpg",
     "images": [
@@ -8670,7 +8670,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Коричневый",
-    "price_retail": 1836.0,
+    "price_retail": 1897.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031813/products_v2/prod_kerama-marazzi-9039.jpg",
     "images": [
@@ -8692,7 +8692,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "8.5x28.5",
     "color": "Серый",
-    "price_retail": 1836.0,
+    "price_retail": 1897.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031822/products_v2/prod_kerama-marazzi-9037.jpg",
     "images": [
@@ -8714,7 +8714,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
-    "price_retail": 1006.0,
+    "price_retail": 1041.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031834/products_v2/prod_kerama-marazzi-8340.jpg",
     "images": [
@@ -8736,7 +8736,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x30",
     "color": "Бежевый",
-    "price_retail": 1075.0,
+    "price_retail": 1113.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031841/products_v2/prod_kerama-marazzi-8347.jpg",
     "images": [
@@ -8802,7 +8802,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Антрацит",
-    "price_retail": 1212.0,
+    "price_retail": 1244.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031872/products_v2/prod_kerama-marazzi-5299.jpg",
     "images": [
@@ -8824,7 +8824,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Бежевый",
-    "price_retail": 1136.0,
+    "price_retail": 1168.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031881/products_v2/prod_kerama-marazzi-5296.jpg",
     "images": [
@@ -8846,7 +8846,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Микс",
-    "price_retail": 1212.0,
+    "price_retail": 1244.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031889/products_v2/prod_kerama-marazzi-5300.jpg",
     "images": [
@@ -8868,7 +8868,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
-    "price_retail": 1136.0,
+    "price_retail": 1168.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031898/products_v2/prod_kerama-marazzi-5295.jpg",
     "images": [
@@ -8890,7 +8890,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Серый",
-    "price_retail": 1136.0,
+    "price_retail": 1168.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031908/products_v2/prod_kerama-marazzi-5294.jpg",
     "images": [
@@ -8912,7 +8912,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "20x20",
     "color": "Синий",
-    "price_retail": 1212.0,
+    "price_retail": 1244.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031917/products_v2/prod_kerama-marazzi-5298.jpg",
     "images": [
@@ -8934,7 +8934,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Бежевый",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031922/products_v2/prod_azori-00-00110060.jpg",
     "images": [
@@ -8957,7 +8957,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031928/products_v2/prod_azori-00-00108694.jpg",
     "images": [
@@ -8980,7 +8980,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031936/products_v2/prod_azori-00-00108696.jpg",
     "images": [
@@ -9003,7 +9003,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031942/products_v2/prod_azori-00-00108692.jpg",
     "images": [
@@ -9026,7 +9026,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1590,
+    "price_retail": 1700.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031949/products_v2/prod_azori-00-00108633.jpg",
     "images": [
@@ -9049,7 +9049,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031956/products_v2/prod_azori-00-00108602.jpg",
     "images": [
@@ -9072,7 +9072,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031963/products_v2/prod_azori-00-00108600.jpg",
     "images": [
@@ -9095,7 +9095,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031970/products_v2/prod_azori-00-00108598.jpg",
     "images": [
@@ -9118,7 +9118,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1590,
+    "price_retail": 1700.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031976/products_v2/prod_azori-00-00108678.jpg",
     "images": [
@@ -9141,7 +9141,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031983/products_v2/prod_azori-00-00108672.jpg",
     "images": [
@@ -9164,7 +9164,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031989/products_v2/prod_azori-00-00108674.jpg",
     "images": [
@@ -9187,7 +9187,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776031996/products_v2/prod_azori-00-00108595.jpg",
     "images": [
@@ -9210,7 +9210,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032003/products_v2/prod_azori-00-00108591.jpg",
     "images": [
@@ -9233,7 +9233,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032009/products_v2/prod_azori-00-00108593.jpg",
     "images": [
@@ -9256,7 +9256,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032017/products_v2/prod_azori-00-00108419.jpg",
     "images": [
@@ -9279,7 +9279,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032024/products_v2/prod_azori-00-00108412.jpg",
     "images": [
@@ -9302,7 +9302,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032031/products_v2/prod_azori-00-00108414.jpg",
     "images": [
@@ -9325,7 +9325,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032038/products_v2/prod_azori-00-00108410.jpg",
     "images": [
@@ -9348,7 +9348,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032045/products_v2/prod_azori-00-00108408.jpg",
     "images": [
@@ -9371,7 +9371,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032051/products_v2/prod_azori-00-00108418.jpg",
     "images": [
@@ -9394,7 +9394,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032058/products_v2/prod_azori-00-00108401.jpg",
     "images": [
@@ -9417,7 +9417,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032064/products_v2/prod_azori-00-00108403.jpg",
     "images": [
@@ -9440,7 +9440,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032071/products_v2/prod_azori-00-00108405.jpg",
     "images": [
@@ -9463,7 +9463,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032076/products_v2/prod_azori-00-00108399.jpg",
     "images": [
@@ -9486,7 +9486,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032081/products_v2/prod_azori-00-00108397.jpg",
     "images": [
@@ -9509,7 +9509,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032087/products_v2/prod_azori-00-00003519.jpg",
     "images": [
@@ -9532,7 +9532,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032094/products_v2/prod_azori-00-00003254.jpg",
     "images": [
@@ -9555,7 +9555,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032100/products_v2/prod_azori-00-00003246.jpg",
     "images": [
@@ -9578,7 +9578,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 51.87,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032107/products_v2/prod_azori-00-00003240.jpg",
@@ -9602,7 +9602,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032113/products_v2/prod_azori-00-00003244.jpg",
     "images": [
@@ -9625,7 +9625,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032121/products_v2/prod_azori-00-00003242.jpg",
     "images": [
@@ -9648,7 +9648,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 36.77,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032128/products_v2/prod_azori-00-00003250.jpg",
@@ -9672,7 +9672,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032133/products_v2/prod_azori-00-00109500.jpg",
     "images": [
@@ -9692,7 +9692,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032140/products_v2/prod_azori-00-00003248.jpg",
     "images": [
@@ -9715,7 +9715,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032146/products_v2/prod_azori-00-00003221.jpg",
     "images": [
@@ -9738,7 +9738,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032152/products_v2/prod_azori-00-00003223.jpg",
     "images": [
@@ -9761,7 +9761,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 6.15,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032159/products_v2/prod_azori-00-00003447.jpg",
@@ -9785,7 +9785,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032165/products_v2/prod_azori-00-00003161.jpg",
     "images": [
@@ -9808,7 +9808,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032171/products_v2/prod_azori-00-00003145.jpg",
     "images": [
@@ -9831,7 +9831,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032177/products_v2/prod_azori-00-00003151.jpg",
     "images": [
@@ -9854,7 +9854,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032185/products_v2/prod_azori-00-00003149.jpg",
     "images": [
@@ -9877,7 +9877,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032192/products_v2/prod_azori-00-00003153.jpg",
     "images": [
@@ -9900,7 +9900,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032198/products_v2/prod_azori-00-00003147.jpg",
     "images": [
@@ -9923,7 +9923,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032206/products_v2/prod_azori-00-00003445.jpg",
     "images": [
@@ -9946,7 +9946,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032209/products_v2/prod_azori-00-00003171.jpg",
     "images": [
@@ -9969,7 +9969,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032215/products_v2/prod_azori-00-00003177.jpg",
     "images": [
@@ -9992,7 +9992,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032221/products_v2/prod_azori-00-00003173.jpg",
     "images": [
@@ -10015,7 +10015,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032227/products_v2/prod_azori-00-00003175.jpg",
     "images": [
@@ -10038,7 +10038,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032233/products_v2/prod_azori-00-00002211.jpg",
     "images": [
@@ -10061,7 +10061,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 57.04,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032238/products_v2/prod_azori-00-00002206.jpg",
@@ -10085,7 +10085,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 0.99,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032245/products_v2/prod_azori-00-00002210.jpg",
@@ -10109,7 +10109,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 34.29,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032252/products_v2/prod_azori-00-00002213.jpg",
@@ -10133,7 +10133,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 6.56,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032257/products_v2/prod_azori-00-00002208.jpg",
@@ -10157,7 +10157,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 10.93,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032260/products_v2/prod_azori-00-00002215.jpg",
@@ -10206,7 +10206,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "stock_yanino": 9,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032274/products_v2/prod_azori-589002002.jpg",
@@ -10230,7 +10230,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032281/products_v2/prod_azori-589002001.jpg",
     "images": [
@@ -10253,7 +10253,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032287/products_v2/prod_azori-589002003.jpg",
     "images": [
@@ -10276,7 +10276,7 @@ export const importedProducts: any[] = [
     "product_type": "Мозаика",
     "format": "30х30",
     "color": "Микс",
-    "price_retail": 1330,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032294/products_v2/prod_azori-587433005.jpg",
     "images": [
@@ -10299,7 +10299,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032301/products_v2/prod_azori-509001201.jpg",
     "images": [
@@ -10322,7 +10322,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032307/products_v2/prod_azori-00-00002362.jpg",
     "images": [
@@ -10345,7 +10345,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032311/products_v2/prod_azori-509001101.jpg",
     "images": [
@@ -10895,7 +10895,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032467/products_v2/prod_azori-00-00003228.jpg",
     "images": [
@@ -10918,7 +10918,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "stock_yanino": 3.38,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032473/products_v2/prod_azori-507271201.jpg",
@@ -10942,7 +10942,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "stock_yanino": 21.47,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032481/products_v2/prod_azori-00-00002986.jpg",
@@ -10966,7 +10966,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032488/products_v2/prod_azori-507743003.jpg",
     "images": [
@@ -11210,7 +11210,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032554/products_v2/prod_azori-509041202.jpg",
     "images": [
@@ -11233,7 +11233,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 3.38,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032561/products_v2/prod_azori-00-00002418.jpg",
@@ -11257,7 +11257,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032568/products_v2/prod_azori-509501101.jpg",
     "images": [
@@ -11280,7 +11280,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "stock_yanino": 12.34,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032575/products_v2/prod_azori-00-00002225.jpg",
@@ -11304,7 +11304,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032581/products_v2/prod_azori-509521101.jpg",
     "images": [
@@ -11327,7 +11327,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "stock_yanino": 33.39,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032588/products_v2/prod_azori-00-00002451.jpg",
@@ -11351,7 +11351,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 1.59,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032595/products_v2/prod_azori-509531101.jpg",
@@ -11375,7 +11375,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032603/products_v2/prod_azori-00-00002385.jpg",
     "images": [
@@ -11398,7 +11398,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032609/products_v2/prod_azori-509541101.jpg",
     "images": [
@@ -11421,7 +11421,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032616/products_v2/prod_azori-00-00002386.jpg",
     "images": [
@@ -11496,7 +11496,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032639/products_v2/prod_azori-587912002.jpg",
     "images": [
@@ -11519,7 +11519,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1550,
+    "price_retail": 1660.0,
     "price_official": null,
     "stock_yanino": 11,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032646/products_v2/prod_azori-587912001.jpg",
@@ -11543,7 +11543,7 @@ export const importedProducts: any[] = [
     "product_type": "Мозаика",
     "format": "30х30",
     "color": "Микс",
-    "price_retail": 1330,
+    "price_retail": 1420.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032653/products_v2/prod_azori-588143001.jpg",
     "images": [
@@ -11566,7 +11566,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032660/products_v2/prod_azori-507911201.jpg",
     "images": [
@@ -11589,7 +11589,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 53.07,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032667/products_v2/prod_azori-00-00002290.jpg",
@@ -11613,7 +11613,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032674/products_v2/prod_azori-509491101.jpg",
     "images": [
@@ -11636,7 +11636,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032680/products_v2/prod_azori-00-00003236.jpg",
     "images": [
@@ -11682,7 +11682,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1490,
+    "price_retail": 1590.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032693/products_v2/prod_azori-00-00003381.jpg",
     "images": [
@@ -11705,7 +11705,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032700/products_v2/prod_azori-507913001.jpg",
     "images": [
@@ -11728,7 +11728,7 @@ export const importedProducts: any[] = [
     "product_type": "Мозаика",
     "format": "30х30",
     "color": "Микс",
-    "price_retail": 1330,
+    "price_retail": 1425.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032707/products_v2/prod_azori-587433006.jpg",
     "images": [
@@ -11751,7 +11751,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "63х63",
     "color": "Микс",
-    "price_retail": 2680,
+    "price_retail": 2870.0,
     "price_official": null,
     "stock_yanino": 4,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032714/products_v2/prod_azori-588942002.jpg",
@@ -11775,7 +11775,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032720/products_v2/prod_azori-508941201.jpg",
     "images": [
@@ -11798,7 +11798,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032727/products_v2/prod_azori-00-00002111.jpg",
     "images": [
@@ -11821,7 +11821,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032734/products_v2/prod_azori-508951101.jpg",
     "images": [
@@ -11844,7 +11844,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 37.16,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032741/products_v2/prod_azori-00-00108395.jpg",
@@ -11868,7 +11868,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 23.72,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032747/products_v2/prod_azori-508943001.jpg",
@@ -11892,7 +11892,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "stock_yanino": 60,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032751/products_v2/prod_azori-588912001.jpg",
@@ -11916,7 +11916,7 @@ export const importedProducts: any[] = [
     "product_type": "Мозаика",
     "format": "30х30",
     "color": "Микс",
-    "price_retail": 1330,
+    "price_retail": 1425.0,
     "price_official": null,
     "stock_yanino": 38,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032758/products_v2/prod_azori-587433004.jpg",
@@ -11939,7 +11939,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "63х63",
     "color": "Микс",
-    "price_retail": 2675,
+    "price_retail": 2865.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032765/products_v2/prod_azori-588912003.jpg",
     "images": [
@@ -11961,7 +11961,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032772/products_v2/prod_azori-508901201.jpg",
     "images": [
@@ -11984,7 +11984,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 16.89,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032775/products_v2/prod_azori-00-00002113.jpg",
@@ -12008,7 +12008,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 2.98,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032782/products_v2/prod_azori-508911101.jpg",
@@ -12032,7 +12032,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032786/products_v2/prod_azori-00-00002131.jpg",
     "images": [
@@ -12055,7 +12055,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 2.78,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032792/products_v2/prod_azori-508921101.jpg",
@@ -12079,7 +12079,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 8.34,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032799/products_v2/prod_azori-00-00108534.jpg",
@@ -12175,7 +12175,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1299,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032824/products_v2/prod_azori-00-00000541.png",
     "images": [
@@ -12267,7 +12267,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1299,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032857/products_v2/prod_azori-00-00108535.jpg",
     "images": [
@@ -12290,7 +12290,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х6,2",
     "color": "Микс",
-    "price_retail": 239,
+    "price_retail": 255.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032864/products_v2/prod_azori-588471002.jpg",
     "images": [
@@ -12313,7 +12313,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "63х7,5",
     "color": "Микс",
-    "price_retail": 525,
+    "price_retail": 560.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032872/products_v2/prod_azori-588471001.jpg",
     "images": [
@@ -12336,7 +12336,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1170,
+    "price_retail": 1255.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032880/products_v2/prod_azori-588472002.jpg",
     "images": [
@@ -12359,7 +12359,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1340,
+    "price_retail": 1430.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032887/products_v2/prod_azori-588472001.jpg",
     "images": [
@@ -12382,7 +12382,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032894/products_v2/prod_azori-508791201.jpg",
     "images": [
@@ -12405,7 +12405,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032901/products_v2/prod_azori-00-00002450.jpg",
     "images": [
@@ -12428,7 +12428,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032909/products_v2/prod_azori-508471101.jpg",
     "images": [
@@ -12451,7 +12451,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032918/products_v2/prod_azori-00-00108476.jpg",
     "images": [
@@ -12474,7 +12474,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032925/products_v2/prod_azori-508481101.jpg",
     "images": [
@@ -12497,7 +12497,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 30.75,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032933/products_v2/prod_azori-508473001.jpg",
@@ -12521,7 +12521,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032940/products_v2/prod_azori-508483001.jpg",
     "images": [
@@ -12544,7 +12544,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1295,
+    "price_retail": 1380.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032949/products_v2/prod_azori-588252001.jpg",
     "images": [
@@ -12567,7 +12567,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1295,
+    "price_retail": 1380.0,
     "price_official": null,
     "stock_yanino": 2,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032954/products_v2/prod_azori-588212001.jpg",
@@ -12591,7 +12591,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1295,
+    "price_retail": 1380.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032961/products_v2/prod_azori-588232001.jpg",
     "images": [
@@ -12614,7 +12614,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032970/products_v2/prod_azori-508211201.jpg",
     "images": [
@@ -12637,7 +12637,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032978/products_v2/prod_azori-00-00002136.jpg",
     "images": [
@@ -12660,7 +12660,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 1.59,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032986/products_v2/prod_azori-508221101.jpg",
@@ -12684,7 +12684,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 14.31,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032994/products_v2/prod_azori-00-00002387.jpg",
@@ -12708,7 +12708,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776032998/products_v2/prod_azori-508251101.jpg",
     "images": [
@@ -12731,7 +12731,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033006/products_v2/prod_azori-00-00002137.jpg",
     "images": [
@@ -12754,7 +12754,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033015/products_v2/prod_azori-508261101.jpg",
     "images": [
@@ -12777,7 +12777,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033023/products_v2/prod_azori-00-00108492.jpg",
     "images": [
@@ -12800,7 +12800,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 4.37,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033031/products_v2/prod_azori-508231101.jpg",
@@ -12824,7 +12824,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 6.36,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033042/products_v2/prod_azori-00-00002135.jpg",
@@ -12848,7 +12848,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 4.57,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033050/products_v2/prod_azori-508241101.jpg",
@@ -12872,7 +12872,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033055/products_v2/prod_azori-508253001.jpg",
     "images": [
@@ -12895,7 +12895,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 53.24,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033063/products_v2/prod_azori-508233001.jpg",
@@ -13016,7 +13016,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033100/products_v2/prod_azori-00-00002415.jpg",
     "images": [
@@ -13039,7 +13039,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "stock_yanino": 0.79,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033107/products_v2/prod_azori-00-00002388.jpg",
@@ -13063,7 +13063,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033114/products_v2/prod_azori-507361101.jpg",
     "images": [
@@ -13085,7 +13085,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033120/products_v2/prod_azori-00-00002389.jpg",
     "images": [
@@ -13108,7 +13108,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033125/products_v2/prod_azori-507371101.jpg",
     "images": [
@@ -13131,7 +13131,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "31,5х63",
     "color": "Микс",
-    "price_retail": 1390,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033131/products_v2/prod_azori-00-00002390.jpg",
     "images": [
@@ -13154,7 +13154,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 6.15,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033135/products_v2/prod_azori-507763002.jpg",
@@ -13452,7 +13452,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033214/products_v2/prod_azori-507973003.jpg",
     "images": [
@@ -15249,7 +15249,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 24.25,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033695/products_v2/prod_azori-504113002.jpg",
@@ -15273,7 +15273,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 28.47,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033702/products_v2/prod_azori-504123002.jpg",
@@ -15409,7 +15409,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149.0,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033741/products_v2/prod_azori-507113002.jpg",
     "images": [
@@ -15432,7 +15432,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149.0,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 22.67,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033750/products_v2/prod_azori-507103002.jpg",
@@ -16179,7 +16179,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 22.65,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776033934/products_v2/prod_azori-00-00001245.jpg",
@@ -16687,7 +16687,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034063/products_v2/prod_azori-505613002.jpg",
     "images": [
@@ -16710,7 +16710,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034071/products_v2/prod_azori-505793002.jpg",
     "images": [
@@ -16733,7 +16733,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034074/products_v2/prod_azori-505643002.jpg",
     "images": [
@@ -18178,7 +18178,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 45.51,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034466/products_v2/prod_azori-503203003.jpg",
@@ -18202,7 +18202,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "stock_yanino": 2.64,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034473/products_v2/prod_azori-503193003.jpg",
@@ -18249,7 +18249,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034484/products_v2/prod_azori-502203002.jpg",
     "images": [
@@ -18502,7 +18502,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034546/products_v2/prod_azori-503963002.jpg",
     "images": [
@@ -18596,7 +18596,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "42х42",
     "color": "Микс",
-    "price_retail": 1149,
+    "price_retail": 1250.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776034568/products_v2/prod_azori-506263002.jpg",
     "images": [
@@ -23965,7 +23965,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035925/products_v2/prod_eletto-00-00108447.jpg",
     "images": [
@@ -23985,7 +23985,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035932/products_v2/prod_eletto-00-00108445.jpg",
     "images": [
@@ -24005,7 +24005,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035940/products_v2/prod_eletto-00-00108453.jpg",
     "images": [
@@ -24025,7 +24025,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035947/products_v2/prod_eletto-00-00108468.jpg",
     "images": [
@@ -24045,7 +24045,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035954/products_v2/prod_eletto-00-00108451.jpg",
     "images": [
@@ -24065,7 +24065,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035962/products_v2/prod_eletto-00-00108457.jpg",
     "images": [
@@ -24085,7 +24085,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035969/products_v2/prod_eletto-00-00108459.jpg",
     "images": [
@@ -24105,7 +24105,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035976/products_v2/prod_eletto-00-00108449.jpg",
     "images": [
@@ -24125,7 +24125,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035983/products_v2/prod_eletto-00-00108455.jpg",
     "images": [
@@ -24145,7 +24145,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035990/products_v2/prod_eletto-00-00108466.jpg",
     "images": [
@@ -24165,7 +24165,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1950.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776035998/products_v2/prod_eletto-00-00108501.jpg",
     "images": [
@@ -24185,7 +24185,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036005/products_v2/prod_eletto-00-00108497.jpg",
     "images": [
@@ -24205,7 +24205,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036012/products_v2/prod_eletto-00-00108495.jpg",
     "images": [
@@ -24225,7 +24225,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036019/products_v2/prod_eletto-00-00108499.jpg",
     "images": [
@@ -24245,7 +24245,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 2880.0,
+    "price_retail": 900.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036027/products_v2/prod_eletto-00-00108461.jpg",
     "images": [
@@ -24265,7 +24265,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "stock_yanino": 0.85,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036033/products_v2/prod_eletto-00-00108434.jpg",
@@ -24286,7 +24286,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036039/products_v2/prod_eletto-00-00108470.jpg",
     "images": [
@@ -24306,7 +24306,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036042/products_v2/prod_eletto-00-00108472.jpg",
     "images": [
@@ -24326,7 +24326,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "stock_yanino": 0.68,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036049/products_v2/prod_eletto-00-00108436.jpg",
@@ -24347,7 +24347,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "stock_yanino": 4.76,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036054/products_v2/prod_eletto-00-00108474.jpg",
@@ -24368,7 +24368,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036061/products_v2/prod_eletto-00-00108316.jpg",
     "images": [
@@ -24388,7 +24388,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036069/products_v2/prod_eletto-00-00108318.jpg",
     "images": [
@@ -24408,7 +24408,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036076/products_v2/prod_eletto-00-00108393.jpg",
     "images": [
@@ -24428,7 +24428,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036085/products_v2/prod_eletto-00-00108312.jpg",
     "images": [
@@ -24448,7 +24448,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036092/products_v2/prod_eletto-00-00108314.jpg",
     "images": [
@@ -24468,7 +24468,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036099/products_v2/prod_eletto-588512001.jpg",
     "images": [
@@ -24488,7 +24488,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036102/products_v2/prod_eletto-508511201.jpg",
     "images": [
@@ -24508,7 +24508,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036109/products_v2/prod_eletto-508511101.jpg",
     "images": [
@@ -24528,7 +24528,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036113/products_v2/prod_eletto-509261101.jpg",
     "images": [
@@ -24548,7 +24548,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036119/products_v2/prod_eletto-509271101.jpg",
     "images": [
@@ -24588,7 +24588,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036131/products_v2/prod_eletto-589132002.jpg",
     "images": [
@@ -24608,7 +24608,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036134/products_v2/prod_eletto-589132001.jpg",
     "images": [
@@ -24628,7 +24628,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036141/products_v2/prod_eletto-588143003.jpg",
     "images": [
@@ -24648,7 +24648,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036145/products_v2/prod_eletto-509131101.jpg",
     "images": [
@@ -24668,7 +24668,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036148/products_v2/prod_eletto-509241101.jpg",
     "images": [
@@ -24728,7 +24728,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036168/products_v2/prod_eletto-589122002.jpg",
     "images": [
@@ -24748,7 +24748,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036172/products_v2/prod_eletto-589122001.jpg",
     "images": [
@@ -24768,7 +24768,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036180/products_v2/prod_eletto-588143004.jpg",
     "images": [
@@ -24788,7 +24788,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036183/products_v2/prod_eletto-509121101.jpg",
     "images": [
@@ -24808,7 +24808,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036187/products_v2/prod_eletto-509231101.jpg",
     "images": [
@@ -24868,7 +24868,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036204/products_v2/prod_eletto-589092001.jpg",
     "images": [
@@ -24888,7 +24888,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036211/products_v2/prod_eletto-588143005.jpg",
     "images": [
@@ -24908,7 +24908,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036217/products_v2/prod_eletto-509091201.jpg",
     "images": [
@@ -24928,7 +24928,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036223/products_v2/prod_eletto-509211101.jpg",
     "images": [
@@ -24968,7 +24968,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036230/products_v2/prod_eletto-588382002.jpg",
     "images": [
@@ -24988,7 +24988,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 2430.0,
+    "price_retail": 900.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036234/products_v2/prod_eletto-588382001.jpg",
     "images": [
@@ -25008,7 +25008,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036241/products_v2/prod_eletto-588143006.jpg",
     "images": [
@@ -25028,7 +25028,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036245/products_v2/prod_eletto-508381201.jpg",
     "images": [
@@ -25048,7 +25048,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036248/products_v2/prod_eletto-508391101.jpg",
     "images": [
@@ -25068,7 +25068,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036251/products_v2/prod_eletto-509221101.jpg",
     "images": [
@@ -25108,7 +25108,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 550.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036262/products_v2/prod_eletto-586892001.jpg",
     "images": [
@@ -25128,7 +25128,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 3790.0,
+    "price_retail": 2200.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036269/products_v2/prod_eletto-586482002.jpg",
     "images": [
@@ -25148,7 +25148,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 2430.0,
+    "price_retail": 1100.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036276/products_v2/prod_eletto-586482001.jpg",
     "images": [
@@ -25168,7 +25168,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 550.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036283/products_v2/prod_eletto-588143002.jpg",
     "images": [
@@ -25188,7 +25188,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036290/products_v2/prod_eletto-506891201.jpg",
     "images": [
@@ -25208,7 +25208,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036294/products_v2/prod_eletto-506901101.jpg",
     "images": [
@@ -25248,7 +25248,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036307/products_v2/prod_eletto-588502001.jpg",
     "images": [
@@ -25268,7 +25268,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036313/products_v2/prod_eletto-588502002.jpg",
     "images": [
@@ -25288,7 +25288,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036320/products_v2/prod_eletto-508501201.jpg",
     "images": [
@@ -25308,7 +25308,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036323/products_v2/prod_eletto-508721101.jpg",
     "images": [
@@ -25408,7 +25408,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 550.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036349/products_v2/prod_eletto-587842006.jpg",
     "images": [
@@ -25428,7 +25428,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 2430.0,
+    "price_retail": 1100.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036358/products_v2/prod_eletto-587842005.jpg",
     "images": [
@@ -25449,7 +25449,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 550.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036366/products_v2/prod_eletto-587842001.jpg",
     "images": [
@@ -25469,7 +25469,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036370/products_v2/prod_eletto-508361101.jpg",
     "images": [
@@ -25489,7 +25489,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036377/products_v2/prod_eletto-508371101.jpg",
     "images": [
@@ -25509,7 +25509,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036380/products_v2/prod_eletto-508191101.jpg",
     "images": [
@@ -25529,7 +25529,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036386/products_v2/prod_eletto-507841201.jpg",
     "images": [
@@ -25589,7 +25589,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036401/products_v2/prod_eletto-587882001.jpg",
     "images": [
@@ -25609,7 +25609,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036408/products_v2/prod_eletto-588182001.jpg",
     "images": [
@@ -25629,7 +25629,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 2430.0,
+    "price_retail": 900.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036412/products_v2/prod_eletto-587882002.jpg",
     "images": [
@@ -25649,7 +25649,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036415/products_v2/prod_eletto-507881201.jpg",
     "images": [
@@ -25669,7 +25669,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036418/products_v2/prod_eletto-508181101.jpg",
     "images": [
@@ -25689,7 +25689,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036421/products_v2/prod_eletto-508131101.jpg",
     "images": [
@@ -25729,7 +25729,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036431/products_v2/prod_eletto-588112001.jpg",
     "images": [
@@ -25749,7 +25749,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1150.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036434/products_v2/prod_eletto-588112002.jpg",
     "images": [
@@ -25769,7 +25769,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036440/products_v2/prod_eletto-508111201.jpg",
     "images": [
@@ -25789,7 +25789,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036443/products_v2/prod_eletto-508171101.jpg",
     "images": [
@@ -25829,7 +25829,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036450/products_v2/prod_eletto-588122001.jpg",
     "images": [
@@ -25849,7 +25849,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1150.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036457/products_v2/prod_eletto-588152001.jpg",
     "images": [
@@ -25869,7 +25869,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036463/products_v2/prod_eletto-508121201.jpg",
     "images": [
@@ -25889,7 +25889,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036469/products_v2/prod_eletto-508151101.jpg",
     "images": [
@@ -25929,7 +25929,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036480/products_v2/prod_eletto-586942001.jpg",
     "images": [
@@ -25949,7 +25949,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1165.0,
+    "price_retail": 450.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036487/products_v2/prod_eletto-586912001.jpg",
     "images": [
@@ -25969,7 +25969,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036493/products_v2/prod_eletto-506941201.jpg",
     "images": [
@@ -25989,7 +25989,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036497/products_v2/prod_eletto-506961101.jpg",
     "images": [
@@ -26009,7 +26009,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036503/products_v2/prod_eletto-506951101.jpg",
     "images": [
@@ -26029,7 +26029,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036510/products_v2/prod_eletto-506911201.jpg",
     "images": [
@@ -26049,7 +26049,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036513/products_v2/prod_eletto-506931101.jpg",
     "images": [
@@ -26069,7 +26069,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1750.0,
+    "price_retail": 750.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036520/products_v2/prod_eletto-506921101.jpg",
     "images": [
@@ -26169,7 +26169,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036553/products_v2/prod_eletto-506111102.jpg",
     "images": [
@@ -26189,7 +26189,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036559/products_v2/prod_eletto-506181102.jpg",
     "images": [
@@ -26209,7 +26209,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036566/products_v2/prod_eletto-506161202.jpg",
     "images": [
@@ -26229,7 +26229,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036573/products_v2/prod_eletto-506171201.jpg",
     "images": [
@@ -26249,7 +26249,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036580/products_v2/prod_eletto-506101102.jpg",
     "images": [
@@ -26269,7 +26269,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036587/products_v2/prod_eletto-506151102.jpg",
     "images": [
@@ -26289,7 +26289,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036594/products_v2/prod_eletto-506131202.jpg",
     "images": [
@@ -26309,7 +26309,7 @@ export const importedProducts: any[] = [
     "product_type": "Керамическая плитка",
     "format": "",
     "color": "Микс",
-    "price_retail": 1850.0,
+    "price_retail": 990.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776036601/products_v2/prod_eletto-506141102.jpg",
     "images": [
@@ -29013,7 +29013,7 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "collection_image": "https://plitburg.ru/upload/iblock/ddd/fplnsy212ya0y5u0ap57qohw77nuxw51.jpg",
     "price_official": null,
-    "price_retail": 1079.0
+    "price_retail": 796.0
   },
   {
     "sku": "010400000882",
@@ -29242,7 +29242,8 @@ export const importedProducts: any[] = [
     "description": "Amber brown PG 01. Это высококачественный керамогранит от популярного бренда Gracia Ceramica из дизайнерской коллекции Amber 200х600. Благородный коричневый оттенок продукта отлично впишется в современный интерьер. Формат изделия составляет 200х600 см. Поверхность плитки — матовая. Оформите заказ онлайн — товар доступен в Санкт-Петербурге по выгодной цене с возможностью оперативной доставки!",
     "id": "010400001409",
     "usage": "floor",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 1229.0
   },
   {
     "sku": "010400001413",
@@ -29269,7 +29270,8 @@ export const importedProducts: any[] = [
     "description": "Blond beige PG 01. Это высококачественный керамогранит от популярного бренда Gracia Ceramica из дизайнерской коллекции Blond 200х600. Благородный бежевый оттенок продукта отлично впишется в современный интерьер. Формат изделия составляет 200х600 см. Поверхность плитки — матовая. Оформите заказ онлайн — товар доступен в Санкт-Петербурге по выгодной цене с возможностью оперативной доставки!",
     "id": "010400001413",
     "usage": "floor",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 1229.0
   },
   {
     "sku": "010400001405",
@@ -29297,7 +29299,8 @@ export const importedProducts: any[] = [
     "id": "010400001405",
     "usage": "floor",
     "collection_image": "https://plitburg.ru/upload/iblock/358/lc7uc5ubp33uscwk8ng9bbw5w68qa7qu.jpg",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 1229.0
   },
   {
     "sku": "010400001415",
@@ -29325,7 +29328,8 @@ export const importedProducts: any[] = [
     "id": "010400001415",
     "usage": "floor",
     "collection_image": "https://plitburg.ru/upload/iblock/179/w5s2pil7x59svro94rll03aafttwebs9.jpg",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 1229.0
   },
   {
     "sku": "010400001411",
@@ -29352,7 +29356,8 @@ export const importedProducts: any[] = [
     "description": "Truffle brown PG 01. Это высококачественный керамогранит от популярного бренда Gracia Ceramica из дизайнерской коллекции Truffle 200х600. Благородный коричневый оттенок продукта отлично впишется в современный интерьер. Формат изделия составляет 200х600 см. Поверхность плитки — матовая. Оформите заказ онлайн — товар доступен в Санкт-Петербурге по выгодной цене с возможностью оперативной доставки!",
     "id": "010400001411",
     "usage": "floor",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 1229.0
   },
   {
     "sku": "010400001397",
@@ -29583,7 +29588,7 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "collection_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776008218/verified_collections/cover_%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F.jpg",
     "price_official": null,
-    "price_retail": 1087.0
+    "price_retail": 1069.0
   },
   {
     "sku": "010100001276",
@@ -30163,7 +30168,7 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "collection_image": "https://plitburg.ru/upload/iblock/a8b/afxoupb400be9jvvzge9m4jv3fv3fpzt.jpg",
     "price_official": null,
-    "price_retail": 1167.0
+    "price_retail": 1069.0
   },
   {
     "sku": "010100001553",
@@ -30684,7 +30689,7 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "collection_image": "https://plitburg.ru/upload/iblock/bda/pn6plu8m3771a44vsce6aycutlvr73vn.jpg",
     "price_official": null,
-    "price_retail": 1087.0
+    "price_retail": 1069.0
   },
   {
     "sku": "010400001119",
@@ -30829,7 +30834,7 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "collection_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776008284/verified_collections/cover_%D0%A2%D1%80%D0%B5%D0%BD%D0%B4.jpg",
     "price_official": null,
-    "price_retail": 1167.0
+    "price_retail": 1069.0
   },
   {
     "sku": "010400001391",
@@ -33287,7 +33292,8 @@ export const importedProducts: any[] = [
     "id": "010100001394",
     "usage": "floor",
     "collection_image": "https://plitburg.ru/upload/iblock/67c/1rik2kyu2kh9fp0xev381iqz846v4wg1.jpg",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 1346.0
   },
   {
     "sku": "010100001395",
@@ -33776,7 +33782,8 @@ export const importedProducts: any[] = [
     "description": "Creta brown wall 03. Это высококачественный керамогранит от популярного бренда Gracia Ceramica из дизайнерской коллекции Creta. Благородный коричневый оттенок продукта отлично впишется в современный интерьер. Формат изделия составляет 300х600 см. Поверхность плитки — матовая. Оформите заказ онлайн — товар доступен в Санкт-Петербурге по выгодной цене с возможностью оперативной доставки!",
     "id": "010100001741",
     "usage": "floor",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 995.0
   },
   {
     "sku": "010100001742",
@@ -33804,7 +33811,8 @@ export const importedProducts: any[] = [
     "id": "010100001742",
     "usage": "floor",
     "collection_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776008402/verified_collections/cover_Trave.jpg",
-    "price_official": null
+    "price_official": null,
+    "price_retail": 995.0
   },
   {
     "sku": "010403001291",
@@ -34674,7 +34682,7 @@ export const importedProducts: any[] = [
     "usage": "floor",
     "collection_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776008444/verified_collections/cover_%D0%90%D0%BB%D1%8C%D0%B1%D1%83%D1%81.jpg",
     "price_official": null,
-    "price_retail": 1003.0
+    "price_retail": 1069.0
   },
   {
     "sku": "010400001306",
@@ -35782,7 +35790,7 @@ export const importedProducts: any[] = [
     "color": "Зеленый",
     "format": "300х600",
     "surface": "MR",
-    "price_retail": 3334.0,
+    "price_retail": 1900.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776038740/products_v2/prod_UF007.jpg",
     "images": [
@@ -35803,7 +35811,7 @@ export const importedProducts: any[] = [
     "color": "Синий",
     "format": "300х600",
     "surface": "MR",
-    "price_retail": 2319.0,
+    "price_retail": 1900.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776038749/products_v2/prod_UF008.jpg",
     "images": [
@@ -56409,7 +56417,7 @@ export const importedProducts: any[] = [
     "slug": "shabby_marfil_d_sten_31_5_63_azori",
     "brand": "Azori (Азори)",
     "collection": "Коллекция плитки Shabby (Шэбби)",
-    "price_retail": 1390.0,
+    "price_retail": 1490.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/18b/75e668fxxjhavsn7rursk8scsbvyrbxk.webp",
     "images": [
@@ -110856,7 +110864,7 @@ export const importedProducts: any[] = [
     "slug": "bld004_avellino_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авеллино",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092809/products_v2/prod_plitburg-bld004_avellino_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -110879,7 +110887,7 @@ export const importedProducts: any[] = [
     "slug": "bld005_avellino_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авеллино",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092818/products_v2/prod_plitburg-bld005_avellino_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -110902,7 +110910,7 @@ export const importedProducts: any[] = [
     "slug": "bld007_avellino_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авеллино",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092826/products_v2/prod_plitburg-bld007_avellino_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -110925,7 +110933,7 @@ export const importedProducts: any[] = [
     "slug": "bld008_avellino_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авеллино",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092834/products_v2/prod_plitburg-bld008_avellino_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -110948,7 +110956,7 @@ export const importedProducts: any[] = [
     "slug": "mm5252_avellino_belyy_dekor_30_1_30_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авеллино",
-    "price_retail": 1120.0,
+    "price_retail": 1176.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092837/products_v2/prod_plitburg-mm5252_avellino_belyy_dekor_30_1_30_1_kerama_maratstsi.jpg",
     "images": [
@@ -110994,7 +111002,7 @@ export const importedProducts: any[] = [
     "slug": "sg413220n_akatsiya_svetlyy_kg_20_50_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Акация",
-    "price_retail": 1815.0,
+    "price_retail": 1869.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092852/products_v2/prod_plitburg-sg413220n_akatsiya_svetlyy_kg_20_50_kerama_maratstsi.jpg",
     "images": [
@@ -111017,7 +111025,7 @@ export const importedProducts: any[] = [
     "slug": "sg413120n_akatsiya_seryy_temnyy_kg_20_1_50_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Акация",
-    "price_retail": 1815.0,
+    "price_retail": 1869.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092859/products_v2/prod_plitburg-sg413120n_akatsiya_seryy_temnyy_kg_20_1_50_2_kerama_maratstsi.jpg",
     "images": [
@@ -111040,7 +111048,7 @@ export const importedProducts: any[] = [
     "slug": "sg412920n_akatsiya_korichnevyy_kg_20_1_50_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Акация",
-    "price_retail": 1815.0,
+    "price_retail": 1869.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092865/products_v2/prod_plitburg-sg412920n_akatsiya_korichnevyy_kg_20_1_50_2_kerama_maratstsi.jpg",
     "images": [
@@ -111063,7 +111071,7 @@ export const importedProducts: any[] = [
     "slug": "akatsiya_seryy_svetlyy-707325982",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Акация",
-    "price_retail": 1815.0,
+    "price_retail": 1869.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/181/896h2xap5wzhld3hy0pncf2skqnl8unb.jpg",
     "images": [
@@ -111086,7 +111094,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a268_9010_akkord_dekor_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Аккорд",
-    "price_retail": 236.0,
+    "price_retail": 241.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/031/11epf6332iz0r23fv007hxdwc63qqxxg.jpg",
     "images": [
@@ -111109,7 +111117,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_b268_9010_akkord_dekor_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Аккорд",
-    "price_retail": 236.0,
+    "price_retail": 241.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/8b7/6l0ihd6257erour7i7gz0qs5dt6equvf.jpg",
     "images": [
@@ -111132,7 +111140,7 @@ export const importedProducts: any[] = [
     "slug": "sg5157_btg_arsenale_bezh_plintus_39_6_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Арсенале",
-    "price_retail": 389.0,
+    "price_retail": 411.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/14c/ckkznzcir6vgcm23mcaqef24l1qh2kdr.jpg",
     "images": [
@@ -111154,7 +111162,7 @@ export const importedProducts: any[] = [
     "slug": "sg5159_btg_arsenale_bezh_svetlyy_plintus_39_6_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Арсенале",
-    "price_retail": 389.0,
+    "price_retail": 411.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/ac1/bs87s7g019aun26axxdpdiw1qfpr7ux5.jpg",
     "images": [
@@ -111176,7 +111184,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a243_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092873/products_v2/prod_plitburg-nt_a243_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111198,7 +111206,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a245_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092881/products_v2/prod_plitburg-nt_a245_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111220,7 +111228,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a242_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092889/products_v2/prod_plitburg-nt_a242_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111242,7 +111250,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a244_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092897/products_v2/prod_plitburg-nt_a244_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111264,7 +111272,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a246_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092904/products_v2/prod_plitburg-nt_a246_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111286,7 +111294,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a248_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092912/products_v2/prod_plitburg-nt_a248_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111308,7 +111316,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a249_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092920/products_v2/prod_plitburg-nt_a249_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111330,7 +111338,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a247_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092928/products_v2/prod_plitburg-nt_a247_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111352,7 +111360,7 @@ export const importedProducts: any[] = [
     "slug": "nt_b243_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092936/products_v2/prod_plitburg-nt_b243_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111374,7 +111382,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a250_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092944/products_v2/prod_plitburg-nt_a250_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111396,7 +111404,7 @@ export const importedProducts: any[] = [
     "slug": "nt_b247_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092953/products_v2/prod_plitburg-nt_b247_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111418,7 +111426,7 @@ export const importedProducts: any[] = [
     "slug": "nt_b246_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092960/products_v2/prod_plitburg-nt_b246_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111440,7 +111448,7 @@ export const importedProducts: any[] = [
     "slug": "nt_b249_5009_atele_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ателье",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092968/products_v2/prod_plitburg-nt_b249_5009_atele_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -111462,7 +111470,7 @@ export const importedProducts: any[] = [
     "slug": "blb022_bakkara_bezh_bordyur_20kh5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 240.0,
+    "price_retail": 245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776092976/products_v2/prod_plitburg-blb022_bakkara_bezh_bordyur_20kh5_kerama_maratstsi.jpg",
     "images": [
@@ -111485,7 +111493,7 @@ export const importedProducts: any[] = [
     "slug": "mld_a83_8290_bakkara_dekor_20_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 324.0,
+    "price_retail": 332.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/983/qmbdqpl2w11bddtwybx9eqekrnp6j8f9.jpg",
     "images": [
@@ -111508,7 +111516,7 @@ export const importedProducts: any[] = [
     "slug": "blb023_bakkara_bezh_bordyur_20kh5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 240.0,
+    "price_retail": 245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093028/products_v2/prod_plitburg-blb023_bakkara_bezh_bordyur_20kh5_kerama_maratstsi.jpg",
     "images": [
@@ -111531,7 +111539,7 @@ export const importedProducts: any[] = [
     "slug": "mm8298_bakkara_mozaichnyy_dekor_20_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 908.0,
+    "price_retail": 931.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093036/products_v2/prod_plitburg-mm8298_bakkara_mozaichnyy_dekor_20_30_kerama_maratstsi.jpg",
     "images": [
@@ -111554,7 +111562,7 @@ export const importedProducts: any[] = [
     "slug": "pfd003_karandash_bakkara_bezh_bordyur_30kh2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 118.0,
+    "price_retail": 123.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093046/products_v2/prod_plitburg-pfd003_karandash_bakkara_bezh_bordyur_30kh2_kerama_maratstsi.jpg",
     "images": [
@@ -111577,7 +111585,7 @@ export const importedProducts: any[] = [
     "slug": "op_a35_8290_bakkara_bordyur_20kh5_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 231.0,
+    "price_retail": 235.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093054/products_v2/prod_plitburg-op_a35_8290_bakkara_bordyur_20kh5_7_kerama_maratstsi.jpg",
     "images": [
@@ -111600,7 +111608,7 @@ export const importedProducts: any[] = [
     "slug": "pfe005_bakkara_bezh_temnyy_karandash_bordyur_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093062/products_v2/prod_plitburg-pfe005_bakkara_bezh_temnyy_karandash_bordyur_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -111623,7 +111631,7 @@ export const importedProducts: any[] = [
     "slug": "pfe004_bakkara_bezh_karandash_boryur_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093870/products_v2/prod_plitburg-pfe004_bakkara_bezh_karandash_boryur_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -111669,7 +111677,7 @@ export const importedProducts: any[] = [
     "slug": "171_15078_belkanto_chernyy_mozaichnyy_dekor_15_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бельканто",
-    "price_retail": 938.0,
+    "price_retail": 963.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093888/products_v2/prod_plitburg-171_15078_belkanto_chernyy_mozaichnyy_dekor_15_40_kerama_maratstsi.jpg",
     "images": [
@@ -111692,7 +111700,7 @@ export const importedProducts: any[] = [
     "slug": "mld_a66_2x_15079_belkanto_panno_iz_2_kh_chastey_15_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бельканто",
-    "price_retail": 1160.0,
+    "price_retail": 1219.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a0f/46q0c50fdhn8pvvhjh2t3vw0s13ydhrs.jpg",
     "images": [
@@ -111715,7 +111723,7 @@ export const importedProducts: any[] = [
     "slug": "171_15079_belkanto_belyy_mozaichnyy_dekor_15_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бельканто",
-    "price_retail": 938.0,
+    "price_retail": 963.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776093896/products_v2/prod_plitburg-171_15079_belkanto_belyy_mozaichnyy_dekor_15_40_kerama_maratstsi.jpg",
     "images": [
@@ -111738,7 +111746,7 @@ export const importedProducts: any[] = [
     "slug": "mld_a46_19000_blanshe_zoloto_d_sten_20_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бланше",
-    "price_retail": 581.0,
+    "price_retail": 596.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/e2a/kpf4wwvivm551nlacgm1f97ld05jogld.jpg",
     "images": [
@@ -111761,7 +111769,7 @@ export const importedProducts: any[] = [
     "slug": "178_kld01_bolshoe_puteshestvie_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Большое путешествие",
-    "price_retail": 924.0,
+    "price_retail": 970.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/011/oe9bglwpopohmgig320ic2crt4ms77zp.jpg",
     "images": [
@@ -111922,7 +111930,7 @@ export const importedProducts: any[] = [
     "slug": "brash_vud_bezh_sg401100n_kg_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Браш Вуд",
-    "price_retail": 193.0,
+    "price_retail": 203.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776094798/products_v2/prod_plitburg-brash_vud_bezh_sg401100n_kg_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -111945,7 +111953,7 @@ export const importedProducts: any[] = [
     "slug": "brash_vud_korichnevyy_sg401200n_kg_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Браш Вуд",
-    "price_retail": 193.0,
+    "price_retail": 203.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776094812/products_v2/prod_plitburg-brash_vud_korichnevyy_sg401200n_kg_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -111968,7 +111976,7 @@ export const importedProducts: any[] = [
     "slug": "brash_vud_korichnevyy_temnyy_sg401300n_kg_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Браш Вуд",
-    "price_retail": 193.0,
+    "price_retail": 203.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776094819/products_v2/prod_plitburg-brash_vud_korichnevyy_temnyy_sg401300n_kg_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -111991,7 +111999,7 @@ export const importedProducts: any[] = [
     "slug": "stg_b481_sg1550_vstavka_brash_vud_korichnevyy_9_9_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Браш Вуд",
-    "price_retail": 193.0,
+    "price_retail": 203.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/afe/86nx291msj5ooqqj7z94bwj4o27n3dvv.jpg",
     "images": [
@@ -112014,7 +112022,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a482_sg1550_vstavka_brash_vud_bezh_9_9_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Браш Вуд",
-    "price_retail": 193.0,
+    "price_retail": 203.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/54a/6h1z5gp4fyzumpa144mgrnpucztjagia.jpg",
     "images": [
@@ -112037,7 +112045,7 @@ export const importedProducts: any[] = [
     "slug": "stg_c482_sg1550_vstavka_brash_vud_korichnevyy_tyemnyy_9_9_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Браш Вуд",
-    "price_retail": 193.0,
+    "price_retail": 203.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/2e1/lxx5novb70oj3fztjyniedopcidei5j8.jpg",
     "images": [
@@ -112060,7 +112068,7 @@ export const importedProducts: any[] = [
     "slug": "sg23017n_23017_brenta_bezh_svetlyy_d_pola_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Брента",
-    "price_retail": 1727.0,
+    "price_retail": 1781.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/efa/kr8x44gmff53vsun2oxe5np6ft6wov6v.jpg",
     "images": [
@@ -112083,7 +112091,7 @@ export const importedProducts: any[] = [
     "slug": "sg23022n_23022_brenta_korichn_d_pola_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Брента",
-    "price_retail": 1727.0,
+    "price_retail": 1781.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776095795/products_v2/prod_plitburg-sg23022n_23022_brenta_korichn_d_pola_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -112106,7 +112114,7 @@ export const importedProducts: any[] = [
     "slug": "sg23019n_23019_brenta_bezh_d_pola_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Брента",
-    "price_retail": 1727.0,
+    "price_retail": 1781.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776095801/products_v2/prod_plitburg-sg23019n_23019_brenta_bezh_d_pola_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -112129,7 +112137,7 @@ export const importedProducts: any[] = [
     "slug": "sg23018n_23018_brenta_d_pola_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Брента",
-    "price_retail": 1886.0,
+    "price_retail": 1945.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776095808/products_v2/prod_plitburg-sg23018n_23018_brenta_d_pola_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -112152,7 +112160,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a207_sg23000_buranelli_dekor_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Буранелли",
-    "price_retail": 533.0,
+    "price_retail": 523.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776095816/products_v2/prod_plitburg-nt_a207_sg23000_buranelli_dekor_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -112175,7 +112183,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a218_sg23000_buranelli_dekor_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Буранелли",
-    "price_retail": 533.0,
+    "price_retail": 523.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/bbe/jp02nfyn8t64o99ykjrvo5aktu686yjn.jpg",
     "images": [
@@ -112198,7 +112206,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a257_8245_villa_florediana_bordyur_20_5_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилла Флоридиана",
-    "price_retail": 215.0,
+    "price_retail": 225.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776095824/products_v2/prod_plitburg-ad_a257_8245_villa_florediana_bordyur_20_5_7_kerama_maratstsi.jpg",
     "images": [
@@ -112221,7 +112229,7 @@ export const importedProducts: any[] = [
     "slug": "fc_a10_8245_villa_floridiana_dekor_20_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилла Флоридиана",
-    "price_retail": 290.0,
+    "price_retail": 304.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/1ad/ebcv5j15pt6volmofermjnw9hduxestn.jpg",
     "images": [
@@ -112244,7 +112252,7 @@ export const importedProducts: any[] = [
     "slug": "mm8254_villa_floridiana_mozayka_20_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилла Флоридиана",
-    "price_retail": 846.0,
+    "price_retail": 867.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776095832/products_v2/prod_plitburg-mm8254_villa_floridiana_mozayka_20_30_kerama_maratstsi.jpg",
     "images": [
@@ -112267,7 +112275,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a03_8245_villa_florediana_bordyur_20_5_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилла Флоридиана",
-    "price_retail": 187.0,
+    "price_retail": 196.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/0a1/8uoj7lm17292hjaumcp69bvy65zt4zx6.jpg",
     "images": [
@@ -112290,7 +112298,7 @@ export const importedProducts: any[] = [
     "slug": "mld_a67_15000_villanella_tsvety_belyy_dekor_15_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 522.0,
+    "price_retail": 549.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/19d/1gkqz8n08z1s8ebgai2flad64ahbp9dw.jpg",
     "images": [
@@ -112312,7 +112320,7 @@ export const importedProducts: any[] = [
     "slug": "mld_a68_15000_villanella_geometriya_belyy_dekor_15_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 522.0,
+    "price_retail": 549.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f7d/is18quyi3x3vluhd1nv5fzvk3c7ko15m.jpg",
     "images": [
@@ -112334,7 +112342,7 @@ export const importedProducts: any[] = [
     "slug": "mld_v68_15084_villanella_geometriya_bezhevyy_dekor_15_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 522.0,
+    "price_retail": 549.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/83f/go0u38eq70kgt9kdqnc0di9298wzxhc4.jpg",
     "images": [
@@ -112356,7 +112364,7 @@ export const importedProducts: any[] = [
     "slug": "mld_a71_15000_villanella_40_3_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 192.0,
+    "price_retail": 201.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/514/gk3oil12ain4d9a8yw5xhmizg3ecl7ik.jpg",
     "images": [
@@ -112378,7 +112386,7 @@ export const importedProducts: any[] = [
     "slug": "mld_v67_15084_villanella_tsvety_bezh_dekor_15_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 522.0,
+    "price_retail": 549.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/df8/vugicpwlfu1inf01ckvztfpxa7fxpscx.jpg",
     "images": [
@@ -112400,7 +112408,7 @@ export const importedProducts: any[] = [
     "slug": "mm15000_villanella_mozayka_belaya_15_40_kerama_marratsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 886.0,
+    "price_retail": 932.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/3e3/eu4hrdujk9mm7mt0a3um9ot3wwi2d620.jpg",
     "images": [
@@ -112422,7 +112430,7 @@ export const importedProducts: any[] = [
     "slug": "mld_v71_15084_villanella_bordyur_40_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 192.0,
+    "price_retail": 201.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/710/9e8ud0a5r120y2c7xvw61zqeetg1f1ig.jpg",
     "images": [
@@ -112445,7 +112453,7 @@ export const importedProducts: any[] = [
     "slug": "mm15084_villanella_mozayka_bezhevyy_15_40_kerama_marratsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Вилланелла",
-    "price_retail": 886.0,
+    "price_retail": 932.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776097510/products_v2/prod_plitburg-mm15084_villanella_mozayka_bezhevyy_15_40_kerama_marratsi.jpg",
     "images": [
@@ -112467,7 +112475,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_venge_d_pola_sg400500n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776097524/products_v2/prod_plitburg-vyaz_venge_d_pola_sg400500n_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112489,7 +112497,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_bezh_temnyy_d_pola_sg400600n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776097532/products_v2/prod_plitburg-vyaz_bezh_temnyy_d_pola_sg400600n_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112511,7 +112519,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_seryy_temnyy_d_pola_sg400700n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776097541/products_v2/prod_plitburg-vyaz_seryy_temnyy_d_pola_sg400700n_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112533,7 +112541,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_seryy_d_pola_sg400800n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1547.0,
+    "price_retail": 1598.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/299/110gb0gsndxvogr8055hgfjb476kzc3v.jpg",
     "images": [
@@ -112555,7 +112563,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_bezh_d_pola_sg400100n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776099462/products_v2/prod_plitburg-vyaz_bezh_d_pola_sg400100n_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112577,7 +112585,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_korichnevyy_d_pola_sg400200n9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776099474/products_v2/prod_plitburg-vyaz_korichnevyy_d_pola_sg400200n9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112599,7 +112607,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_tem_korichnevyy_d_pola_sg400400n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776099481/products_v2/prod_plitburg-vyaz_tem_korichnevyy_d_pola_sg400400n_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112621,7 +112629,7 @@ export const importedProducts: any[] = [
     "slug": "vyaz_bezh_svetlyy_d_pola_sg400300n_9_9_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Вяз",
-    "price_retail": 1499.0,
+    "price_retail": 1548.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776099490/products_v2/prod_plitburg-vyaz_bezh_svetlyy_d_pola_sg400300n_9_9_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -112643,7 +112651,7 @@ export const importedProducts: any[] = [
     "slug": "garmoniya_kg_belaya_sg917400n_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Гармония",
-    "price_retail": 1472.0,
+    "price_retail": 1522.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/6d0/968wgqgg654jpsql1e8mmn1nlv9u3reu.jpg",
     "images": [
@@ -112666,7 +112674,7 @@ export const importedProducts: any[] = [
     "slug": "garmoniya_kg_seraya_sg917600n_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Гармония",
-    "price_retail": 1687.0,
+    "price_retail": 1738.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776100231/products_v2/prod_plitburg-garmoniya_kg_seraya_sg917600n_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -112689,7 +112697,7 @@ export const importedProducts: any[] = [
     "slug": "garmoniya_kg_chernaya_sg917500n_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Гармония",
-    "price_retail": 1784.0,
+    "price_retail": 1839.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776100234/products_v2/prod_plitburg-garmoniya_kg_chernaya_sg917500n_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -112712,7 +112720,7 @@ export const importedProducts: any[] = [
     "slug": "garmoniya_kg_siniy_sg924400n_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Гармония",
-    "price_retail": 1749.0,
+    "price_retail": 1802.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776100238/products_v2/prod_plitburg-garmoniya_kg_siniy_sg924400n_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -112735,7 +112743,7 @@ export const importedProducts: any[] = [
     "slug": "garmoniya_kggoluboy_sg924200n_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Гармония",
-    "price_retail": 1687.0,
+    "price_retail": 1738.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776100241/products_v2/prod_plitburg-garmoniya_kggoluboy_sg924200n_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -112890,7 +112898,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a396_6343_gran_pale_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 432.0,
+    "price_retail": 476.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f73/dxzv5c4e5dfbb2c1xcqa6orma8d06y6p.jpg",
     "images": [
@@ -112913,7 +112921,7 @@ export const importedProducts: any[] = [
     "slug": "ble006_gran_pale_belyy_bordyur_25_5_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 232.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776101263/products_v2/prod_plitburg-ble006_gran_pale_belyy_bordyur_25_5_5_kerama_maratstsi.jpg",
     "images": [
@@ -112936,7 +112944,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a401_6343_gran_pale_bordyur_25_5_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 222.0,
+    "price_retail": 227.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776101272/products_v2/prod_plitburg-ad_a401_6343_gran_pale_bordyur_25_5_4_kerama_maratstsi.jpg",
     "images": [
@@ -112959,7 +112967,7 @@ export const importedProducts: any[] = [
     "slug": "ble007_gran_pale_bezh_bordyur_25_5_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 232.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776101282/products_v2/prod_plitburg-ble007_gran_pale_bezh_bordyur_25_5_5_kerama_maratstsi.jpg",
     "images": [
@@ -112982,7 +112990,7 @@ export const importedProducts: any[] = [
     "slug": "fmb009_gran_pale_belyy_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 470.0,
+    "price_retail": 483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776101291/products_v2/prod_plitburg-fmb009_gran_pale_belyy_plintus_25_15_kerama_maratstsi.jpg",
     "images": [
@@ -113005,7 +113013,7 @@ export const importedProducts: any[] = [
     "slug": "fmb010_gran_pale_bezh_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 470.0,
+    "price_retail": 485.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f2f/pfxlegedoprx48kil3l50luyfks5hhey.jpg",
     "images": [
@@ -113028,7 +113036,7 @@ export const importedProducts: any[] = [
     "slug": "fmb011_gran_pale_seryy_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 470.0,
+    "price_retail": 483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776102369/products_v2/prod_plitburg-fmb011_gran_pale_seryy_plintus_25_15_kerama_maratstsi.jpg",
     "images": [
@@ -113051,7 +113059,7 @@ export const importedProducts: any[] = [
     "slug": "mm6360_dekor_gran_pale_bezh_mozaichnyy_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 902.0,
+    "price_retail": 989.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776102381/products_v2/prod_plitburg-mm6360_dekor_gran_pale_bezh_mozaichnyy_dekor_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -113074,7 +113082,7 @@ export const importedProducts: any[] = [
     "slug": "mm6359_dekor_gran_pale_belyy_mozaichnyy_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 902.0,
+    "price_retail": 989.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776102390/products_v2/prod_plitburg-mm6359_dekor_gran_pale_belyy_mozaichnyy_dekor_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -113097,7 +113105,7 @@ export const importedProducts: any[] = [
     "slug": "mm6361_dekor_gran_pale_seryy_mozaichnyy_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 902.0,
+    "price_retail": 989.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/c4b/vy66ulcio93hz5ad1xw3i2j3vhj76gx8.jpg",
     "images": [
@@ -113120,7 +113128,7 @@ export const importedProducts: any[] = [
     "slug": "gran_pale_sg457300r_seryy_kg_50_2kh50_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 2021.0,
+    "price_retail": 2083.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103374/products_v2/prod_plitburg-gran_pale_sg457300r_seryy_kg_50_2kh50_2_kerama_maratstsi.jpg",
     "images": [
@@ -113143,7 +113151,7 @@ export const importedProducts: any[] = [
     "slug": "bld011_granyano_krasnyy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граньяно",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103382/products_v2/prod_plitburg-bld011_granyano_krasnyy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -113166,7 +113174,7 @@ export const importedProducts: any[] = [
     "slug": "bld010_granyano_belyy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граньяно",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103391/products_v2/prod_plitburg-bld010_granyano_belyy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -113189,7 +113197,7 @@ export const importedProducts: any[] = [
     "slug": "bld012_granyano_chernyy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граньяно",
-    "price_retail": 168.0,
+    "price_retail": 177.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103398/products_v2/prod_plitburg-bld012_granyano_chernyy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -113212,7 +113220,7 @@ export const importedProducts: any[] = [
     "slug": "spa030r_grenel_seryy_svetlyy_obreznoy_bordyur_30_2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гренель",
-    "price_retail": 1650.0,
+    "price_retail": 1698.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103406/products_v2/prod_plitburg-spa030r_grenel_seryy_svetlyy_obreznoy_bordyur_30_2_5_kerama_maratstsi.jpg",
     "images": [
@@ -113234,7 +113242,7 @@ export const importedProducts: any[] = [
     "slug": "spa032r_grenel_seryy_obreznoy_bordyur_30_2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гренель",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103415/products_v2/prod_plitburg-spa032r_grenel_seryy_obreznoy_bordyur_30_2_5_kerama_maratstsi.jpg",
     "images": [
@@ -113300,7 +113308,7 @@ export const importedProducts: any[] = [
     "slug": "pfd001_karandash_zolotoy_plyazh_temnyy_bezh_bordyur_30_2_kerama_marratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Золотой пляж",
-    "price_retail": 234.0,
+    "price_retail": 374.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103426/products_v2/prod_plitburg-pfd001_karandash_zolotoy_plyazh_temnyy_bezh_bordyur_30_2_kerama_marratstsi.jpg",
     "images": [
@@ -113322,7 +113330,7 @@ export const importedProducts: any[] = [
     "slug": "sg1537n_kaleydoskop_seryy_kg_20kh20_po_0_92_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Калейдоскоп",
-    "price_retail": 1829.0,
+    "price_retail": 1886.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103436/products_v2/prod_plitburg-sg1537n_kaleydoskop_seryy_kg_20kh20_po_0_92_kerama_maratstsi.jpg",
     "images": [
@@ -113345,7 +113353,7 @@ export const importedProducts: any[] = [
     "slug": "sg1544n_kaleydoskop_belyy_kg_20kh20_po_0_92_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Калейдоскоп",
-    "price_retail": 1797.0,
+    "price_retail": 1854.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103445/products_v2/prod_plitburg-sg1544n_kaleydoskop_belyy_kg_20kh20_po_0_92_kerama_maratstsi.jpg",
     "images": [
@@ -113368,7 +113376,7 @@ export const importedProducts: any[] = [
     "slug": "sg1545n_kaleydoskop_chernyy_d_pola_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Калейдоскоп",
-    "price_retail": 1900.0,
+    "price_retail": 1959.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103454/products_v2/prod_plitburg-sg1545n_kaleydoskop_chernyy_d_pola_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113391,7 +113399,7 @@ export const importedProducts: any[] = [
     "slug": "sg1558n_kaleydoskop_bezh_kg_20kh20_po_0_92_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Калейдоскоп",
-    "price_retail": 1829.0,
+    "price_retail": 1886.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103463/products_v2/prod_plitburg-sg1558n_kaleydoskop_bezh_kg_20kh20_po_0_92_kerama_maratstsi.jpg",
     "images": [
@@ -113414,7 +113422,7 @@ export const importedProducts: any[] = [
     "slug": "blb028_kantri_shik_belyy_dekorirovannyy_bordyur_20_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 240.0,
+    "price_retail": 245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103467/products_v2/prod_plitburg-blb028_kantri_shik_belyy_dekorirovannyy_bordyur_20_5_kerama_maratstsi.jpg",
     "images": [
@@ -113437,7 +113445,7 @@ export const importedProducts: any[] = [
     "slug": "7190_7_kantri_shik_bordyur_20kh6_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 216.0,
+    "price_retail": 222.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/26e/yi2exatpwim7fkynmqoicpqj3xh2aa7p.jpg",
     "images": [
@@ -113460,7 +113468,7 @@ export const importedProducts: any[] = [
     "slug": "blb029_kantri_shik_seryy_dekorirovannyy_bordyur_20_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 240.0,
+    "price_retail": 245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103475/products_v2/prod_plitburg-blb029_kantri_shik_seryy_dekorirovannyy_bordyur_20_5_kerama_maratstsi.jpg",
     "images": [
@@ -113483,7 +113491,7 @@ export const importedProducts: any[] = [
     "slug": "pfe008_karandash_kantri_shik_belyy_bordyur_20kh2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103483/products_v2/prod_plitburg-pfe008_karandash_kantri_shik_belyy_bordyur_20kh2_kerama_maratstsi.jpg",
     "images": [
@@ -113506,7 +113514,7 @@ export const importedProducts: any[] = [
     "slug": "pfe009_karandash_kantri_shik_seryy_bordyur_20kh2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 119.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103493/products_v2/prod_plitburg-pfe009_karandash_kantri_shik_seryy_bordyur_20kh2_kerama_maratstsi.jpg",
     "images": [
@@ -113529,7 +113537,7 @@ export const importedProducts: any[] = [
     "slug": "fmc010_kantri_shik_belyy_plintus_20kh10_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 346.0,
+    "price_retail": 356.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103515/products_v2/prod_plitburg-fmc010_kantri_shik_belyy_plintus_20kh10_kerama_maratstsi.jpg",
     "images": [
@@ -113552,7 +113560,7 @@ export const importedProducts: any[] = [
     "slug": "fmc011_kantri_shik_seryy_plintus_20kh10_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 346.0,
+    "price_retail": 356.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103523/products_v2/prod_plitburg-fmc011_kantri_shik_seryy_plintus_20kh10_kerama_maratstsi.jpg",
     "images": [
@@ -113575,7 +113583,7 @@ export const importedProducts: any[] = [
     "slug": "kantri_shik_sg401800n_seryy_dekor_kg_9_9kh40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 1685.0,
+    "price_retail": 1739.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103531/products_v2/prod_plitburg-kantri_shik_sg401800n_seryy_dekor_kg_9_9kh40_2_kerama_maratstsi.jpg",
     "images": [
@@ -113598,7 +113606,7 @@ export const importedProducts: any[] = [
     "slug": "kantri_shik_sg401600n_belyy_dekor_kg_9_9kh40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 1685.0,
+    "price_retail": 1739.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103539/products_v2/prod_plitburg-kantri_shik_sg401600n_belyy_dekor_kg_9_9kh40_2_kerama_maratstsi.jpg",
     "images": [
@@ -113621,7 +113629,7 @@ export const importedProducts: any[] = [
     "slug": "vb_a14_6x_7071_kantri_shik_parizh_panno_60_100_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 3210.0,
+    "price_retail": 3298.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/bcc/3tpubygkaaqpf8lz96t9djeaenir9mw6.jpg",
     "images": [
@@ -113644,7 +113652,7 @@ export const importedProducts: any[] = [
     "slug": "kantri_shik_sg401700n_seryy_kg_9_9kh40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 1545.0,
+    "price_retail": 1594.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103550/products_v2/prod_plitburg-kantri_shik_sg401700n_seryy_kg_9_9kh40_2_kerama_maratstsi.jpg",
     "images": [
@@ -113667,7 +113675,7 @@ export const importedProducts: any[] = [
     "slug": "kantri_shik_sg401500n_belyy_kg_9_9kh40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Кантри Шик",
-    "price_retail": 1545.0,
+    "price_retail": 1594.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103558/products_v2/prod_plitburg-kantri_shik_sg401500n_belyy_kg_9_9kh40_2_kerama_maratstsi.jpg",
     "images": [
@@ -113690,7 +113698,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a350_5232_kapri_mayolika_bordyur_20_3_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 153.0,
+    "price_retail": 161.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103567/products_v2/prod_plitburg-stg_a350_5232_kapri_mayolika_bordyur_20_3_6_kerama_maratstsi.jpg",
     "images": [
@@ -113713,7 +113721,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a449_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103576/products_v2/prod_plitburg-stg_a449_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113736,7 +113744,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a484_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103585/products_v2/prod_plitburg-stg_a484_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -113759,7 +113767,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a452_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103594/products_v2/prod_plitburg-stg_a452_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113782,7 +113790,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a454_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103604/products_v2/prod_plitburg-stg_a454_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113805,7 +113813,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a455_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103613/products_v2/prod_plitburg-stg_a455_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113828,7 +113836,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a456_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103622/products_v2/prod_plitburg-stg_a456_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113851,7 +113859,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a458_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103626/products_v2/prod_plitburg-stg_a458_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -113874,7 +113882,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a460_5232_kapri_mayolika_bordyur_20_6_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 190.0,
+    "price_retail": 199.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103636/products_v2/prod_plitburg-stg_a460_5232_kapri_mayolika_bordyur_20_6_3_kerama_maratstsi.jpg",
     "images": [
@@ -113897,7 +113905,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a462_5232_kapri_mayolika_bordyur_20_6_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 190.0,
+    "price_retail": 199.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103639/products_v2/prod_plitburg-stg_a462_5232_kapri_mayolika_bordyur_20_6_3_kerama_maratstsi.jpg",
     "images": [
@@ -113920,7 +113928,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a485_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103648/products_v2/prod_plitburg-stg_a485_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -113943,7 +113951,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a486_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103657/products_v2/prod_plitburg-stg_a486_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -113966,7 +113974,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a487_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103666/products_v2/prod_plitburg-stg_a487_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -113989,7 +113997,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a488_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103681/products_v2/prod_plitburg-stg_a488_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -114012,7 +114020,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a489_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103691/products_v2/prod_plitburg-stg_a489_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -114035,7 +114043,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a490_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103701/products_v2/prod_plitburg-stg_a490_1146h_kapri_mayolika_dekor_9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -114058,7 +114066,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a450_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103710/products_v2/prod_plitburg-stg_a450_5232_kapri_mayolika_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -114081,7 +114089,7 @@ export const importedProducts: any[] = [
     "slug": "bld033_klemanso_bezh_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103719/products_v2/prod_plitburg-bld033_klemanso_bezh_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -114104,7 +114112,7 @@ export const importedProducts: any[] = [
     "slug": "bld035_klemanso_zelenyy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103727/products_v2/prod_plitburg-bld035_klemanso_zelenyy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -114127,7 +114135,7 @@ export const importedProducts: any[] = [
     "slug": "bld036_klemanso_biryuzovyy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 378.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103736/products_v2/prod_plitburg-bld036_klemanso_biryuzovyy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -114150,7 +114158,7 @@ export const importedProducts: any[] = [
     "slug": "bld037_bordyur_baget_klemanso_zelenyy_temnyy_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 378.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103745/products_v2/prod_plitburg-bld037_bordyur_baget_klemanso_zelenyy_temnyy_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -114173,7 +114181,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a616_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103749/products_v2/prod_plitburg-stg_a616_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114196,7 +114204,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a617_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103752/products_v2/prod_plitburg-stg_a617_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114219,7 +114227,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a618_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103757/products_v2/prod_plitburg-stg_a618_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114242,7 +114250,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a619_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103761/products_v2/prod_plitburg-stg_a619_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114265,7 +114273,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a620_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103770/products_v2/prod_plitburg-stg_a620_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114288,7 +114296,7 @@ export const importedProducts: any[] = [
     "slug": "stg_b616_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103779/products_v2/prod_plitburg-stg_b616_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114311,7 +114319,7 @@ export const importedProducts: any[] = [
     "slug": "stg_b617_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103788/products_v2/prod_plitburg-stg_b617_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114334,7 +114342,7 @@ export const importedProducts: any[] = [
     "slug": "stg_b618_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103792/products_v2/prod_plitburg-stg_b618_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114357,7 +114365,7 @@ export const importedProducts: any[] = [
     "slug": "stg_b619_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103801/products_v2/prod_plitburg-stg_b619_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114380,7 +114388,7 @@ export const importedProducts: any[] = [
     "slug": "stg_b620_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103806/products_v2/prod_plitburg-stg_b620_16000_klemanso_ornament_dekor_15_7_4_kerama_maratstsi.jpg",
     "images": [
@@ -114403,7 +114411,7 @@ export const importedProducts: any[] = [
     "slug": "bld031_klemanso_seryy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103815/products_v2/prod_plitburg-bld031_klemanso_seryy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -114426,7 +114434,7 @@ export const importedProducts: any[] = [
     "slug": "bld032_klemanso_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Клемансо",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103824/products_v2/prod_plitburg-bld032_klemanso_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -114449,7 +114457,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a133_5009_koshki_myshki_rybka_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Кошки-Мышки",
-    "price_retail": 262.0,
+    "price_retail": 275.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103832/products_v2/prod_plitburg-nt_a133_5009_koshki_myshki_rybka_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -114471,7 +114479,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a131_5009_koshki_myshkibabochka_dekor_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Кошки-Мышки",
-    "price_retail": 262.0,
+    "price_retail": 275.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103840/products_v2/prod_plitburg-nt_a131_5009_koshki_myshkibabochka_dekor_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -114539,7 +114547,7 @@ export const importedProducts: any[] = [
     "slug": "11120r_marso_belyy_obreznoy_d_sten_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 2205.0,
+    "price_retail": 2267.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103852/products_v2/prod_plitburg-11120r_marso_belyy_obreznoy_d_sten_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -114562,7 +114570,7 @@ export const importedProducts: any[] = [
     "slug": "11132r_marso_belyy_struktura_d_sten_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 2270.0,
+    "price_retail": 2334.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103860/products_v2/prod_plitburg-11132r_marso_belyy_struktura_d_sten_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -114585,7 +114593,7 @@ export const importedProducts: any[] = [
     "slug": "bda011r_marso_belyy_obreznoy_bordyur_30_12_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 455.0,
+    "price_retail": 470.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103868/products_v2/prod_plitburg-bda011r_marso_belyy_obreznoy_bordyur_30_12_kerama_maratstsi.jpg",
     "images": [
@@ -114608,7 +114616,7 @@ export const importedProducts: any[] = [
     "slug": "blc017r_marso_belyy_obreznoy_bordyur_30_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 495.0,
+    "price_retail": 510.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103876/products_v2/prod_plitburg-blc017r_marso_belyy_obreznoy_bordyur_30_5_kerama_maratstsi.jpg",
     "images": [
@@ -114631,7 +114639,7 @@ export const importedProducts: any[] = [
     "slug": "fma020r_marso_belyy_plintus_30_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 565.0,
+    "price_retail": 582.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103885/products_v2/prod_plitburg-fma020r_marso_belyy_plintus_30_15_kerama_maratstsi.jpg",
     "images": [
@@ -114654,7 +114662,7 @@ export const importedProducts: any[] = [
     "slug": "11123r_marso_seryy_struktura_d_sten_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 2302.0,
+    "price_retail": 2366.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103893/products_v2/prod_plitburg-11123r_marso_seryy_struktura_d_sten_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -114677,7 +114685,7 @@ export const importedProducts: any[] = [
     "slug": "11122r_marso_bezh_obreznoy_d_sten_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 2240.0,
+    "price_retail": 2306.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103902/products_v2/prod_plitburg-11122r_marso_bezh_obreznoy_d_sten_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -114700,7 +114708,7 @@ export const importedProducts: any[] = [
     "slug": "11121r_marso_seryy_obreznoy_d_sten_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 2240.0,
+    "price_retail": 2306.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103911/products_v2/prod_plitburg-11121r_marso_seryy_obreznoy_d_sten_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -114723,7 +114731,7 @@ export const importedProducts: any[] = [
     "slug": "11138r_marso_rozovyy_struktura_obreznoy_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 2302.0,
+    "price_retail": 2366.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103920/products_v2/prod_plitburg-11138r_marso_rozovyy_struktura_obreznoy_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -114746,7 +114754,7 @@ export const importedProducts: any[] = [
     "slug": "blc016r_marso_seryy_obreznoy_bordyur_30_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 455.0,
+    "price_retail": 470.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103929/products_v2/prod_plitburg-blc016r_marso_seryy_obreznoy_bordyur_30_5_kerama_maratstsi.jpg",
     "images": [
@@ -114769,7 +114777,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a273_11120r_marso_dekor_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 1041.0,
+    "price_retail": 1143.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/627/tjseky662m3nv53suoojl8heui0yy3as.jpg",
     "images": [
@@ -114792,7 +114800,7 @@ export const importedProducts: any[] = [
     "slug": "fma019r_marso_seryy_obreznoy_plintus_30_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 565.0,
+    "price_retail": 582.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103938/products_v2/prod_plitburg-fma019r_marso_seryy_obreznoy_plintus_30_15_kerama_maratstsi.jpg",
     "images": [
@@ -114815,7 +114823,7 @@ export const importedProducts: any[] = [
     "slug": "fma023r_marso_rozovyy_plintus_30_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 565.0,
+    "price_retail": 582.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103947/products_v2/prod_plitburg-fma023r_marso_rozovyy_plintus_30_15_kerama_maratstsi.jpg",
     "images": [
@@ -114838,7 +114846,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a274_11120r_marso_bordyur_30_7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/30c/ksg562ain4jcrfz2994et3wj4mgfgg5e.jpg",
     "images": [
@@ -114861,7 +114869,7 @@ export const importedProducts: any[] = [
     "slug": "vb_a13_8x_11133r_marso_panno_120_120_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 10834.0,
+    "price_retail": 11138.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/c33/l9232o9qfxhxhao1rf31z1lzjyl4s2hf.jpg",
     "images": [
@@ -114884,7 +114892,7 @@ export const importedProducts: any[] = [
     "slug": "spa021r_marso_belyy_bordyur_30_2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103955/products_v2/prod_plitburg-spa021r_marso_belyy_bordyur_30_2_5_kerama_maratstsi.jpg",
     "images": [
@@ -114907,7 +114915,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_b274_11120r_marso_bordyur_30_7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/b8e/lzs4oa1xv94e362les2pr7pv20fekv0m.jpg",
     "images": [
@@ -114930,7 +114938,7 @@ export const importedProducts: any[] = [
     "slug": "spa025r_marso_rozovyy_bordyur_30_2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103963/products_v2/prod_plitburg-spa025r_marso_rozovyy_bordyur_30_2_5_kerama_maratstsi.jpg",
     "images": [
@@ -114953,7 +114961,7 @@ export const importedProducts: any[] = [
     "slug": "bda014r_bordyur_marso_rozovyy_obreznoy_30_12_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 455.0,
+    "price_retail": 470.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103967/products_v2/prod_plitburg-bda014r_bordyur_marso_rozovyy_obreznoy_30_12_kerama_maratstsi.jpg",
     "images": [
@@ -114976,7 +114984,7 @@ export const importedProducts: any[] = [
     "slug": "spa020r_marso_seryy_bordyur_obreznyy_30_2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Марсо",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103975/products_v2/prod_plitburg-spa020r_marso_seryy_bordyur_obreznyy_30_2_5_kerama_maratstsi.jpg",
     "images": [
@@ -114999,7 +115007,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a306_9016_monparnas_dekor_kg_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монпарнас",
-    "price_retail": 253.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/806/9kuuvpd0vj2mn6go672243f1l3e6y5rm.jpg",
     "images": [
@@ -115022,7 +115030,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a307_9016_monparnas_dekor_kg_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монпарнас",
-    "price_retail": 253.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/09e/5yli3zu4q8fx42dxxqep0wsvnonvfrwx.jpg",
     "images": [
@@ -115045,7 +115053,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a308_9016_monparnas_dekor_kg_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монпарнас",
-    "price_retail": 253.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/159/qtgj3gz3m5dgj5e924m60c1ms2j60qn0.jpg",
     "images": [
@@ -115068,7 +115076,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a309_9016_monparnas_dekor_kg_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монпарнас",
-    "price_retail": 253.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/209/htwwgfpiat0fw32v7kbfd215apgpzcg4.jpg",
     "images": [
@@ -115091,7 +115099,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a310_9016_monparnas_dekor_kg_8_5_28_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монпарнас",
-    "price_retail": 253.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/fc6/1hsbmvrht4784ufxcpqwai6tsu57t2bu.jpg",
     "images": [
@@ -115114,7 +115122,7 @@ export const importedProducts: any[] = [
     "slug": "monte_tiberio_kg_60_60_sg622602r_lappat_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монте Тиберио",
-    "price_retail": 2888.0,
+    "price_retail": 2965.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103984/products_v2/prod_plitburg-monte_tiberio_kg_60_60_sg622602r_lappat_kerama_maratstsi.jpg",
     "images": [
@@ -115137,7 +115145,7 @@ export const importedProducts: any[] = [
     "slug": "monte_tiberio_bezh_lappatirovannyy_kg_60kh119_5_sg564502r_lappatir_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монте Тиберио",
-    "price_retail": 2556.0,
+    "price_retail": 2505.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776103993/products_v2/prod_plitburg-monte_tiberio_bezh_lappatirovannyy_kg_60kh119_5_sg564502r_lappatir_kerama_maratstsi.jpg",
     "images": [
@@ -115160,7 +115168,7 @@ export const importedProducts: any[] = [
     "slug": "bld020_murano_seryy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104001/products_v2/prod_plitburg-bld020_murano_seryy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -115182,7 +115190,7 @@ export const importedProducts: any[] = [
     "slug": "bld019_murano_goluboy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104008/products_v2/prod_plitburg-bld019_murano_goluboy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -115204,7 +115212,7 @@ export const importedProducts: any[] = [
     "slug": "bld021_murano_belyy_bordyur_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104017/products_v2/prod_plitburg-bld021_murano_belyy_bordyur_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -115226,7 +115234,7 @@ export const importedProducts: any[] = [
     "slug": "nt_b181_17000_murano_goluboy_dekor_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 294.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104025/products_v2/prod_plitburg-nt_b181_17000_murano_goluboy_dekor_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -115248,7 +115256,7 @@ export const importedProducts: any[] = [
     "slug": "nt_a181_17000_murano_rozovyy_dekor_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 294.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104029/products_v2/prod_plitburg-nt_a181_17000_murano_rozovyy_dekor_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -115270,7 +115278,7 @@ export const importedProducts: any[] = [
     "slug": "nt_c181_17000_murano_dekor_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 294.0,
+    "price_retail": 302.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104032/products_v2/prod_plitburg-nt_c181_17000_murano_dekor_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -115292,7 +115300,7 @@ export const importedProducts: any[] = [
     "slug": "bac003_panteon_bezh_svetlyy_bordyur_25_7_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 451.0,
+    "price_retail": 463.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104040/products_v2/prod_plitburg-bac003_panteon_bezh_svetlyy_bordyur_25_7_5_kerama_maratstsi.jpg",
     "images": [
@@ -115314,7 +115322,7 @@ export const importedProducts: any[] = [
     "slug": "bac002_panteon_bezh_bordyur_25_7_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 451.0,
+    "price_retail": 463.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104049/products_v2/prod_plitburg-bac002_panteon_bezh_bordyur_25_7_5_kerama_maratstsi.jpg",
     "images": [
@@ -115336,7 +115344,7 @@ export const importedProducts: any[] = [
     "slug": "fmb006_panteon_bezh_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 470.0,
+    "price_retail": 483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104058/products_v2/prod_plitburg-fmb006_panteon_bezh_plintus_25_15_kerama_maratstsi.jpg",
     "images": [
@@ -115358,7 +115366,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a234_sg1544l_panteon_kover_tsentr_lappatirovannyy_dekor_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 2002.0,
+    "price_retail": 2265.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/28c/ollzrpsy47mnc60gkeoakwtasla7ujx0.jpg",
     "images": [
@@ -115380,7 +115388,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a235_sg1544l_panteon_kover_ugol_lappatirovannyy_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 2002.0,
+    "price_retail": 2265.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/850/45oorxhnmhz6m2g9n5x6bfn8u9vj2o0n.jpg",
     "images": [
@@ -115402,7 +115410,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a236_sg1544l_panteon_kover_tsentr_lappatirovannyy_dekor_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 2002.0,
+    "price_retail": 2265.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/318/3b01y5j4jhz0crvfjzek4lo80xuuiaa4.jpg",
     "images": [
@@ -115424,7 +115432,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a239_sg1544l_panteon_bezh_bordyur_40_2_9_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 568.0,
+    "price_retail": 613.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/c9c/1is3wxhp2rh32lzjfpmljyx124m8r4a4.jpg",
     "images": [
@@ -115446,7 +115454,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a240_sg1544l_panteon_lappatirovannyy_dekor_9_6_9_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 206.0,
+    "price_retail": 219.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/fd3/i6rh1kz543k6ea0dpp2zncox5hjuaf6q.jpg",
     "images": [
@@ -115468,7 +115476,7 @@ export const importedProducts: any[] = [
     "slug": "sg157200r_gr_panteon_bezh_40_2_34_stupen_frontalnaya_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1626.0,
+    "price_retail": 1725.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104065/products_v2/prod_plitburg-sg157200r_gr_panteon_bezh_40_2_34_stupen_frontalnaya_kerama_maratstsi.jpg",
     "images": [
@@ -115490,7 +115498,7 @@ export const importedProducts: any[] = [
     "slug": "panteon_bezh_svetlyy_sg157100r_kg_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1702.0,
+    "price_retail": 1757.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104073/products_v2/prod_plitburg-panteon_bezh_svetlyy_sg157100r_kg_40_2_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -115512,7 +115520,7 @@ export const importedProducts: any[] = [
     "slug": "panteon_bezh_sg157200r_kg_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1702.0,
+    "price_retail": 1757.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104076/products_v2/prod_plitburg-panteon_bezh_sg157200r_kg_40_2_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -115534,7 +115542,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a231_6000l_panteon_lappatirovannyy_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1082.0,
+    "price_retail": 1187.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/887/oc38mzxpnbi35gtd3o9dmr4ez6em07ew.jpg",
     "images": [
@@ -115556,7 +115564,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a232_6000l_panteon_lappatirovannyy_bordyur_25_7_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 445.0,
+    "price_retail": 532.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/d93/hoak30ov4zp0ie5jgqum45gk4lj2tvt8.jpg",
     "images": [
@@ -115578,7 +115586,7 @@ export const importedProducts: any[] = [
     "slug": "fmb008_plintus_panteon_bezh_svetlyy_25_15_plintus_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 470.0,
+    "price_retail": 483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104084/products_v2/prod_plitburg-fmb008_plintus_panteon_bezh_svetlyy_25_15_plintus_kerama_maratstsi.jpg",
     "images": [
@@ -115645,7 +115653,7 @@ export const importedProducts: any[] = [
     "slug": "dl5101_btg_pro_vud_bezh_temnyy_plintus_39_6_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Про Вуд",
-    "price_retail": 459.0,
+    "price_retail": 485.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9a1/8skkfmcv1u7c82tqso1rlu4na3k5vg7c.jpg",
     "images": [
@@ -115667,7 +115675,7 @@ export const importedProducts: any[] = [
     "slug": "pro_stoun_antratsit_obreznoy_kg_60_60_dd600600r_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Про Стоун",
-    "price_retail": 2478.0,
+    "price_retail": 2540.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104099/products_v2/prod_plitburg-pro_stoun_antratsit_obreznoy_kg_60_60_dd600600r_kerama_maratstsi.jpg",
     "images": [
@@ -115689,7 +115697,7 @@ export const importedProducts: any[] = [
     "slug": "pro_stoun_seryy_tyemnyy_obreznoy_kg_60_60_dd600500r_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Про Стоун",
-    "price_retail": 2380.0,
+    "price_retail": 2439.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104109/products_v2/prod_plitburg-pro_stoun_seryy_tyemnyy_obreznoy_kg_60_60_dd600500r_kerama_maratstsi.jpg",
     "images": [
@@ -115711,7 +115719,7 @@ export const importedProducts: any[] = [
     "slug": "puatu_seryy_temnyy_sg23031n_kg_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пуату",
-    "price_retail": 1949.0,
+    "price_retail": 2011.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104120/products_v2/prod_plitburg-puatu_seryy_temnyy_sg23031n_kg_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -115734,7 +115742,7 @@ export const importedProducts: any[] = [
     "slug": "puatu_seryy_sg23030n_kg_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пуату",
-    "price_retail": 1949.0,
+    "price_retail": 2011.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104126/products_v2/prod_plitburg-puatu_seryy_sg23030n_kg_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -115757,7 +115765,7 @@ export const importedProducts: any[] = [
     "slug": "puatu_miks_sg23032n_kg_20_23_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пуату",
-    "price_retail": 2043.0,
+    "price_retail": 2107.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104132/products_v2/prod_plitburg-puatu_miks_sg23032n_kg_20_23_1_kerama_maratstsi.jpg",
     "images": [
@@ -115780,7 +115788,7 @@ export const importedProducts: any[] = [
     "slug": "pyatsetta_seryy_d_pola_sg243300n_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пьяцетта",
-    "price_retail": 1971.0,
+    "price_retail": 2030.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104137/products_v2/prod_plitburg-pyatsetta_seryy_d_pola_sg243300n_24_24_kerama_maratstsi.jpg",
     "images": [
@@ -115803,7 +115811,7 @@ export const importedProducts: any[] = [
     "slug": "pyatsetta_svetlyy_d_pola_sg243100n_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пьяцетта",
-    "price_retail": 1971.0,
+    "price_retail": 2030.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104143/products_v2/prod_plitburg-pyatsetta_svetlyy_d_pola_sg243100n_24_24_kerama_maratstsi.jpg",
     "images": [
@@ -115826,7 +115834,7 @@ export const importedProducts: any[] = [
     "slug": "pyatsetta_bezh_d_pola_24_24_sg243200n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пьяцетта",
-    "price_retail": 1971.0,
+    "price_retail": 2030.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104149/products_v2/prod_plitburg-pyatsetta_bezh_d_pola_24_24_sg243200n_kerama_maratstsi.jpg",
     "images": [
@@ -115849,7 +115857,7 @@ export const importedProducts: any[] = [
     "slug": "pyatsetta_ornament_d_pola_sg243000n_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пьяцетта",
-    "price_retail": 2028.0,
+    "price_retail": 2090.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104155/products_v2/prod_plitburg-pyatsetta_ornament_d_pola_sg243000n_24_24_kerama_maratstsi.jpg",
     "images": [
@@ -115872,7 +115880,7 @@ export const importedProducts: any[] = [
     "slug": "1297s_3f_pyatsetta_dekor_9_9_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Пьяцетта",
-    "price_retail": 144.0,
+    "price_retail": 146.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/416/nk89w29pm1tlqjsl8x9r7f4zqrqi1muh.jpg",
     "images": [
@@ -115895,7 +115903,7 @@ export const importedProducts: any[] = [
     "slug": "19027_3f_rezidentsiya_bezh_bordyur_20kh9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Резиденция",
-    "price_retail": 166.0,
+    "price_retail": 172.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104164/products_v2/prod_plitburg-19027_3f_rezidentsiya_bezh_bordyur_20kh9_9_kerama_maratstsi.jpg",
     "images": [
@@ -115918,7 +115926,7 @@ export const importedProducts: any[] = [
     "slug": "fmc005_rezidentsiya_plintus_20_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Резиденция",
-    "price_retail": 322.0,
+    "price_retail": 332.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104173/products_v2/prod_plitburg-fmc005_rezidentsiya_plintus_20_9_9_kerama_maratstsi.jpg",
     "images": [
@@ -115941,7 +115949,7 @@ export const importedProducts: any[] = [
     "slug": "mm7175_rezidentsiya_mozaichnyy_dekor_20_50_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Резиденция",
-    "price_retail": 958.0,
+    "price_retail": 986.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104181/products_v2/prod_plitburg-mm7175_rezidentsiya_mozaichnyy_dekor_20_50_kerama_maratstsi.jpg",
     "images": [
@@ -115964,7 +115972,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a106_7169_rezidentsiya_dekor_20_50_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Резиденция",
-    "price_retail": 601.0,
+    "price_retail": 618.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/422/vmrzy7cb5ok8c4ei6e5qot8hdbd4bu5s.jpg",
     "images": [
@@ -115987,7 +115995,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a114_7169_rezidentsiya_bordyur_20_6_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Резиденция",
-    "price_retail": 413.0,
+    "price_retail": 425.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/1b8/p9zacjmg77o805nv8emdb0rltv2w8l7d.jpg",
     "images": [
@@ -116010,7 +116018,7 @@ export const importedProducts: any[] = [
     "slug": "pla003_rezidentsiya_bezh_bordyur_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Резиденция",
-    "price_retail": 216.0,
+    "price_retail": 222.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104184/products_v2/prod_plitburg-pla003_rezidentsiya_bezh_bordyur_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -116308,7 +116316,7 @@ export const importedProducts: any[] = [
     "slug": "sansevero_belyy_sg240400n_kg_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сансеверо",
-    "price_retail": 1947.0,
+    "price_retail": 2006.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104258/products_v2/prod_plitburg-sansevero_belyy_sg240400n_kg_24_24_kerama_maratstsi.jpg",
     "images": [
@@ -116331,7 +116339,7 @@ export const importedProducts: any[] = [
     "slug": "sansevero_chernyy_sg240500n_kg_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сансеверо",
-    "price_retail": 1988.0,
+    "price_retail": 2050.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104265/products_v2/prod_plitburg-sansevero_chernyy_sg240500n_kg_24_24_kerama_maratstsi.jpg",
     "images": [
@@ -116354,7 +116362,7 @@ export const importedProducts: any[] = [
     "slug": "1267hs_sansevero_belyy_d_pola_9_8_9_8_s_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сансеверо",
-    "price_retail": 1607.0,
+    "price_retail": 1678.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104269/products_v2/prod_plitburg-1267hs_sansevero_belyy_d_pola_9_8_9_8_s_kerama_maratstsi.jpg",
     "images": [
@@ -116377,7 +116385,7 @@ export const importedProducts: any[] = [
     "slug": "1268hs_sansevero_chernyy_d_pola_9_8_9_8_s_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сансеверо",
-    "price_retail": 1682.0,
+    "price_retail": 1756.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104274/products_v2/prod_plitburg-1268hs_sansevero_chernyy_d_pola_9_8_9_8_s_kerama_maratstsi.jpg",
     "images": [
@@ -116400,7 +116408,7 @@ export const importedProducts: any[] = [
     "slug": "selekt_vud_bezh_temnyy_sg350500r_kg_9_6_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Селект Вуд",
-    "price_retail": 2372.0,
+    "price_retail": 2441.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104280/products_v2/prod_plitburg-selekt_vud_bezh_temnyy_sg350500r_kg_9_6_60_kerama_maratstsi.jpg",
     "images": [
@@ -116423,7 +116431,7 @@ export const importedProducts: any[] = [
     "slug": "selekt_vud_bezh_obreznoy_sg350600r_kg_9_6_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Селект Вуд",
-    "price_retail": 2372.0,
+    "price_retail": 2441.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104285/products_v2/prod_plitburg-selekt_vud_bezh_obreznoy_sg350600r_kg_9_6_60_kerama_maratstsi.jpg",
     "images": [
@@ -116446,7 +116454,7 @@ export const importedProducts: any[] = [
     "slug": "ble009_sorbonna_bezh_bordyur_25_5_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 262.0,
+    "price_retail": 272.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104289/products_v2/prod_plitburg-ble009_sorbonna_bezh_bordyur_25_5_5_kerama_maratstsi.jpg",
     "images": [
@@ -116469,7 +116477,7 @@ export const importedProducts: any[] = [
     "slug": "fmb015_sorbonna_bezh_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 470.0,
+    "price_retail": 483.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104293/products_v2/prod_plitburg-fmb015_sorbonna_bezh_plintus_25_15_kerama_maratstsi.jpg",
     "images": [
@@ -116492,7 +116500,7 @@ export const importedProducts: any[] = [
     "slug": "mm6358_sorbonna_mozaichnyy_25_40_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 812.0,
+    "price_retail": 833.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104297/products_v2/prod_plitburg-mm6358_sorbonna_mozaichnyy_25_40_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -116515,7 +116523,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a596_6355_sorbonna_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 421.0,
+    "price_retail": 462.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104301/products_v2/prod_plitburg-stg_a596_6355_sorbonna_dekor_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -116538,7 +116546,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a359_6355_sorbonna_bordyur_25_7_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 242.0,
+    "price_retail": 247.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104305/products_v2/prod_plitburg-ad_a359_6355_sorbonna_bordyur_25_7_7_kerama_maratstsi.jpg",
     "images": [
@@ -116561,7 +116569,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a405_6356_sorbonna_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 377.0,
+    "price_retail": 416.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104314/products_v2/prod_plitburg-ad_a405_6356_sorbonna_dekor_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -116584,7 +116592,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a411_6355_sorbonna_bordyur_25_4_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сорбонна",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104317/products_v2/prod_plitburg-ad_a411_6355_sorbonna_bordyur_25_4_2_kerama_maratstsi.jpg",
     "images": [
@@ -116607,7 +116615,7 @@ export const importedProducts: any[] = [
     "slug": "temari_laym",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Темари",
-    "price_retail": 3189.0,
+    "price_retail": 3277.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/95a/sdkg96rgegkkhe9p5qgcm4f3bv52jrk0.jpg",
     "images": [
@@ -116653,7 +116661,7 @@ export const importedProducts: any[] = [
     "slug": "op_a27_6331_foskari_biryuzovyy_bordyur_25_5_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Фоскари",
-    "price_retail": 205.0,
+    "price_retail": 210.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104330/products_v2/prod_plitburg-op_a27_6331_foskari_biryuzovyy_bordyur_25_5_4_kerama_maratstsi.jpg",
     "images": [
@@ -116676,7 +116684,7 @@ export const importedProducts: any[] = [
     "slug": "op_a22_6328_foskari_biryuzovyy_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Фоскари",
-    "price_retail": 1190.0,
+    "price_retail": 1231.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104337/products_v2/prod_plitburg-op_a22_6328_foskari_biryuzovyy_dekor_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -116699,7 +116707,7 @@ export const importedProducts: any[] = [
     "slug": "pwb002_foskari_biryuzovyy_volna_bordyur_25_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Фоскари",
-    "price_retail": 191.0,
+    "price_retail": 196.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104344/products_v2/prod_plitburg-pwb002_foskari_biryuzovyy_volna_bordyur_25_2_kerama_maratstsi.jpg",
     "images": [
@@ -116722,7 +116730,7 @@ export const importedProducts: any[] = [
     "slug": "foskari_belyy_d_pola_sg928600n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Фоскари",
-    "price_retail": 1479.0,
+    "price_retail": 1525.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104353/products_v2/prod_plitburg-foskari_belyy_d_pola_sg928600n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -116745,7 +116753,7 @@ export const importedProducts: any[] = [
     "slug": "op_a169_65000_arabeski_mayolika_gaudi_6_5_6_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 167.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104361/products_v2/prod_plitburg-op_a169_65000_arabeski_mayolika_gaudi_6_5_6_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -116768,7 +116776,7 @@ export const importedProducts: any[] = [
     "slug": "op_a172_65000_arabeski_mayolika_gaudi_6_5_6_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104368/products_v2/prod_plitburg-op_a172_65000_arabeski_mayolika_gaudi_6_5_6_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -116791,7 +116799,7 @@ export const importedProducts: any[] = [
     "slug": "op_a170_65000_arabeski_mayolika_gaudi_6_5_6_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104376/products_v2/prod_plitburg-op_a170_65000_arabeski_mayolika_gaudi_6_5_6_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -116814,7 +116822,7 @@ export const importedProducts: any[] = [
     "slug": "151_karandash_belyy_matovyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 118.0,
+    "price_retail": 123.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/f05/c7jxby6pxm9py8p3s34we65z6ykvokeb.webp",
     "images": [
@@ -116837,7 +116845,7 @@ export const importedProducts: any[] = [
     "slug": "130_karandash_belyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 121.0,
+    "price_retail": 125.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/45a/rogh2u1gd33ktd9z2g5owq387fauu3mj.webp",
     "images": [
@@ -116860,7 +116868,7 @@ export const importedProducts: any[] = [
     "slug": "karandash_zoloto",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 414.0,
+    "price_retail": 436.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/984/jwit23mc7gujqf82gi4sazljh6s2iskm.jpg",
     "images": [
@@ -117044,7 +117052,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a326_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/cfe/wyz334ydygphn6uoypv5wnh0x9gr6b4g.jpg",
     "images": [
@@ -117067,7 +117075,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a327_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/274/nuh3auz6qbqqetpo1thq5gmijq7ayyyp.jpg",
     "images": [
@@ -117090,7 +117098,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a328_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/b95/30svqg7kjcyzp5333k9f17ssqx11fssh.jpg",
     "images": [
@@ -117113,7 +117121,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a446_17000_alkasar_15_3_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104413/products_v2/prod_plitburg-ad_a446_17000_alkasar_15_3_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -117136,7 +117144,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a321_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/b42/cuiemj8u6w4k70vmlecpfz62hon77gnf.jpg",
     "images": [
@@ -117159,7 +117167,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a322_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/d4e/082vio8zsyemcnp6wk0ddo7f2k8qizd5.jpg",
     "images": [
@@ -117182,7 +117190,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a323_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/04f/rjvdv8kh41jr3y7psyjeuus2senbocm5.jpg",
     "images": [
@@ -117205,7 +117213,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a324_16000_alkasar_7_4_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Алькасар",
-    "price_retail": 188.0,
+    "price_retail": 204.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/c36/fip3nroiqo9qir9y0e8g1f107ubmhwt4.jpg",
     "images": [
@@ -117320,7 +117328,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b29_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a70/4sed2jq4myqplhcvkfgqd0uldu9iwvki.jpg",
     "images": [
@@ -117342,7 +117350,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b24_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a5e/gq0t29gxfy3x3nnql170raf03zmhn0hn.jpg",
     "images": [
@@ -117364,7 +117372,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b30_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/98f/oltg1wg87ejm5p6m221y8pr6pgikaf18.jpg",
     "images": [
@@ -117386,7 +117394,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b34_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/d9b/kafd13evddlxism9c357dydmb7xw0731.jpg",
     "images": [
@@ -117408,7 +117416,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b31_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/750/u2puwb7iczl26ue71ncl6obv2111006q.jpg",
     "images": [
@@ -117430,7 +117438,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b32_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/183/3abqzgtcxo8nbpija3knjpnbhj4fharv.jpg",
     "images": [
@@ -117452,7 +117460,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b37_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/932/qwwgj6ekkzbavuln6x3k1g1rx90pjjdo.jpg",
     "images": [
@@ -117474,7 +117482,7 @@ export const importedProducts: any[] = [
     "slug": "dd_c28_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/0d6/mgexbyltgxtq8cstleu6ksg0h3w8k0mt.jpg",
     "images": [
@@ -117496,7 +117504,7 @@ export const importedProducts: any[] = [
     "slug": "dd_c31_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/940/jahx9citc1w7avdnnwaj57yawthy5f2a.jpg",
     "images": [
@@ -117518,7 +117526,7 @@ export const importedProducts: any[] = [
     "slug": "dd_c34_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/0d0/8bq882f6t1cxrir4evsatxjxdjubwm2j.jpg",
     "images": [
@@ -117540,7 +117548,7 @@ export const importedProducts: any[] = [
     "slug": "dd_c36_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/d6e/vuu6pha4iiruk8kb2nu1fqr4y23p48b1.jpg",
     "images": [
@@ -117562,7 +117570,7 @@ export const importedProducts: any[] = [
     "slug": "dd_c24_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f97/gv4jgha3ops35z6j5cjh4fql3kghyxp4.jpg",
     "images": [
@@ -117584,7 +117592,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b28_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f4a/u4ecdze37d1e6c381x9b1gc65ppb5r0l.jpg",
     "images": [
@@ -117606,7 +117614,7 @@ export const importedProducts: any[] = [
     "slug": "dd_b22_17023_bario_15_15_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Барио",
-    "price_retail": 314.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/7ac/apqo3a0hkfs9319iyys5epntsa715bd0.jpg",
     "images": [
@@ -117628,7 +117636,7 @@ export const importedProducts: any[] = [
     "slug": "os_b45_65001_arabeski_kotto_metall_6_5_6_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески котто",
-    "price_retail": 112.0,
+    "price_retail": 115.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104445/products_v2/prod_plitburg-os_b45_65001_arabeski_kotto_metall_6_5_6_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -117651,7 +117659,7 @@ export const importedProducts: any[] = [
     "slug": "os_a45_65001_arabeski_kotto_metall_6_5_6_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески котто",
-    "price_retail": 112.0,
+    "price_retail": 115.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104451/products_v2/prod_plitburg-os_a45_65001_arabeski_kotto_metall_6_5_6_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -117674,7 +117682,7 @@ export const importedProducts: any[] = [
     "slug": "pro_fyuche_seryy_temnyy_obreznoy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Про Фьюче",
-    "price_retail": 2867.0,
+    "price_retail": 2968.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/1f5/p6s7g00vu9g97oa8bk030c3fyl9uz54a.jpg",
     "images": [
@@ -117719,7 +117727,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_svetlaya_d_pola_30_30_sg906500n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1268.0,
+    "price_retail": 1308.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104467/products_v2/prod_plitburg-alleya_svetlaya_d_pola_30_30_sg906500n_kerama_maratstsi.jpg",
     "images": [
@@ -117742,7 +117750,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_seraya_sg911900n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1268.0,
+    "price_retail": 1294.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104478/products_v2/prod_plitburg-alleya_seraya_sg911900n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -117765,7 +117773,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_svetlaya_stupen_uglovaya_30_30_sg906500n_gr_an_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1838.0,
+    "price_retail": 1907.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104481/products_v2/prod_plitburg-alleya_svetlaya_stupen_uglovaya_30_30_sg906500n_gr_an_kerama_maratstsi.jpg",
     "images": [
@@ -117788,7 +117796,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_kirpichnyy_stupen_frontalnaya_30_30_sg906800n_gr_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1414.0,
+    "price_retail": 1466.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104485/products_v2/prod_plitburg-alleya_kirpichnyy_stupen_frontalnaya_30_30_sg906800n_gr_kerama_maratstsi.jpg",
     "images": [
@@ -117811,7 +117819,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_svetlaya_stupen_frontalnaya_30_30_sg906500n_gr_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1414.0,
+    "price_retail": 1466.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104489/products_v2/prod_plitburg-alleya_svetlaya_stupen_frontalnaya_30_30_sg906500n_gr_kerama_maratstsi.jpg",
     "images": [
@@ -117834,7 +117842,7 @@ export const importedProducts: any[] = [
     "slug": "stupen_uglovaya_alleya_kirpichnyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1838.0,
+    "price_retail": 1907.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104493/products_v2/prod_plitburg-stupen_uglovaya_alleya_kirpichnyy.jpg",
     "images": [
@@ -117857,7 +117865,7 @@ export const importedProducts: any[] = [
     "slug": "1271_h_amalfi_seryy_d_sten29_8_39_8_iz_12_chastey9_8_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 1808.0,
+    "price_retail": 1894.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104500/products_v2/prod_plitburg-1271_h_amalfi_seryy_d_sten29_8_39_8_iz_12_chastey9_8_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -117880,7 +117888,7 @@ export const importedProducts: any[] = [
     "slug": "1270n_amalfi_seryy_svetlyy_d_sten_polotno_29_8kh39_8_iz_12_chastey_9_8kh9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 1808.0,
+    "price_retail": 1894.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/42d/r5061w4g06go5k12c938dqgmi1my2736.jpg",
     "images": [
@@ -117903,7 +117911,7 @@ export const importedProducts: any[] = [
     "slug": "1269h_amalfi_bezh_d_sten_29_8kh39_8_iz_12_chastey_9_8kh9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 1774.0,
+    "price_retail": 1856.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104507/products_v2/prod_plitburg-1269h_amalfi_bezh_d_sten_29_8kh39_8_iz_12_chastey_9_8kh9_8_kerama_maratstsi.jpg",
     "images": [
@@ -117926,7 +117934,7 @@ export const importedProducts: any[] = [
     "slug": "1266h_amalfi_bezh_svetlyy_d_sten_30_40_iz_12_chastey_9_8kh9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 1774.0,
+    "price_retail": 1856.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104513/products_v2/prod_plitburg-1266h_amalfi_bezh_svetlyy_d_sten_30_40_iz_12_chastey_9_8kh9_8_kerama_maratstsi.jpg",
     "images": [
@@ -118103,7 +118111,7 @@ export const importedProducts: any[] = [
     "slug": "os_a02_9010_zakat_8_5_28_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Закат",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104553/products_v2/prod_plitburg-os_a02_9010_zakat_8_5_28_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -118126,7 +118134,7 @@ export const importedProducts: any[] = [
     "slug": "os_a06_9010_zakat_8_5_28_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Закат",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104560/products_v2/prod_plitburg-os_a06_9010_zakat_8_5_28_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -118149,7 +118157,7 @@ export const importedProducts: any[] = [
     "slug": "os_a07_9010_zakat_8_5_28_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Закат",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104567/products_v2/prod_plitburg-os_a07_9010_zakat_8_5_28_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -118172,7 +118180,7 @@ export const importedProducts: any[] = [
     "slug": "os_a08_9010_zakat_8_5_28_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Закат",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104574/products_v2/prod_plitburg-os_a08_9010_zakat_8_5_28_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -118195,7 +118203,7 @@ export const importedProducts: any[] = [
     "slug": "os_a09_9010_zakat_8_5_28_5_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Закат",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104581/products_v2/prod_plitburg-os_a09_9010_zakat_8_5_28_5_dekor_kerama_maratstsi.jpg",
     "images": [
@@ -118218,7 +118226,7 @@ export const importedProducts: any[] = [
     "slug": "pof010_biser_belyy_bordyur_20_1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 290.0,
+    "price_retail": 304.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104590/products_v2/prod_plitburg-pof010_biser_belyy_bordyur_20_1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118241,7 +118249,7 @@ export const importedProducts: any[] = [
     "slug": "pof009_biser_chernyy_bordyur_20_1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 290.0,
+    "price_retail": 304.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104594/products_v2/prod_plitburg-pof009_biser_chernyy_bordyur_20_1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118264,7 +118272,7 @@ export const importedProducts: any[] = [
     "slug": "pod001_primavera_biser_prozrachnyy_bordyur_20_0_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 164.0,
+    "price_retail": 170.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104603/products_v2/prod_plitburg-pod001_primavera_biser_prozrachnyy_bordyur_20_0_6_kerama_maratstsi.jpg",
     "images": [
@@ -118287,7 +118295,7 @@ export const importedProducts: any[] = [
     "slug": "pod002_primavera_biser_prozrachnyy_bordyur_20_0_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 164.0,
+    "price_retail": 170.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104612/products_v2/prod_plitburg-pod002_primavera_biser_prozrachnyy_bordyur_20_0_6_kerama_maratstsi.jpg",
     "images": [
@@ -118310,7 +118318,7 @@ export const importedProducts: any[] = [
     "slug": "191_karandash_alyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 124.0,
+    "price_retail": 129.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/897/jg5kddeu7tqnhyd837y3y0hrmnbjkyju.webp",
     "images": [
@@ -118333,7 +118341,7 @@ export const importedProducts: any[] = [
     "slug": "211karandash_derevo_bezh_matovyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 244.0,
+    "price_retail": 257.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/5e1/ya3vqjg2amb1kdgoqepdn7gm5djacdht.webp",
     "images": [
@@ -118356,7 +118364,7 @@ export const importedProducts: any[] = [
     "slug": "198_karandash_oranzhevyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 123.0,
+    "price_retail": 130.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/e3a/oj5icwgz35memammwwk9r7z6di6q2mub.webp",
     "images": [
@@ -118379,7 +118387,7 @@ export const importedProducts: any[] = [
     "slug": "135_karandash_siniy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 115.0,
+    "price_retail": 120.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/eb3/f8i8muei19u40d8v3w5tu522ilc4xg6y.webp",
     "images": [
@@ -118402,7 +118410,7 @@ export const importedProducts: any[] = [
     "slug": "131_karandash_chernyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 120.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/86e/udhvyd2nu45nrkdd6y44fzvnuderfbgn.webp",
     "images": [
@@ -118425,7 +118433,7 @@ export const importedProducts: any[] = [
     "slug": "pof012_biser_bezh_matovyy_bordyur_20_1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 318.0,
+    "price_retail": 326.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104621/products_v2/prod_plitburg-pof012_biser_bezh_matovyy_bordyur_20_1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118448,7 +118456,7 @@ export const importedProducts: any[] = [
     "slug": "pof014_biser_seryy_matovyy_bordyur_20_1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 318.0,
+    "price_retail": 326.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104630/products_v2/prod_plitburg-pof014_biser_seryy_matovyy_bordyur_20_1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118471,7 +118479,7 @@ export const importedProducts: any[] = [
     "slug": "85_karandash_bezhevyy_svetlyy_bordyur_25_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 120.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/c02/e8pcrl0a1o5ks0w4ptwixsiz1d6ynhx8.webp",
     "images": [
@@ -118494,7 +118502,7 @@ export const importedProducts: any[] = [
     "slug": "12_karandash_platina_bordyur_25_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 291.0,
+    "price_retail": 297.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/666/s32nlxn1qa3ay02y0gsqk5h0s1rxm9xd.webp",
     "images": [
@@ -118517,7 +118525,7 @@ export const importedProducts: any[] = [
     "slug": "pof001_richmond_biser_belyy_serebro_bordyur_20kh1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 311.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104640/products_v2/prod_plitburg-pof001_richmond_biser_belyy_serebro_bordyur_20kh1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118540,7 +118548,7 @@ export const importedProducts: any[] = [
     "slug": "pof002_richmond_biser_belyy_zoloto_bordyur_20kh1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ричмонд",
-    "price_retail": 311.0,
+    "price_retail": 328.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104647/products_v2/prod_plitburg-pof002_richmond_biser_belyy_zoloto_bordyur_20kh1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118586,7 +118594,7 @@ export const importedProducts: any[] = [
     "slug": "pod014_biser_antratsit_bordyur_20_0_6_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 174.0,
+    "price_retail": 180.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104666/products_v2/prod_plitburg-pod014_biser_antratsit_bordyur_20_0_6_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -118609,7 +118617,7 @@ export const importedProducts: any[] = [
     "slug": "144_karandash_bezh_matovyy_bordyur_20_1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 118.0,
+    "price_retail": 123.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/be0/tt9ulb5p0gbz8xcy98v3xbs67kzhudqb.webp",
     "images": [
@@ -118655,7 +118663,7 @@ export const importedProducts: any[] = [
     "slug": "pof011_biser_bezh_svetlyy_20_1_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 318.0,
+    "price_retail": 326.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104685/products_v2/prod_plitburg-pof011_biser_bezh_svetlyy_20_1_4_kerama_maratstsi.jpg",
     "images": [
@@ -118678,7 +118686,7 @@ export const importedProducts: any[] = [
     "slug": "marengo_seryy_d_pola_30_60_u22950_golden_tayl",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 263.0,
+    "price_retail": 277.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/235/dh2p3mv6xp3bcf396zg2cr9ugecd8ojw.webp",
     "images": [
@@ -118701,7 +118709,7 @@ export const importedProducts: any[] = [
     "slug": "1146h_konfetti_belyy_blestyashchiy_polotno_29_8kh39_8_iz_12_chastey_9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Конфетти",
-    "price_retail": 1689.0,
+    "price_retail": 1770.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104689/products_v2/prod_plitburg-1146h_konfetti_belyy_blestyashchiy_polotno_29_8kh39_8_iz_12_chastey_9_8_kerama_maratstsi.jpg",
     "images": [
@@ -118724,7 +118732,7 @@ export const importedProducts: any[] = [
     "slug": "1230n_konfetti_d_sten_29_8kh39_8_iz_12_chastey_9_8kh9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Конфетти",
-    "price_retail": 1689.0,
+    "price_retail": 1770.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/766/pb0evd0zkyiyicp2drrvekko38k5aal0.jpg",
     "images": [
@@ -118793,7 +118801,7 @@ export const importedProducts: any[] = [
     "slug": "14020r_3f_eskorial_bezh_40_120_dekor_kerama_maratstsm",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Эскориал",
-    "price_retail": 2051.0,
+    "price_retail": 2109.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f13/hqkgg5jz1jv8jh6lldwwvc223wkh3xul.jpg",
     "images": [
@@ -118816,7 +118824,7 @@ export const importedProducts: any[] = [
     "slug": "mm14022_eskorial_mozaichnyy_40_20_d_sten_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Эскориал",
-    "price_retail": 1427.0,
+    "price_retail": 1467.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104703/products_v2/prod_plitburg-mm14022_eskorial_mozaichnyy_40_20_d_sten_kerama_maratstsi.jpg",
     "images": [
@@ -118839,7 +118847,7 @@ export const importedProducts: any[] = [
     "slug": "eskorial_seryy_obreznoy_kg_40_2_40_2_sg161300r_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Эскориал",
-    "price_retail": 1776.0,
+    "price_retail": 1832.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104711/products_v2/prod_plitburg-eskorial_seryy_obreznoy_kg_40_2_40_2_sg161300r_kerama_maratstsi.jpg",
     "images": [
@@ -118862,7 +118870,7 @@ export const importedProducts: any[] = [
     "slug": "eskorial_bezh_obreznoy_kg_40_2_40_2_sg161400r_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Эскориал",
-    "price_retail": 1776.0,
+    "price_retail": 1832.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104715/products_v2/prod_plitburg-eskorial_bezh_obreznoy_kg_40_2_40_2_sg161400r_kerama_maratstsi.jpg",
     "images": [
@@ -118908,7 +118916,7 @@ export const importedProducts: any[] = [
     "slug": "fregat_sg7013_btg_bezh_plintus_39_8kh8_keramma_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 389.0,
+    "price_retail": 407.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9b9/e8119oeqtcj1gnn7osyzkz8e63sb7tas.jpg",
     "images": [
@@ -118931,7 +118939,7 @@ export const importedProducts: any[] = [
     "slug": "fregat_sg7015_btg_temno_korichn_plintus_39_8kh8_keramma_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 389.0,
+    "price_retail": 407.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/282/ccho9j8zy41m33ovptg8hw5b65755t24.jpg",
     "images": [
@@ -118954,7 +118962,7 @@ export const importedProducts: any[] = [
     "slug": "urban_seryy_sg927900n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Урбан",
-    "price_retail": 1054.0,
+    "price_retail": 1033.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104724/products_v2/prod_plitburg-urban_seryy_sg927900n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -118977,7 +118985,7 @@ export const importedProducts: any[] = [
     "slug": "urban_seryy_temnyy_sg928000n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Урбан",
-    "price_retail": 1054.0,
+    "price_retail": 1033.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104731/products_v2/prod_plitburg-urban_seryy_temnyy_sg928000n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -119000,7 +119008,7 @@ export const importedProducts: any[] = [
     "slug": "terrasa_korichnevyy_protivoskolzyashchiy_kg_sg158500n_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Терраса",
-    "price_retail": 1570.0,
+    "price_retail": 1617.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104738/products_v2/prod_plitburg-terrasa_korichnevyy_protivoskolzyashchiy_kg_sg158500n_40_2_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -119023,7 +119031,7 @@ export const importedProducts: any[] = [
     "slug": "terrasa_seryy_protivoskolzyashchiy_kg_sg158700n_40_2_40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Терраса",
-    "price_retail": 1570.0,
+    "price_retail": 1617.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104746/products_v2/prod_plitburg-terrasa_seryy_protivoskolzyashchiy_kg_sg158700n_40_2_40_2_kerama_maratstsi.jpg",
     "images": [
@@ -119046,7 +119054,7 @@ export const importedProducts: any[] = [
     "slug": "terrasa_seraya_protivosk_front_stupen_sg158700n_gr_40_2_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Терраса",
-    "price_retail": 1671.0,
+    "price_retail": 1771.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104749/products_v2/prod_plitburg-terrasa_seraya_protivosk_front_stupen_sg158700n_gr_40_2_30_kerama_maratstsi.jpg",
     "images": [
@@ -119069,7 +119077,7 @@ export const importedProducts: any[] = [
     "slug": "stupen_uglovaya_terrasa_seryy_protivoskolzyashchiy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Терраса",
-    "price_retail": 2203.0,
+    "price_retail": 2327.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104753/products_v2/prod_plitburg-stupen_uglovaya_terrasa_seryy_protivoskolzyashchiy.jpg",
     "images": [
@@ -119092,7 +119100,7 @@ export const importedProducts: any[] = [
     "slug": "ac36_7071_gorodskie_tsvety_dekor_20_50_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Стокерамогранитольм",
-    "price_retail": 526.0,
+    "price_retail": 554.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104760/products_v2/prod_plitburg-ac36_7071_gorodskie_tsvety_dekor_20_50_kerama_maratstsi.jpg",
     "images": [
@@ -119184,7 +119192,7 @@ export const importedProducts: any[] = [
     "slug": "mm6380_siyanie_mozaichnyy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 812.0,
+    "price_retail": 833.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104791/products_v2/prod_plitburg-mm6380_siyanie_mozaichnyy_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -119207,7 +119215,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a465_6372_siyanie_bordyur_bezh_25_5_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 205.0,
+    "price_retail": 210.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104806/products_v2/prod_plitburg-ad_a465_6372_siyanie_bordyur_bezh_25_5_4_kerama_maratstsi.jpg",
     "images": [
@@ -119230,7 +119238,7 @@ export const importedProducts: any[] = [
     "slug": "ad_b457_6376_siyanie_dekor_goluboy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 368.0,
+    "price_retail": 404.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104814/products_v2/prod_plitburg-ad_b457_6376_siyanie_dekor_goluboy_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -119253,7 +119261,7 @@ export const importedProducts: any[] = [
     "slug": "ad_b465_6373_siyanie_bordyur_goluboy_25_5_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 205.0,
+    "price_retail": 210.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104827/products_v2/prod_plitburg-ad_b465_6373_siyanie_bordyur_goluboy_25_5_4_kerama_maratstsi.jpg",
     "images": [
@@ -119276,7 +119284,7 @@ export const importedProducts: any[] = [
     "slug": "ad_c457_6377_ciyanie_dekor_bezhevyy_svet_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 368.0,
+    "price_retail": 404.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104836/products_v2/prod_plitburg-ad_c457_6377_ciyanie_dekor_bezhevyy_svet_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -119299,7 +119307,7 @@ export const importedProducts: any[] = [
     "slug": "ad_c465_6374_siyanie_bordyur_bezh_svetlyy_25_5_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 205.0,
+    "price_retail": 210.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104839/products_v2/prod_plitburg-ad_c465_6374_siyanie_bordyur_bezh_svetlyy_25_5_4_kerama_maratstsi.jpg",
     "images": [
@@ -119322,7 +119330,7 @@ export const importedProducts: any[] = [
     "slug": "mm6378_siyanie_mozaichnyy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 812.0,
+    "price_retail": 833.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104847/products_v2/prod_plitburg-mm6378_siyanie_mozaichnyy_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -119345,7 +119353,7 @@ export const importedProducts: any[] = [
     "slug": "mm6379_siyanie_mozaichnyy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 812.0,
+    "price_retail": 833.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104856/products_v2/prod_plitburg-mm6379_siyanie_mozaichnyy_25_40_kerama_maratstsi.jpg",
     "images": [
@@ -119368,7 +119376,7 @@ export const importedProducts: any[] = [
     "slug": "siyanie_bezhevyy_sg161000_40_2_40_2_keramicheskiy_granit_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 1216.0,
+    "price_retail": 1256.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104864/products_v2/prod_plitburg-siyanie_bezhevyy_sg161000_40_2_40_2_keramicheskiy_granit_kerama_maratstsi.jpg",
     "images": [
@@ -119391,7 +119399,7 @@ export const importedProducts: any[] = [
     "slug": "siyanie_goluboy_sg161100n_40_2_40_2_keramicheskiy_granit",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 1216.0,
+    "price_retail": 1256.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104871/products_v2/prod_plitburg-siyanie_goluboy_sg161100n_40_2_40_2_keramicheskiy_granit.jpg",
     "images": [
@@ -119414,7 +119422,7 @@ export const importedProducts: any[] = [
     "slug": "siyanie_svetlyy_sg161200n_40_2_40_2_kg_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Сияние",
-    "price_retail": 1216.0,
+    "price_retail": 1256.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104879/products_v2/prod_plitburg-siyanie_svetlyy_sg161200n_40_2_40_2_kg_kerama_maratstsi.jpg",
     "images": [
@@ -119437,7 +119445,7 @@ export const importedProducts: any[] = [
     "slug": "sg173_001_slanets_dekor_mozaichnyy_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сланец",
-    "price_retail": 696.0,
+    "price_retail": 739.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/e92/1c63d8r4i3xbwxxoxq80l2r91e3ryq4r.jpg",
     "images": [
@@ -119460,7 +119468,7 @@ export const importedProducts: any[] = [
     "slug": "sg173_002_slanets_dekor_mozaichnyy_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сланец",
-    "price_retail": 696.0,
+    "price_retail": 739.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9b2/6udabm79nqnuovoe47zwxkyr77ne0mqy.jpg",
     "images": [
@@ -119483,7 +119491,7 @@ export const importedProducts: any[] = [
     "slug": "slanets_bezh_kg_30_30_sg908200n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сланец",
-    "price_retail": 1462.0,
+    "price_retail": 1507.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104886/products_v2/prod_plitburg-slanets_bezh_kg_30_30_sg908200n_kerama_maratstsi.jpg",
     "images": [
@@ -119506,7 +119514,7 @@ export const importedProducts: any[] = [
     "slug": "slanets_temnyy_kg_30_30_sg908300n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Сланец",
-    "price_retail": 1462.0,
+    "price_retail": 1499.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104894/products_v2/prod_plitburg-slanets_temnyy_kg_30_30_sg908300n_kerama_maratstsi.jpg",
     "images": [
@@ -119529,7 +119537,7 @@ export const importedProducts: any[] = [
     "slug": "pfg005_salinas_seryy_15_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Салинас",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104901/products_v2/prod_plitburg-pfg005_salinas_seryy_15_2_kerama_maratstsi.jpg",
     "images": [
@@ -119552,7 +119560,7 @@ export const importedProducts: any[] = [
     "slug": "ssa001_salinas_seryy_dekor_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Салинас",
-    "price_retail": 418.0,
+    "price_retail": 429.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104915/products_v2/prod_plitburg-ssa001_salinas_seryy_dekor_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -119575,7 +119583,7 @@ export const importedProducts: any[] = [
     "slug": "ssa003_salinas_zelenyy_dekor_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Салинас",
-    "price_retail": 473.0,
+    "price_retail": 487.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104922/products_v2/prod_plitburg-ssa003_salinas_zelenyy_dekor_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -119805,7 +119813,7 @@ export const importedProducts: any[] = [
     "slug": "fme002r_prado_20_40_plintus_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Прадо",
-    "price_retail": 692.0,
+    "price_retail": 711.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776104999/products_v2/prod_plitburg-fme002r_prado_20_40_plintus_kerama_maratstsi.jpg",
     "images": [
@@ -119828,7 +119836,7 @@ export const importedProducts: any[] = [
     "slug": "lsa014r_prado_belyy_struktura_obreznoy_40_3_4_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Прадо",
-    "price_retail": 496.0,
+    "price_retail": 508.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105007/products_v2/prod_plitburg-lsa014r_prado_belyy_struktura_obreznoy_40_3_4_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -119851,7 +119859,7 @@ export const importedProducts: any[] = [
     "slug": "14041r_3f_vt_a20_14002r_dekor_prado_obreznoy40_120_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Прадо",
-    "price_retail": 2406.0,
+    "price_retail": 2474.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/5dd/7xgo4nzvq6uwwa85rcixob0ky2lxvdb9.jpg",
     "images": [
@@ -119874,7 +119882,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a48_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/52b/9yn8jh23dnvtc7354dq3fkn6mjdu82jo.jpg",
     "images": [
@@ -119897,7 +119905,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a49_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/1b6/3jacqoqxrjlw0fyt2uuhx9wcuzkbfwlh.jpg",
     "images": [
@@ -119920,7 +119928,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a50_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/00f/o2y8qw6mcqb1kxkt8hhps451xfebj8cc.jpg",
     "images": [
@@ -119943,7 +119951,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a51_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/425/xy0l7g3ywpyx4jipcmm6i9zed6oyv7gb.jpg",
     "images": [
@@ -119966,7 +119974,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a52_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a0d/ffzzl3guume03i893pifzmfgc1g8vojn.jpg",
     "images": [
@@ -119989,7 +119997,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a54_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/385/vget1z665jj3rz107dd641pcn4h6h8a9.jpg",
     "images": [
@@ -120012,7 +120020,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a55_sg2432_palasio_24_24_ornament_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/fc9/r4gzmq241vgxrmjusupi3r54i1qxrbq5.jpg",
     "images": [
@@ -120035,7 +120043,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a61_1266h_palasio_9_8kh9_8_ornament_d_pola_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/ee9/t4rh0vto0jrvi9cef4dhptc7eolvtn01.webp",
     "images": [
@@ -120058,7 +120066,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a62_1266h_palasio_9_8x9_8_ornament_d_pola_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/512/gebp80lagkn2pod4sn7v70jb06trr83e.webp",
     "images": [
@@ -120081,7 +120089,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a57_1266_palasio_9_9_9_9_ornament_d_pola_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/fa8/hwpnr5rd3xra9j9c0gjv1lfbc3bo971p.webp",
     "images": [
@@ -120104,7 +120112,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a60_1266_palasio_9_9x9_9_ornament_d_pola_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/961/93v3whoaqthdx5k2w0mcu5cg6a3q9n26.webp",
     "images": [
@@ -120127,7 +120135,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a65_1266_palasio_9_9x9_9_ornament_d_pola_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/eac/nab5fpue0y1xges8av8rcg24qkkng4c5.webp",
     "images": [
@@ -120150,7 +120158,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a59_1266_palasio_9_9x9_9_ornament_d_pola_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Паласио",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/ebe/edimz2f2x5ubgdi1ac67v1onm2bpyaf9.webp",
     "images": [
@@ -120173,7 +120181,7 @@ export const importedProducts: any[] = [
     "slug": "sg1573n_karnabi_strit_seryy_svetl_d_pola_v_poddone_66_24v_korobke_0_92_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1582.0,
+    "price_retail": 1660.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105017/products_v2/prod_plitburg-sg1573n_karnabi_strit_seryy_svetl_d_pola_v_poddone_66_24v_korobke_0_92_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -120195,7 +120203,7 @@ export const importedProducts: any[] = [
     "slug": "sg1574n_karnabi_strit_seryy_d_pola_v_poddone_66_24_m2_v_korobke_0_92m2_23_sht_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1582.0,
+    "price_retail": 1660.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105024/products_v2/prod_plitburg-sg1574n_karnabi_strit_seryy_d_pola_v_poddone_66_24_m2_v_korobke_0_92m2_23_sht_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -120217,7 +120225,7 @@ export const importedProducts: any[] = [
     "slug": "sg1576n_karnabi_strit_ornam_seryy_d_pola_v_poddone_22_08v_korobke_0_92_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1703.0,
+    "price_retail": 1791.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105030/products_v2/prod_plitburg-sg1576n_karnabi_strit_ornam_seryy_d_pola_v_poddone_22_08v_korobke_0_92_20_20_kerama_maratstsi.jpg",
     "images": [
@@ -120239,7 +120247,7 @@ export const importedProducts: any[] = [
     "slug": "sg1569n_karnabi_strit_bezh_temnyy_d_pola_v_poddone_66_24m2_v_korob_0_92m2_23sht_20_20_kerama_maratsts",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1582.0,
+    "price_retail": 1660.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105037/products_v2/prod_plitburg-sg1569n_karnabi_strit_bezh_temnyy_d_pola_v_poddone_66_24m2_v_korob_0_92m2_23sht_20_20_kerama_maratsts.jpg",
     "images": [
@@ -120261,7 +120269,7 @@ export const importedProducts: any[] = [
     "slug": "sg1570n_karnabi_strit_bezh_svetlyy_20kh20_kerama_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1582.0,
+    "price_retail": 1660.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105044/products_v2/prod_plitburg-sg1570n_karnabi_strit_bezh_svetlyy_20kh20_kerama_maratstsi_.jpg",
     "images": [
@@ -120283,7 +120291,7 @@ export const importedProducts: any[] = [
     "slug": "kolliano_bezh_svetlyy_sg_912600n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Коллиано",
-    "price_retail": 1027.0,
+    "price_retail": 1063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105052/products_v2/prod_plitburg-kolliano_bezh_svetlyy_sg_912600n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -120306,7 +120314,7 @@ export const importedProducts: any[] = [
     "slug": "kolliano_bezh_sg_912700n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Коллиано",
-    "price_retail": 1129.0,
+    "price_retail": 1152.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105059/products_v2/prod_plitburg-kolliano_bezh_sg_912700n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -120329,7 +120337,7 @@ export const importedProducts: any[] = [
     "slug": "kolliano_seryy_svetlyy_sg912900n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Коллиано",
-    "price_retail": 1027.0,
+    "price_retail": 1063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105066/products_v2/prod_plitburg-kolliano_seryy_svetlyy_sg912900n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -120352,7 +120360,7 @@ export const importedProducts: any[] = [
     "slug": "kolliano_seryy_sg913000n_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Коллиано",
-    "price_retail": 1027.0,
+    "price_retail": 1063.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105073/products_v2/prod_plitburg-kolliano_seryy_sg913000n_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -120375,7 +120383,7 @@ export const importedProducts: any[] = [
     "slug": "kolliano_sg_914500n_ornament_kg_30_30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Коллиано",
-    "price_retail": 1305.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105081/products_v2/prod_plitburg-kolliano_sg_914500n_ornament_kg_30_30_kerama_maratstsi.jpg",
     "images": [
@@ -120513,7 +120521,7 @@ export const importedProducts: any[] = [
     "slug": "14016r_3f_monforte_glitsiniya_obreznoy_dekor_40_120_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 2051.0,
+    "price_retail": 2109.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/6b7/6ueorxoz40ay2hdpkxqofczgfii3koaj.jpg",
     "images": [
@@ -120536,7 +120544,7 @@ export const importedProducts: any[] = [
     "slug": "14017r_3f_monforte_roza_obreznoy_dekor_40_120_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 2051.0,
+    "price_retail": 2109.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/197/bex2wtat88ljz8d2qq4wcbv8by88ta52.jpg",
     "images": [
@@ -120559,7 +120567,7 @@ export const importedProducts: any[] = [
     "slug": "14018r_3f_monforte_tsvety_obreznoy_dekor_40_120_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 2051.0,
+    "price_retail": 2109.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/389/1vxw9dd1eam1nvyq5mm5xio2uknm0stm.jpg",
     "images": [
@@ -120582,7 +120590,7 @@ export const importedProducts: any[] = [
     "slug": "fme006r_monforte_belyy_obreznoy_20_40_plintus_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 692.0,
+    "price_retail": 711.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105129/products_v2/prod_plitburg-fme006r_monforte_belyy_obreznoy_20_40_plintus_kerama_maratstsi.jpg",
     "images": [
@@ -120605,7 +120613,7 @@ export const importedProducts: any[] = [
     "slug": "lsa010r_monforte_mentolovyy_40_3_4_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 496.0,
+    "price_retail": 508.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105136/products_v2/prod_plitburg-lsa010r_monforte_mentolovyy_40_3_4_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -120628,7 +120636,7 @@ export const importedProducts: any[] = [
     "slug": "lsa011r_monforte_bezh_struktura_40_3_4_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 496.0,
+    "price_retail": 508.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105140/products_v2/prod_plitburg-lsa011r_monforte_bezh_struktura_40_3_4_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -120651,7 +120659,7 @@ export const importedProducts: any[] = [
     "slug": "lsa013r_monforte_belyy_struktura_obreznoy_bordyur_40_3_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Монфорте",
-    "price_retail": 496.0,
+    "price_retail": 508.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105148/products_v2/prod_plitburg-lsa013r_monforte_belyy_struktura_obreznoy_bordyur_40_3_4_kerama_maratstsi.jpg",
     "images": [
@@ -120996,7 +121004,7 @@ export const importedProducts: any[] = [
     "slug": "sg934900n_keramogranit_boreale_seryy_30x30_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1517.0,
+    "price_retail": 1562.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105259/products_v2/prod_plitburg-sg934900n_keramogranit_boreale_seryy_30x30_kerama_marazzi.jpg",
     "images": [
@@ -121019,7 +121027,7 @@ export const importedProducts: any[] = [
     "slug": "sg935000n_keramogranit_boreale_seryy_tyemnyy_30x30_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1557.0,
+    "price_retail": 1605.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105267/products_v2/prod_plitburg-sg935000n_keramogranit_boreale_seryy_tyemnyy_30x30_kerama_marazzi.jpg",
     "images": [
@@ -121042,7 +121050,7 @@ export const importedProducts: any[] = [
     "slug": "sg935400n_keramogranit_boreale_seryy_miks_30x30_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1596.0,
+    "price_retail": 1644.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105276/products_v2/prod_plitburg-sg935400n_keramogranit_boreale_seryy_miks_30x30_kerama_marazzi.jpg",
     "images": [
@@ -121065,7 +121073,7 @@ export const importedProducts: any[] = [
     "slug": "fmb024_borromeo_bezh_svetlyy_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 432.0,
+    "price_retail": 444.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105283/products_v2/prod_plitburg-fmb024_borromeo_bezh_svetlyy_plintus_25_15_kerama_maratstsi.jpg",
     "images": [
@@ -121088,7 +121096,7 @@ export const importedProducts: any[] = [
     "slug": "fmb025_borromeo_goluboy_plintus_25_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 432.0,
+    "price_retail": 444.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105290/products_v2/prod_plitburg-fmb025_borromeo_goluboy_plintus_25_15_kerama_maratstsi.jpg",
     "images": [
@@ -121111,7 +121119,7 @@ export const importedProducts: any[] = [
     "slug": "boa006_borromeo_bezh_svetlyy_bordyur_25_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 293.0,
+    "price_retail": 300.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105297/products_v2/prod_plitburg-boa006_borromeo_bezh_svetlyy_bordyur_25_4_kerama_maratstsi.jpg",
     "images": [
@@ -121134,7 +121142,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a576_6402_borromeo_bezh_svetlyy_bordyur_25_7_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 393.0,
+    "price_retail": 469.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105305/products_v2/prod_plitburg-ad_a576_6402_borromeo_bezh_svetlyy_bordyur_25_7_7_kerama_maratstsi.jpg",
     "images": [
@@ -121157,7 +121165,7 @@ export const importedProducts: any[] = [
     "slug": "ad_c576_6403_borromeo_goluboy_bordyur_25_7_7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 242.0,
+    "price_retail": 247.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105312/products_v2/prod_plitburg-ad_c576_6403_borromeo_goluboy_bordyur_25_7_7_kerama_maratstsi.jpg",
     "images": [
@@ -121180,7 +121188,7 @@ export const importedProducts: any[] = [
     "slug": "boa007_borromeo_goluboy_bordyur_25_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 293.0,
+    "price_retail": 300.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105320/products_v2/prod_plitburg-boa007_borromeo_goluboy_bordyur_25_4_kerama_maratstsi.jpg",
     "images": [
@@ -121203,7 +121211,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a165_6402_borromeo_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 436.0,
+    "price_retail": 479.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/831/cz6qvwrymqily7cc0q0jtlq5qj7ykr7w.jpg",
     "images": [
@@ -121226,7 +121234,7 @@ export const importedProducts: any[] = [
     "slug": "vt_c165_6403_borromeo_dekor_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Борромео",
-    "price_retail": 436.0,
+    "price_retail": 479.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/5ae/v4kzh3wqpy7cvfc6odyypkt0ozzq4l0j.jpg",
     "images": [
@@ -121249,7 +121257,7 @@ export const importedProducts: any[] = [
     "slug": "spa044r_bordyur_dlya_sten_buonarroti_belyy_obreznoy_30x2_5_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Буонарроти",
-    "price_retail": 1495.0,
+    "price_retail": 1537.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105327/products_v2/prod_plitburg-spa044r_bordyur_dlya_sten_buonarroti_belyy_obreznoy_30x2_5_kerama_marazzi.jpg",
     "images": [
@@ -121272,7 +121280,7 @@ export const importedProducts: any[] = [
     "slug": "spa045r_bordyur_dlya_sten_buonarroti_seryy_temnyy_obreznoy_30x2_5_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Буонарроти",
-    "price_retail": 2188.0,
+    "price_retail": 2256.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105335/products_v2/prod_plitburg-spa045r_bordyur_dlya_sten_buonarroti_seryy_temnyy_obreznoy_30x2_5_kerama_marazzi.jpg",
     "images": [
@@ -121295,7 +121303,7 @@ export const importedProducts: any[] = [
     "slug": "op_b181_17064_dekor_vitrazh_zheltyy_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Витраж",
-    "price_retail": 346.0,
+    "price_retail": 414.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105343/products_v2/prod_plitburg-op_b181_17064_dekor_vitrazh_zheltyy_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -121318,7 +121326,7 @@ export const importedProducts: any[] = [
     "slug": "op_e181_17067_dekor_vitrazh_goluboy15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Витраж",
-    "price_retail": 346.0,
+    "price_retail": 414.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105350/products_v2/prod_plitburg-op_e181_17067_dekor_vitrazh_goluboy15_15_kerama_maratstsi.jpg",
     "images": [
@@ -121341,7 +121349,7 @@ export const importedProducts: any[] = [
     "slug": "op_c181_17065_dekor_vitrazh_siniy_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Витраж",
-    "price_retail": 346.0,
+    "price_retail": 414.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105358/products_v2/prod_plitburg-op_c181_17065_dekor_vitrazh_siniy_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -121364,7 +121372,7 @@ export const importedProducts: any[] = [
     "slug": "pfg010_bordyur_vitrazh_belyy_15kh2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Витраж",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105366/products_v2/prod_plitburg-pfg010_bordyur_vitrazh_belyy_15kh2_kerama_maratstsi.jpg",
     "images": [
@@ -121387,7 +121395,7 @@ export const importedProducts: any[] = [
     "slug": "op_a181_17063_dekor_vitrazh_belyy_15_15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Витраж",
-    "price_retail": 346.0,
+    "price_retail": 414.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105374/products_v2/prod_plitburg-op_a181_17063_dekor_vitrazh_belyy_15_15_kerama_maratstsi.jpg",
     "images": [
@@ -121410,7 +121418,7 @@ export const importedProducts: any[] = [
     "slug": "tg_c04_19067_dekor_graffiti_metall_seryy_temnyy_20_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 248.0,
+    "price_retail": 255.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/77b/wm5tj8t4hwn3aajktrvomk9shfjpo830.jpg",
     "images": [
@@ -121433,7 +121441,7 @@ export const importedProducts: any[] = [
     "slug": "pra001_karandash_graffiti_belyy_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105381/products_v2/prod_plitburg-pra001_karandash_graffiti_belyy_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -121456,7 +121464,7 @@ export const importedProducts: any[] = [
     "slug": "pra004_karandash_graffiti_seryy_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105389/products_v2/prod_plitburg-pra004_karandash_graffiti_seryy_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -121479,7 +121487,7 @@ export const importedProducts: any[] = [
     "slug": "tg_b04_19066_dekor_graffiti_metall_seryy_svetlyy_20_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 248.0,
+    "price_retail": 255.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/ec0/72n53tq41kozwh7euf3g3b6fmj7iu1e2.jpg",
     "images": [
@@ -121502,7 +121510,7 @@ export const importedProducts: any[] = [
     "slug": "tg_a04_19065_dekor_graffiti_metall_seryy_svetlyy_20_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 248.0,
+    "price_retail": 255.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9c6/30nnxji0m5da7aby1htquoaehakk39yz.jpg",
     "images": [
@@ -121525,7 +121533,7 @@ export const importedProducts: any[] = [
     "slug": "op_a210_4x_19060_panno_graffiti_panno_iz_4_kh_chastey_39_6_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 822.0,
+    "price_retail": 900.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/80e/k352f8gjbmzjpmmlpf7nmleu44500ka3.webp",
     "images": [
@@ -121548,7 +121556,7 @@ export const importedProducts: any[] = [
     "slug": "os_a58_9x_19060_panno_graffiti_89_1_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 2049.0,
+    "price_retail": 2249.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/1b0/q2dydfis9nznfflodxvzpxmv175hdg0v.jpg",
     "images": [
@@ -121571,7 +121579,7 @@ export const importedProducts: any[] = [
     "slug": "os_a57_9x_19060_panno_graffiti_89_1_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 2049.0,
+    "price_retail": 2249.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/ddb/hwoqje6v130yvp9cuwkeydhplli86t49.jpg",
     "images": [
@@ -121594,7 +121602,7 @@ export const importedProducts: any[] = [
     "slug": "pra005_karandash_graffiti_seryy_temnyy_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Граффити",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105397/products_v2/prod_plitburg-pra005_karandash_graffiti_seryy_temnyy_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -122031,7 +122039,7 @@ export const importedProducts: any[] = [
     "slug": "fme009r_dzhardini_bezhevyy_svetlyy_plintus_20_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 692.0,
+    "price_retail": 711.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105433/products_v2/prod_plitburg-fme009r_dzhardini_bezhevyy_svetlyy_plintus_20_40_kerama_maratstsi.jpg",
     "images": [
@@ -122054,7 +122062,7 @@ export const importedProducts: any[] = [
     "slug": "blf003r_dzhardini_bezhevyy_svetlyy_bordyur_40_7_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 515.0,
+    "price_retail": 528.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105441/products_v2/prod_plitburg-blf003r_dzhardini_bezhevyy_svetlyy_bordyur_40_7_3_kerama_maratstsi.jpg",
     "images": [
@@ -122077,7 +122085,7 @@ export const importedProducts: any[] = [
     "slug": "blf004r_dzhardini_seryy_temnyy_bordyur_40_7_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 515.0,
+    "price_retail": 528.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105449/products_v2/prod_plitburg-blf004r_dzhardini_seryy_temnyy_bordyur_40_7_3_kerama_maratstsi.jpg",
     "images": [
@@ -122100,7 +122108,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a128_31008r_dekor_dzhardini_obreznoy_20kh120_keramam_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 2619.0,
+    "price_retail": 3129.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/459/001jgbpuad193t2ay9croyqyney5yn1e.jpg",
     "images": [
@@ -122192,7 +122200,7 @@ export const importedProducts: any[] = [
     "slug": "fme011r_plintus_dzhardini_zelenyy_20x40_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 692.0,
+    "price_retail": 711.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105480/products_v2/prod_plitburg-fme011r_plintus_dzhardini_zelenyy_20x40_kerama_marazzi.jpg",
     "images": [
@@ -122215,7 +122223,7 @@ export const importedProducts: any[] = [
     "slug": "fme010r_plintus_dzhardini_seryy_temnyy_20x40_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 692.0,
+    "price_retail": 711.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105487/products_v2/prod_plitburg-fme010r_plintus_dzhardini_seryy_temnyy_20x40_kerama_marazzi.jpg",
     "images": [
@@ -122238,7 +122246,7 @@ export const importedProducts: any[] = [
     "slug": "blf005r_bordyur_dlya_sten_baget_dzhardini_zelenyy_40x7_3_kerama_marazzi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 515.0,
+    "price_retail": 528.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105495/products_v2/prod_plitburg-blf005r_bordyur_dlya_sten_baget_dzhardini_zelenyy_40x7_3_kerama_marazzi.jpg",
     "images": [
@@ -122261,7 +122269,7 @@ export const importedProducts: any[] = [
     "slug": "fma025r_karelli_bezh_svetlyy_obreznoy_30_15_plintus_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 512.0,
+    "price_retail": 527.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105506/products_v2/prod_plitburg-fma025r_karelli_bezh_svetlyy_obreznoy_30_15_plintus_kerama_maratstsi.jpg",
     "images": [
@@ -122284,7 +122292,7 @@ export const importedProducts: any[] = [
     "slug": "spa042r_karelli_obreznoy_30_2_5_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105513/products_v2/prod_plitburg-spa042r_karelli_obreznoy_30_2_5_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -122307,7 +122315,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a544_11195r_karelli_obreznoy_30_3_4_bordyur_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 211.0,
+    "price_retail": 216.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105521/products_v2/prod_plitburg-ad_a544_11195r_karelli_obreznoy_30_3_4_bordyur_kerama_maratstsi.jpg",
     "images": [
@@ -122330,7 +122338,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a107_11195r_karelli_obreznoy_30_60_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 964.0,
+    "price_retail": 1056.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a04/15rczyj5xfanom25vwt5pdqn900f1ers.jpg",
     "images": [
@@ -122353,7 +122361,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a109_11195r_karelli_obreznoy_30_60_dekor_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 964.0,
+    "price_retail": 1056.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/4d6/1mp70auexeqdduz932ff3knver3ramob.jpg",
     "images": [
@@ -122376,7 +122384,7 @@ export const importedProducts: any[] = [
     "slug": "11195r_karelli_bezh_svetlyy_obreznoy_d_sten_30_60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 1832.0,
+    "price_retail": 1887.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105524/products_v2/prod_plitburg-11195r_karelli_bezh_svetlyy_obreznoy_d_sten_30_60_kerama_maratstsi.jpg",
     "images": [
@@ -122399,7 +122407,7 @@ export const importedProducts: any[] = [
     "slug": "430187_36_bordyur_zelenyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 455.0,
+    "price_retail": 470.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/321/pxupknyw3psi68geg4bh7gfkyglu55ru.jpg",
     "images": [
@@ -122422,7 +122430,7 @@ export const importedProducts: any[] = [
     "slug": "430113_36_bordyur_pesochno_bordovyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Карелли",
-    "price_retail": 1152.0,
+    "price_retail": 1182.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/c2a/ilib8wwxneqytqwyi7o32ap86cp3zdhz.jpg",
     "images": [
@@ -122537,7 +122545,7 @@ export const importedProducts: any[] = [
     "slug": "sg402400n_listone_korichnevyy_svetlyy_9_9kh40_2_keramam_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Листоне",
-    "price_retail": 1622.0,
+    "price_retail": 1674.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105553/products_v2/prod_plitburg-sg402400n_listone_korichnevyy_svetlyy_9_9kh40_2_keramam_maratstsi_.jpg",
     "images": [
@@ -122560,7 +122568,7 @@ export const importedProducts: any[] = [
     "slug": "sg402100n_listone_bezhevyy_9_9kh40_2_keramam_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Листоне",
-    "price_retail": 1622.0,
+    "price_retail": 1674.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105560/products_v2/prod_plitburg-sg402100n_listone_bezhevyy_9_9kh40_2_keramam_maratstsi_.jpg",
     "images": [
@@ -122583,7 +122591,7 @@ export const importedProducts: any[] = [
     "slug": "sg403100n_listone_korichnevyy_tyemnyy_9_9kh40_2_keramam_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Листоне",
-    "price_retail": 1622.0,
+    "price_retail": 1674.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105567/products_v2/prod_plitburg-sg403100n_listone_korichnevyy_tyemnyy_9_9kh40_2_keramam_maratstsi_.jpg",
     "images": [
@@ -122606,7 +122614,7 @@ export const importedProducts: any[] = [
     "slug": "sg402300n_listone_seryy_9_9kh40_2_keramam_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Листоне",
-    "price_retail": 1622.0,
+    "price_retail": 1674.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105573/products_v2/prod_plitburg-sg402300n_listone_seryy_9_9kh40_2_keramam_maratstsi_.jpg",
     "images": [
@@ -122629,7 +122637,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_e371_6401_dekor_lombardia_bezhevyy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 1021.0,
+    "price_retail": 1055.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a95/cdug0ezx4vsq0wm0d3wmg7tlixjxkdb3.jpg",
     "images": [
@@ -122652,7 +122660,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a371_6397_dekor_lombardia_belyy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 572.0,
+    "price_retail": 680.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/4bb/2986xip8lx5o3wqfu3ykk6monqxfiqmt.jpg",
     "images": [
@@ -122675,7 +122683,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_b371_6398_dekor_lombardia_seryy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 572.0,
+    "price_retail": 680.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/6b5/i7lpvh0s9by6yj97532ft5kjvbugcjnt.jpg",
     "images": [
@@ -122698,7 +122706,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_c371_6399_dekor_lombardia_seryy_temnyy_25_40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 572.0,
+    "price_retail": 680.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/783/1k3gy9f9n6r630y6v308dcqf4vgfgwuc.jpg",
     "images": [
@@ -122721,7 +122729,7 @@ export const importedProducts: any[] = [
     "slug": "ad_e569_6401_bordyur_lombardia_bezhevyy_25kh5_4_kerama_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 166.0,
+    "price_retail": 171.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105581/products_v2/prod_plitburg-ad_e569_6401_bordyur_lombardia_bezhevyy_25kh5_4_kerama_maratstsi_.jpg",
     "images": [
@@ -122744,7 +122752,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a569_6397_bordyur_lombardia_belyy_25kh5_4_kerama_maratstsi_",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 166.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105589/products_v2/prod_plitburg-ad_a569_6397_bordyur_lombardia_belyy_25kh5_4_kerama_maratstsi_.jpg",
     "images": [
@@ -122767,7 +122775,7 @@ export const importedProducts: any[] = [
     "slug": "krit_4p",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 166.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/b34/01jfcbuqltui02y2ptghinj7km2tza0b.jpg",
     "images": [
@@ -122790,7 +122798,7 @@ export const importedProducts: any[] = [
     "slug": "krit_4_ugol_15_15",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Ломбардиа",
-    "price_retail": 166.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/09b/5rcgkmgrmsfvdvhxd8jud62jrjoa1nm8.jpg",
     "images": [
@@ -122813,7 +122821,7 @@ export const importedProducts: any[] = [
     "slug": "13093r_sempione_bezhevyy_struktura_obreznoy_30kh89_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Семпионе",
-    "price_retail": 2152.0,
+    "price_retail": 2131.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105595/products_v2/prod_plitburg-13093r_sempione_bezhevyy_struktura_obreznoy_30kh89_5_kerama_maratstsi.jpg",
     "images": [
@@ -122836,7 +122844,7 @@ export const importedProducts: any[] = [
     "slug": "fmd024_plintus_stemma_belyy_20_10_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105604/products_v2/prod_plitburg-fmd024_plintus_stemma_belyy_20_10_kerama_maratstsi.jpg",
     "images": [
@@ -122859,7 +122867,7 @@ export const importedProducts: any[] = [
     "slug": "pfe024_karandash_stemma_bezhevyy_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105612/products_v2/prod_plitburg-pfe024_karandash_stemma_bezhevyy_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -122882,7 +122890,7 @@ export const importedProducts: any[] = [
     "slug": "pfe023_karandash_stemma_belyy_20_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105620/products_v2/prod_plitburg-pfe023_karandash_stemma_belyy_20_2_kerama_maratstsi.jpg",
     "images": [
@@ -122905,7 +122913,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a436_5009_bordyur_stemma_20_3_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 167.0,
+    "price_retail": 172.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a4f/xd5hzaqip5yzv92pp7j80j4v620vlspo.jpg",
     "images": [
@@ -122928,7 +122936,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a435_5009_bordyur_stemma_20_3_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 211.0,
+    "price_retail": 216.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/b66/gb96adk3zaupx9hnw7xr65i53k1jxnzm.jpg",
     "images": [
@@ -122951,7 +122959,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a437_sg2440_dekor_stemma_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/bed/ma2g7raxukn010ubu3da0k3bmc6h3mjp.jpg",
     "images": [
@@ -122974,7 +122982,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a438_sg2440_dekor_stemma_24_24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 591.0,
+    "price_retail": 606.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/352/qpskru244ll2vp177t13gjlvz2auz301.jpg",
     "images": [
@@ -122997,7 +123005,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a439_1146_n_vstavka_stemma_9_9_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f1e/ar8qkypn6b98vgxcsryuwgkmsrtbp2ge.jpg",
     "images": [
@@ -123020,7 +123028,7 @@ export const importedProducts: any[] = [
     "slug": "os_a88_1146_h_vstavka_stemma_9_9_9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105627/products_v2/prod_plitburg-os_a88_1146_h_vstavka_stemma_9_9_9_9_kerama_maratstsi.jpg",
     "images": [
@@ -123043,7 +123051,7 @@ export const importedProducts: any[] = [
     "slug": "stemma_belyy_kg_24_24_sg244100n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 1988.0,
+    "price_retail": 2048.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105634/products_v2/prod_plitburg-stemma_belyy_kg_24_24_sg244100n_kerama_maratstsi.jpg",
     "images": [
@@ -123066,7 +123074,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a432_5009_dekor_stemma_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/44c/lyt80bd7ghaxu63mcx12hguvihq6xrl3.jpg",
     "images": [
@@ -123089,7 +123097,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a433_5009_dekor_stemma_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/acb/ymk65hp4g0qycqawypm2mx02e0a25pge.jpg",
     "images": [
@@ -123112,7 +123120,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a434_5009_dekor_stemma_20_20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 308.0,
+    "price_retail": 315.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/684/rpz1rzipgubtiy7ohz0b9cmfx80b3ejs.jpg",
     "images": [
@@ -123135,7 +123143,7 @@ export const importedProducts: any[] = [
     "slug": "stemma_bezhevyy_kg_24_24_sg244200n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Стемма",
-    "price_retail": 1988.0,
+    "price_retail": 2048.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105637/products_v2/prod_plitburg-stemma_bezhevyy_kg_24_24_sg244200n_kerama_maratstsi.jpg",
     "images": [
@@ -123411,7 +123419,7 @@ export const importedProducts: any[] = [
     "slug": "bld047_bordyur_baget_tortona_rozovyy_svetlyy_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Тортона",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105669/products_v2/prod_plitburg-bld047_bordyur_baget_tortona_rozovyy_svetlyy_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -123434,7 +123442,7 @@ export const importedProducts: any[] = [
     "slug": "bld050_bordyur_baget_tortona_goluboy_svetlyy_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Тортона",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105676/products_v2/prod_plitburg-bld050_bordyur_baget_tortona_goluboy_svetlyy_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -123457,7 +123465,7 @@ export const importedProducts: any[] = [
     "slug": "bld049_bordyur_baget_tortona_zelenyy_svetlyy_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Тортона",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105683/products_v2/prod_plitburg-bld049_bordyur_baget_tortona_zelenyy_svetlyy_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -123480,7 +123488,7 @@ export const importedProducts: any[] = [
     "slug": "bld051_bordyur_baget_tortona_seryy_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Тортона",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105697/products_v2/prod_plitburg-bld051_bordyur_baget_tortona_seryy_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -123503,7 +123511,7 @@ export const importedProducts: any[] = [
     "slug": "bld046_bordyur_baget_tortona_belyy_15_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Тортона",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105705/products_v2/prod_plitburg-bld046_bordyur_baget_tortona_belyy_15_3_kerama_maratstsi.jpg",
     "images": [
@@ -123526,7 +123534,7 @@ export const importedProducts: any[] = [
     "slug": "marakesh_2_zol_dekor",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Тортона",
-    "price_retail": 2001.0,
+    "price_retail": 2063.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/5fd/1ou9teiq3xzl8btsxq6kqp32n8ka82l3.jpg",
     "images": [
@@ -124152,7 +124160,7 @@ export const importedProducts: any[] = [
     "slug": "sg701390r_fregat_bezhevyy_obreznoy_kg_20_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 1977.0,
+    "price_retail": 2031.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105803/products_v2/prod_plitburg-sg701390r_fregat_bezhevyy_obreznoy_kg_20_80_kerama_maratstsi.jpg",
     "images": [
@@ -124175,7 +124183,7 @@ export const importedProducts: any[] = [
     "slug": "sg701190r_fregat_belyy_obreznoy_kg_20_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 1977.0,
+    "price_retail": 2031.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105810/products_v2/prod_plitburg-sg701190r_fregat_belyy_obreznoy_kg_20_80_kerama_maratstsi.jpg",
     "images": [
@@ -124198,7 +124206,7 @@ export const importedProducts: any[] = [
     "slug": "sg701690r_fregat_venge_obreznoy_kg_20_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 1977.0,
+    "price_retail": 2031.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105817/products_v2/prod_plitburg-sg701690r_fregat_venge_obreznoy_kg_20_80_kerama_maratstsi.jpg",
     "images": [
@@ -124221,7 +124229,7 @@ export const importedProducts: any[] = [
     "slug": "sg701490r_fregat_korichnevyy_obreznoy_kg_20_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 1977.0,
+    "price_retail": 2031.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105825/products_v2/prod_plitburg-sg701490r_fregat_korichnevyy_obreznoy_kg_20_80_kerama_maratstsi.jpg",
     "images": [
@@ -124244,7 +124252,7 @@ export const importedProducts: any[] = [
     "slug": "sg701590r_fregat_korichnevyy_temnyy_kg_20_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 1977.0,
+    "price_retail": 2031.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105832/products_v2/prod_plitburg-sg701590r_fregat_korichnevyy_temnyy_kg_20_80_kerama_maratstsi.webp",
     "images": [
@@ -124267,7 +124275,7 @@ export const importedProducts: any[] = [
     "slug": "sg701790r_fregat_medovyy_obreznoy_kg_20_80_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Фрегат",
-    "price_retail": 1977.0,
+    "price_retail": 2031.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105839/products_v2/prod_plitburg-sg701790r_fregat_medovyy_obreznoy_kg_20_80_kerama_maratstsi.jpg",
     "images": [
@@ -124406,7 +124414,7 @@ export const importedProducts: any[] = [
     "slug": "os_a157_65000_aveyru_1_glyantsevyy_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авейру",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105871/products_v2/prod_plitburg-os_a157_65000_aveyru_1_glyantsevyy_dekor_6_5x6_5_kerama_maratstsi.jpg",
     "images": [
@@ -124429,7 +124437,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a310_65000_aveyru_2_glyantsevyy_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авейру",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/60a/gg4ilc1kabwynyxhol6eg5moi0yn67sl.jpg",
     "images": [
@@ -124452,7 +124460,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a311_65000_aveyru_3_glyantsevyy_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авейру",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/7a4/9tddpf85aw8qo44qvsjv012oxexk5xtf.jpg",
     "images": [
@@ -124475,7 +124483,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a314_65000_aveyru_6_glyantsevyy_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авейру",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/dev2fun.imagecompress/webp/iblock/6fc/2xsbd13qf3oc0v1h367k5c5zshe6c3vy.webp",
     "images": [
@@ -124498,7 +124506,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a315_65000_aveyru_7_glyantsevyy_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Авейру",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/940/w27ryt0o393at8otodnpbooczhpnthy1.jpg",
     "images": [
@@ -124544,7 +124552,7 @@ export const importedProducts: any[] = [
     "slug": "os_a241_63000_dekor_agusta_belyy_6kh5_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 112.0,
+    "price_retail": 115.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105886/products_v2/prod_plitburg-os_a241_63000_dekor_agusta_belyy_6kh5_2_kerama_maratstsi.jpg",
     "images": [
@@ -124567,7 +124575,7 @@ export const importedProducts: any[] = [
     "slug": "sg244500n_agusta_bezhevyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 2013.0,
+    "price_retail": 2075.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105895/products_v2/prod_plitburg-sg244500n_agusta_bezhevyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi.jpg",
     "images": [
@@ -124590,7 +124598,7 @@ export const importedProducts: any[] = [
     "slug": "sg244600n_agusta_seryy_svetlyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 2013.0,
+    "price_retail": 2075.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105905/products_v2/prod_plitburg-sg244600n_agusta_seryy_svetlyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi.jpg",
     "images": [
@@ -124613,7 +124621,7 @@ export const importedProducts: any[] = [
     "slug": "sg244700n_agusta_seryy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 2013.0,
+    "price_retail": 2075.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105914/products_v2/prod_plitburg-sg244700n_agusta_seryy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi.jpg",
     "images": [
@@ -124636,7 +124644,7 @@ export const importedProducts: any[] = [
     "slug": "sg244800n_agusta_seryy_temnyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 2143.0,
+    "price_retail": 2206.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105923/products_v2/prod_plitburg-sg244800n_agusta_seryy_temnyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi.jpg",
     "images": [
@@ -124659,7 +124667,7 @@ export const importedProducts: any[] = [
     "slug": "sg244900n_agusta_chernyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 2204.0,
+    "price_retail": 2270.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105931/products_v2/prod_plitburg-sg244900n_agusta_chernyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi.jpg",
     "images": [
@@ -124682,7 +124690,7 @@ export const importedProducts: any[] = [
     "slug": "sg245000n_agusta_belyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Агуста",
-    "price_retail": 2013.0,
+    "price_retail": 2075.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105936/products_v2/prod_plitburg-sg245000n_agusta_belyy_naturalnyy_plitka_d_sten_24x24_kerama_maratstsi.jpg",
     "images": [
@@ -124705,7 +124713,7 @@ export const importedProducts: any[] = [
     "slug": "sg412820n_akatsiya_bezhevyy_kg_20_1x50_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Акация",
-    "price_retail": 1815.0,
+    "price_retail": 1869.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105943/products_v2/prod_plitburg-sg412820n_akatsiya_bezhevyy_kg_20_1x50_2_kerama_maratstsi.jpg",
     "images": [
@@ -124728,7 +124736,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_bezh_stupen_frontalnaya_30x30_sg906700n_gr_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1414.0,
+    "price_retail": 1466.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105950/products_v2/prod_plitburg-alleya_bezh_stupen_frontalnaya_30x30_sg906700n_gr_kerama_maratstsi.jpg",
     "images": [
@@ -124751,7 +124759,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_bezh_stupen_uglovaya_30x30_sg906700n_gr_an_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1838.0,
+    "price_retail": 1907.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105954/products_v2/prod_plitburg-alleya_bezh_stupen_uglovaya_30x30_sg906700n_gr_an_kerama_maratstsi.jpg",
     "images": [
@@ -124774,7 +124782,7 @@ export const importedProducts: any[] = [
     "slug": "alleya_bezh_d_pola_30x30_sg906700n_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Аллея",
-    "price_retail": 1268.0,
+    "price_retail": 1308.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105957/products_v2/prod_plitburg-alleya_bezh_d_pola_30x30_sg906700n_kerama_maratstsi.jpg",
     "images": [
@@ -124797,7 +124805,7 @@ export const importedProducts: any[] = [
     "slug": "blb049_bordyur_alvao_belyy_matovyy_baget_20x5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Альвао",
-    "price_retail": 240.0,
+    "price_retail": 245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105971/products_v2/prod_plitburg-blb049_bordyur_alvao_belyy_matovyy_baget_20x5_kerama_maratstsi.jpg",
     "images": [
@@ -124820,7 +124828,7 @@ export const importedProducts: any[] = [
     "slug": "blb050_bordyur_alvao_chernyy_matovyy_baget_20x5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Альвао",
-    "price_retail": 240.0,
+    "price_retail": 245.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105979/products_v2/prod_plitburg-blb050_bordyur_alvao_chernyy_matovyy_baget_20x5_kerama_maratstsi.jpg",
     "images": [
@@ -124843,7 +124851,7 @@ export const importedProducts: any[] = [
     "slug": "fmd033_alvao_belyy_matovyy_plintus_10x20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Альвао",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105986/products_v2/prod_plitburg-fmd033_alvao_belyy_matovyy_plintus_10x20_kerama_maratstsi.jpg",
     "images": [
@@ -124866,7 +124874,7 @@ export const importedProducts: any[] = [
     "slug": "fmd034_alvao_chernyy_matovyy_plintus_10x20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Альвао",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776105993/products_v2/prod_plitburg-fmd034_alvao_chernyy_matovyy_plintus_10x20_kerama_maratstsi.jpg",
     "images": [
@@ -124889,7 +124897,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a251_6x_7000_alvao_glyantsevyy_panno_60x100_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Альвао",
-    "price_retail": 4699.0,
+    "price_retail": 5613.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/406/4cxyalfnxx5yx8pn5xwj919ku37la30m.jpg",
     "images": [
@@ -124915,7 +124923,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a298_7000_alvao_glyantsevyy_bordyur_20x6_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Альвао",
-    "price_retail": 263.0,
+    "price_retail": 271.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/6b2/hc151fbuftqb7rs69qa4wx2lbie1h5sb.jpg",
     "images": [
@@ -124941,7 +124949,7 @@ export const importedProducts: any[] = [
     "slug": "1290n_amalfi_seryy_temnyy_d_sten_29_8x39_8_iz_12_chastey9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 1936.0,
+    "price_retail": 2026.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/89a/x61utehsa6pse4z2n3ywgve1d933apvx.jpg",
     "images": [
@@ -124964,7 +124972,7 @@ export const importedProducts: any[] = [
     "slug": "1291h_amalfi_chernyy_matovyy_d_sten_29_8x39_8_iz_12_chastey_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 1936.0,
+    "price_retail": 2026.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106001/products_v2/prod_plitburg-1291h_amalfi_chernyy_matovyy_d_sten_29_8x39_8_iz_12_chastey_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -124987,7 +124995,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a401_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106009/products_v2/prod_plitburg-stg_a401_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125010,7 +125018,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a402_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106016/products_v2/prod_plitburg-stg_a402_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125033,7 +125041,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a403_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106025/products_v2/prod_plitburg-stg_a403_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125056,7 +125064,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a404_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106034/products_v2/prod_plitburg-stg_a404_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125079,7 +125087,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a405_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106043/products_v2/prod_plitburg-stg_a405_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125102,7 +125110,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a406_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106051/products_v2/prod_plitburg-stg_a406_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125125,7 +125133,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a407_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106060/products_v2/prod_plitburg-stg_a407_1266h_amalfi_ornament_korichnevyy_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125148,7 +125156,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a408_1266h_amalfi_ornament_korichnevyy_dekor_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Амальфи",
-    "price_retail": 168.0,
+    "price_retail": 188.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106069/products_v2/prod_plitburg-stg_a408_1266h_amalfi_ornament_korichnevyy_dekor_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -125171,7 +125179,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a316_65000_arabeski_mayolika_1_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/36a/bgakckm9eyilelgzsbt1xjkjyewec7t7.jpg",
     "images": [
@@ -125194,7 +125202,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a317_65000_arabeski_mayolika_2_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/f9a/p31wi40et0usn0t200lfix7ndcenwhvx.jpg",
     "images": [
@@ -125217,7 +125225,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a318_65000_arabeski_mayolika_3_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/008/qwy9pn9qftehp5pb873o47m8yxcawwo8.jpg",
     "images": [
@@ -125240,7 +125248,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a320_65000_arabeski_mayolika_5_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/824/s9tx96ivr3nbd1fv8iigpcl225vr104g.jpg",
     "images": [
@@ -125263,7 +125271,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a322_65000_arabeski_mayolika_7_dekor_6_5x6_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Арабески Майолика",
-    "price_retail": 176.0,
+    "price_retail": 181.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/47a/0wucoxjw8fjd1eiqqoawmplu9l99ykks.jpg",
     "images": [
@@ -125286,7 +125294,7 @@ export const importedProducts: any[] = [
     "slug": "sg5160_btg_plintus_arsenale_seryy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Арсенале",
-    "price_retail": 389.0,
+    "price_retail": 411.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/bce/f5lvi1tu5xxmaoun0nx6c7uen2v8oc94.jpg",
     "images": [
@@ -125308,7 +125316,7 @@ export const importedProducts: any[] = [
     "slug": "pfd004_karandash_bakkara_bezh_temnyy_bordyur_30kh2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Баккара",
-    "price_retail": 234.0,
+    "price_retail": 239.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106076/products_v2/prod_plitburg-pfd004_karandash_bakkara_bezh_temnyy_bordyur_30kh2_kerama_maratstsi.jpg",
     "images": [
@@ -125446,7 +125454,7 @@ export const importedProducts: any[] = [
     "slug": "19048_3f_blanshe_belyy_bordyur_20x9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бланше",
-    "price_retail": 166.0,
+    "price_retail": 172.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106126/products_v2/prod_plitburg-19048_3f_blanshe_belyy_bordyur_20x9_9_kerama_maratstsi.jpg",
     "images": [
@@ -125469,7 +125477,7 @@ export const importedProducts: any[] = [
     "slug": "19049_3f_blanshe_chernyy_bordyur_20x9_9_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бланше",
-    "price_retail": 166.0,
+    "price_retail": 172.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106134/products_v2/prod_plitburg-19049_3f_blanshe_chernyy_bordyur_20x9_9_kerama_maratstsi.jpg",
     "images": [
@@ -125492,7 +125500,7 @@ export const importedProducts: any[] = [
     "slug": "19051_3f_blanshe_bezh_bordyur_20x9_9_b_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Бланше",
-    "price_retail": 166.0,
+    "price_retail": 172.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106141/products_v2/prod_plitburg-19051_3f_blanshe_bezh_bordyur_20x9_9_b_kerama_maratstsi.jpg",
     "images": [
@@ -125515,7 +125523,7 @@ export const importedProducts: any[] = [
     "slug": "pod016_karandash_biser_platina",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 310.0,
+    "price_retail": 319.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106150/products_v2/prod_plitburg-pod016_karandash_biser_platina.jpg",
     "images": [
@@ -125561,7 +125569,7 @@ export const importedProducts: any[] = [
     "slug": "141_karandash_zelenyy_bordyur_20x1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 123.0,
+    "price_retail": 130.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/fc2/jw5kwdnrc1mh1ihncx1sjv9d4o4rp572.jpg",
     "images": [
@@ -125584,7 +125592,7 @@ export const importedProducts: any[] = [
     "slug": "133_karandash_temno_zelenyy_bordyur_20x1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 120.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/3e5/kba0zhfhcfpe2plyrg1km60sz6ouzsfe.jpg",
     "images": [
@@ -125607,7 +125615,7 @@ export const importedProducts: any[] = [
     "slug": "155_svetlo_rozovyy_bordyur_20x1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 120.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/823/hainhjvfmuw9dsohbu7upiz8gshamx83.jpg",
     "images": [
@@ -125630,7 +125638,7 @@ export const importedProducts: any[] = [
     "slug": "190_karandash_salatnyy_bordyur_20x1_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 120.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/5ca/a0iku44j319duy3aqajfgavei4q6jrux.jpg",
     "images": [
@@ -125653,7 +125661,7 @@ export const importedProducts: any[] = [
     "slug": "70_karandash_belyy_matovyy_bordyur_25x2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 127.0,
+    "price_retail": 134.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/af1/uu15oi8g3cseg7ol8feujjvnrist45e1.jpg",
     "images": [
@@ -125676,7 +125684,7 @@ export const importedProducts: any[] = [
     "slug": "86_karandash_belyy_bordyur_25x2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 120.0,
+    "price_retail": 127.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/317/p6znvo02lt0t0626ozyjb6vohhhva34v.jpg",
     "images": [
@@ -125699,7 +125707,7 @@ export const importedProducts: any[] = [
     "slug": "b25_75_nimfa_platina_karandash_bordyur_25x2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 336.0,
+    "price_retail": 351.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/13d/pcatoamun57k2xqvupg2aw2xplz7q0a7.jpg",
     "images": [
@@ -125745,7 +125753,7 @@ export const importedProducts: any[] = [
     "slug": "pod015_danieli_biser_zoloto_bordyur_20x0_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция Карандаши",
-    "price_retail": 225.0,
+    "price_retail": 231.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106177/products_v2/prod_plitburg-pod015_danieli_biser_zoloto_bordyur_20x0_6_kerama_maratstsi.jpg",
     "images": [
@@ -125768,7 +125776,7 @@ export const importedProducts: any[] = [
     "slug": "sg934900n_gr_an_stupen_uglovaya_boreale_seryy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1873.0,
+    "price_retail": 1968.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106185/products_v2/prod_plitburg-sg934900n_gr_an_stupen_uglovaya_boreale_seryy.jpg",
     "images": [
@@ -125791,7 +125799,7 @@ export const importedProducts: any[] = [
     "slug": "sg934900n_gr_stupen_frontalnaya_boreale_seryy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1441.0,
+    "price_retail": 1513.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106189/products_v2/prod_plitburg-sg934900n_gr_stupen_frontalnaya_boreale_seryy.jpg",
     "images": [
@@ -125814,7 +125822,7 @@ export const importedProducts: any[] = [
     "slug": "sg935000n_gr_an_stupen_uglovaya_boreale_seryy_tyemnyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1873.0,
+    "price_retail": 1968.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106194/products_v2/prod_plitburg-sg935000n_gr_an_stupen_uglovaya_boreale_seryy_tyemnyy.jpg",
     "images": [
@@ -125837,7 +125845,7 @@ export const importedProducts: any[] = [
     "slug": "sg935000n_gr_stupen_frontalnaya_boreale_seryy_tyemnyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1441.0,
+    "price_retail": 1513.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106198/products_v2/prod_plitburg-sg935000n_gr_stupen_frontalnaya_boreale_seryy_tyemnyy.jpg",
     "images": [
@@ -125860,7 +125868,7 @@ export const importedProducts: any[] = [
     "slug": "sg935300n_boreale_korichnevyy_miks",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция ступеней и керамогранита Бореале",
-    "price_retail": 1596.0,
+    "price_retail": 1644.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106211/products_v2/prod_plitburg-sg935300n_boreale_korichnevyy_miks.jpg",
     "images": [
@@ -125906,7 +125914,7 @@ export const importedProducts: any[] = [
     "slug": "bosko_sg410600n_10018_bezh_kg_d_pola_50_2x20_1_snyata_s_proiz_va_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Боско (Bosko)",
-    "price_retail": 1540.0,
+    "price_retail": 1586.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/837/ertuzgpzh2z9usn46h822dfsatwlskzy.jpg",
     "images": [
@@ -125929,7 +125937,7 @@ export const importedProducts: any[] = [
     "slug": "bosko_sg410500n_10017_seryy_kg_d_pola_50_2x20_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Боско (Bosko)",
-    "price_retail": 1540.0,
+    "price_retail": 1586.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/41a/wskby2y715gorw0cv0qqltbtqpu6ly48.jpg",
     "images": [
@@ -125952,7 +125960,7 @@ export const importedProducts: any[] = [
     "slug": "sg410320n_bosko_svetlo_seryy_d_pola_50_2x20_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Боско (Bosko)",
-    "price_retail": 1463.0,
+    "price_retail": 1507.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106226/products_v2/prod_plitburg-sg410320n_bosko_svetlo_seryy_d_pola_50_2x20_1_kerama_maratstsi.jpg",
     "images": [
@@ -125975,7 +125983,7 @@ export const importedProducts: any[] = [
     "slug": "sg410420n_bosko_d_pola_kg_d_pola_50_2x20_1_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Боско (Bosko)",
-    "price_retail": 1463.0,
+    "price_retail": 1507.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106232/products_v2/prod_plitburg-sg410420n_bosko_d_pola_kg_d_pola_50_2x20_1_kerama_maratstsi.jpg",
     "images": [
@@ -125998,7 +126006,7 @@ export const importedProducts: any[] = [
     "slug": "os_a127_1327_bryussel_1_matovyy_matovyy_dekor_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Брюссель",
-    "price_retail": 265.0,
+    "price_retail": 273.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106239/products_v2/prod_plitburg-os_a127_1327_bryussel_1_matovyy_matovyy_dekor_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -126021,7 +126029,7 @@ export const importedProducts: any[] = [
     "slug": "os_b127_1327_bryussel_2_matovyy_dekor_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Брюссель",
-    "price_retail": 188.0,
+    "price_retail": 193.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106246/products_v2/prod_plitburg-os_b127_1327_bryussel_2_matovyy_dekor_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -126088,7 +126096,7 @@ export const importedProducts: any[] = [
     "slug": "ad_a403_6343_gran_pale_bordyur_40x6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Гран Пале",
-    "price_retail": 236.0,
+    "price_retail": 243.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106261/products_v2/prod_plitburg-ad_a403_6343_gran_pale_bordyur_40x6_kerama_maratstsi.jpg",
     "images": [
@@ -126157,7 +126165,7 @@ export const importedProducts: any[] = [
     "slug": "t017_14023_dekor_dzhardini_bezh_svetlyy_mozaichnyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 2803.0,
+    "price_retail": 2880.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106284/products_v2/prod_plitburg-t017_14023_dekor_dzhardini_bezh_svetlyy_mozaichnyy.jpg",
     "images": [
@@ -126180,7 +126188,7 @@ export const importedProducts: any[] = [
     "slug": "t017_14024_dekor_dzhardini_seryy_temnyy_mozaichnyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 2803.0,
+    "price_retail": 2880.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106292/products_v2/prod_plitburg-t017_14024_dekor_dzhardini_seryy_temnyy_mozaichnyy.jpg",
     "images": [
@@ -126203,7 +126211,7 @@ export const importedProducts: any[] = [
     "slug": "t017_14025_dekor_dzhardini_zelenyy_mozaichnyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Джардини",
-    "price_retail": 2803.0,
+    "price_retail": 2880.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106300/products_v2/prod_plitburg-t017_14025_dekor_dzhardini_zelenyy_mozaichnyy.jpg",
     "images": [
@@ -126249,7 +126257,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a476_11037r_zhardim_1_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Жардим",
-    "price_retail": 1227.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/220/dt1rhukb9w3ybb3bnmkp2z3s28dgqh3l.jpg",
     "images": [
@@ -126273,7 +126281,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a491_11037r_zhardim_1_obreznoy_bordyur_30x7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Жардим",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/09d/ggegax14xrekjebd61kyq70703h40qzg.jpg",
     "images": [
@@ -126296,7 +126304,7 @@ export const importedProducts: any[] = [
     "slug": "vt_b476_11037r_zhardim_2_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Жардим",
-    "price_retail": 1227.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/5ba/7oq231tiadubaept9as8kdgsnp0cw17h.jpg",
     "images": [
@@ -126320,7 +126328,7 @@ export const importedProducts: any[] = [
     "slug": "vt_b491_11037r_zhardim_2_obreznoy_bordyur_30x7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Жардим",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/786/c8tvni7d4epjh75m16aykduzajukgs7n.jpg",
     "images": [
@@ -126343,7 +126351,7 @@ export const importedProducts: any[] = [
     "slug": "vt_c476_11037r_zhardim_3_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Жардим",
-    "price_retail": 1512.0,
+    "price_retail": 1657.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/542/ab335bbv1wmvmbvb9o5tl0ktfn6mebq7.jpg",
     "images": [
@@ -126366,7 +126374,7 @@ export const importedProducts: any[] = [
     "slug": "vt_c491_11037r_zhardim_3_obreznoy_bordyur_30x7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Жардим",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9ca/zkivwzi14v3z5jeyonkwcids220emrgo.jpg",
     "images": [
@@ -126412,7 +126420,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a469_5232_kapri_mayolika_dekor_20x20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 269.0,
+    "price_retail": 283.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106312/products_v2/prod_plitburg-stg_a469_5232_kapri_mayolika_dekor_20x20_kerama_maratstsi.jpg",
     "images": [
@@ -126435,7 +126443,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a491_1146h_kapri_mayolika_vstavka_9_8x9_8_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 171.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106321/products_v2/prod_plitburg-stg_a491_1146h_kapri_mayolika_vstavka_9_8x9_8_kerama_maratstsi.jpg",
     "images": [
@@ -126458,7 +126466,7 @@ export const importedProducts: any[] = [
     "slug": "stg_a493_1146h_kapri_mayolika_bordyur_9_8x3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Капри",
-    "price_retail": 120.0,
+    "price_retail": 126.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106330/products_v2/prod_plitburg-stg_a493_1146h_kapri_mayolika_bordyur_9_8x3_kerama_maratstsi.jpg",
     "images": [
@@ -126481,7 +126489,7 @@ export const importedProducts: any[] = [
     "slug": "11205r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1894.0,
+    "price_retail": 1951.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106338/products_v2/prod_plitburg-11205r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -126503,7 +126511,7 @@ export const importedProducts: any[] = [
     "slug": "11206r_karmu_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1894.0,
+    "price_retail": 1951.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106347/products_v2/prod_plitburg-11206r_karmu_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -126525,7 +126533,7 @@ export const importedProducts: any[] = [
     "slug": "11207r_karmu_bezhevyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1894.0,
+    "price_retail": 1951.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106355/products_v2/prod_plitburg-11207r_karmu_bezhevyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -126547,7 +126555,7 @@ export const importedProducts: any[] = [
     "slug": "11208r_karmu_struktura_bezhevyy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1965.0,
+    "price_retail": 2026.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106363/products_v2/prod_plitburg-11208r_karmu_struktura_bezhevyy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -126569,7 +126577,7 @@ export const importedProducts: any[] = [
     "slug": "11208r_4_karmu_bezhevyy_svetlyy_matovyy_obreznoy_bordyur_30x9_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 305.0,
+    "price_retail": 312.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/e64/ezglzxy17zcwomnyxxkv25dwxlcmjl6b.jpg",
     "images": [
@@ -126591,7 +126599,7 @@ export const importedProducts: any[] = [
     "slug": "11209r_karmu_struktura_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1965.0,
+    "price_retail": 2026.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106370/products_v2/prod_plitburg-11209r_karmu_struktura_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -126613,7 +126621,7 @@ export const importedProducts: any[] = [
     "slug": "11210r_karmu_struktura_bezhevyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1965.0,
+    "price_retail": 2026.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106378/products_v2/prod_plitburg-11210r_karmu_struktura_bezhevyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -126635,7 +126643,7 @@ export const importedProducts: any[] = [
     "slug": "11210r_4_karmu_bezhevyy_matovyy_obreznoy_bordyur_30x9_6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 305.0,
+    "price_retail": 312.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/412/yyx5d9th2uth4ltkt56sgfjxjfo24wqv.jpg",
     "images": [
@@ -126657,7 +126665,7 @@ export const importedProducts: any[] = [
     "slug": "blc022r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_baget_30x5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 455.0,
+    "price_retail": 470.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106387/products_v2/prod_plitburg-blc022r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_baget_30x5_kerama_maratstsi.jpg",
     "images": [
@@ -126679,7 +126687,7 @@ export const importedProducts: any[] = [
     "slug": "blc024r_karmu_bezhevyy_matovyy_obreznoy_baget_30x5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 496.0,
+    "price_retail": 510.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106396/products_v2/prod_plitburg-blc024r_karmu_bezhevyy_matovyy_obreznoy_baget_30x5_kerama_maratstsi.jpg",
     "images": [
@@ -126701,7 +126709,7 @@ export const importedProducts: any[] = [
     "slug": "fma027r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_plintus_30x15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 512.0,
+    "price_retail": 527.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106406/products_v2/prod_plitburg-fma027r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_plintus_30x15_kerama_maratstsi.jpg",
     "images": [
@@ -126723,7 +126731,7 @@ export const importedProducts: any[] = [
     "slug": "fma029r_karmu_bezhevyy_matovyy_obreznoy_plintus_30x15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 512.0,
+    "price_retail": 527.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106414/products_v2/prod_plitburg-fma029r_karmu_bezhevyy_matovyy_obreznoy_plintus_30x15_kerama_maratstsi.jpg",
     "images": [
@@ -126745,7 +126753,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a536_11037r_karmu_matovyy_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 1082.0,
+    "price_retail": 1189.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/ac5/iqexgasye5tc8uqgjmu0ms1u7j5p08zb.jpg",
     "images": [
@@ -126768,7 +126776,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a537_11037r_karmu_matovyy_obreznoy_bordyur_30x7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 303.0,
+    "price_retail": 310.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/bbf/v3pe22fk6ypqwt503or25w3pqckx824x.jpg",
     "images": [
@@ -126790,7 +126798,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a538_11037r_karmu_matovyy_obreznoy_bordyur_30x14_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 380.0,
+    "price_retail": 416.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/fe8/qk0ddkhz0vzk1pcilnpivqshvhxmzz1k.jpg",
     "images": [
@@ -126812,7 +126820,7 @@ export const importedProducts: any[] = [
     "slug": "os_a248_63009_karmu_matovyy_dekor_6x5_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 112.0,
+    "price_retail": 115.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106423/products_v2/prod_plitburg-os_a248_63009_karmu_matovyy_dekor_6x5_2_kerama_maratstsi.jpg",
     "images": [
@@ -126834,7 +126842,7 @@ export const importedProducts: any[] = [
     "slug": "spa048r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_bordyur_30x2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106431/products_v2/prod_plitburg-spa048r_karmu_bezhevyy_svetlyy_matovyy_obreznoy_bordyur_30x2_5_kerama_maratstsi.jpg",
     "images": [
@@ -126856,7 +126864,7 @@ export const importedProducts: any[] = [
     "slug": "spa050r_karmu_bezhevyy_matovyy_obreznoy_bordyur_30x2_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 425.0,
+    "price_retail": 435.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106440/products_v2/prod_plitburg-spa050r_karmu_bezhevyy_matovyy_obreznoy_bordyur_30x2_5_kerama_maratstsi.jpg",
     "images": [
@@ -126878,7 +126886,7 @@ export const importedProducts: any[] = [
     "slug": "t025_11205_karmu_mozaichnyy_bezhevyy_svetlyy_matovyy_dekor_75x15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Карму",
-    "price_retail": 925.0,
+    "price_retail": 948.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106443/products_v2/prod_plitburg-t025_11205_karmu_mozaichnyy_bezhevyy_svetlyy_matovyy_dekor_75x15_kerama_maratstsi.jpg",
     "images": [
@@ -126900,7 +126908,7 @@ export const importedProducts: any[] = [
     "slug": "sg1577n_karnabi_strit_ornament",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1703.0,
+    "price_retail": 1791.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106450/products_v2/prod_plitburg-sg1577n_karnabi_strit_ornament.jpg",
     "images": [
@@ -126922,7 +126930,7 @@ export const importedProducts: any[] = [
     "slug": "sg1575n_karnabi_strit_ornament_bezh",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1707.0,
+    "price_retail": 1795.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106453/products_v2/prod_plitburg-sg1575n_karnabi_strit_ornament_bezh.jpg",
     "images": [
@@ -126944,7 +126952,7 @@ export const importedProducts: any[] = [
     "slug": "sg1571n_karnabi_strit_korichnevyy",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1582.0,
+    "price_retail": 1660.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106460/products_v2/prod_plitburg-sg1571n_karnabi_strit_korichnevyy.jpg",
     "images": [
@@ -126966,7 +126974,7 @@ export const importedProducts: any[] = [
     "slug": "sg1572n_karnabi_strit_seryy_temnyy_d_pola_v_poddone_66_24v_korobke_0_92_20x20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Карнаби-стрит",
-    "price_retail": 1582.0,
+    "price_retail": 1660.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106467/products_v2/prod_plitburg-sg1572n_karnabi_strit_seryy_temnyy_d_pola_v_poddone_66_24v_korobke_0_92_20x20_kerama_maratstsi.jpg",
     "images": [
@@ -127010,7 +127018,7 @@ export const importedProducts: any[] = [
     "slug": "kolliano_sg914600n_ornament_kg_30x30_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция керамогранита Коллиано",
-    "price_retail": 1305.0,
+    "price_retail": 1348.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106481/products_v2/prod_plitburg-kolliano_sg914600n_ornament_kg_30x30_kerama_maratstsi.jpg",
     "images": [
@@ -127033,7 +127041,7 @@ export const importedProducts: any[] = [
     "slug": "ble018_levada_zelenyy_svetlyy_glyantsevyy_baget_25x5_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106489/products_v2/prod_plitburg-ble018_levada_zelenyy_svetlyy_glyantsevyy_baget_25x5_5_kerama_maratstsi.jpg",
     "images": [
@@ -127055,7 +127063,7 @@ export const importedProducts: any[] = [
     "slug": "ble019_levada_seryy_svetlyy_glyantsevyy_baget_25x5_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106496/products_v2/prod_plitburg-ble019_levada_seryy_svetlyy_glyantsevyy_baget_25x5_5_kerama_maratstsi.jpg",
     "images": [
@@ -127077,7 +127085,7 @@ export const importedProducts: any[] = [
     "slug": "ble023_levada_bezhevyy_glyantsevyy_baget_25x5_5_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 233.0,
+    "price_retail": 238.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106504/products_v2/prod_plitburg-ble023_levada_bezhevyy_glyantsevyy_baget_25x5_5_kerama_maratstsi.jpg",
     "images": [
@@ -127099,7 +127107,7 @@ export const importedProducts: any[] = [
     "slug": "fmb026_levada_seryy_svetlyy_glyantsevyy_plintus_25x15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 389.0,
+    "price_retail": 399.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106512/products_v2/prod_plitburg-fmb026_levada_seryy_svetlyy_glyantsevyy_plintus_25x15_kerama_maratstsi.jpg",
     "images": [
@@ -127121,7 +127129,7 @@ export const importedProducts: any[] = [
     "slug": "fmb027_levada_zelenyy_svetlyy_glyantsevyy_plintus_25x15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 432.0,
+    "price_retail": 442.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106520/products_v2/prod_plitburg-fmb027_levada_zelenyy_svetlyy_glyantsevyy_plintus_25x15_kerama_maratstsi.jpg",
     "images": [
@@ -127143,7 +127151,7 @@ export const importedProducts: any[] = [
     "slug": "fmb031_levada_bezhevyy_glyantsevyy_plintus_25x15_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 432.0,
+    "price_retail": 442.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106528/products_v2/prod_plitburg-fmb031_levada_bezhevyy_glyantsevyy_plintus_25x15_kerama_maratstsi.jpg",
     "images": [
@@ -127165,7 +127173,7 @@ export const importedProducts: any[] = [
     "slug": "lsb001_levada_zelenyy_temnyy_glyantsevyy_bordyur_40x7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 511.0,
+    "price_retail": 524.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106536/products_v2/prod_plitburg-lsb001_levada_zelenyy_temnyy_glyantsevyy_bordyur_40x7_kerama_maratstsi.jpg",
     "images": [
@@ -127187,7 +127195,7 @@ export const importedProducts: any[] = [
     "slug": "lsb002_levada_seryy_svetlyy_glyantsevyy_bordyur_40x7_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 511.0,
+    "price_retail": 524.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106544/products_v2/prod_plitburg-lsb002_levada_seryy_svetlyy_glyantsevyy_bordyur_40x7_kerama_maratstsi.jpg",
     "images": [
@@ -127209,7 +127217,7 @@ export const importedProducts: any[] = [
     "slug": "mm6409_levada_mozaichnyy_zelenyy_svetlyy_glyantsevyy_dekor_25x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 812.0,
+    "price_retail": 835.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106552/products_v2/prod_plitburg-mm6409_levada_mozaichnyy_zelenyy_svetlyy_glyantsevyy_dekor_25x40_kerama_maratstsi.jpg",
     "images": [
@@ -127231,7 +127239,7 @@ export const importedProducts: any[] = [
     "slug": "mm6415_levada_mozaichnyy_seryy_svetlyy_glyantsevyy_dekor_25x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Левада",
-    "price_retail": 812.0,
+    "price_retail": 835.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106562/products_v2/prod_plitburg-mm6415_levada_mozaichnyy_seryy_svetlyy_glyantsevyy_dekor_25x40_kerama_maratstsi.jpg",
     "images": [
@@ -127341,7 +127349,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a500_sg1687_monsantu_bezhevyy_svetlyy_dekor_40_2x40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 686.0,
+    "price_retail": 752.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/d10/r3yn8dxryjno077wrgo13e57iyk77y1i.jpg",
     "images": [
@@ -127363,7 +127371,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a503_15145_monsantu_2_bezhevyy_svetlyy_dekor_15x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 460.0,
+    "price_retail": 473.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a5d/nu2bc9rnks4m0otcggf0njz50i0gp8lc.jpg",
     "images": [
@@ -127385,7 +127393,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a504_15145_monsantu_3_bezhevyy_svetlyy_dekor_15x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 460.0,
+    "price_retail": 473.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/e74/8cxts10505fjjtbbqbswrocj2mry036u.jpg",
     "images": [
@@ -127407,7 +127415,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_a505_15145_monsantu_4_bezhevyy_svetlyy_dekor_15x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 460.0,
+    "price_retail": 473.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/316/o9l9s18aum40uf1pd633vp91yccfm93o.jpg",
     "images": [
@@ -127429,7 +127437,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_b500_sg1686_monsantu_seryy_svetlyy_dekor_40_2x40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 686.0,
+    "price_retail": 752.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/5d2/0q7pzvc6txacvny2xqa5o3drf9d0w1g1.jpg",
     "images": [
@@ -127451,7 +127459,7 @@ export const importedProducts: any[] = [
     "slug": "hgd_b504_15147_monsantu_3_seryy_svetlyy_dekor_15x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 460.0,
+    "price_retail": 473.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/537/prgdmwyn3u1b3aksydf468ulonvopw3m.jpg",
     "images": [
@@ -127473,7 +127481,7 @@ export const importedProducts: any[] = [
     "slug": "lsa019_monsantu_bezhevyy_svetlyy_bordyur_40x3_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 496.0,
+    "price_retail": 508.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106610/products_v2/prod_plitburg-lsa019_monsantu_bezhevyy_svetlyy_bordyur_40x3_4_kerama_maratstsi.jpg",
     "images": [
@@ -127495,7 +127503,7 @@ export const importedProducts: any[] = [
     "slug": "lsa020_monsantu_seryy_svetlyy_bordyur_40x3_4_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 496.0,
+    "price_retail": 508.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106618/products_v2/prod_plitburg-lsa020_monsantu_seryy_svetlyy_bordyur_40x3_4_kerama_maratstsi.jpg",
     "images": [
@@ -127517,7 +127525,7 @@ export const importedProducts: any[] = [
     "slug": "mm15149_monsantu_mozaichnyy_bezhevyy_svetlyy_glyantsevyy_dekor_15x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 962.0,
+    "price_retail": 987.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106627/products_v2/prod_plitburg-mm15149_monsantu_mozaichnyy_bezhevyy_svetlyy_glyantsevyy_dekor_15x40_kerama_maratstsi.jpg",
     "images": [
@@ -127539,7 +127547,7 @@ export const importedProducts: any[] = [
     "slug": "mm15150_monsantu_mozaichnyy_seryy_svetlyy_glyantsevyy_dekor_15x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 962.0,
+    "price_retail": 987.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106635/products_v2/prod_plitburg-mm15150_monsantu_mozaichnyy_seryy_svetlyy_glyantsevyy_dekor_15x40_kerama_maratstsi.jpg",
     "images": [
@@ -127561,7 +127569,7 @@ export const importedProducts: any[] = [
     "slug": "os_a158_sg1687_dekor_monsantu_bezhevyy_svetlyy_7_2kh7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 115.0,
+    "price_retail": 118.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/474/m6xcf1p09etufqlizwtk1s54ilnyoy25.jpg",
     "images": [
@@ -127583,7 +127591,7 @@ export const importedProducts: any[] = [
     "slug": "os_a159_sg1687_bordyur_monsantu_bezhevyy_svetlyy_40_2kh7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 362.0,
+    "price_retail": 373.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/c88/bxls64jxuf1i22aaitasvucm9ix274ky.jpg",
     "images": [
@@ -127605,7 +127613,7 @@ export const importedProducts: any[] = [
     "slug": "os_b158_sg1686_dekor_monsantu_seryy_svetlyy_7_2kh7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 115.0,
+    "price_retail": 118.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/a5e/1gwxtxi8gtfapr3nq39kg038jxvze9a0.jpg",
     "images": [
@@ -127627,7 +127635,7 @@ export const importedProducts: any[] = [
     "slug": "os_b159_sg1686_bordyur_monsantu_seryy_svetlyy_40_2kh7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 362.0,
+    "price_retail": 373.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/681/70wagf68n7c8psm0iuzo9e0cekpngfqo.jpg",
     "images": [
@@ -127649,7 +127657,7 @@ export const importedProducts: any[] = [
     "slug": "sg168600n_monsantu_seryy_svetlyy_naturalnyy_kg_40_2x40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 1489.0,
+    "price_retail": 1535.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106643/products_v2/prod_plitburg-sg168600n_monsantu_seryy_svetlyy_naturalnyy_kg_40_2x40_2_kerama_maratstsi.jpg",
     "images": [
@@ -127671,7 +127679,7 @@ export const importedProducts: any[] = [
     "slug": "sg168700n_monsantu_bezhevyy_svetlyy_naturalnyy_kg_40_2x40_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсанту",
-    "price_retail": 1489.0,
+    "price_retail": 1535.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106652/products_v2/prod_plitburg-sg168700n_monsantu_bezhevyy_svetlyy_naturalnyy_kg_40_2x40_2_kerama_maratstsi.jpg",
     "images": [
@@ -127759,7 +127767,7 @@ export const importedProducts: any[] = [
     "slug": "blf006r_monserrat_bezhevyy_svetlyy_matovyy_obreznoy_baget_40kh7_3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсеррат",
-    "price_retail": 515.0,
+    "price_retail": 528.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106679/products_v2/prod_plitburg-blf006r_monserrat_bezhevyy_svetlyy_matovyy_obreznoy_baget_40kh7_3_kerama_maratstsi.jpg",
     "images": [
@@ -127781,7 +127789,7 @@ export const importedProducts: any[] = [
     "slug": "fme012r_monserrat_bezhevyy_svetlyy_matovyy_obreznoy_plintus_20x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсеррат",
-    "price_retail": 692.0,
+    "price_retail": 709.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106686/products_v2/prod_plitburg-fme012r_monserrat_bezhevyy_svetlyy_matovyy_obreznoy_plintus_20x40_kerama_maratstsi.jpg",
     "images": [
@@ -127803,7 +127811,7 @@ export const importedProducts: any[] = [
     "slug": "fme013r_monserrat_seryy_svetlyy_matovyy_obreznoy_plintus_20x40_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсеррат",
-    "price_retail": 692.0,
+    "price_retail": 709.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106694/products_v2/prod_plitburg-fme013r_monserrat_seryy_svetlyy_matovyy_obreznoy_plintus_20x40_kerama_maratstsi.jpg",
     "images": [
@@ -127825,7 +127833,7 @@ export const importedProducts: any[] = [
     "slug": "mm14043_monserrat_seryy_svetlyy_matovyy_mozaichnyy_dekor_40x20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсеррат",
-    "price_retail": 1427.0,
+    "price_retail": 1467.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106701/products_v2/prod_plitburg-mm14043_monserrat_seryy_svetlyy_matovyy_mozaichnyy_dekor_40x20_kerama_maratstsi.jpg",
     "images": [
@@ -127847,7 +127855,7 @@ export const importedProducts: any[] = [
     "slug": "mm14045_monserrat_bezhevyy_svetlyy_matovyy_mozaichnyy_dekor_40x20_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки и керамогранита Монсеррат",
-    "price_retail": 1427.0,
+    "price_retail": 1467.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106709/products_v2/prod_plitburg-mm14045_monserrat_bezhevyy_svetlyy_matovyy_mozaichnyy_dekor_40x20_kerama_maratstsi.jpg",
     "images": [
@@ -127869,7 +127877,7 @@ export const importedProducts: any[] = [
     "slug": "pfe017_bordyur_muza_20x2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Муза",
-    "price_retail": 150.0,
+    "price_retail": 155.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106716/products_v2/prod_plitburg-pfe017_bordyur_muza_20x2_kerama_maratstsi.jpg",
     "images": [
@@ -127891,7 +127899,7 @@ export const importedProducts: any[] = [
     "slug": "bld018_murano_rozovyy_bordyur_15x3_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки Мурано",
-    "price_retail": 185.0,
+    "price_retail": 190.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106723/products_v2/prod_plitburg-bld018_murano_rozovyy_bordyur_15x3_kerama_maratstsi.jpg",
     "images": [
@@ -127913,7 +127921,7 @@ export const importedProducts: any[] = [
     "slug": "11216r_onda_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1894.0,
+    "price_retail": 1951.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106731/products_v2/prod_plitburg-11216r_onda_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -127935,7 +127943,7 @@ export const importedProducts: any[] = [
     "slug": "11217r_onda_struktura_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1965.0,
+    "price_retail": 2028.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106739/products_v2/prod_plitburg-11217r_onda_struktura_seryy_svetlyy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -127957,7 +127965,7 @@ export const importedProducts: any[] = [
     "slug": "11218r_onda_seryy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1894.0,
+    "price_retail": 1951.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106747/products_v2/prod_plitburg-11218r_onda_seryy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -127979,7 +127987,7 @@ export const importedProducts: any[] = [
     "slug": "11219r_onda_struktura_seryy_matovyy_obreznoy_30kh6_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1965.0,
+    "price_retail": 2028.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106755/products_v2/prod_plitburg-11219r_onda_struktura_seryy_matovyy_obreznoy_30kh6_kerama_maratstsi.jpg",
     "images": [
@@ -128001,7 +128009,7 @@ export const importedProducts: any[] = [
     "slug": "11220r_onda_siniy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1910.0,
+    "price_retail": 1968.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106763/products_v2/prod_plitburg-11220r_onda_siniy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -128023,7 +128031,7 @@ export const importedProducts: any[] = [
     "slug": "11221r_onda_struktura_siniy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1979.0,
+    "price_retail": 2041.0,
     "price_official": null,
     "main_image": "https://res.cloudinary.com/de1sotnld/image/upload/v1776106771/products_v2/prod_plitburg-11221r_onda_struktura_siniy_matovyy_obreznoy_plitka_d_sten_30x60_kerama_maratstsi.jpg",
     "images": [
@@ -128045,7 +128053,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a415_11037r_onda_2_matovyy_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1189.0,
+    "price_retail": 1305.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9c1/9g0zdo7zm76lrzovooxdsgx55e43dzhu.jpg",
     "images": [
@@ -128067,7 +128075,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a416_11037r_onda_1_matovyy_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1189.0,
+    "price_retail": 1305.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/9bd/0dgrit1g72qm3vmpmcnbi8vm7wn2jo9j.jpg",
     "images": [
@@ -128089,7 +128097,7 @@ export const importedProducts: any[] = [
     "slug": "vt_a449_11037r_onda_1_obreznoy_bordyur_30x7_2_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 513.0,
+    "price_retail": 529.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/8b2/oqkn8bjkes9en9cweazwoeo9cd67de9x.jpg",
     "images": [
@@ -128115,7 +128123,7 @@ export const importedProducts: any[] = [
     "slug": "vt_b415_11037r_onda_3_matovyy_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1189.0,
+    "price_retail": 1305.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/bdc/2cxgaosko9lsccs0h4izgi2vs5el3p7f.jpg",
     "images": [
@@ -128137,7 +128145,7 @@ export const importedProducts: any[] = [
     "slug": "vt_b416_11037r_onda_4_matovyy_obreznoy_dekor_30x60_kerama_maratstsi",
     "brand": "Kerama Marazzi (Керама Марацци)",
     "collection": "Коллекция плитки",
-    "price_retail": 1189.0,
+    "price_retail": 1305.0,
     "price_official": null,
     "main_image": "https://plitburg.ru/upload/iblock/8cf/laice4nu2negbho44yqm85afvcqpmm3q.jpg",
     "images": [

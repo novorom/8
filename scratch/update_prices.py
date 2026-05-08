@@ -7,7 +7,7 @@ import re
 # Paths
 json_path = "/Users/r/8/lib/products-data.json"
 ts_path = "/Users/r/8/lib/products-data-new.ts"
-excel_path = "/Users/r/Downloads/Копия Прайсы - вход.xlsx"
+excel_path = "/Users/r/Downloads/Прайсы - вход.xlsx"
 
 def backup_file(path):
     backup_path = path + ".bak"
@@ -98,14 +98,14 @@ for sheet_name in reversed(xl.sheet_names):
             row_list = [str(cell).lower() for cell in row]
             has_sku = any("артикул" in s for s in row_list)
             has_name = any("наименование" in s or "название" in s for s in row_list)
-            has_price = any("рознич" in s or "розница" in s for s in row_list)
+            has_price = any("розничная цена" in s for s in row_list)
             
             if (has_sku or has_name) and has_price:
                 header_row_idx = i
                 for j, cell in enumerate(row_list):
-                    if "артикул" in cell: sku_col = j
-                    if "наименование" in cell or "название" in cell: name_col = j
-                    if "рознич" in cell or "розница" in cell: price_col = j
+                    if "артикул" in cell and sku_col == -1: sku_col = j
+                    if ("наименование" in cell or "название" in cell) and name_col == -1: name_col = j
+                    if "розничная цена" in cell and price_col == -1: price_col = j
                 break
         
         if header_row_idx == -1:
