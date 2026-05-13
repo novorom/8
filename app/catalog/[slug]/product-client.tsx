@@ -174,7 +174,7 @@ export function ProductPageClient({ slug }: { slug: string }) {
     "@context": "https://schema.org",
     "@type": "Product",
     name: product.name,
-    image: product.images || [],
+    image: (product.images?.length ? product.images : [product.main_image]).filter(Boolean).length ? (product.images?.length ? product.images : [product.main_image]) : ["https://plitki-spb.ru/icon-512.png"],
     description:
       product.description ||
       `${product.name} — купить в Санкт-Петербурге со склада СПб. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
