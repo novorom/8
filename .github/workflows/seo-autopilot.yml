@@ -2,8 +2,8 @@ name: SEO Автопилот — генерация статей блога
 
 on:
   schedule:
-    # Каждый понедельник в 06:00 UTC = 09:00 МСК
-    - cron: '0 6 * * 1'
+    # Каждый вторник в 06:00 UTC = 09:00 МСК
+    - cron: '0 6 * * 2'
   # Ручной запуск для теста
   workflow_dispatch:
 
@@ -25,9 +25,19 @@ jobs:
         with:
           python-version: '3.11'
       
+      - name: Проверка секретов
+        run: |
+          if [ -z "${{ secrets.GEMINI_API_KEY_1 }}" ] && [ -z "${{ secrets.GEMINI_API_KEY_2 }}" ] && [ -z "${{ secrets.GEMINI_API_KEY_3 }}" ]; then
+            echo "❌ GEMINI_API_KEY не задан в GitHub Secrets"
+            exit 1
+          fi
+          echo "✅ GEMINI_API_KEY найден"
+      
       - name: Запуск генератора статей
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
         run: |
           cd seo-autopilot
           python generate.py
