@@ -27,17 +27,15 @@ jobs:
       
       - name: Проверка секретов
         run: |
-          if [ -z "${{ secrets.GEMINI_API_KEY_1 }}" ] && [ -z "${{ secrets.GEMINI_API_KEY_2 }}" ] && [ -z "${{ secrets.GEMINI_API_KEY_3 }}" ]; then
-            echo "❌ GEMINI_API_KEY не задан в GitHub Secrets"
+          if [ -z "${{ secrets.GEMINI_API_KEY_1 }}" ]; then
+            echo "❌ GEMINI_API_KEY_1 не задан в GitHub Secrets"
             exit 1
           fi
-          echo "✅ GEMINI_API_KEY найден"
+          echo "✅ GEMINI_API_KEY_1 найден"
       
       - name: Запуск генератора статей
         env:
           GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
-          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
-          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
         run: |
           cd seo-autopilot
           python generate.py
