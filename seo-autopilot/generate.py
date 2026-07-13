@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SEO Autopilot for plitki-spb.ru — v7 with internal linking"""
+"""SEO Autopilot for plitki-spb.ru — v8 with Google Gemini API"""
 
 import os, json, re, sys, urllib.request, urllib.error
 from datetime import datetime
@@ -9,9 +9,17 @@ SITE_URL = "https://plitki-spb.ru"
 REPO_ROOT = Path(__file__).parent.parent
 TOPICS_FILE = Path(__file__).parent / "topics.json"
 LOG_FILE = Path(__file__).parent / "autopilot.log"
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "gemini-2.5-flash"
 MAX_TOKENS = 6000
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+
+# Try multiple Google API key environment variables
+API_KEY = (
+    os.environ.get("GOOGLE_API_KEY") or
+    os.environ.get("GEMINI_API_KEY_1") or
+    os.environ.get("GEMINI_API_KEY_2") or
+    os.environ.get("GEMINI_API_KEY_3") or
+    ""
+)
 
 # All landing pages for automatic linking
 ALL_LANDINGS = {
@@ -49,27 +57,27 @@ def log(msg):
         f.write(line + "\n")
 
 
-def call_claude(prompt):
+def call_gemini(prompt):
     if not API_KEY:
-        raise ValueError("ANTHROPIC_API_KEY not set")
+        raise ValueError("Google API key not set")
     payload = json.dumps({
-        "model": MODEL,
-        "max_tokens": MAX_TOKENS,
-        "messages": [{"role": "user", "content": prompt}]
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "maxOutputTokens": MAX_TOKENS,
+            "temperature": 0.7
+        }
     }).encode("utf-8")
     req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
+        f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}",
         data=payload,
         headers={
             "Content-Type": "application/json",
-            "x-api-key": API_KEY,
-            "anthropic-version": "2023-06-01",
         },
         method="POST"
     )
     with urllib.request.urlopen(req, timeout=180) as resp:
         data = json.loads(resp.read())
-    return data["content"][0]["text"]
+    return data["candidates"][0]["content"]["parts"][0]["text"]
 
 
 def fix_imports(content):
@@ -294,7 +302,7 @@ def generate_blog_article(topic):
     ).format(title=title, kw=keywords, slug=slug, today=datetime.now().strftime("%Y-%m-%d"))
 
     log("  Генерирую статью: {}".format(slug))
-    content = call_claude(prompt)
+    content = call_gemini(prompt)
 
     content = re.sub(r'^```[a-z]*\n?', '', content.strip())
     content = re.sub(r'\n?```$', '', content.strip())
