@@ -236,7 +236,7 @@ def validate_tsx(content, slug):
         "Товары из этой статьи": "блок товаров",
         "По теме": "блок перелинковки",
         "datePublished": "datePublished в schema",
-        "@type": "Article": "Article schema",
+        '"@type": "Article"': "Article schema",
     }
     ok = True
     for check, label in required.items():
