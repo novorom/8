@@ -38,6 +38,7 @@ const articles = [
   { href: "/blog/kerama-marazzi-kollektsii", title: "Плитка Kerama Marazzi: лучшие коллекции и цены в СПб", desc: "Обзор лучших коллекций Kerama Marazzi: керамогранит, настенная плитка, мозаика. Более 400 позиций на складе в СПб.", date: "2026-03-17", time: "8 мин" },
   { href: "/blog/azori-plitka-obzor", title: "Плитка Азори: коллекции РИВЕР, ПАТАГОНИЯ, САЛЬВАДОР — обзор и цены", desc: "Обзор лучших коллекций Азори с описанием и ценами. 1000+ позиций на складе Плитки СПб в СПб.", date: "2026-03-17", time: "7 мин" },
   { href: "/blog/morozostojkaya-plitka-dlya-ulicy", title: "Морозостойкая плитка для улицы: что выбрать в Санкт-Петербурге", desc: "Читайте на нашем сайте.", date: "2026-07-14", time: "5 мин" },
+  { href: "/blog/kak-vybrat-zatirku-po-cvetu", title: "Как выбрать цвет затирки: советы по подбору к плитке", desc: "Читайте на нашем сайте.", date: "2026-07-21", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
