@@ -41,6 +41,7 @@ const articles = [
   { href: "/blog/kak-vybrat-zatirku-po-cvetu", title: "Как выбрать цвет затирки: советы по подбору к плитке", desc: "Читайте на нашем сайте.", date: "2026-07-21", time: "5 мин" },
   { href: "/blog/plitka-dlya-doma-chastnogo", title: "Плитка для частного дома: что выбрать для каждой комнаты", desc: "Читайте на нашем сайте.", date: "2026-07-28", time: "5 мин" },
   { href: "/blog/kak-ukladyvat-keramogranit-elochkoy", title: "Укладка керамогранита ёлочкой и диагональю: пошаговая инструкция", desc: "Читайте на нашем сайте.", date: "2026-08-04", time: "5 мин" },
+  { href: "/blog/kak-vybrat-keramogranit-dlya-pola", title: "Как выбрать керамогранит для пола: полный гид покупателя 2026", desc: "Читайте на нашем сайте.", date: "2026-08-11", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
