@@ -43,6 +43,7 @@ const articles = [
   { href: "/blog/kak-ukladyvat-keramogranit-elochkoy", title: "Укладка керамогранита ёлочкой и диагональю: пошаговая инструкция", desc: "Читайте на нашем сайте.", date: "2026-08-04", time: "5 мин" },
   { href: "/blog/kak-vybrat-keramogranit-dlya-pola", title: "Как выбрать керамогранит для пола: полный гид покупателя 2026", desc: "Читайте на нашем сайте.", date: "2026-08-11", time: "5 мин" },
   { href: "/blog/mozaika-v-vannoj-dizajn-idei", title: "Мозаика в ванной: идеи дизайна и советы по укладке", desc: "Читайте на нашем сайте.", date: "2026-08-18", time: "5 мин" },
+  { href: "/blog/plitka-v-stile-skandinavskogo-dizajna", title: "Плитка в скандинавском стиле: светлая, матовая, минималистичная", desc: "Читайте на нашем сайте.", date: "2026-08-25", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
