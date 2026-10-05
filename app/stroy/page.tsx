@@ -42,12 +42,12 @@ function swatch(it,big){
 const sub=it=>it.s+(it.b?', '+it.b:'')+(it.g?', '+it.g:'');
 const priceHtml=it=>it.p?fmt(it.p)+' <small>₽/м²</small>':'Цена по запросу';
 
-const cnt={};ITEMS.forEach(i=>cnt[i.k]=(cnt[i.k]||0)+1);
+const cnt={};ITEMS.forEach(i=>{if(i.k)cnt[i.k]=(cnt[i.k]||0)+1});
 Object.keys(cnt).forEach(k=>{const btn=document.createElement('button');btn.className='chip';btn.textContent=k+' ('+cnt[k]+')';btn.dataset.s=k;btn.onclick=()=>{document.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed','false'));btn.setAttribute('aria-pressed','true');render(k);};document.getElementById('chips').appendChild(btn);});
 
 let cat='all',sort='stock',shown=50,offset=0;
 function render(sizeFilter=null){
- let list=ITEMS.filter(i=>sizeFilter?i.k===sizeFilter:true);
+ let list=ITEMS.filter(i=>i.k).filter(i=>sizeFilter?i.k===sizeFilter:true);
  if(cat!=='all') list=list.filter(i=>i.t===cat);
  const q=$('#q').value.toLowerCase();
  if(q) list=list.filter(i=>i.n.toLowerCase().includes(q)||i.s.toLowerCase().includes(q)||i.b.toLowerCase().includes(q));
