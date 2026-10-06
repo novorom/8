@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "cersanit.vercel.app"
+        }
+      ],
+      "destination": "https://plitki-spb.ru/:path*",
+      "statusCode": 301
+    }
+  ]
+}
