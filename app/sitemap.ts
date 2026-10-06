@@ -5,49 +5,45 @@ import { seoPages } from "@/lib/seo-data"
 const SITE_URL = "https://plitki-spb.ru"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  // Stable dated for sitemap (Yandex/Google prefers it over daily dynamic dates for unchanged content)
-  const lastUpdate = "2026-04-27"
-
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
-    { url: SITE_URL, lastModified: lastUpdate, changeFrequency: "daily", priority: 1.0 },
-    { url: `${SITE_URL}/catalog`, lastModified: lastUpdate, changeFrequency: "daily", priority: 0.9 },
-    { url: `${SITE_URL}/collections`, lastModified: lastUpdate, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/brands`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/delivery`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/reviews`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/about`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/contacts`, lastModified: lastUpdate, changeFrequency: "monthly", priority: 0.7 },
+    { url: SITE_URL, changeFrequency: "daily", priority: 1.0 },
+    { url: `${SITE_URL}/stroy`, changeFrequency: "daily", priority: 0.9 },
+    { url: `${SITE_URL}/catalog`, changeFrequency: "daily", priority: 0.9 },
+    { url: `${SITE_URL}/collections`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/brands`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/delivery`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/reviews`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/about`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/contacts`, changeFrequency: "monthly", priority: 0.7 },
   ]
 
   // SEO landing pages
   const seoPagesList: MetadataRoute.Sitemap = Object.keys(seoPages).map((slug) => ({
     url: `${SITE_URL}/${slug}`,
-    lastModified: lastUpdate,
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }))
 
-  // Collection pages
-  const collectionSlugs = [
-    ...new Set(
-      products
-        .filter((p) => p.collection && p.collection.trim())
-        .map((p) =>
-          p.collection!
-            .toLowerCase()
-            .replace(/\s+/g, "-")
-            .replace(/[^a-zа-яё0-9-]/gi, "")
-        )
-    ),
-  ]
-  const collectionPages: MetadataRoute.Sitemap = collectionSlugs.map((slug) => ({
-    url: `${SITE_URL}/collections/${slug}`,
-    lastModified: lastUpdate,
-    changeFrequency: "weekly" as const,
-    priority: 0.85,
-  }))
-
+  // Only include collection pages with enough distinct products to be useful in search.
+  // Several differently cased source names normalize to the same URL, so deduplicate by slug.
+  const collectionCounts = new Map<string, number>()
+  for (const product of products) {
+    if (!product.slug || !product.name?.trim() || !product.collection?.trim() || product.collection.toLowerCase() === "other") continue
+    const slug = product.collection
+      .toLowerCase()
+      .replace(/\s+/g, "-")
+      .replace(/[^a-zа-яё0-9-]/gi, "")
+      .slice(0, 80)
+    collectionCounts.set(slug, (collectionCounts.get(slug) || 0) + 1)
+  }
+  const collectionPages: MetadataRoute.Sitemap = [...collectionCounts.entries()]
+    .filter(([, count]) => count >= 3)
+    .map(([slug]) => ({
+      url: `${SITE_URL}/collections/${slug}`,
+      changeFrequency: "weekly" as const,
+      priority: 0.85,
+    }))
 
   // Brand pages
   const brandPages: MetadataRoute.Sitemap = [
@@ -66,7 +62,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "brands/pieza-rosa",
   ].map((path) => ({
     url: `${SITE_URL}/${path}`,
-    lastModified: lastUpdate,
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }))
@@ -98,8 +93,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
       return {
         url: `${SITE_URL}/catalog/${product.slug}`,
-        lastModified: lastUpdate,
-        changeFrequency: "weekly" as const,
+            changeFrequency: "weekly" as const,
         priority: 0.8,
         images: allImages.length > 0 ? allImages : undefined,
       }

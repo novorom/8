@@ -46,7 +46,6 @@ export const metadata: Metadata = {
     "geo.region": "RU-SPE",
     "geo.placename": "Санкт-Петербург",
     "yandex-verification": "96bd4b047d7784c9",
-    "google-site-verification": "v-K-h-z-r-S-w-E-L-I-f-i-c-a-t-i-o-n", // Replace with real one if available
   },
 }
 

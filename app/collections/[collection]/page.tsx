@@ -36,26 +36,44 @@ interface CollectionPageProps {
 export const dynamicParams = true
 export const revalidate = 3600
 
-export async function generateStaticParams() {
-  const allCollectionNames = [
+function collectionSlug(name: string): string {
+  return name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "").slice(0, 80)
+}
+
+function findCollectionNames(slug: string): string[] {
+  let normalized = slug
+  try { normalized = decodeURIComponent(slug) } catch {}
+  normalized = normalized.toLowerCase()
+  return [
     ...new Set(
       products
         .filter((p) => p.collection && p.collection.trim() && p.collection.toLowerCase() !== "other")
         .map((p) => p.collection as string)
+        .filter((name) => collectionSlug(name) === normalized)
     ),
   ]
-  return allCollectionNames.map((name) => ({
-    collection: name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "").slice(0, 80),
-  }))
+}
+
+export async function generateStaticParams() {
+  const productCountsBySlug = new Map<string, number>()
+  for (const product of products) {
+    if (!product.slug || !product.name?.trim() || !product.collection?.trim() || product.collection.toLowerCase() === "other") continue
+    const slug = collectionSlug(product.collection)
+    productCountsBySlug.set(slug, (productCountsBySlug.get(slug) || 0) + 1)
+  }
+  return [...productCountsBySlug.entries()]
+    .filter(([, count]) => count >= 3)
+    .map(([collection]) => ({ collection }))
 }
 
 export async function generateMetadata({ params }: CollectionPageProps): Promise<Metadata> {
   const { collection } = await params
-  const collectionName = findCollectionName(collection)
-  if (!collectionName) return { title: "Коллекция не найдена | Плитки СПб" }
+  const collectionNames = findCollectionNames(collection)
+  if (!collectionNames.length) return { title: "Коллекция не найдена | Плитки СПб" }
+  const collectionName = collectionNames[0]
 
   const seo = getCollectionSeo(collectionName)
-  const collectionProducts = getCollectionProducts(collectionName)
+  const collectionProducts = getCollectionProducts(collectionNames)
   const prices = collectionProducts.map(p => p.price_retail).filter(Boolean)
   const priceFrom = prices.length ? Math.min(...prices) : null
   const brandName = collectionProducts[0]?.brand || "Плитки СПб"
@@ -70,6 +88,7 @@ export async function generateMetadata({ params }: CollectionPageProps): Promise
     title,
     description,
     alternates: { canonical: `${SITE_URL}/collections/${collection}` },
+    robots: { index: collectionProducts.length >= 3, follow: true },
     openGraph: {
       title,
       description,
@@ -82,24 +101,10 @@ export async function generateMetadata({ params }: CollectionPageProps): Promise
   }
 }
 
-function findCollectionName(slug: string): string | undefined {
-  let s = slug
-  try { s = decodeURIComponent(slug) } catch {}
-  s = s.toLowerCase()
-  return [
-    ...new Set(
-      products
-        .filter((p) => p.collection && p.collection.trim() && p.collection.toLowerCase() !== "other")
-        .map((p) => p.collection as string)
-    ),
-  ].find(
-    (name) => name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "").slice(0, 80) === s
-  )
-}
-
-function getCollectionProducts(collectionName: string) {
+function getCollectionProducts(collectionNames: string[]) {
+  const names = new Set(collectionNames)
   return products.filter(
-    (p) => p.collection === collectionName && p.slug && p.name
+    (p) => p.collection && names.has(p.collection) && p.slug && p.name
   )
 }
 
@@ -143,7 +148,8 @@ function getBlogLinks(name: string) {
 
 export default async function CollectionPage({ params }: CollectionPageProps) {
   const { collection } = await params
-  const collectionName = findCollectionName(collection)
+  const collectionNames = findCollectionNames(collection)
+  const collectionName = collectionNames[0]
 
   if (!collectionName) {
     return (
@@ -158,7 +164,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
     )
   }
 
-  const collectionProducts = getCollectionProducts(collectionName)
+  const collectionProducts = getCollectionProducts(collectionNames)
   const brandName = (collectionProducts[0] as any)?.brand || "Плитки СПб"
   const seo = getCollectionSeo(collectionName)
   // Собираем все интерьерные фото коллекции

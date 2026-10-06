@@ -1,8 +1,24 @@
 "use client"
 
 import { useEffect, useRef } from "react"
-export default function StroyLandingClient() {
+type StroyItem = {
+  t: string
+  b?: string
+  n: string
+  s: string
+  k: string
+  g?: string
+  q: number
+  p: number | null
+  img?: string
+  ph?: string
+}
+
+type StroyLandingClientProps = { initialItems: StroyItem[] }
+
+export default function StroyLandingClient({ initialItems }: StroyLandingClientProps) {
   const containerRef = useRef<HTMLDivElement>(null)
+  const formatStock = (value: number) => value.toLocaleString("ru-RU")
 
   useEffect(() => {
     // Load external script with data and logic
@@ -130,7 +146,37 @@ export default function StroyLandingClient() {
             <div className="tools" id="chips" role="group" aria-label="Размер"></div>
             <p className="note">Нажмите на позицию, чтобы открыть карточку. Цены за м², с НДС. В списке остатки от 30 м². Обновлено: <span id="upd"></span>.</p>
             <p className="note" id="count" aria-live="polite" style={{fontWeight:700, color:'#1f2429'}}>Найдено: 191 позиция</p>
-            <div className="list" id="list"></div>
+            <div className="list" id="list">
+              {initialItems.map((item, index) => (
+                <button className="row" data-i={index} key={`${item.n}-${index}`}>
+                  <div className="sw">
+                    {item.img && <img
+                      src={item.ph || item.img}
+                      data-fb={item.img}
+                      alt={item.n}
+                      title="Увеличить"
+                      loading={index < 8 ? "eager" : "lazy"}
+                      decoding="async"
+                      referrerPolicy="no-referrer"
+                      onError={(event) => {
+                        const image = event.currentTarget
+                        const fallback = image.dataset.fb
+                        if (fallback && !image.src.includes(fallback)) image.src = fallback
+                        else image.style.display = "none"
+                      }}
+                    />}
+                  </div>
+                  <div>
+                    <div className="nm">{item.n}</div>
+                    <div className="sub">{item.s}{item.b ? `, ${item.b}` : ""}{item.g ? `, ${item.g}` : ""}</div>
+                    <div className="sub">В наличии {formatStock(item.q)} м²</div>
+                  </div>
+                  <div className={`price${item.p ? "" : " ask"}`}>
+                    {item.p ? <>{formatStock(item.p)} <small>₽/м²</small></> : "Цена по запросу"}
+                  </div>
+                </button>
+              ))}
+            </div>
             <p style={{textAlign:'center'}}><button className="btn alt" id="more" hidden>Показать ещё</button><button className="btn alt" id="up" type="button" hidden>Наверх, к фильтрам</button></p>
           </section>
 
