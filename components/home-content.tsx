@@ -12,22 +12,22 @@ const homeFaq = [
   {
     question: "Какие бренды плитки есть в наличии?",
     answer:
-      "На складе в СПб представлены ведущие бренды: Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика, Бонапарт, Элетто, Идальго, Dako, Квадро Декор. Более 3000 позиций для любых задач и бюджетов.",
+      "В каталоге есть плитка и керамогранит разных брендов, включая Kerama Marazzi, Cersanit, Азори и Нефрит-Керамика. Текущую цену и остаток проверяйте в карточке товара.",
   },
   {
     question: "Где находится склад?",
     answer:
-      "Склад находится в Санкт-Петербург, Ленобласть — 15–20 минут от КАД по Мурманскому шоссе. Режим работы: Пн–Пт 10:00–16:45.",
+      "Уточните адрес склада, наличие выбранных товаров и время отгрузки у менеджера перед поездкой.",
   },
   {
     question: "Как быстро доставляете по Санкт-Петербургу?",
     answer:
-      "Доставка по СПб и Ленинградской области — от 1–2 рабочих дней. Самовывоз со склада СПб бесплатный в день оплаты. Стоимость доставки рассчитывается индивидуально.",
+      "Доставляем по Санкт-Петербургу и Ленинградской области. Срок и стоимость зависят от наличия, адреса и объёма заказа; уточните условия у менеджера.",
   },
   {
     question: "Помогаете подобрать плитку жителям области?",
     answer:
-      "Да, мы работаем со всем регионом. Бесплатно рассчитаем нужное количество по вашим размерам и поможем подобрать коллекцию удаленно (WhatsApp/Telegram). Склад в СПб удобно расположен для отгрузки в любой район СПб и ЛО.",
+      "Да, поможем подобрать коллекцию и рассчитать количество по вашим размерам. Напишите или позвоните менеджеру, чтобы согласовать доставку или самовывоз.",
   },
   {
     question: "Работаете с юридическими лицами и строителями?",
@@ -37,12 +37,12 @@ const homeFaq = [
 ]
 
 const BRANDS = [
-  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "425+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png" },
-  { name: "Азори", slug: "azori", desc: "1000+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png" },
-  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "914 позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174050/brands/nefrit-keramika.jpg" },
-  { name: "Cersanit", slug: "cersanit", desc: "116+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png" },
-  { name: "Бонапарт", slug: "bonapart", desc: "400+ позиций", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174047/brands/bonaparte.png" },
-  { name: "Элетто", slug: "eletto", desc: "233 позиции", logo: "https://elettoceramica.ru/wp-content/themes/eletto/img/logo.svg" },
+  { name: "Kerama Marazzi", slug: "kerama-marazzi", desc: "Смотреть каталог", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png" },
+  { name: "Азори", slug: "azori", desc: "Смотреть каталог", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png" },
+  { name: "Нефрит-Керамика", slug: "nefrit-keramika", desc: "Смотреть каталог", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174050/brands/nefrit-keramika.jpg" },
+  { name: "Cersanit", slug: "cersanit", desc: "Смотреть каталог", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png" },
+  { name: "Бонапарт", slug: "bonapart", desc: "Смотреть каталог", logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174047/brands/bonaparte.png" },
+  { name: "Элетто", slug: "eletto", desc: "Смотреть каталог", logo: "https://elettoceramica.ru/wp-content/themes/eletto/img/logo.svg" },
 ]
 
 export function HomeContent() {
@@ -54,7 +54,10 @@ export function HomeContent() {
 
   return (
     <>
-      <HeroSection />
+      <HeroSection
+        catalogCount={products.length}
+        stockCount={products.filter((p) => Number(p.stock_yanino) > 0).length}
+      />
 
       {/* USP bar */}
       <section className="border-b border-border bg-background">
@@ -74,7 +77,7 @@ export function HomeContent() {
             </div>
             <div className="flex items-center gap-2">
               <Award className="h-4 w-4 text-primary shrink-0" />
-              <span>3000+ позиций на складе</span>
+              <span>Цена и остаток в каждой карточке</span>
             </div>
           </div>
         </div>
@@ -84,7 +87,7 @@ export function HomeContent() {
       <section className="py-12 bg-muted/30">
         <div className="mx-auto max-w-7xl px-4">
           <div className="flex items-center justify-between mb-8">
-            <h2 className="text-2xl lg:text-3xl font-bold text-foreground">Бренды в наличии</h2>
+            <h2 className="text-2xl lg:text-3xl font-bold text-foreground">Бренды в каталоге</h2>
             <Link href="/brands" className="text-sm text-primary font-medium flex items-center gap-1 hover:gap-2 transition-all">
               Все бренды <ChevronRight className="h-4 w-4" />
             </Link>
@@ -167,7 +170,7 @@ export function HomeContent() {
                 Реализованные проекты
               </h2>
               <p className="text-lg text-muted-foreground">
-                Посмотрите, как наша плитка и керамогранит выглядят в реальных интерьерах. Мы помогли обустроить более 1500 объектов в Санкт-Петербурге и ЛО.
+                Посмотрите примеры интерьеров с плиткой и керамогранитом из каталога. Подбор фактуры и размера для вашего помещения поможет сделать менеджер.
               </p>
             </div>
             <Link href="/catalog" className="text-primary font-bold hover:underline">

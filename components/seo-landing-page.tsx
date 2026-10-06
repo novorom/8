@@ -41,7 +41,6 @@ const iconMap: Record<string, typeof MapPin> = {
   "По всей России": Truck,
   "С заносом": Truck,
   "С 2011 года": Award,
-  "750+ позиций": Package,
   "Шоурум в СПб": MapPin,
   "Отзывы на Avito": ShieldCheck,
 }

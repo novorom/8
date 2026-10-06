@@ -16,11 +16,11 @@ const SITE_URL = "https://plitki-spb.ru"
 
 export const metadata: Metadata = {
   title: {
-    default: "Купить плитку в СПб и Ленинградской области — Kerama Marazzi, Cersanit, Азори",
+    default: "Плитка и керамогранит в Санкт-Петербурге — каталог и цены | Плитки СПб",
     template: "%s | Плитки СПб",
   },
   description:
-    "Магазин керамической плитки в Санкт-Петербурге и ЛО. Ведущие бренды Kerama Marazzi, Cersanit, Азори. Пункт самовывоза на складе в СПб. Быстрая доставка по всему региону от 1 дня.",
+    "Керамическая плитка, керамогранит и мозаика в Санкт-Петербурге. Ищите по бренду, коллекции, размеру или артикулу; проверьте цену и остаток в карточке товара. Самовывоз и доставка по СПб и Ленинградской области.",
   metadataBase: new URL(SITE_URL),
   icons: {
     icon: [
@@ -34,12 +34,19 @@ export const metadata: Metadata = {
     apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   openGraph: {
-    title: "Купить плитку в СПб — Kerama Marazzi, Cersanit, Азори",
-    description: "Магазин плитки в Санкт-Петербурге. 2000+ позиций на складе в СПб. Все ведущие бренды.",
+    title: "Плитка и керамогранит в Санкт-Петербурге — каталог и цены | Плитки СПб",
+    description: "Каталог керамической плитки, керамогранита и мозаики в Санкт-Петербурге. Актуальные цены и остатки указаны в карточках товаров.",
     url: SITE_URL,
     siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
+    images: [{ url: "/images/og-default.jpg", width: 1200, height: 630, alt: "Плитки СПб — каталог плитки и керамогранита" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Плитка и керамогранит в Санкт-Петербурге — каталог и цены",
+    description: "Каталог плитки, керамогранита и мозаики. Проверяйте цену и актуальный остаток в карточке товара.",
+    images: ["/images/og-default.jpg"],
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
   other: {
@@ -86,15 +93,6 @@ const localBusinessJsonLd = {
   telephone: "+7 (905) 205-09-00",
   email: "novorom@mail.ru",
   priceRange: "₽₽",
-  address: {
-    "@type": "PostalAddress",
-    streetAddress: "Санкт-Петербург",
-    addressLocality: "Санкт-Петербург",
-    addressRegion: "Ленинградская область",
-    postalCode: "188679",
-    addressCountry: "RU",
-  },
-  geo: { "@type": "GeoCoordinates", latitude: "59.9765", longitude: "30.6132" },
   openingHoursSpecification: [
     {
       "@type": "OpeningHoursSpecification",

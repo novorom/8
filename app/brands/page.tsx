@@ -1,10 +1,11 @@
 import Link from "next/link"
 import type { Metadata } from "next"
 import { BrandLogo } from "./brand-logo"
+import { products } from "@/lib/products-data"
 
 export const metadata: Metadata = {
-  title: "Все бренды плитки в СПб — Kerama Marazzi, Cersanit, Азори",
-  description: "Каталог плитки по брендам. Kerama Marazzi, Cersanit, Азори, Нефрит-Керамика, Урал Гранит и другие. Склад в СПб, доставка по СПб и ЛО.",
+  title: "Бренды плитки и керамогранита в Санкт-Петербурге | Плитки СПб",
+  description: "Выберите бренд плитки или керамогранита и посмотрите товары, цены и характеристики в каталоге интернет-магазина в Санкт-Петербурге.",
   alternates: { canonical: "/brands" },
 }
 
@@ -13,7 +14,7 @@ const brands = [
     slug: "kerama-marazzi",
     name: "Kerama Marazzi",
     description: "Крупнейший российский производитель керамической плитки и керамогранита. Широкий ассортимент коллекций для любого интерьера.",
-    count: "456+ позиций",
+    count: "Открыть каталог",
     color: "#c8102e",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png",
   },
@@ -21,7 +22,7 @@ const brands = [
     slug: "cersanit",
     name: "Cersanit",
     description: "Польский бренд с европейским качеством. Керамическая плитка и керамогранит для ванных комнат, кухонь и общественных пространств.",
-    count: "116+ позиций",
+    count: "Открыть каталог",
     color: "#1e3a8a",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/cersanit.png",
   },
@@ -29,7 +30,7 @@ const brands = [
     slug: "azori",
     name: "Азори",
     description: "Российский производитель керамической плитки с богатой палитрой дизайнов. Стильные коллекции по доступным ценам.",
-    count: "661+ позиций",
+    count: "Открыть каталог",
     color: "#0f766e",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png",
   },
@@ -37,31 +38,31 @@ const brands = [
     slug: "nefrit-keramika",
     name: "Нефрит-Керамика",
     description: "Один из крупнейших отечественных производителей. Широкий выбор плитки для ванной, кухни и жилых помещений.",
-    count: "200+ позиций",
+    count: "Открыть каталог",
     color: "#166534",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174050/brands/nefrit-keramika.jpg",
   },
   {
-    slug: "ural-granit",
-    name: "Урал Гранит / Гранитея",
+    slug: "granitea",
+    name: "Гранитея",
     description: "Российский керамогранит. Прочный, морозостойкий, подходит для улицы и промышленных помещений.",
-    count: "300+ позиций",
+    count: "Открыть каталог",
     color: "#7c3aed",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174051/brands/ural-granit.jpg",
   },
   {
-    slug: "bonaparte",
+    slug: "bonapart",
     name: "Бонапарт",
     description: "Широкий ассортимент керамической плитки различных форматов и дизайнов для любых помещений.",
-    count: "400+ позиций",
+    count: "Открыть каталог",
     color: "#b45309",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174047/brands/bonaparte.png",
   },
   {
-    slug: "gracia-keramika",
+    slug: "gracia-ceramica",
     name: "Грация Керамика",
     description: "Доступная керамическая плитка российского производства. Большой выбор цветов и форматов.",
-    count: "300+ позиций",
+    count: "Открыть каталог",
     color: "#0369a1",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174048/brands/gracia-keramika.png",
   },
@@ -69,7 +70,7 @@ const brands = [
     slug: "idalgo",
     name: "Идальго",
     description: "Керамогранит и керамическая плитка. Современные дизайны под дерево, камень и бетон.",
-    count: "100+ позиций",
+    count: "Открыть каталог",
     color: "#92400e",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/idalgo.jpg",
   },
@@ -77,7 +78,7 @@ const brands = [
     slug: "eletto",
     name: "Элетто",
     description: "Современный бренд с актуальными дизайнами. Плитка высокого качества для стильных интерьеров.",
-    count: "217+ позиций",
+    count: "Открыть каталог",
     color: "#be123c",
     logo: "",
   },
@@ -85,7 +86,7 @@ const brands = [
     slug: "alma-ceramica",
     name: "Alma Ceramica",
     description: "Один из крупнейших российских производителей. Огромный выбор коллекций в европейском стиле.",
-    count: "500+ позиций",
+    count: "Открыть каталог",
     color: "#0369a1",
     logo: "",
   },
@@ -93,7 +94,7 @@ const brands = [
     slug: "pieza-rosa",
     name: "Pieza ROSA",
     description: "Надежный производитель керамической плитки с широким ассортиментом и доступными ценами.",
-    count: "372+ позиций",
+    count: "Открыть каталог",
     color: "#4d7c0f",
     logo: "",
   },
@@ -101,11 +102,34 @@ const brands = [
     slug: "dako",
     name: "Dako",
     description: "Практичный керамогранит популярных форматов для жилых и коммерческих помещений.",
-    count: "24+ позиции",
+    count: "Открыть каталог",
     color: "#475569",
     logo: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174052/brands/dako.jpg",
   },
 ]
+
+const brandFields: Record<string, string> = {
+  "kerama-marazzi": "Kerama Marazzi",
+  cersanit: "Cersanit",
+  azori: "Азори",
+  "nefrit-keramika": "Нефрит-Керамика",
+  granitea: "Гранитея",
+  bonapart: "Бонапарт",
+  "gracia-ceramica": "Gracia Ceramica",
+  idalgo: "Идальго",
+  eletto: "Элетто",
+  "alma-ceramica": "Alma Ceramica",
+  "pieza-rosa": "Pieza ROSA",
+  dako: "Dako",
+}
+
+const brandsWithProducts = brands.filter((brand) =>
+  products.some(
+    (product) =>
+      product.brand?.toLowerCase() === brandFields[brand.slug]?.toLowerCase() &&
+      Boolean(product.slug && product.name),
+  ),
+)
 
 export default function BrandsPage() {
   return (
@@ -116,14 +140,13 @@ export default function BrandsPage() {
         <span>Бренды</span>
       </nav>
 
-      <h1 className="text-3xl font-bold text-foreground mb-3">Бренды плитки в наличии</h1>
+      <h1 className="text-3xl font-bold text-foreground mb-3">Бренды плитки и керамогранита в каталоге</h1>
       <p className="text-muted-foreground mb-8 max-w-2xl">
-        Работаем напрямую с крупнейшими производителями. Весь ассортимент ведущих брендов на складе в СПб.
-        Самовывоз бесплатно, доставка по СПб и Ленобласти.
+        Выберите производителя, чтобы открыть соответствующие товары. Цена и фактический остаток указаны в карточке каждой позиции.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-        {brands.map((brand) => (
+        {brandsWithProducts.map((brand) => (
           <Link
             key={brand.slug}
             href={`/brands/${brand.slug}`}

@@ -20,6 +20,7 @@ import { InteriorPhotos } from "@/components/interior-photos"
 import { ProductCard } from "@/components/product-card"
 import { useCart } from "@/lib/cart-context"
 import { useProducts } from "@/lib/products-context"
+import type { Product } from "@/lib/products-data"
 import { QuickBuyModal } from "@/components/quick-buy-modal"
 import { TileCalculatorModal } from "@/components/tile-calculator-modal"
 import { Calculator } from "lucide-react"
@@ -80,11 +81,11 @@ function toCollectionSlug(name: string): string {
   return name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-zа-яё0-9-]/gi, "")
 }
 
-export function ProductPageClient({ slug }: { slug: string }) {
+export function ProductPageClient({ slug, initialProduct }: { slug: string; initialProduct: Product }) {
   const router = useRouter()
   const { addItem } = useCart()
   const { products } = useProducts()
-  const product = products.find((p) => p.slug === slug) || products[0]
+  const product = products.find((p) => p.slug === slug) || initialProduct
   const [isQuickBuyOpen, setIsQuickBuyOpen] = useState(false)
   const [activeTab, setActiveTab] = useState<TabId>("description")
 
@@ -170,96 +171,6 @@ export function ProductPageClient({ slug }: { slug: string }) {
   const hasDiscount = product.price_official && product.price_official > product.price_retail
   const priceUnit = ["Мозаика", "Ступень", "Плинтус", "Вставка", "Панно"].includes(product.product_type) ? "₽/шт" : "₽/м²"
 
-  const productJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    name: product.name,
-    image: (product.images?.length ? product.images : [product.main_image]).filter(Boolean).length ? (product.images?.length ? product.images : [product.main_image]) : ["https://plitki-spb.ru/icon-512.png"],
-    description:
-      product.description ||
-      `${product.name} — купить в Санкт-Петербурге со склада СПб. ${product.brand} коллекция ${product.collection}. Доставка по СПб и ЛО.`,
-    brand: { "@type": "Brand", name: product.brand || "Cersanit" },
-    sku: product.sku,
-    mpn: product.sku, // MPN is critical for Google Shopping
-    category: product.product_type,
-    color: product.color,
-    material: product.material_type,
-    offers: {
-      "@type": "Offer",
-      url: `https://plitki-spb.ru/catalog/${product.slug}`,
-      priceCurrency: "RUB",
-      price: product.price_retail,
-      itemCondition: "https://schema.org/NewCondition",
-      availability:
-        totalStock > 0
-          ? "https://schema.org/InStock"
-          : "https://schema.org/PreOrder",
-      seller: { "@type": "Organization", name: "Плитки СПб" },
-      areaServed: { "@type": "City", name: "Санкт-Петербург" },
-      deliveryLeadTime: {
-        "@type": "QuantitativeValue",
-        minValue: 1,
-        maxValue: 2,
-        unitCode: "DAY",
-      },
-      shippingDetails: {
-        "@type": "OfferShippingDetails",
-        shippingRate: {
-          "@type": "MonetaryAmount",
-          value: 1500, // Standard delivery start price
-          currency: "RUB",
-        },
-        shippingDestination: {
-          "@type": "DefinedRegion",
-          addressCountry: "RU",
-          addressRegion: "Санкт-Петербург",
-        },
-        deliveryTime: {
-          "@type": "ShippingDeliveryTime",
-          handlingTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 1, unitCode: "DAY" },
-          transitTime: { "@type": "QuantitativeValue", minValue: 1, maxValue: 2, unitCode: "DAY" },
-        },
-      },
-    },
-    hasMerchantReturnPolicy: {
-      "@type": "MerchantReturnPolicy",
-      applicableCountry: "RU",
-      returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
-      merchantReturnDays: 14,
-      returnMethod: "https://schema.org/ReturnByMail",
-      returnFees: "https://schema.org/FreeReturn", // Trust trigger
-    },
-    additionalProperty: [
-      product.format && { "@type": "PropertyValue", name: "Формат", value: product.format },
-      product.surface && { "@type": "PropertyValue", name: "Поверхность", value: product.surface },
-      product.rectified && { "@type": "PropertyValue", name: "Ректификат", value: "Да" },
-      product.frost_resistant && { "@type": "PropertyValue", name: "Морозостойкость", value: "Да" },
-      product.wear_class && { "@type": "PropertyValue", name: "Класс износостойкости", value: product.wear_class },
-      product.slip_class && { "@type": "PropertyValue", name: "Класс антискольжения", value: product.slip_class },
-    ].filter(Boolean),
-    ...(product.rating && product.rating > 0
-      ? {
-          aggregateRating: {
-            "@type": "AggregateRating",
-            ratingValue: String(product.rating),
-            reviewCount: String(product.reviews_count || 1),
-            bestRating: "5",
-            worstRating: "1",
-          },
-        }
-      : {}),
-  }
-
-  const breadcrumbJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Главная", item: "https://plitki-spb.ru" },
-      { "@type": "ListItem", position: 2, name: "Каталог", item: "https://plitki-spb.ru/catalog" },
-      { "@type": "ListItem", position: 3, name: product.name, item: `https://plitki-spb.ru/catalog/${product.slug}` },
-    ],
-  }
-
   const tabs: { id: TabId; label: string }[] = [
     { id: "description", label: "Описание" },
     { id: "specs", label: "Характеристики" },
@@ -290,15 +201,6 @@ export function ProductPageClient({ slug }: { slug: string }) {
   return (
     <>
     <div className="bg-muted/30 min-h-screen">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
-      />
-
       {/* Breadcrumbs */}
       <div className="bg-background border-b border-border">
         <div className="mx-auto max-w-7xl px-4 py-3">

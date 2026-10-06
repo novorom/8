@@ -82,7 +82,7 @@ export default function LandingPage() {
       <section id="products" className="py-12 lg:py-16">
         <div className="mx-auto max-w-7xl px-4">
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">Плитка для душа — {filteredProducts.length} позиций</h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
+          <p className="text-muted-foreground mb-8">Проверьте фактический остаток в карточке товара</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {filteredProducts.map((product: any, index: number) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />

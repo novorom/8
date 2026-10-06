@@ -697,7 +697,7 @@ export const seoPages: Record<string, SeoPageData> = {
     advantages: [
       { title: "Рядом с вами", description: "Склад в СПб - ближайшая точка отгрузки" },
       { title: "Быстрая доставка", description: "Привезем заказ во Всеволожск за 1 день" },
-      { title: "3000+ позиций", description: "Огромный выбор в наличии" },
+      { title: "Выбор товаров", description: "Проверьте цену и наличие в карточке" },
       { title: "Помощь в расчете", description: "Бесплатно рассчитаем проект по вашим размерам" }
     ],
     faq: [

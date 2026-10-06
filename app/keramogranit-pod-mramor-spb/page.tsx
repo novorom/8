@@ -17,11 +17,11 @@ const MARBLE_COLLECTIONS = [
 export const metadata: Metadata = {
   title: "Керамогранит под мрамор Cersanit в СПб — купить со склада | Плитки СПб",
   description: "Керамогранит под мрамор Cersanit в СПб. Calacatta, Deep Calacatta, Lumina Onyx, Travertino — в наличии на складе в СПб. Доставка по СПб от 1 дня. Роскошный вид без хлопот.",
-  alternates: { canonical: `${SITE_URL}/plitka-pod-mramor-spb` },
+  alternates: { canonical: `${SITE_URL}/keramogranit-pod-mramor-spb` },
   openGraph: {
     title: "Плитка под мрамор Cersanit в Санкт-Петербурге",
     description: "Керамогранит с имитацией мрамора — Calacatta, Deep Calacatta, Lumina Onyx. Склад в СПб, доставка по СПб от 1 дня.",
-    url: `${SITE_URL}/plitka-pod-mramor-spb`,
+    url: `${SITE_URL}/keramogranit-pod-mramor-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
@@ -112,7 +112,7 @@ export default function PlitkaПодМрамор() {
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
             Керамогранит под мрамор — {marbleProducts.length} позиций
           </h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
+          <p className="text-muted-foreground mb-8">Проверьте фактический остаток в карточке товара</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {marbleProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -152,7 +152,7 @@ export default function PlitkaПодМрамор() {
               Купить плитку под мрамор в СПб
             </h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент в наличии на складе в СПб. Самовывоз бесплатный.
+              Проверьте наличие выбранной позиции в карточке и согласуйте получение с менеджером.
               Доставка по СПб и ЛО от 1-2 рабочих дней. Бесплатный расчёт количества плитки,
               помощь в подборе коллекции под ваш проект.
             </p>

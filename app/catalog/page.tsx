@@ -3,18 +3,27 @@ import { CatalogClient } from "./catalog-client"
 import { products } from "@/lib/products-data"
 import type { Product } from "@/lib/products-data"
 
-export const metadata: Metadata = {
-  title: "Каталог плитки в СПб — Цены, фото, купить недорого со склада",
-  description: "Огромный каталог керамической плитки и керамогранита в Санкт-Петербурге. Купить плитку недорого оптом и в розницу со склада в СПб. Цены, фото, наличие.",
-  alternates: { canonical: "/catalog" },
-  openGraph: {
-    title: "Каталог плитки в СПб — 3000+ позиций на складе в СПб",
-    description: "Керамическая плитка и керамогранит от ведущих брендов. Склад в СПб, доставка по СПб от 1 дня.",
-    url: "https://plitki-spb.ru/catalog",
-    siteName: "Плитки СПб",
-    locale: "ru_RU",
-    type: "website",
-  },
+type CatalogPageProps = { searchParams: Promise<Record<string, string | string[] | undefined>> }
+
+export async function generateMetadata({ searchParams }: CatalogPageProps): Promise<Metadata> {
+  const params = await searchParams
+  const hasFilters = Object.values(params).some((value) => value !== undefined)
+  const title = "Каталог плитки и керамогранита в Санкт-Петербурге — цены и наличие"
+  const description = `Каталог керамической плитки, керамогранита и мозаики в Санкт-Петербурге. ${products.length} товаров; цена, артикул и актуальный остаток указаны в карточках.`
+  return {
+    title,
+    description,
+    alternates: { canonical: "/catalog" },
+    ...(hasFilters ? { robots: { index: false, follow: true } } : {}),
+    openGraph: {
+      title,
+      description,
+      url: "https://plitki-spb.ru/catalog",
+      siteName: "Плитки СПб",
+      locale: "ru_RU",
+      type: "website",
+    },
+  }
 }
 
 export default function CatalogPage() {

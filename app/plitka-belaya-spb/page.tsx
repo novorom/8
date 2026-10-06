@@ -102,7 +102,7 @@ export default function PlitkaBelay() {
       <section id="products" className="py-12 lg:py-16">
         <div className="mx-auto max-w-7xl px-4">
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">Белая плитка — {whiteProducts.length} позиций</h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
+          <p className="text-muted-foreground mb-8">Проверьте фактический остаток в карточке товара</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {whiteProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -134,7 +134,7 @@ export default function PlitkaBelay() {
           <div>
             <h2 className="text-xl lg:text-2xl font-bold text-foreground mb-4">Купить белую плитку в Санкт-Петербурге</h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент белой плитки Cersanit в наличии на складе в СПб.
+              Актуальные остатки белой плитки указаны в карточках товаров.
               Самовывоз бесплатный. Доставка по СПб и ЛО от 1-2 рабочих дней.
               Мы работаем напрямую с заводом Cersanit, все товары с сертификатами качества.
             </p>

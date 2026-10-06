@@ -47,24 +47,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Brand pages
   const brandPages: MetadataRoute.Sitemap = [
-    "brands",
-    "brands/kerama-marazzi",
-    "brands/cersanit",
-    "brands/azori",
-    "brands/nefrit-keramika",
-    "brands/ural-granit",
-    "brands/bonaparte",
-    "brands/gracia-keramika",
-    "brands/idalgo",
-    "brands/dako",
-    "brands/eletto",
-    "brands/alma-ceramica",
-    "brands/pieza-rosa",
-  ].map((path) => ({
-    url: `${SITE_URL}/${path}`,
-    changeFrequency: "weekly" as const,
+    { slug: "kerama-marazzi", brand: "Kerama Marazzi" },
+    { slug: "cersanit", brand: "Cersanit" },
+    { slug: "azori", brand: "Азори" },
+    { slug: "nefrit-keramika", brand: "Нефрит-Керамика" },
+    { slug: "granitea", brand: "Гранитея" },
+    { slug: "bonapart", brand: "Бонапарт" },
+    { slug: "gracia-ceramica", brand: "Gracia Ceramica" },
+    { slug: "idalgo", brand: "Идальго" },
+    { slug: "dako", brand: "Dako" },
+    { slug: "eletto", brand: "Элетто" },
+    { slug: "alma-ceramica", brand: "Alma Ceramica" },
+    { slug: "pieza-rosa", brand: "Pieza ROSA" },
+  ]
+    .filter(({ brand }) => products.filter((product) => product.brand?.toLowerCase() === brand.toLowerCase() && product.slug && product.name).length >= 3)
+    .map(({ slug }) => ({
+    url: `${SITE_URL}/brands/${slug}`,
+    changeFrequency: "monthly" as const,
     priority: 0.8,
   }))
+  brandPages.push({ url: `${SITE_URL}/brands`, changeFrequency: "monthly", priority: 0.7 })
 
   // Product pages — с image sitemap (все фото + интерьерные для Google/Яндекс Images)
   const productPages: MetadataRoute.Sitemap = products

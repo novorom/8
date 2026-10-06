@@ -24,10 +24,10 @@ const brandData: Record<string, BrandInfo> = {
     name: "Kerama Marazzi",
     brandField: "Kerama Marazzi",
     title: "Плитка Kerama Marazzi в СПб — купить на складе в СПб | Плитки СПб",
-    description: "Kerama Marazzi в Санкт-Петербурге: 400+ позиций на складе в СПб. Керамогранит, настенная плитка, мозаика. Самовывоз и доставка по СПб от 1 дня.",
+    description: "Плитка и керамогранит Kerama Marazzi в Санкт-Петербурге. Посмотрите доступные товары, характеристики и цену в каталоге; фактический остаток проверяйте в карточке.",
     h1: "Плитка Kerama Marazzi в Санкт-Петербурге",
     about: "Kerama Marazzi — крупнейший российский производитель керамической плитки и керамогранита. Основан в 1996 году, заводы в Орле, Новомосковске и Сызрани. В ассортименте более 3000 коллекций: от бюджетной плитки до дизайнерских серий в итальянском стиле. Прямые поставки — цены без наценки посредников.",
-    advantages: ["400+ позиций на складе", "Самовывоз со склада в СПб бесплатно", "Доставка по СПб от 1 дня", "Помощь в расчёте количества"],
+    advantages: ["Керамическая плитка и керамогранит", "Коллекции для разных помещений", "Актуальная цена в карточке", "Помощь в расчёте количества"],
     blogLink: "/blog/kerama-marazzi-kollektsii",
     blogTitle: "Читать: обзор коллекций Kerama Marazzi →",
     logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174049/brands/kerama-marazzi.png",
@@ -35,11 +35,11 @@ const brandData: Record<string, BrandInfo> = {
   "azori": {
     name: "Азори",
     brandField: "Азори",
-    title: "Плитка Азори в СПб — 1000+ позиций на складе в СПб | Плитки СПб",
-    description: "Азори в Санкт-Петербурге: коллекции РИВЕР, ПАТАГОНИЯ, САЛЬВАДОР и другие. Более 1000 позиций на складе в СПб. Самовывоз и доставка по СПб.",
+    title: "Плитка Азори в Санкт-Петербурге — каталог и цены | Плитки СПб",
+    description: "Плитка Азори в Санкт-Петербурге: посмотрите коллекции и доступные товары. Цена и фактический остаток указаны в карточке товара.",
     h1: "Плитка Азори в Санкт-Петербурге",
     about: "Азори (AZORI) — российский бренд дизайнерской керамической плитки с богатой палитрой коллекций. Широкий выбор фактур и цветов: от спокойных нейтральных оттенков до выразительных орнаментов. Форматы 20×60, 31,5×63, 42×42 см. Идеально для ванных комнат и кухонь любого стиля.",
-    advantages: ["1000+ позиций на складе", "Коллекции РИВЕР, ПАТАГОНИЯ, САЛЬВАДОР", "Форматы от 20×60 до 42×42", "Доставка по СПб от 1 дня"],
+    advantages: ["Коллекции РИВЕР, ПАТАГОНИЯ, САЛЬВАДОР", "Форматы от 20×60 до 42×42", "Цена указана в карточке товара", "Доставка по СПб и области по согласованию"],
     blogLink: "/blog/azori-plitka-obzor",
     blogTitle: "Читать: обзор коллекций Азори →",
     logoUrl: "https://res.cloudinary.com/de1sotnld/image/upload/v1776174046/brands/azori.png",
@@ -83,8 +83,8 @@ const brandData: Record<string, BrandInfo> = {
   "gracia-ceramica": {
     name: "Gracia Ceramica",
     brandField: "Gracia Ceramica",
-    title: "Плитка Gracia Ceramica в СПб — 500+ позиций | Плитки СПб",
-    description: "Gracia Ceramica в Санкт-Петербурге: более 500 позиций на складе в СПб. Широкий выбор коллекций, доступные цены. Доставка по СПб.",
+    title: "Плитка Gracia Ceramica в Санкт-Петербурге — каталог и цены | Плитки СПб",
+    description: "Плитка Gracia Ceramica в Санкт-Петербурге. Посмотрите коллекции и характеристики; цена и остаток отображаются в карточке товара.",
     h1: "Плитка Gracia Ceramica в Санкт-Петербурге",
     about: "Gracia Ceramica — российский бренд с очень широким ассортиментом коллекций. Более 170 серий: классика, современный минимализм, имитация дерева, камня, мрамора, бетона и терраццо. Форматы от 125×500 до 600×1200 мм. Один из лучших выборов по разнообразию дизайнов в доступном ценовом сегменте.",
     advantages: ["170+ коллекций на выбор", "Форматы от 125×500 до 600×1200", "Доступные цены", "склад в СПб, доставка от 1 дня"],
@@ -133,10 +133,10 @@ const brandData: Record<string, BrandInfo> = {
     name: "Alma Ceramica",
     brandField: "Alma Ceramica",
     title: "Плитка Alma Ceramica в СПб — купить на складе | Плитки СПб",
-    description: "Alma Ceramica в Санкт-Петербурге: более 500 позиций на складе в СПб. Керамогранит и настенная плитка. Доставка по СПб.",
+    description: "Плитка и керамогранит Alma Ceramica в Санкт-Петербурге. Посмотрите доступные товары и уточните остаток в карточке.",
     h1: "Плитка Alma Ceramica в Санкт-Петербурге",
     about: "Alma Ceramica — один из ведущих российских производителей керамической плитки. Продукция бренда сочетает в себе европейские традиции дизайна и российские стандарты качества.",
-    advantages: ["500+ позиций в наличии", "Европейское качество", "Разнообразие форматов", "Доставка по СПб"],
+    advantages: ["Плитка и керамогранит", "Разнообразие форматов", "Цена и остаток в карточке", "Доставка по согласованию"],
   },
   "pieza-rosa": {
     name: "Pieza ROSA",
@@ -163,10 +163,14 @@ export async function generateMetadata({
   const { brand } = await params
   const info = brandData[brand]
   if (!info) return {}
+  const productCount = products.filter(
+    (product) => product.brand?.toLowerCase() === info.brandField.toLowerCase() && product.slug && product.name
+  ).length
   return {
     title: info.title,
     description: info.description,
     alternates: { canonical: `${SITE_URL}/brands/${brand}` },
+    ...(productCount < 3 ? { robots: { index: false, follow: true } } : {}),
     openGraph: {
       title: info.title,
       description: info.description,
@@ -193,6 +197,7 @@ export default async function BrandPage({
       p.slug &&
       p.name
   )
+  if (brandProducts.length === 0) notFound()
 
   const withImages = brandProducts.filter((p) => p.main_image)
   const priceList = brandProducts
@@ -245,7 +250,7 @@ export default async function BrandPage({
               <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-muted-foreground">
                 <span className="font-medium text-foreground">{brandProducts.length} позиций</span>
                 {priceFrom && <span>от {priceFrom.toLocaleString("ru-RU")} ₽/м²</span>}
-                <span className="text-green-600 font-medium">• На складе в СПб</span>
+                <span className="text-muted-foreground font-medium">• Остаток проверяйте в карточке</span>
               </div>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 shrink-0">

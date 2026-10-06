@@ -3,7 +3,7 @@
 import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 
-export function HeroSection() {
+export function HeroSection({ catalogCount, stockCount }: { catalogCount: number; stockCount: number }) {
   return (
     <section className="relative w-full overflow-hidden bg-slate-900 py-20 lg:py-32">
       {/* Background Image with Overlay */}
@@ -26,8 +26,7 @@ export function HeroSection() {
             <span className="text-primary text-3xl sm:text-5xl">и Ленинградской области</span>
           </h1>
           <p className="text-lg leading-8 text-slate-100 mb-10 font-medium">
-            Ведущие бренды: Kerama Marazzi, Cersanit, Azori. 
-            Более 5000 позиций в наличии. Честные цены и быстрая доставка по всему региону.
+            Керамическая плитка, керамогранит и мозаика разных брендов. Ищите по коллекции, размеру или артикулу; актуальные цена и остаток указаны в карточке.
           </p>
           <div className="flex flex-wrap gap-4">
             <Link
@@ -38,12 +37,12 @@ export function HeroSection() {
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
             <a
-              href="https://wa.me/79052050900?text=Здравствуйте! Хочу заказать бесплатный 3D-дизайн проект ванной."
+              href="https://t.me/flyroman"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center rounded-lg bg-green-500 hover:bg-green-600 px-6 py-3.5 text-base font-semibold text-white shadow-sm transition-all"
             >
-              🎁 Бесплатный 3D-дизайн
+              Задать вопрос менеджеру
             </a>
             <Link
               href="/collections"
@@ -55,16 +54,16 @@ export function HeroSection() {
 
           <div className="mt-12 grid grid-cols-2 gap-x-8 gap-y-4 border-t border-white/10 pt-8 sm:grid-cols-3">
             <div>
-              <div className="text-2xl font-bold text-white">5000+</div>
-              <div className="text-sm text-slate-400">Товаров в наличии</div>
+              <div className="text-2xl font-bold text-white">{catalogCount.toLocaleString("ru-RU")}</div>
+              <div className="text-sm text-slate-400">товаров в каталоге</div>
             </div>
             <div>
-              <div className="text-2xl font-bold text-white">24ч</div>
-              <div className="text-sm text-slate-400">Быстрая доставка</div>
+              <div className="text-2xl font-bold text-white">{stockCount.toLocaleString("ru-RU")}</div>
+              <div className="text-sm text-slate-400">позиций с остатком по данным каталога</div>
             </div>
             <div>
-              <div className="text-2xl font-bold text-white">12%</div>
-              <div className="text-sm text-slate-400">Скидка на объем</div>
+              <div className="text-2xl font-bold text-white">Актуальные</div>
+              <div className="text-sm text-slate-400">цены и остатки в карточках</div>
             </div>
           </div>
         </div>

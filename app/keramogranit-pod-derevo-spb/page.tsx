@@ -114,7 +114,7 @@ export default function PlitkaПодДерево() {
           <h2 className="text-2xl lg:text-3xl font-bold text-foreground mb-2">
             Керамогранит под дерево — {woodProducts.length} позиций
           </h2>
-          <p className="text-muted-foreground mb-8">Все товары в наличии на складе в СПб</p>
+          <p className="text-muted-foreground mb-8">Проверьте фактический остаток в карточке товара</p>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5">
             {woodProducts.map((product, index) => (
               <ProductCard key={product.id} product={product} priority={index < 4} />
@@ -154,7 +154,7 @@ export default function PlitkaПодДерево() {
               Условия покупки в Санкт-Петербурге
             </h2>
             <p className="text-foreground/80 leading-relaxed">
-              Весь ассортимент в наличии на складе в СПб. Самовывоз бесплатный.
+              Проверьте наличие выбранной позиции в карточке и согласуйте получение с менеджером.
               Доставка по СПб и ЛО от 1-2 рабочих дней. Работаем с частными клиентами и строительными организациями.
               Бесплатный расчёт количества плитки по размерам помещения.
             </p>
