@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Керамогранит под дерево Cersanit в Санкт-Петербурге",
     description: "Керамогранит с имитацией дерева — Woodhouse, Lofthouse, Wood Concept. Склад в СПб, доставка по СПб от 1 дня.",
-    url: `${SITE_URL}/plitka-pod-derevo-spb`,
+    url: `${SITE_URL}/keramogranit-pod-derevo-spb`,
     siteName: "Плитки СПб",
     locale: "ru_RU",
     type: "website",
