@@ -4,9 +4,7 @@ import { SeoLandingPage } from "@/components/seo-landing-page"
 import { seoPages, SITE_URL } from "@/lib/seo-data"
 
 interface PageProps {
-  params: {
-    slug: string
-  }
+  params: Promise<{ slug: string }>
 }
 
 export async function generateStaticParams() {
@@ -16,7 +14,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const data = seoPages[params.slug]
+  const { slug } = await params
+  const data = seoPages[slug]
 
   if (!data) {
     return {}
@@ -25,11 +24,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: data.title,
     description: data.description,
-    alternates: { canonical: `${SITE_URL}/${params.slug}` },
+    alternates: { canonical: `${SITE_URL}/${slug}` },
     openGraph: {
       title: data.title,
       description: data.description,
-      url: `${SITE_URL}/${params.slug}`,
+      url: `${SITE_URL}/${slug}`,
       siteName: "Плитки СПб",
       locale: "ru_RU",
       type: "website",
@@ -37,8 +36,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 }
 
-export default function DynamicSeoPage({ params }: PageProps) {
-  const data = seoPages[params.slug]
+export default async function DynamicSeoPage({ params }: PageProps) {
+  const { slug } = await params
+  const data = seoPages[slug]
 
   if (!data) {
     notFound()
@@ -64,7 +64,7 @@ export default function DynamicSeoPage({ params }: PageProps) {
                 "@type": "ListItem",
                 position: 2,
                 name: data.breadcrumbLabel,
-                item: `${SITE_URL}/${params.slug}`,
+                item: `${SITE_URL}/${slug}`,
               },
             ],
           }),
