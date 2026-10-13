@@ -49,6 +49,7 @@ const articles = [
   { href: "/blog/krupnoformatnaya-plitka-60x120-preimushchestva", title: "Крупноформатная плитка 60x120: преимущества и особенности укладки", desc: "Читайте на нашем сайте.", date: "2026-09-15", time: "5 мин" },
   { href: "/blog/kak-ukhozhat-za-mozoaika", title: "Как ухаживать за мозаикой в ванной: советы по чистке", desc: "Читайте на нашем сайте.", date: "2026-09-22", time: "5 мин" },
   { href: "/blog/plitka-dlya-malenkoj-vannoj", title: "Плитка для маленькой ванной: как визуально увеличить пространство", desc: "Читайте на нашем сайте.", date: "2026-10-06", time: "5 мин" },
+  { href: "/blog/keramogranit-pod-parket-v-interere", title: "Керамогранит под паркет: натуральный вид без забот об уходе", desc: "Читайте на нашем сайте.", date: "2026-10-13", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
