@@ -65,6 +65,7 @@ export const viewport: Viewport = {
 const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": `${SITE_URL}/#organization`,
   name: "Плитки СПб",
   alternateName: ["Плитки СПб", "Plitki SPb", "Магазин плитки Cersanit"],
   url: SITE_URL,
@@ -76,6 +77,40 @@ const organizationJsonLd = {
     areaServed: ["RU-SPE", "RU-LEN"],
     availableLanguage: "Russian",
   },
+  hasShippingService: [
+    {
+      "@type": "ShippingService",
+      name: "Самовывоз со склада",
+      description: "Бесплатный самовывоз со склада в Янино. Уточните время отгрузки у менеджера.",
+      fulfillmentType: "https://schema.org/FulfillmentTypeCollectionPoint",
+      shippingConditions: [{
+        "@type": "ShippingConditions",
+        shippingDestination: { "@type": "DefinedRegion", addressCountry: "RU" },
+        shippingRate: { "@type": "MonetaryAmount", value: 0, currency: "RUB" },
+      }],
+    },
+    {
+      "@type": "ShippingService",
+      name: "Доставка",
+      description: "Стоимость доставки по Санкт-Петербургу и Ленинградской области рассчитывается индивидуально по расстоянию и весу/объёму заказа.",
+      fulfillmentType: "https://schema.org/FulfillmentTypeDelivery",
+      shippingConditions: [{
+        "@type": "ShippingConditions",
+        shippingDestination: { "@type": "DefinedRegion", addressCountry: "RU" },
+        transitTime: {
+          "@type": "ServicePeriod",
+          duration: { "@type": "QuantitativeValue", minValue: 1, maxValue: 3, unitCode: "DAY" },
+          businessDays: [
+            "https://schema.org/Monday",
+            "https://schema.org/Tuesday",
+            "https://schema.org/Wednesday",
+            "https://schema.org/Thursday",
+            "https://schema.org/Friday",
+          ],
+        },
+      }],
+    },
+  ],
   sameAs: [
     "https://vk.com/tilebox",
     "https://www.avito.ru/brands/i1860592/all/remont_i_stroitelstvo?src=sharing&sellerId=1175db1d93c4ba564bc712e7e695d5b5",

@@ -120,7 +120,7 @@ export default async function ProductPage({
         returnFees: "https://schema.org/FreeReturn",
         returnPolicyUrl: `${SITE_URL}/faq`,
       },
-      seller: { "@type": "Organization", name: "Плитки СПб", url: SITE_URL },
+      seller: { "@id": `${SITE_URL}/#organization`, "@type": "Organization", name: "Плитки СПб", url: SITE_URL },
     } : undefined,
     additionalProperty: [
       product.product_type && { "@type": "PropertyValue", name: "Тип товара", value: product.product_type },
