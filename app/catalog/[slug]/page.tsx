@@ -98,7 +98,6 @@ export default async function ProductPage({
     ...(product.description ? { description: product.description } : {}),
     ...(product.brand ? { brand: { "@type": "Brand", name: product.brand } } : {}),
     ...(product.sku ? { sku: product.sku } : {}),
-    ...(product.product_type ? { category: product.product_type } : {}),
     ...(product.color ? { color: product.color } : {}),
     ...(product.material_type ? { material: product.material_type } : {}),
     offers: product.price_retail > 0 ? {
@@ -112,9 +111,19 @@ export default async function ProductPage({
         : stockAtFactory > 0
           ? "https://schema.org/PreOrder"
           : "https://schema.org/OutOfStock",
+      hasMerchantReturnPolicy: {
+        "@type": "MerchantReturnPolicy",
+        applicableCountry: "RU",
+        returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
+        merchantReturnDays: 14,
+        returnMethod: "https://schema.org/ReturnInStore",
+        returnFees: "https://schema.org/FreeReturn",
+        returnPolicyUrl: `${SITE_URL}/faq`,
+      },
       seller: { "@type": "Organization", name: "Плитки СПб", url: SITE_URL },
     } : undefined,
     additionalProperty: [
+      product.product_type && { "@type": "PropertyValue", name: "Тип товара", value: product.product_type },
       product.format && { "@type": "PropertyValue", name: "Формат", value: product.format },
       product.surface && { "@type": "PropertyValue", name: "Поверхность", value: product.surface },
       product.sqm_per_box && { "@type": "PropertyValue", name: "Площадь в упаковке, м²", value: product.sqm_per_box },
