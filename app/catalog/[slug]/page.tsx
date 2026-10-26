@@ -5,6 +5,20 @@ import { ProductPageClient } from "./product-client"
 
 const SITE_URL = "https://plitki-spb.ru"
 
+function findProductBySlug(slug: string) {
+  // Route params can arrive percent-encoded or with a different Unicode
+  // normalization form than the slugs stored in the product feed.
+  let decodedSlug = slug
+  try {
+    decodedSlug = decodeURIComponent(slug)
+  } catch {
+    // Keep the original value if it is not a valid encoded URI component.
+  }
+
+  const candidates = new Set([slug, decodedSlug].map((value) => value.normalize("NFC")))
+  return products.find((product) => candidates.has(product.slug.normalize("NFC")))
+}
+
 // Генерируем статически только топ-300 товаров с картинками и ценой
 // Остальные рендерятся динамически при первом запросе и кешируются
 export async function generateStaticParams() {
@@ -26,7 +40,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>
 }): Promise<Metadata> {
   const { slug } = await params
-  const product = products.find((p) => p.slug === slug)
+  const product = findProductBySlug(slug)
 
   if (!product) {
     return {
@@ -77,7 +91,7 @@ export default async function ProductPage({
   params: Promise<{ slug: string }>
 }) {
   const { slug } = await params
-  const product = products.find((p) => p.slug === slug)
+  const product = findProductBySlug(slug)
   if (!product) notFound()
 
   const rawImage = product.main_image || product.images?.[0]
