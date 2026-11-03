@@ -52,6 +52,7 @@ const articles = [
   { href: "/blog/keramogranit-pod-parket-v-interere", title: "Керамогранит под паркет: натуральный вид без забот об уходе", desc: "Читайте на нашем сайте.", date: "2026-10-13", time: "5 мин" },
   { href: "/blog/chto-takoe-rektifikat-i-zachem-on-nuzhen", title: "Что такое ректификат в плитке и зачем он нужен", desc: "Читайте на нашем сайте.", date: "2026-10-20", time: "5 мин" },
   { href: "/blog/kak-vybrat-plitku-dlya-doma-s-detmi", title: "Плитка в доме с детьми: нескользкая, прочная, практичная", desc: "Читайте на нашем сайте.", date: "2026-10-27", time: "5 мин" },
+  { href: "/blog/skolko-stoit-ukladka-plitki-v-spb", title: "Сколько стоит укладка плитки в Санкт-Петербурге в 2026 году", desc: "Читайте на нашем сайте.", date: "2026-11-03", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
