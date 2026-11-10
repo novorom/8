@@ -53,6 +53,7 @@ const articles = [
   { href: "/blog/chto-takoe-rektifikat-i-zachem-on-nuzhen", title: "Что такое ректификат в плитке и зачем он нужен", desc: "Читайте на нашем сайте.", date: "2026-10-20", time: "5 мин" },
   { href: "/blog/kak-vybrat-plitku-dlya-doma-s-detmi", title: "Плитка в доме с детьми: нескользкая, прочная, практичная", desc: "Читайте на нашем сайте.", date: "2026-10-27", time: "5 мин" },
   { href: "/blog/skolko-stoit-ukladka-plitki-v-spb", title: "Сколько стоит укладка плитки в Санкт-Петербурге в 2026 году", desc: "Читайте на нашем сайте.", date: "2026-11-03", time: "5 мин" },
+  { href: "/blog/keramicheskaya-plitka-ili-keramogranit-razlichiya", title: "Керамическая плитка или керамогранит: в чём разница", desc: "Читайте на нашем сайте.", date: "2026-11-10", time: "5 мин" },
 ]
 
 export default function BlogIndex() {

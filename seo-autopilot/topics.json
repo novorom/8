@@ -581,7 +581,7 @@
           "price": "1098"
         }
       ],
-      "used": false,
+      "used": true,
       "related_landings": [
         "/keramogranit-spb",
         "/plitka-dlya-vannoj-spb",
