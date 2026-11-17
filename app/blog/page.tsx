@@ -54,6 +54,7 @@ const articles = [
   { href: "/blog/kak-vybrat-plitku-dlya-doma-s-detmi", title: "Плитка в доме с детьми: нескользкая, прочная, практичная", desc: "Читайте на нашем сайте.", date: "2026-10-27", time: "5 мин" },
   { href: "/blog/skolko-stoit-ukladka-plitki-v-spb", title: "Сколько стоит укладка плитки в Санкт-Петербурге в 2026 году", desc: "Читайте на нашем сайте.", date: "2026-11-03", time: "5 мин" },
   { href: "/blog/keramicheskaya-plitka-ili-keramogranit-razlichiya", title: "Керамическая плитка или керамогранит: в чём разница", desc: "Читайте на нашем сайте.", date: "2026-11-10", time: "5 мин" },
+  { href: "/blog/kak-oformit-sovmeshhenny-sanuzl", title: "Как оформить совмещённый санузел плиткой: идеи и советы", desc: "Читайте на нашем сайте.", date: "2026-11-17", time: "5 мин" },
 ]
 
 export default function BlogIndex() {
